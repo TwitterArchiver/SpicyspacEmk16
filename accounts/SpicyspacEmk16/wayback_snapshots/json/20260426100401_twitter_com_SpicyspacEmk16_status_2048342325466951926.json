@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048342317250277377"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048342325466951926",
+    "created_at": "2026-04-26T10:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048342325466951926"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0mVTVMZXtl",
+          "end": 62,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2048342325466951926/photo/1",
+          "media_key": "3_2048342317250277377",
+          "start": 39,
+          "url": "https://t.co/0mVTVMZXtl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048342325466951926",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今日战利品！！\n谢谢ナロン给予的动力让我买到了店里最后的三盒朝天椒之一！🫶😘 https://t.co/0mVTVMZXtl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048342317250277377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0sfCYacAE-9VN.jpg",
+        "width": 1780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048342317250277377"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048342325466951926",
+        "created_at": "2026-04-26T10:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048342325466951926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0mVTVMZXtl",
+              "end": 62,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2048342325466951926/photo/1",
+              "media_key": "3_2048342317250277377",
+              "start": 39,
+              "url": "https://t.co/0mVTVMZXtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048342325466951926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日战利品！！\n谢谢ナロン给予的动力让我买到了店里最后的三盒朝天椒之一！🫶😘 https://t.co/0mVTVMZXtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 1455,
+          "like_count": 94478,
+          "listed_count": 5,
+          "media_count": 790,
+          "tweet_count": 9603
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

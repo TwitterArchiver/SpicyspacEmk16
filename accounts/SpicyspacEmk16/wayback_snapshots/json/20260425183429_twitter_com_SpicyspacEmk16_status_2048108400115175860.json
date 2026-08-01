@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2047998188616122496",
+    "created_at": "2026-04-25T18:34:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:34:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048108400115175860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1843525604400082945",
+          "start": 0,
+          "username": "on2ik9u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048108400115175860",
+    "in_reply_to_user_id": "1843525604400082945",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047998188616122496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@on2ik9u 何これ面白い！あたしもやりたい(こっそり)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1791,
+        "media_key": "3_2047998180630069248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvzfpkaAAAjwVv.jpg",
+        "width": 1791
+      },
+      {
+        "height": 1225,
+        "media_key": "3_2047998180579823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvzfpYbUAAOL59.jpg",
+        "width": 1790
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047998180571418624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvzfpWbEAA4vk3.jpg",
+        "width": 1996
+      },
+      {
+        "height": 1999,
+        "media_key": "3_2047998180072333312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvzfnfboAAQ2GZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2047998188616122496",
+        "created_at": "2026-04-25T18:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048108400115175860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1843525604400082945",
+              "start": 0,
+              "username": "on2ik9u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048108400115175860",
+        "in_reply_to_user_id": "1843525604400082945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047998188616122496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@on2ik9u 何これ面白い！あたしもやりたい(こっそり)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047998180630069248",
+            "3_2047998180579823616",
+            "3_2047998180571418624",
+            "3_2047998180072333312"
+          ]
+        },
+        "author_id": "1843525604400082945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2047998188616122496",
+        "created_at": "2026-04-25T11:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047998188616122496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Hn8tarIKq",
+              "end": 174,
+              "expanded_url": "https://x.com/on2ik9u/status/2047998188616122496/photo/1",
+              "media_key": "3_2047998180630069248",
+              "start": 151,
+              "url": "https://t.co/8Hn8tarIKq"
+            },
+            {
+              "display_url": "pic.x.com/8Hn8tarIKq",
+              "end": 174,
+              "expanded_url": "https://x.com/on2ik9u/status/2047998188616122496/photo/1",
+              "media_key": "3_2047998180579823616",
+              "start": 151,
+              "url": "https://t.co/8Hn8tarIKq"
+            },
+            {
+              "display_url": "pic.x.com/8Hn8tarIKq",
+              "end": 174,
+              "expanded_url": "https://x.com/on2ik9u/status/2047998188616122496/photo/1",
+              "media_key": "3_2047998180571418624",
+              "start": 151,
+              "url": "https://t.co/8Hn8tarIKq"
+            },
+            {
+              "display_url": "pic.x.com/8Hn8tarIKq",
+              "end": 174,
+              "expanded_url": "https://x.com/on2ik9u/status/2047998188616122496/photo/1",
+              "media_key": "3_2047998180072333312",
+              "start": 151,
+              "url": "https://t.co/8Hn8tarIKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047998188616122496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 633,
+          "impression_count": 264173,
+          "like_count": 3343,
+          "quote_count": 60,
+          "reply_count": 75,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "私と付き合ったら\n\nメリット⬇️\n\n3か国語できるので国際恋愛もOK\n好きなキャラでコスプレしてあげる\nやってるゲームあれば無理してでも一緒にやる\n相手の望みにスタイル全部合わせられる\n返信がナノ秒レベルで早い\n毎日好きって言う\n喧嘩してもいつも自分から先に謝る\nたまに歌ってあげる\n\nデメリット⬇️ https://t.co/8Hn8tarIKq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3090,
+          "following_count": 1452,
+          "like_count": 94595,
+          "listed_count": 5,
+          "media_count": 787,
+          "tweet_count": 9591
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T05:35:41.000Z",
+        "description": "ins on2ik9u / ᴋʀ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/on2ik9u",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/on2ik9u",
+                "start": 0,
+                "url": "https://t.co/GGohvU41oG"
+              }
+            ]
+          }
+        },
+        "id": "1843525604400082945",
+        "name": "29",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039871189804617728/bMOEVOHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7224,
+          "following_count": 37,
+          "like_count": 554,
+          "listed_count": 14,
+          "media_count": 107,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/GGohvU41oG",
+        "username": "on2ik9u",
+        "verified": false
+      }
+    ]
+  }
+}

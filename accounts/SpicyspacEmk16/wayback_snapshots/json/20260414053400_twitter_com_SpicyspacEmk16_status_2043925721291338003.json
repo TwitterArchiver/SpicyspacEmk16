@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043887792225452447",
+    "created_at": "2026-04-14T05:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T06:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043925721291338003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1234689652340080640",
+          "start": 0,
+          "username": "broken_guy_257"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043925721291338003",
+    "in_reply_to_user_id": "1234689652340080640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043922134926508520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@broken_guy_257 就是说嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043887792225452447",
+        "created_at": "2026-04-14T05:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043925721291338003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1234689652340080640",
+              "start": 0,
+              "username": "broken_guy_257"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043925721291338003",
+        "in_reply_to_user_id": "1234689652340080640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043922134926508520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@broken_guy_257 就是说嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1234689652340080640",
+        "conversation_id": "2043887792225452447",
+        "created_at": "2026-04-14T05:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T06:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043922134926508520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043922134926508520",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043887792225452447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 只是讓生活的怨氣\n移到工作上而已\n還會加重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 1427,
+          "like_count": 93592,
+          "listed_count": 5,
+          "media_count": 773,
+          "tweet_count": 9376
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-03T03:58:55.000Z",
+        "description": "單純只是一個很喜歡睡覺的人。\n\n順從本能與天性。-----\n\n“記錄日常”",
+        "id": "1234689652340080640",
+        "location": "交界地",
+        "name": "焰火",
+        "pinned_tweet_id": "1736721683426562281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019317801920655360/VJRcqSDI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 1550,
+          "like_count": 28235,
+          "listed_count": 5,
+          "media_count": 356,
+          "tweet_count": 3065
+        },
+        "username": "broken_guy_257",
+        "verified": false
+      }
+    ]
+  }
+}

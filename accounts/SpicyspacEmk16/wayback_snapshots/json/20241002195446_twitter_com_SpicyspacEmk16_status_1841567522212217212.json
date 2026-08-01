@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1841490875781898427",
+    "created_at": "2024-10-02T19:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T20:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841567522212217212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1777310500856184832",
+          "start": 0,
+          "username": "kuzira_z1zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841567522212217212",
+    "in_reply_to_user_id": "1777310500856184832",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841490875781898427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuzira_z1zZ 好可爱的字\n文字かわいい過ぎて好き)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1841490875781898427",
+        "created_at": "2024-10-02T19:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T20:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841567522212217212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1777310500856184832",
+              "start": 0,
+              "username": "kuzira_z1zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841567522212217212",
+        "in_reply_to_user_id": "1777310500856184832",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841490875781898427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuzira_z1zZ 好可爱的字\n文字かわいい過ぎて好き)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841490869687590912"
+          ]
+        },
+        "author_id": "1777310500856184832",
+        "conversation_id": "1841490875781898427",
+        "created_at": "2024-10-02T14:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T15:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841490875781898427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xERXORPYZe",
+              "end": 23,
+              "expanded_url": "https://x.com/kuzira_z1zZ/status/1841490875781898427/photo/1",
+              "media_key": "3_1841490869687590912",
+              "start": 0,
+              "url": "https://t.co/xERXORPYZe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841490875781898427",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xERXORPYZe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 1072,
+          "like_count": 86622,
+          "listed_count": 1,
+          "tweet_count": 6163
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-08T12:20:30.000Z",
+        "description": "fjk ¦ 08 ¦ 病み ¦ 自傷 ¦ OD ¦ DM× ¦ 低浮上 ¦ ｻﾌﾞ➳@kuzira_zzz ¦ 🔗見て",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "kuzira_zzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/lxx21vqzZz",
+                "end": 23,
+                "expanded_url": "https://lit.link/lxx21vqzZz",
+                "start": 0,
+                "url": "https://t.co/EpMkjJlUZv"
+              }
+            ]
+          }
+        },
+        "id": "1777310500856184832",
+        "location": "DMはサブ",
+        "name": "鈴音",
+        "pinned_tweet_id": "1820048072644153477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838558812581826560/8YVMBUKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 517,
+          "like_count": 24477,
+          "listed_count": 27,
+          "tweet_count": 9214
+        },
+        "url": "https://t.co/EpMkjJlUZv",
+        "username": "kuzira_z1zZ",
+        "verified": false
+      }
+    ]
+  }
+}

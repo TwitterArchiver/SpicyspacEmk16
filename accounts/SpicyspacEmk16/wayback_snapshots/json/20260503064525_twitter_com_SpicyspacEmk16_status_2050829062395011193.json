@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2050829062395011193",
+    "created_at": "2026-05-03T06:45:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T07:45:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050829062395011193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/livedoornews/status/1988401354248007833",
+          "start": 75,
+          "url": "https://t.co/npaqg2nM27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050829062395011193",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988401354248007833",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "若者の苦しみ原因に対して何かの策考えず一方的に皆んなの苦しみからの逃げ道を塞ぐのはバカもののやり方だ💔\nそれさえ分からない大人たちは愚かすぎる... https://t.co/npaqg2nM27"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_1988400844996571140",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5g4CJUbcAQDKG2.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2050829062395011193",
+        "created_at": "2026-05-03T06:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050829062395011193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/livedoornews/status/1988401354248007833",
+              "start": 75,
+              "url": "https://t.co/npaqg2nM27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050829062395011193",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988401354248007833",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "若者の苦しみ原因に対して何かの策考えず一方的に皆んなの苦しみからの逃げ道を塞ぐのはバカもののやり方だ💔\nそれさえ分からない大人たちは愚かすぎる... https://t.co/npaqg2nM27"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988400844996571140"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1988401354248007833",
+        "created_at": "2025-11-12T00:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T01:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988401354248007833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ライブドアニュースは、幅広いジャンルのニュースをいち早くお伝えします。わかりやすさ、読みやすさにこだわり、記事の核心をまとめた要約をつけています。",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 63,
+              "expanded_url": "https://news.livedoor.com/article/detail/29965389/",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2048363258332258304/dQbZpVtZ?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2048363258332258304/dQbZpVtZ?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "オーバードーズ対策で規制強化 8つの成分の市販薬について「指定乱用防止」",
+              "unwound_url": "https://news.livedoor.com/article/detail/29965389/",
+              "url": "https://t.co/xNc7rE3YSs"
+            },
+            {
+              "display_url": "pic.x.com/ParzjLyGg1",
+              "end": 180,
+              "expanded_url": "https://x.com/livedoornews/status/1988401354248007833/photo/1",
+              "media_key": "3_1988400844996571140",
+              "start": 157,
+              "url": "https://t.co/ParzjLyGg1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988401354248007833",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 524468,
+          "like_count": 1564,
+          "quote_count": 480,
+          "reply_count": 90,
+          "retweet_count": 621
+        },
+        "reply_settings": "everyone",
+        "text": "【判明】オーバードーズ対策で規制強化 新たに2成分追加し8成分の市販薬が対象に\nhttps://t.co/xNc7rE3YSs\n\nせき止め成分の「デキストロメトルファン」とアレルギー薬成分の「ジフェンヒドラミン」の2成分。18歳未満には小容量のみを販売するなどの規制が想定されていて、来年5月に対象となる見通し。 https://t.co/ParzjLyGg1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 1464,
+          "like_count": 94939,
+          "listed_count": 6,
+          "media_count": 797,
+          "tweet_count": 9693
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2166212,
+          "following_count": 106,
+          "like_count": 2289,
+          "listed_count": 13947,
+          "media_count": 287881,
+          "tweet_count": 464315
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

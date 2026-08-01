@@ -1,0 +1,235 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1808384560742519034",
+    "created_at": "2024-07-03T06:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-03T07:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808384560742519034"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stellachan0w0/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/stellachan0w0/status/1808381509310861689",
+          "start": 10,
+          "url": "https://t.co/dzzkcWjZyQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808384560742519034",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808381509310861689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很好的一个孩子！！ https://t.co/dzzkcWjZyQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1808384560742519034",
+        "created_at": "2024-07-03T06:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T07:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808384560742519034"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stellachan0w0/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/stellachan0w0/status/1808381509310861689",
+              "start": 10,
+              "url": "https://t.co/dzzkcWjZyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808384560742519034",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808381509310861689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很好的一个孩子！！ https://t.co/dzzkcWjZyQ"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808381410547585027",
+            "3_1808381410597822465"
+          ]
+        },
+        "author_id": "821908157538521089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1808381509310861689",
+        "created_at": "2024-07-03T06:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-03T07:05:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808381422559973733",
+          "1808381509310861689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1530699087133421568",
+              "start": 13,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PjZYAy1eFp",
+              "end": 52,
+              "expanded_url": "https://twitter.com/stellachan0w0/status/1808381509310861689/photo/1",
+              "media_key": "3_1808381410547585027",
+              "start": 29,
+              "url": "https://t.co/PjZYAy1eFp"
+            },
+            {
+              "display_url": "pic.twitter.com/PjZYAy1eFp",
+              "end": 52,
+              "expanded_url": "https://twitter.com/stellachan0w0/status/1808381509310861689/photo/1",
+              "media_key": "3_1808381410597822465",
+              "start": 29,
+              "url": "https://t.co/PjZYAy1eFp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808381509310861689",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴瞳酱喵～可爱捏QwQ\n@SpicyspacEmk16 https://t.co/PjZYAy1eFp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 973,
+          "like_count": 81772,
+          "listed_count": 1,
+          "tweet_count": 4980
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-19T02:32:29.000Z",
+        "description": "想交朋友喵~来找我玩qwq | 愿望是成为可爱幸福的少女喵喵~ | wish for a better world | 偶尔阴暗o | 中文&en | mtf🍥 | hrt2024.05.10 | INFJ-T | 萌新求fo | 家乡上海现居多伦多🇨🇦 | 2006 | STEAM专长 | 敏感易推倒🥵（划掉",
+        "id": "821908157538521089",
+        "location": "星穹列车Astral Express",
+        "name": "Stella阳阳💕🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1800712027809120333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783199035731423233/nvjG-plb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 380,
+          "like_count": 1646,
+          "listed_count": 2,
+          "tweet_count": 390
+        },
+        "username": "stellachan0w0",
+        "verified": true
+      }
+    ]
+  }
+}

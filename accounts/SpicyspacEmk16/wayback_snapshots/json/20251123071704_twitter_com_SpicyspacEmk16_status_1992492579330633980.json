@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1992492579330633980",
+    "created_at": "2025-11-23T07:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T08:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992492579330633980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1992492579330633980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有一种很莫名其妙的感觉就是\n中国的网约车司机很多都好像有一种痞气 感觉就是很像没礼貌的人\n日本司机就感觉特别有礼貌\n不知道为什么(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1992492579330633980",
+        "created_at": "2025-11-23T07:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T08:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992492579330633980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992492579330633980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一种很莫名其妙的感觉就是\n中国的网约车司机很多都好像有一种痞气 感觉就是很像没礼貌的人\n日本司机就感觉特别有礼貌\n不知道为什么(&gt;﹏&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2861,
+          "following_count": 1329,
+          "like_count": 88764,
+          "listed_count": 3,
+          "media_count": 669,
+          "tweet_count": 8433
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

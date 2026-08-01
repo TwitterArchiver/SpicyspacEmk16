@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054442746753220608"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054442751937368563",
+    "created_at": "2026-05-13T06:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054442751937368563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ViRce8Y4qJ",
+          "end": 160,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2054442751937368563/photo/1",
+          "media_key": "3_2054442746753220608",
+          "start": 137,
+          "url": "https://t.co/ViRce8Y4qJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054442751937368563",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好奇以我对右美的爱足够成为中推的右美沙芬担当嘛 (喂！什么诡异的问题)\n\n😭呜呜右美 呜呜她就是我永远的白月光 她是我一生的挚爱 我要和她结婚一生一世在一起\n\n中推地蕾圈od圈所属 インターネット右美沙芬超级担当 スス酱 死死死的参上\n\n喔去我在说什么 这孩子大抵是疯了 https://t.co/ViRce8Y4qJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054442746753220608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILYyxOagAAAFSZ.jpg",
+        "width": 1876
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054442746753220608"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054442751937368563",
+        "created_at": "2026-05-13T06:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054442751937368563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViRce8Y4qJ",
+              "end": 160,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2054442751937368563/photo/1",
+              "media_key": "3_2054442746753220608",
+              "start": 137,
+              "url": "https://t.co/ViRce8Y4qJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054442751937368563",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好奇以我对右美的爱足够成为中推的右美沙芬担当嘛 (喂！什么诡异的问题)\n\n😭呜呜右美 呜呜她就是我永远的白月光 她是我一生的挚爱 我要和她结婚一生一世在一起\n\n中推地蕾圈od圈所属 インターネット右美沙芬超级担当 スス酱 死死死的参上\n\n喔去我在说什么 这孩子大抵是疯了 https://t.co/ViRce8Y4qJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1480,
+          "like_count": 96061,
+          "listed_count": 6,
+          "media_count": 794,
+          "tweet_count": 9879
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

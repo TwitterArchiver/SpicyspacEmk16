@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058397441167388812",
+    "created_at": "2026-05-24T03:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T04:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058397441167388812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ourakusen1n/st…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ourakusen1n/status/2056352070241054818",
+          "start": 19,
+          "url": "https://t.co/wVAEni525X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058397441167388812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056352070241054818",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不会吧！？\n求求宝宝不要做什么事就好 https://t.co/wVAEni525X"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058397441167388812",
+        "created_at": "2026-05-24T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058397441167388812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ourakusen1n/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ourakusen1n/status/2056352070241054818",
+              "start": 19,
+              "url": "https://t.co/wVAEni525X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058397441167388812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056352070241054818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不会吧！？\n求求宝宝不要做什么事就好 https://t.co/wVAEni525X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680560555936088065",
+        "conversation_id": "2056352070241054818",
+        "created_at": "2026-05-18T12:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056352070241054818"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056352070241054818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天，裴裴死了，也许是昨天。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 1500,
+          "like_count": 96754,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 10057
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T12:50:41.000Z",
+        "description": "不骂你了",
+        "id": "1680560555936088065",
+        "location": "l",
+        "name": "最是人间留得住",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1686837794705166336/TlxY4G7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 192,
+          "like_count": 1022,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 2042
+        },
+        "username": "ourakusen1n",
+        "verified": false
+      }
+    ]
+  }
+}

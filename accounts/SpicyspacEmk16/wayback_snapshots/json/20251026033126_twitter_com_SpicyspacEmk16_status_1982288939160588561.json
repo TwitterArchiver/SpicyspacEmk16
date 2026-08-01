@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "1982288939160588561",
+    "created_at": "2025-10-26T03:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T04:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982288939160588561"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 118,
+          "normalized_text": "池袋店",
+          "probability": 0.4391,
+          "start": 116,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "776631849669890048",
+          "start": 3,
+          "username": "Amavel_Ike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982288939160588561",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982284729803297234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amavel_Ike: 🐈‍⬛魔女コーデ🥀\n\nハロウィンのフォトスポットに合わせた魔女コーデ🎃\nコートのケープを使用し、ベレー帽のリボンは池袋店限定アイテムのジャボ付きリボンブローチ2つを組み合わせました🎀\nただいま池袋店ではハロウィンイベントを開催中です✨️\nぜひお越…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982284716708442112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4J9cn8XsAAC3pS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1982288939160588561",
+        "created_at": "2025-10-26T03:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982288939160588561"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 118,
+              "normalized_text": "池袋店",
+              "probability": 0.4391,
+              "start": 116,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "776631849669890048",
+              "start": 3,
+              "username": "Amavel_Ike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982288939160588561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982284729803297234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amavel_Ike: 🐈‍⬛魔女コーデ🥀\n\nハロウィンのフォトスポットに合わせた魔女コーデ🎃\nコートのケープを使用し、ベレー帽のリボンは池袋店限定アイテムのジャボ付きリボンブローチ2つを組み合わせました🎀\nただいま池袋店ではハロウィンイベントを開催中です✨️\nぜひお越…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982284716708442112"
+          ]
+        },
+        "author_id": "776631849669890048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "1982284729803297234",
+        "created_at": "2025-10-26T03:14:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T04:14:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982284729803297234"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "池袋店",
+              "probability": 0.4305,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 134,
+              "tag": "Amavel"
+            },
+            {
+              "end": 147,
+              "start": 142,
+              "tag": "アマベル"
+            },
+            {
+              "end": 152,
+              "start": 148,
+              "tag": "池べる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sHRC05ZlxQ",
+              "end": 176,
+              "expanded_url": "https://x.com/Amavel_Ike/status/1982284729803297234/photo/1",
+              "media_key": "3_1982284716708442112",
+              "start": 153,
+              "url": "https://t.co/sHRC05ZlxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982284729803297234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 243,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🐈‍⬛魔女コーデ🥀\n\nハロウィンのフォトスポットに合わせた魔女コーデ🎃\nコートのケープを使用し、ベレー帽のリボンは池袋店限定アイテムのジャボ付きリボンブローチ2つを組み合わせました🎀\nただいま池袋店ではハロウィンイベントを開催中です✨️\nぜひお越しくださいませ💕\n\n #Amavel #アマベル #池べる https://t.co/sHRC05ZlxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 1285,
+          "like_count": 86564,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 8112
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2016-09-16T04:00:36.000Z",
+        "description": "Amavel池袋店公式ツイッターです♪最新情報やイベントのお知らせをお届けします❤️商品のお問い合わせはこちらに👉 ☎️03-3984-0265＊ 女の子なら誰もが夢見る「お人形さんみたいになりたい」という願いを叶えるSHOP＊ #Amavel #アマベル #池べる",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 115,
+                "tag": "Amavel"
+              },
+              {
+                "end": 128,
+                "start": 123,
+                "tag": "アマベル"
+              },
+              {
+                "end": 133,
+                "start": 129,
+                "tag": "池べる"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amavel.jp",
+                "end": 23,
+                "expanded_url": "http://www.amavel.jp",
+                "start": 0,
+                "url": "https://t.co/xMUYS4Y6g1"
+              }
+            ]
+          }
+        },
+        "id": "776631849669890048",
+        "location": "日本 東京",
+        "name": "Amavel 池袋店",
+        "pinned_tweet_id": "1978718048384413945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879627020518301697/NfGAmqXV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10365,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 202,
+          "media_count": 10060,
+          "tweet_count": 14688
+        },
+        "url": "https://t.co/xMUYS4Y6g1",
+        "username": "Amavel_Ike",
+        "verified": false
+      }
+    ]
+  }
+}

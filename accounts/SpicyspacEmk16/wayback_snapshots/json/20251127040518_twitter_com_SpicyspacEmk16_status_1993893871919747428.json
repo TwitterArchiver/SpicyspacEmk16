@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1993893431287177656",
+    "created_at": "2025-11-27T04:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993893871919747428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684492249416323072",
+          "start": 0,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993893871919747428",
+    "in_reply_to_user_id": "1684492249416323072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993893431287177656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdou_cici 感谢超天才美少女红豆糕酱的超绝美画作！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1993893431287177656",
+        "created_at": "2025-11-27T04:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993893871919747428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684492249416323072",
+              "start": 0,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993893871919747428",
+        "in_reply_to_user_id": "1684492249416323072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993893431287177656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdou_cici 感谢超天才美少女红豆糕酱的超绝美画作！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684492249416323072",
+        "conversation_id": "1993893431287177656",
+        "created_at": "2025-11-27T04:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993893431287177656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1993891483838206025",
+              "start": 11,
+              "url": "https://t.co/WSawTJ6HiY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993893431287177656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993891483838206025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们スス就这么萌🥺💕 https://t.co/WSawTJ6HiY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 1333,
+          "like_count": 89275,
+          "listed_count": 3,
+          "media_count": 678,
+          "tweet_count": 8476
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死| 我是红豆糕｜feel free to block me if my pics sacared u❌不喜欢我请自避雷❗️｜备用机@hongdougao_hong｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1991789253169451496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989655780656607232/LRVKVUOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 198,
+          "like_count": 5213,
+          "listed_count": 8,
+          "media_count": 378,
+          "tweet_count": 2715
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1853012561148657752",
+    "created_at": "2024-11-05T00:21:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T01:21:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853593442632511910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1693972287228411904",
+          "start": 0,
+          "username": "kayana1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853593442632511910",
+    "in_reply_to_user_id": "1693972287228411904",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853012561148657752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kayana1219 その子の自由だから別にいいと思う)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1853012561148657752",
+        "created_at": "2024-11-05T00:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T01:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853593442632511910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1693972287228411904",
+              "start": 0,
+              "username": "kayana1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853593442632511910",
+        "in_reply_to_user_id": "1693972287228411904",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853012561148657752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kayana1219 その子の自由だから別にいいと思う)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693972287228411904",
+        "conversation_id": "1853012561148657752",
+        "created_at": "2024-11-03T09:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T10:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853012561148657752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853012561148657752",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 251,
+          "impression_count": 439100,
+          "like_count": 4108,
+          "quote_count": 580,
+          "reply_count": 602,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "女子で一人称俺はきもい？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2347,
+          "following_count": 1108,
+          "like_count": 87006,
+          "listed_count": 2,
+          "tweet_count": 6449
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-22T13:04:31.000Z",
+        "description": "怪しい垢以外フォロバ100\nスプラ&絵描き&雑談垢",
+        "id": "1693972287228411904",
+        "location": "地獄",
+        "name": "Sn*かやな",
+        "pinned_tweet_id": "1845586641542615079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853007462162681856/vfzZJThN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 719,
+          "like_count": 15020,
+          "listed_count": 3,
+          "tweet_count": 3789
+        },
+        "username": "kayana1219",
+        "verified": false
+      }
+    ]
+  }
+}

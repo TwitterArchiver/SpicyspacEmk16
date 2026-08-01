@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983021307420884992"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1983021336105816514",
+    "created_at": "2025-10-28T04:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T05:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983021336105816514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "881883121",
+          "start": 0,
+          "username": "DOLKSTATION"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DSAn9tbxJZ",
+          "end": 51,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1983021336105816514/photo/1",
+          "media_key": "3_1983021307420884992",
+          "start": 28,
+          "url": "https://t.co/DSAn9tbxJZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983021336105816514",
+    "in_reply_to_user_id": "881883121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@DOLKSTATION からのかわいい子\nおかえり～ https://t.co/DSAn9tbxJZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1983021307420884992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4UbX2LaQAAL4SZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983021307420884992"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1983021336105816514",
+        "created_at": "2025-10-28T04:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T05:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983021336105816514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "881883121",
+              "start": 0,
+              "username": "DOLKSTATION"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DSAn9tbxJZ",
+              "end": 51,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1983021336105816514/photo/1",
+              "media_key": "3_1983021307420884992",
+              "start": 28,
+              "url": "https://t.co/DSAn9tbxJZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983021336105816514",
+        "in_reply_to_user_id": "881883121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@DOLKSTATION からのかわいい子\nおかえり～ https://t.co/DSAn9tbxJZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 1284,
+          "like_count": 86674,
+          "listed_count": 4,
+          "media_count": 633,
+          "tweet_count": 8128
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-15T08:36:36.000Z",
+        "description": "DOLKの公式アカウントです。 最新情報をいち早くお伝えしていきます。お問い合わせはWebサイトのお問い合わせフォームよりお願い致します。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dolk.jp",
+                "end": 23,
+                "expanded_url": "https://dolk.jp/",
+                "start": 0,
+                "url": "https://t.co/bRPRj9RLBU"
+              }
+            ]
+          }
+        },
+        "id": "881883121",
+        "name": "DOLK",
+        "pinned_tweet_id": "1976588637916848290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/913223527741788160/pPN8zLgM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98151,
+          "following_count": 7,
+          "like_count": 5525,
+          "listed_count": 1075,
+          "media_count": 44487,
+          "tweet_count": 51404
+        },
+        "url": "https://t.co/bRPRj9RLBU",
+        "username": "DOLKSTATION",
+        "verified": true
+      }
+    ]
+  }
+}

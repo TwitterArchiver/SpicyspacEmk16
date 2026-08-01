@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1928627131002843240",
+    "created_at": "2025-05-31T11:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T12:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928777259940266157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1826483540554645507",
+          "start": 0,
+          "username": "zbzjzyl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928777259940266157",
+    "in_reply_to_user_id": "1826483540554645507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928687107326767248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zbzjzyl 谢谢宝宝喜欢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1928627131002843240",
+        "created_at": "2025-05-31T11:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T12:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928777259940266157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1826483540554645507",
+              "start": 0,
+              "username": "zbzjzyl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928777259940266157",
+        "in_reply_to_user_id": "1826483540554645507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928687107326767248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zbzjzyl 谢谢宝宝喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826483540554645507",
+        "conversation_id": "1928627131002843240",
+        "created_at": "2025-05-31T05:36:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T06:36:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928687107326767248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928687107326767248",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928627131002843240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 好可爱🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2654,
+          "following_count": 1205,
+          "like_count": 85744,
+          "listed_count": 3,
+          "media_count": 523,
+          "tweet_count": 7402
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-22T04:56:38.000Z",
+        "description": "08丨敏感丨多疑丨包容丨不鉴证丨放假玩推丨互fo看成分丨你觉得我是男的我就是男的 是女的我就是女的🤗 小号👉@zbzjzyl02 提问箱👉https://t.co/ATYjdvrqKx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 54,
+                "username": "zbzjzyl02"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zbzjzyl",
+                "end": 92,
+                "expanded_url": "https://ngl.link/zbzjzyl",
+                "start": 69,
+                "url": "https://t.co/ATYjdvrqKx"
+              }
+            ]
+          }
+        },
+        "id": "1826483540554645507",
+        "name": "这辈子就这样了（淡推）",
+        "pinned_tweet_id": "1918301677863764434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910682790741630978/JIyGRm1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 340,
+          "like_count": 5498,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1381
+        },
+        "username": "zbzjzyl",
+        "verified": false
+      }
+    ]
+  }
+}

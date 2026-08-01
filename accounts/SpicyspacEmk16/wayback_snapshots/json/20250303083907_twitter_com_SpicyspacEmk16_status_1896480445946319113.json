@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1896332104625201211",
+    "created_at": "2025-03-03T08:39:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T09:39:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896480445946319113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1181507546634321921",
+          "start": 0,
+          "username": "RemainsofmeW"
+        },
+        {
+          "end": 25,
+          "id": "1668564810844479490",
+          "start": 14,
+          "username": "yueyue1003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896480445946319113",
+    "in_reply_to_user_id": "1181507546634321921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896433224336994738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RemainsofmeW @yueyue1003 浙江🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1896332104625201211",
+        "created_at": "2025-03-03T08:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T09:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896480445946319113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1181507546634321921",
+              "start": 0,
+              "username": "RemainsofmeW"
+            },
+            {
+              "end": 25,
+              "id": "1668564810844479490",
+              "start": 14,
+              "username": "yueyue1003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896480445946319113",
+        "in_reply_to_user_id": "1181507546634321921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896433224336994738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RemainsofmeW @yueyue1003 浙江🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181507546634321921",
+        "conversation_id": "1896332104625201211",
+        "created_at": "2025-03-03T05:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T06:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896433224336994738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 27,
+              "id": "1668564810844479490",
+              "start": 16,
+              "username": "yueyue1003"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "4d1f7bf488219a63"
+        },
+        "id": "1896433224336994738",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896383694463729787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @yueyue1003 您这是在哪里啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 1093,
+          "like_count": 84188,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 6926
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-08T09:52:24.000Z",
+        "description": "DREAMはCOMEしてTRUEにならず\nDREAMはGOしてTRUEにしていく",
+        "id": "1181507546634321921",
+        "location": "大阪府大阪市",
+        "name": "Remainsofme Wu",
+        "pinned_tweet_id": "1798590005679706482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337602643619811337/cPUI3Lp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 293,
+          "like_count": 7427,
+          "listed_count": 1,
+          "media_count": 903,
+          "tweet_count": 6239
+        },
+        "username": "RemainsofmeW",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T10:24:00.000Z",
+        "description": "成分複雜\n門檻52 RMB 200NTD",
+        "id": "1668564810844479490",
+        "name": "封心小狗勾阿玥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1682793858256756737/ENG6T70i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 214,
+          "like_count": 8436,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 1651
+        },
+        "username": "yueyue1003",
+        "verified": false
+      }
+    ]
+  }
+}

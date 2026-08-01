@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069418061413876103",
+    "created_at": "2026-06-24T01:25:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:25:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069592837474377772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750621119445651456",
+          "start": 0,
+          "username": "Bolimantou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069592837474377772",
+    "in_reply_to_user_id": "1750621119445651456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069457669887496491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bolimantou ˚₊‧꒰ა𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ𛰚໒꒱‧₊꙳好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "16_2069457653697519616",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HLgwxYZaoAAY0QW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HLgwxYZaoAAY0QW.mp4"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-24T01:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:25:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069592837474377772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750621119445651456",
+              "start": 0,
+              "username": "Bolimantou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069592837474377772",
+        "in_reply_to_user_id": "1750621119445651456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069457669887496491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bolimantou ˚₊‧꒰ა𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ𛰚໒꒱‧₊꙳好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2069457653697519616"
+          ]
+        },
+        "author_id": "1750621119445651456",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-23T16:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T17:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069457669887496491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z0I51kg5hH",
+              "end": 43,
+              "expanded_url": "https://x.com/Bolimantou/status/2069457669887496491/photo/1",
+              "media_key": "16_2069457653697519616",
+              "start": 20,
+              "url": "https://t.co/z0I51kg5hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069457669887496491",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 907,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069418061413876103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 恭喜！ https://t.co/z0I51kg5hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1567,
+          "like_count": 97717,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10326
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-25T20:46:25.000Z",
+        "description": "只是一个馒头（药物上瘾/依存中毒/铃原树）",
+        "id": "1750621119445651456",
+        "location": "郑州",
+        "name": "玻璃馒头ღ",
+        "pinned_tweet_id": "2060744255870799879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787162186936393728/JJrNvSHd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6594,
+          "following_count": 1195,
+          "like_count": 2305,
+          "listed_count": 12,
+          "media_count": 463,
+          "tweet_count": 1598
+        },
+        "url": "",
+        "username": "Bolimantou",
+        "verified": false
+      }
+    ]
+  }
+}

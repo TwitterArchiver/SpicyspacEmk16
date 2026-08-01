@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058692688560697386",
+    "created_at": "2026-05-25T00:25:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T01:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058705927692529885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604404804440141824",
+          "start": 0,
+          "username": "SakuraizumiSayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058705927692529885",
+    "in_reply_to_user_id": "1604404804440141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058695257529966737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraizumiSayo 医务室让我去医院😭我真无语了 有点恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_2058695255332106240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJH0bWLaMAAbIcL.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058692688560697386",
+        "created_at": "2026-05-25T00:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T01:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058705927692529885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604404804440141824",
+              "start": 0,
+              "username": "SakuraizumiSayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058705927692529885",
+        "in_reply_to_user_id": "1604404804440141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058695257529966737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraizumiSayo 医务室让我去医院😭我真无语了 有点恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058695255332106240"
+          ]
+        },
+        "author_id": "1604404804440141824",
+        "conversation_id": "2058692688560697386",
+        "created_at": "2026-05-24T23:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T00:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058695257529966737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VgIMXMv0gG",
+              "end": 63,
+              "expanded_url": "https://x.com/SakuraizumiSayo/status/2058695257529966737/photo/1",
+              "media_key": "3_2058695255332106240",
+              "start": 40,
+              "url": "https://t.co/VgIMXMv0gG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058695257529966737",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058693975964631337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 嗚嗚嗚抱抱妳\n盡快治療吧…\n聽上去好嚴重的樣子 https://t.co/VgIMXMv0gG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 1501,
+          "like_count": 96921,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 10074
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T09:15:15.000Z",
+        "description": "She/Her👗 · like manga,anime and games - connect with others...and dresses！🎉 🌏:English/中文/日本語を勉強中 計算機和攝影愛好者/喜歡旅遊、動漫畫和遊戲/變成換裝人偶了！（不是x）（HRT 2025/11/11）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122780618",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/122780618",
+                "start": 0,
+                "url": "https://t.co/yRn0ZOFPzi"
+              }
+            ]
+          }
+        },
+        "id": "1604404804440141824",
+        "location": "目前正在加急創作中/敬請期待後續更新！",
+        "name": "桜井 紗世🍥🏳️‍⚧️#Chaos;Girls",
+        "pinned_tweet_id": "2047519792673050940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047844792227491840/lhp_E9g7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 707,
+          "like_count": 13643,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 1497
+        },
+        "url": "https://t.co/yRn0ZOFPzi",
+        "username": "SakuraizumiSayo",
+        "verified": false
+      }
+    ]
+  }
+}

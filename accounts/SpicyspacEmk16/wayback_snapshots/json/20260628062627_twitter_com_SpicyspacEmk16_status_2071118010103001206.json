@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2071011551298130190",
+    "created_at": "2026-06-28T06:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071118010103001206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1948388659058937857",
+          "start": 0,
+          "username": "PXU9_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071118010103001206",
+    "in_reply_to_user_id": "1948388659058937857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071025802112864405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PXU9_T 头发…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2071011551298130190",
+        "created_at": "2026-06-28T06:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071118010103001206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1948388659058937857",
+              "start": 0,
+              "username": "PXU9_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071118010103001206",
+        "in_reply_to_user_id": "1948388659058937857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071025802112864405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PXU9_T 头发…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948388659058937857",
+        "conversation_id": "2071011551298130190",
+        "created_at": "2026-06-28T00:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071025802112864405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071025802112864405",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071011551298130190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 啊，這是什麼？中間那個長長的三角形是……塑膠片？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1571,
+          "like_count": 97688,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 10377
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-24T14:24:57.000Z",
+        "description": "不是台灣人，而是會手寫台灣正體中文，使用注音輸入法的中國人，不用簡體是因為喜歡傳統漢字字形美感。記錄生活，以及評價一些事。性格脾氣很好，誰都不會block，而如果你不喜歡我，可以狠狠地罵我然後再block我，這是你的自由。英語日語學習中。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pxuq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pxuq",
+                "start": 0,
+                "url": "https://t.co/K4TgQSngZq"
+              }
+            ]
+          }
+        },
+        "id": "1948388659058937857",
+        "location": "限時處於中國",
+        "name": "PX_U9",
+        "pinned_tweet_id": "2061212074181849497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949488239813005312/OSa76TN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/K4TgQSngZq",
+        "username": "PXU9_T",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058941158827737506",
+    "created_at": "2026-05-25T21:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059024263219392931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953056266735239169",
+          "start": 0,
+          "username": "QWG1361105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059024263219392931",
+    "in_reply_to_user_id": "1953056266735239169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058941158827737506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWG1361105 生日快乐🎂～～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2058915975378968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK9K8bXIAAHnSs.jpg",
+        "width": 1200
+      },
+      {
+        "alt_text": "大好きな青ちゃん(⑅˘̤ ᵕ˘̤)*♡*",
+        "height": 1920,
+        "media_key": "3_2058916099480031233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK9SKvXEAEP_rC.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2058916039774076928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJK9OsUWgAA47RG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058941158827737506",
+        "created_at": "2026-05-25T21:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059024263219392931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953056266735239169",
+              "start": 0,
+              "username": "QWG1361105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059024263219392931",
+        "in_reply_to_user_id": "1953056266735239169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058941158827737506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWG1361105 生日快乐🎂～～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058915975378968576",
+            "3_2058916099480031233",
+            "3_2058916039774076928"
+          ]
+        },
+        "author_id": "1953056266735239169",
+        "conversation_id": "2058941158827737506",
+        "created_at": "2026-05-25T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058941158827737506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 19,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zMVA9eKeY",
+              "end": 49,
+              "expanded_url": "https://x.com/QWG1361105/status/2058941158827737506/photo/1",
+              "media_key": "3_2058915975378968576",
+              "start": 26,
+              "url": "https://t.co/1zMVA9eKeY"
+            },
+            {
+              "display_url": "pic.x.com/1zMVA9eKeY",
+              "end": 49,
+              "expanded_url": "https://x.com/QWG1361105/status/2058941158827737506/photo/1",
+              "media_key": "3_2058916099480031233",
+              "start": 26,
+              "url": "https://t.co/1zMVA9eKeY"
+            },
+            {
+              "display_url": "pic.x.com/1zMVA9eKeY",
+              "end": 49,
+              "expanded_url": "https://x.com/QWG1361105/status/2058941158827737506/photo/1",
+              "media_key": "3_2058916039774076928",
+              "start": 26,
+              "url": "https://t.co/1zMVA9eKeY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058941158827737506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 337,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的18歲生日～૮₍ˊᗜˋ₎ა\n#自撮り界隈 https://t.co/1zMVA9eKeY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1510,
+          "like_count": 97054,
+          "listed_count": 6,
+          "media_count": 757,
+          "tweet_count": 10091
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-06T11:31:25.000Z",
+        "description": "死ぬなって言うなら愛してよ",
+        "id": "1953056266735239169",
+        "location": "†",
+        "name": "QWG²",
+        "pinned_tweet_id": "2058835808736751652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044074467174072320/ft1ZzlX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 148,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 83
+        },
+        "username": "QWG1361105",
+        "verified": false
+      }
+    ]
+  }
+}

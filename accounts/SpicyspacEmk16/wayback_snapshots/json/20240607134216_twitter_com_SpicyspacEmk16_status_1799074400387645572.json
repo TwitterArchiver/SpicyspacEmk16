@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1799074400387645572",
+    "created_at": "2024-06-07T13:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T14:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799074400387645572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712099097728241664",
+          "start": 3,
+          "username": "RiAkiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799074400387645572",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1757472407663915244",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RiAkiba: ·置頂·\n2010 🇹🇼 \n豆腐｜aki ｜秋｜アキ\n\n無精神疾病，但有極度負面字眼及行為\n自傷｜OD｜負面｜日常\n喜歡和女寶寶們聊天，歡迎私訊！\n也可以跟我抱怨，心情不好的話我可以成為妳們的垃圾桶，mtf我也會當成女寶寶的不用擔心！\n想認識更多朋友，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1799074400387645572",
+        "created_at": "2024-06-07T13:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T14:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799074400387645572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712099097728241664",
+              "start": 3,
+              "username": "RiAkiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799074400387645572",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1757472407663915244",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RiAkiba: ·置頂·\n2010 🇹🇼 \n豆腐｜aki ｜秋｜アキ\n\n無精神疾病，但有極度負面字眼及行為\n自傷｜OD｜負面｜日常\n喜歡和女寶寶們聊天，歡迎私訊！\n也可以跟我抱怨，心情不好的話我可以成為妳們的垃圾桶，mtf我也會當成女寶寶的不用擔心！\n想認識更多朋友，…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1757472407663915244",
+        "created_at": "2024-02-13T18:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-13T19:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1757472407663915244"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1757472407663915244",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4369,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "·置頂·\n2010 🇹🇼 \n豆腐｜aki ｜秋｜アキ\n\n無精神疾病，但有極度負面字眼及行為\n自傷｜OD｜負面｜日常\n喜歡和女寶寶們聊天，歡迎私訊！\n也可以跟我抱怨，心情不好的話我可以成為妳們的垃圾桶，mtf我也會當成女寶寶的不用擔心！\n想認識更多朋友，拜託幫我轉轉置頂🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1772,
+          "following_count": 953,
+          "like_count": 79927,
+          "listed_count": 1,
+          "tweet_count": 4644
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "無🚪 不開放順男私訊 其他無限制 自傷｜OD ｜負面 私信查成分回fo",
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1757472407663915244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794188919497732096/e4Wl2ZuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 54,
+          "like_count": 823,
+          "listed_count": 0,
+          "tweet_count": 923
+        },
+        "username": "RiAkiba",
+        "verified": false
+      }
+    ]
+  }
+}

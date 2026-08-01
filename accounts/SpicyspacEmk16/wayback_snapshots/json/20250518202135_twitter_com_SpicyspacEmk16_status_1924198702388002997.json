@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1924195560707494176",
+    "created_at": "2025-05-18T20:21:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T21:21:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924198702388002997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1527308255927492609",
+          "start": 0,
+          "username": "love1027w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924198702388002997",
+    "in_reply_to_user_id": "1527308255927492609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924195560707494176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love1027w 柚老师发生了什么！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1924195560707494176",
+        "created_at": "2025-05-18T20:21:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T21:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924198702388002997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1527308255927492609",
+              "start": 0,
+              "username": "love1027w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924198702388002997",
+        "in_reply_to_user_id": "1527308255927492609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924195560707494176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love1027w 柚老师发生了什么！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527308255927492609",
+        "conversation_id": "1924195560707494176",
+        "created_at": "2025-05-18T20:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T21:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924195560707494176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924195560707494176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为什么要把你block还不简单吗？\n\n因为我不想看到你在推特发那些东西，我觉得好笑且莫名其妙，每次刷到吵架都有你的身影。以前只是网友没有那么了解你，觉得你多勇敢，多有担当，熟了之后发现你只是在网上包装自己。尽管把你b了我也还是能刷到你，顺着吵架的互关就能看到你。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 1172,
+          "like_count": 85333,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 7318
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-19T15:20:47.000Z",
+        "description": "「只要想念，就会相见」",
+        "id": "1527308255927492609",
+        "location": "白云山制药厂",
+        "name": "兮柚用西柚在吸右",
+        "pinned_tweet_id": "1867332980777377951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922067490928226304/fx0nM_Vr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11795,
+          "following_count": 452,
+          "like_count": 41995,
+          "listed_count": 13,
+          "media_count": 1679,
+          "tweet_count": 24175
+        },
+        "username": "love1027w",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2061233990997266437",
+    "created_at": "2026-05-31T23:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T00:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061233990997266437"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061233990997266437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都是假的！！\n为什么爱我的人只后都会离开我！！\n我只有这点爱了！！\n为什么连这些东西都要抢走！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2061233990997266437",
+        "created_at": "2026-05-31T23:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061233990997266437"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061233990997266437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都是假的！！\n为什么爱我的人只后都会离开我！！\n我只有这点爱了！！\n为什么连这些东西都要抢走！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 1522,
+          "like_count": 97232,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10148
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

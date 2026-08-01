@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057681413307277312"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057681419607195858",
+    "created_at": "2026-05-22T04:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057681419607195858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qVUcbHh7fy",
+          "end": 51,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057681419607195858/photo/1",
+          "media_key": "3_2057681413307277312",
+          "start": 28,
+          "url": "https://t.co/qVUcbHh7fy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057681419607195858",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又接到心理咨询申请了\n今日严肃上工🫡\n\n（随便配的图） https://t.co/qVUcbHh7fy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2057681413307277312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5aV-UaoAAe2eB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057681413307277312"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057681419607195858",
+        "created_at": "2026-05-22T04:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057681419607195858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qVUcbHh7fy",
+              "end": 51,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057681419607195858/photo/1",
+              "media_key": "3_2057681413307277312",
+              "start": 28,
+              "url": "https://t.co/qVUcbHh7fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057681419607195858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又接到心理咨询申请了\n今日严肃上工🫡\n\n（随便配的图） https://t.co/qVUcbHh7fy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1488,
+          "like_count": 96500,
+          "listed_count": 6,
+          "media_count": 754,
+          "tweet_count": 10017
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

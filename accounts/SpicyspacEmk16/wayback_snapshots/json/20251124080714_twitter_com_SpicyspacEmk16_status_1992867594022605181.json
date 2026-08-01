@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1992858612893663391",
+    "created_at": "2025-11-24T08:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T09:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992867594022605181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1095642193031684098",
+          "start": 0,
+          "username": "Jumina_V_F_de_T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992867594022605181",
+    "in_reply_to_user_id": "1095642193031684098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992858612893663391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jumina_V_F_de_T 回来啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1992858612893663391].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1992858612893663391",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1992858612893663391"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1992858612893663391",
+        "created_at": "2025-11-24T08:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T09:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992867594022605181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1095642193031684098",
+              "start": 0,
+              "username": "Jumina_V_F_de_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992867594022605181",
+        "in_reply_to_user_id": "1095642193031684098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992858612893663391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jumina_V_F_de_T 回来啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2854,
+          "following_count": 1327,
+          "like_count": 88847,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 8439
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-13T11:13:49.000Z",
+        "description": "可以叫我「ゆみな」或「みな」/ INTP-T ( Ti-Te 雙高型 ) / Asperger + ADHD + 焦慮障礙 / 寵物是一輛Trail型登山車 / 語音学&音系学愛好者 / 每天都要吃很多藥物的呆小寶🫨/靜寶寶@ddddJing的超級女朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "ddddJing"
+              }
+            ]
+          }
+        },
+        "id": "1095642193031684098",
+        "location": "Teslurbega, Juminuja",
+        "name": "Jumina V. F. de Tokiĉi ☀️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961061045449236480/b2ezY7r7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 1381,
+          "like_count": 13506,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 429
+        },
+        "username": "Jumina_V_F_de_T",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009870141534941188"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009870152050106805",
+    "created_at": "2026-01-10T06:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T07:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009870152050106805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/INMlS75zSm",
+          "end": 119,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2009870152050106805/photo/1",
+          "media_key": "3_2009870141534941188",
+          "start": 96,
+          "url": "https://t.co/INMlS75zSm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009870152050106805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们 强推这款\n护发效果好还特别好闻\n樱花妹朋友推给我的\n之前借了她的试了下直接种草\n不记得以前推给家人们过没但是实在好用再推一次\n姐妹们可以人手一瓶 男孩子也可以试试\n不过味道可能会偏甜 https://t.co/INMlS75zSm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009870141534941188",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-R-PrbasAQlZAW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009870141534941188"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009870152050106805",
+        "created_at": "2026-01-10T06:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T07:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009870152050106805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INMlS75zSm",
+              "end": 119,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2009870152050106805/photo/1",
+              "media_key": "3_2009870141534941188",
+              "start": 96,
+              "url": "https://t.co/INMlS75zSm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009870152050106805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 强推这款\n护发效果好还特别好闻\n樱花妹朋友推给我的\n之前借了她的试了下直接种草\n不记得以前推给家人们过没但是实在好用再推一次\n姐妹们可以人手一瓶 男孩子也可以试试\n不过味道可能会偏甜 https://t.co/INMlS75zSm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 1361,
+          "like_count": 90528,
+          "listed_count": 4,
+          "media_count": 721,
+          "tweet_count": 8853
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

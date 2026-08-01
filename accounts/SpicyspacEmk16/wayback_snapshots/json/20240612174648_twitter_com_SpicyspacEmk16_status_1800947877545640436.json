@@ -1,0 +1,196 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1800947877545640436",
+    "created_at": "2024-06-12T17:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T18:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1800947877545640436"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nyalra/status/…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/nyalra/status/1800816125560975371",
+          "start": 105,
+          "url": "https://t.co/Nba9KaLPtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800947877545640436",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800816125560975371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "治ることもある治らないこともある　人によって心の病が治せる薬❤️‍🩹はそれぞれ違うね…\nLOVEには病を追い払う力があるが　くすりではないよ\n\n爱≠くすり\n\n夢でもいいから　こんなやり方で病気を治して欲しいな https://t.co/Nba9KaLPtQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1800947877545640436",
+        "created_at": "2024-06-12T17:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T18:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800947877545640436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nyalra/status/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/nyalra/status/1800816125560975371",
+              "start": 105,
+              "url": "https://t.co/Nba9KaLPtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800947877545640436",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800816125560975371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "治ることもある治らないこともある　人によって心の病が治せる薬❤️‍🩹はそれぞれ違うね…\nLOVEには病を追い払う力があるが　くすりではないよ\n\n爱≠くすり\n\n夢でもいいから　こんなやり方で病気を治して欲しいな https://t.co/Nba9KaLPtQ"
+      },
+      {
+        "attachments": {},
+        "author_id": "349054800",
+        "conversation_id": "1800816125560975371",
+        "created_at": "2024-06-12T09:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T10:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800816125560975371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800816125560975371",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 108937,
+          "like_count": 3678,
+          "quote_count": 164,
+          "reply_count": 17,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "うつ病は𝑳𝑶𝑽𝑬で治る"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 951,
+          "like_count": 80438,
+          "listed_count": 1,
+          "tweet_count": 4691
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "新刊小説『蜘蛛』https://t.co/P0fQtvhcwc その他 https://t.co/FpDBn2UOyV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.to/49uyBgI",
+                "end": 31,
+                "expanded_url": "http://amzn.to/49uyBgI",
+                "start": 8,
+                "url": "https://t.co/P0fQtvhcwc"
+              },
+              {
+                "display_url": "lit.link/nyalra",
+                "end": 59,
+                "expanded_url": "https://lit.link/nyalra",
+                "start": 36,
+                "url": "https://t.co/FpDBn2UOyV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/p/C2BvvG_rJdG/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/p/C2BvvG_rJdG/",
+                "start": 0,
+                "url": "https://t.co/mX7eBFLDlM"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "にゃるら",
+        "pinned_tweet_id": "1777388068594667748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799741274549035008/dPkcKipe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137287,
+          "following_count": 666,
+          "like_count": 350887,
+          "listed_count": 1160,
+          "tweet_count": 34257
+        },
+        "url": "https://t.co/mX7eBFLDlM",
+        "username": "nyalra",
+        "verified": false
+      }
+    ]
+  }
+}

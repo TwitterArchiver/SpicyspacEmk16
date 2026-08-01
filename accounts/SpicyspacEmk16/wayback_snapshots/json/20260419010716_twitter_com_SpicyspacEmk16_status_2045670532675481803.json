@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2045551737285587028",
+    "created_at": "2026-04-19T01:07:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T02:07:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045670532675481803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "828947309874417664",
+          "start": 0,
+          "username": "AsagiriMayumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045670532675481803",
+    "in_reply_to_user_id": "828947309874417664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045551737285587028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsagiriMayumi 其实她们很好说话的 就聊一聊平时发生了什么之类的或者是喜欢的化妆品牌还有好吃的都可以的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2045551737285587028",
+        "created_at": "2026-04-19T01:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T02:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045670532675481803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "828947309874417664",
+              "start": 0,
+              "username": "AsagiriMayumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045670532675481803",
+        "in_reply_to_user_id": "828947309874417664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045551737285587028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsagiriMayumi 其实她们很好说话的 就聊一聊平时发生了什么之类的或者是喜欢的化妆品牌还有好吃的都可以的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "conversation_id": "2045551737285587028",
+        "created_at": "2026-04-18T17:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045551737285587028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045551737285587028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想交个樱花妹朋友，但我真不知道聊啥，大佬们能教我点日本女生感兴趣的话题吗？🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 1447,
+          "like_count": 94067,
+          "listed_count": 5,
+          "media_count": 777,
+          "tweet_count": 9472
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nuclearcake",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nuclearcake",
+                "start": 0,
+                "url": "https://t.co/z69XwJJrmW"
+              }
+            ]
+          }
+        },
+        "id": "828947309874417664",
+        "location": " Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "2027752059110400312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 712,
+          "like_count": 2721,
+          "listed_count": 2,
+          "media_count": 163,
+          "tweet_count": 2329
+        },
+        "url": "https://t.co/z69XwJJrmW",
+        "username": "AsagiriMayumi",
+        "verified": true
+      }
+    ]
+  }
+}

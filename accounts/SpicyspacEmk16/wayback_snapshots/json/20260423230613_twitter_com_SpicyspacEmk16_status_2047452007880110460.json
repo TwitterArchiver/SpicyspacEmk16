@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2047088181993164819",
+    "created_at": "2026-04-23T23:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T00:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047452007880110460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2029585628074262528",
+          "start": 0,
+          "username": "AquaSerinda17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047452007880110460",
+    "in_reply_to_user_id": "2029585628074262528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047293301427228783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AquaSerinda17 谢谢～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2047088181993164819",
+        "created_at": "2026-04-23T23:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T00:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047452007880110460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2029585628074262528",
+              "start": 0,
+              "username": "AquaSerinda17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047452007880110460",
+        "in_reply_to_user_id": "2029585628074262528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047293301427228783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AquaSerinda17 谢谢～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029585628074262528",
+        "conversation_id": "2047088181993164819",
+        "created_at": "2026-04-23T12:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047293301427228783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047293301427228783",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047088181993164819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 好漂亮！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 1449,
+          "like_count": 94322,
+          "listed_count": 5,
+          "media_count": 785,
+          "tweet_count": 9547
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-05T15:52:08.000Z",
+        "description": "=小水🩵请详细阅读我的简介和置顶\n主要发NSFW和碎碎念以及转贴\n❌不加联系别发私信不免费陪聊\n05/170/104🚪88➕v好友位\n⚠️bpd | ADHD | oder\n欢迎自伤和药物滥用者互fo交友",
+        "id": "2029585628074262528",
+        "location": "无爱之森",
+        "name": "水色歌",
+        "pinned_tweet_id": "2046496372447498378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039737520695742464/IIi0fjpM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 80,
+          "like_count": 1380,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 588
+        },
+        "username": "AquaSerinda17",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058207577939345443",
+    "created_at": "2026-05-24T02:27:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T03:27:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058374180773695558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809529788178305024",
+          "start": 0,
+          "username": "qiiiiiiike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058374180773695558",
+    "in_reply_to_user_id": "1809529788178305024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058371254407623061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiiiiiiike 🫶爱你宝宝～一定要幸福哦～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058207577939345443",
+        "created_at": "2026-05-24T02:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058374180773695558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809529788178305024",
+              "start": 0,
+              "username": "qiiiiiiike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058374180773695558",
+        "in_reply_to_user_id": "1809529788178305024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058371254407623061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiiiiiiike 🫶爱你宝宝～一定要幸福哦～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809529788178305024",
+        "conversation_id": "2058207577939345443",
+        "created_at": "2026-05-24T02:15:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T03:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058371254407623061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058371254407623061",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058308383372194258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 集美爱你！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 1493,
+          "like_count": 96755,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 10054
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T10:08:56.000Z",
+        "description": "🚪88  所有问题过完🚪回答",
+        "id": "1809529788178305024",
+        "name": "7k",
+        "pinned_tweet_id": "2015152880760623483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812096532574822401/2qj18fxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 42,
+          "like_count": 1028,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 586
+        },
+        "username": "qiiiiiiike",
+        "verified": false
+      }
+    ]
+  }
+}

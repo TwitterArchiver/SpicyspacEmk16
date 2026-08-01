@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054433937448202462",
+    "created_at": "2026-05-13T05:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054437513364902303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858337938733756416",
+          "start": 0,
+          "username": "KeviiiiinDing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054437513364902303",
+    "in_reply_to_user_id": "1858337938733756416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054433937448202462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KeviiiiinDing 邪门的办法是…翘课（喂！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054433937448202462",
+        "created_at": "2026-05-13T05:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054437513364902303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858337938733756416",
+              "start": 0,
+              "username": "KeviiiiinDing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054437513364902303",
+        "in_reply_to_user_id": "1858337938733756416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054433937448202462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KeviiiiinDing 邪门的办法是…翘课（喂！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858337938733756416",
+        "conversation_id": "2054433937448202462",
+        "created_at": "2026-05-13T05:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054433937448202462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054433937448202462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上课集中不了注意力怎么办😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1479,
+          "like_count": 96047,
+          "listed_count": 6,
+          "media_count": 793,
+          "tweet_count": 9873
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-18T02:34:54.000Z",
+        "description": "推特是我的郁郁人格，白天我将回去猛干操蛋的生活",
+        "id": "1858337938733756416",
+        "location": "降落在这个错误的星球",
+        "name": "Keviiiiin_はち",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039015823889817600/kpiogi62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 258,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "KeviiiiinDing",
+        "verified": false
+      }
+    ]
+  }
+}

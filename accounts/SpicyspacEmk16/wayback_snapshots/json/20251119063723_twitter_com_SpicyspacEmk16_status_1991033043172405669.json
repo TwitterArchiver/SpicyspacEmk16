@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1991016300039069969",
+    "created_at": "2025-11-19T06:37:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T07:37:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991033043172405669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926098091821727744",
+          "start": 0,
+          "username": "superikun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991033043172405669",
+    "in_reply_to_user_id": "1926098091821727744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991032931524227494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superikun_ 在哪里吃的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991032921495580672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6GR5KXaMAAw9p7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1991016300039069969",
+        "created_at": "2025-11-19T06:37:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:37:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991033043172405669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926098091821727744",
+              "start": 0,
+              "username": "superikun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991033043172405669",
+        "in_reply_to_user_id": "1926098091821727744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991032931524227494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superikun_ 在哪里吃的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991032921495580672"
+          ]
+        },
+        "author_id": "1926098091821727744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1991016300039069969",
+        "created_at": "2025-11-19T06:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T07:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991032931524227494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wKtLfJgYil",
+              "end": 46,
+              "expanded_url": "https://x.com/superikun_/status/1991032931524227494/photo/1",
+              "media_key": "3_1991032921495580672",
+              "start": 23,
+              "url": "https://t.co/wKtLfJgYil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991032931524227494",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991016300039069969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 豪赤的绵绵冰 https://t.co/wKtLfJgYil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2864,
+          "following_count": 1327,
+          "like_count": 88559,
+          "listed_count": 3,
+          "media_count": 664,
+          "tweet_count": 8382
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T02:09:21.000Z",
+        "description": "",
+        "id": "1926098091821727744",
+        "name": "超级板烧鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984945732030488576/udDN-PbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 47,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 65
+        },
+        "username": "superikun_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1989788132670316966",
+    "created_at": "2025-11-15T20:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T21:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989797521905111514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921834682544713728",
+          "start": 0,
+          "username": "tree27666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989797521905111514",
+    "in_reply_to_user_id": "1921834682544713728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989788132670316966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tree27666 像蘑菇🍄‍🟫！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989788120166903808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G50lwMDXMAAbg05.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1989788132670316966",
+        "created_at": "2025-11-15T20:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989797521905111514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921834682544713728",
+              "start": 0,
+              "username": "tree27666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989797521905111514",
+        "in_reply_to_user_id": "1921834682544713728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989788132670316966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tree27666 像蘑菇🍄‍🟫！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989788120166903808"
+          ]
+        },
+        "author_id": "1921834682544713728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1989788132670316966",
+        "created_at": "2025-11-15T20:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T21:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989788132670316966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyY9XNEND2",
+              "end": 31,
+              "expanded_url": "https://x.com/tree27666/status/1989788132670316966/photo/1",
+              "media_key": "3_1989788120166903808",
+              "start": 8,
+              "url": "https://t.co/uyY9XNEND2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989788132670316966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点都不像蘑菇 https://t.co/uyY9XNEND2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1318,
+          "like_count": 88097,
+          "listed_count": 3,
+          "media_count": 661,
+          "tweet_count": 8355
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-12T07:48:00.000Z",
+        "description": "一个很烂的人🍂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%8F%B6%E5%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%8F%B6%E5%AD%9023746",
+                "start": 0,
+                "url": "https://t.co/lAutvuiyVv"
+              }
+            ]
+          }
+        },
+        "id": "1921834682544713728",
+        "name": "叶子",
+        "pinned_tweet_id": "1969947752919638120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970727729512546304/HVBQbYIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 45,
+          "like_count": 1247,
+          "listed_count": 1,
+          "media_count": 289,
+          "tweet_count": 794
+        },
+        "url": "https://t.co/lAutvuiyVv",
+        "username": "tree27666",
+        "verified": false
+      }
+    ]
+  }
+}

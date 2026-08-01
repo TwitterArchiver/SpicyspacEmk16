@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1916339421567389774",
+    "created_at": "2025-04-27T12:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-27T13:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916473530201354357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816499982503231488",
+          "start": 0,
+          "username": "xinbao0x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916473530201354357",
+    "in_reply_to_user_id": "1816499982503231488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916339421567389774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinbao0x0 かわいいすぎる🩷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62560,
+        "height": 808,
+        "media_key": "7_1916339229149569024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1916339229149569024/pu/img/-zrOxCC0BhjqK-CD.jpg",
+        "public_metrics": {
+          "view_count": 307
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916339229149569024/pu/vid/avc1/320x358/EgcyaZSypZOMGAZX.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916339229149569024/pu/vid/avc1/480x538/A9mFgwBwl-PTfYND.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1916339229149569024/pu/vid/avc1/720x808/w-ZRjVEa85fTnF58.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1916339229149569024/pu/pl/1OX1b-SF-PDdB3WE.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1916339421567389774",
+        "created_at": "2025-04-27T12:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T13:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916473530201354357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816499982503231488",
+              "start": 0,
+              "username": "xinbao0x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916473530201354357",
+        "in_reply_to_user_id": "1816499982503231488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916339421567389774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinbao0x0 かわいいすぎる🩷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1916339229149569024"
+          ]
+        },
+        "author_id": "1816499982503231488",
+        "conversation_id": "1916339421567389774",
+        "created_at": "2025-04-27T03:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-27T04:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916339421567389774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nCUrRvzJW",
+              "end": 33,
+              "expanded_url": "https://x.com/xinbao0x0/status/1916339421567389774/video/1",
+              "media_key": "7_1916339229149569024",
+              "start": 10,
+              "url": "https://t.co/0nCUrRvzJW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916339421567389774",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 729,
+          "like_count": 87,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "Cut video https://t.co/0nCUrRvzJW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 1139,
+          "like_count": 84245,
+          "listed_count": 3,
+          "media_count": 510,
+          "tweet_count": 7197
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-25T15:45:42.000Z",
+        "description": "shtwt edtwt",
+        "id": "1816499982503231488",
+        "name": "魂",
+        "pinned_tweet_id": "1843139144891105433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816503279104495616/xEPeK9t7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1946,
+          "following_count": 42,
+          "like_count": 59,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 130
+        },
+        "username": "xinbao0x0",
+        "verified": false
+      }
+    ]
+  }
+}

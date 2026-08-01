@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1992775724751528395",
+    "created_at": "2025-11-24T13:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T14:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992947133373407311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        },
+        {
+          "end": 20,
+          "id": "1811690667720212480",
+          "start": 10,
+          "username": "y0zarashi"
+        },
+        {
+          "end": 34,
+          "id": "1684492249416323072",
+          "start": 21,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992947133373407311",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992887263014068530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ @y0zarashi @hongdou_cici 很好的互联网嘴替"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1992775724751528395",
+        "created_at": "2025-11-24T13:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T14:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992947133373407311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            },
+            {
+              "end": 20,
+              "id": "1811690667720212480",
+              "start": 10,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 34,
+              "id": "1684492249416323072",
+              "start": 21,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992947133373407311",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992887263014068530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ @y0zarashi @hongdou_cici 很好的互联网嘴替"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550188270495027200",
+        "conversation_id": "1992775724751528395",
+        "created_at": "2025-11-24T09:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992887263014068530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1811690667720212480",
+              "start": 0,
+              "username": "y0zarashi"
+            },
+            {
+              "end": 24,
+              "id": "1684492249416323072",
+              "start": 11,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992887263014068530",
+        "in_reply_to_user_id": "1811690667720212480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992776718399185028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y0zarashi @hongdou_cici 你是脑子有问题吗 原帖说什么了能让你联想这么多 是家里真得穷到没能让你接受九年义务教育吗这么仇富 还是你的人生真的太失败让你见人就要刻板印象和像个疯子一样开炮 你以为自己对资本主义社会主义都懂得很是吧怎么没见你对社会做出哪怕那么一丁点贡献？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857,
+          "following_count": 1327,
+          "like_count": 88859,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 8437
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 尝试复学大学生 | 双相 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 黄瓜与鸡肉同嚼有汉堡滋味。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "黑色空间",
+        "name": "现杀黄瓜🥒",
+        "pinned_tweet_id": "1990750688889160026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849371111794044928/QBv-uHxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1336,
+          "following_count": 145,
+          "like_count": 21973,
+          "listed_count": 5,
+          "media_count": 667,
+          "tweet_count": 6532
+        },
+        "username": "Hushlog_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T09:15:04.000Z",
+        "description": "不术无糖 ftm 不是很喜欢顺女  厌女  女的滚！我是跨男，已做手术是术后党，不要在我的帖子下面谈论政治。不玩网，已退网，我要重新开始我的新生活 ，谢谢！ 不要试图去救任何人。。。这不是个人问题造成，也不是个人能力能解决的，相反会把他们推的更深。不知道为什么吴思嫣把我当做仇人看待了。",
+        "id": "1811690667720212480",
+        "location": "我被吴思嫣绿了",
+        "name": "yozarashi🏳️‍⚧️",
+        "pinned_tweet_id": "1988859428183892376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989173282617323535/gFc0LSIJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 127,
+          "like_count": 26,
+          "listed_count": 6,
+          "media_count": 717,
+          "tweet_count": 3751
+        },
+        "username": "y0zarashi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死| 我是红豆糕｜feel free to block me if my pics sacared u❌不喜欢我请自避雷❗️｜备用机@hongdougao_hong｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1991789253169451496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989655780656607232/LRVKVUOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1806,
+          "following_count": 200,
+          "like_count": 5169,
+          "listed_count": 8,
+          "media_count": 377,
+          "tweet_count": 2693
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

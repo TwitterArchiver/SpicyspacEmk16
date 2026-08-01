@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1876637508269920531",
+    "created_at": "2025-01-07T15:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T16:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876659676655525893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1194115298158247936",
+          "start": 0,
+          "username": "yawarakai421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876659676655525893",
+    "in_reply_to_user_id": "1194115298158247936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876654107718721855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yawarakai421 她没事了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1876637508269920531",
+        "created_at": "2025-01-07T15:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876659676655525893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1194115298158247936",
+              "start": 0,
+              "username": "yawarakai421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876659676655525893",
+        "in_reply_to_user_id": "1194115298158247936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876654107718721855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yawarakai421 她没事了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194115298158247936",
+        "conversation_id": "1876637508269920531",
+        "created_at": "2025-01-07T15:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T16:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876654107718721855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876654107718721855",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876637508269920531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 怎么回事😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 1106,
+          "like_count": 86377,
+          "listed_count": 2,
+          "media_count": 475,
+          "tweet_count": 6740
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-12T04:51:11.000Z",
+        "description": "努力学习/喜欢画画✍️/想成为温柔的魅魔/最爱的兔宝宝@miya051223/长发及腰的虚假魅魔😈/一緒懸命勉強している/魅魔になりたい/絵を描くことが大好きな/日本の愛知県に留学中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 27,
+                "username": "miya051223"
+              }
+            ]
+          }
+        },
+        "id": "1194115298158247936",
+        "location": "日本 愛知県岡崎市",
+        "name": "ヤワラカイ",
+        "pinned_tweet_id": "1690035772634841089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858427625070587904/KmoDl1uB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1828,
+          "following_count": 2148,
+          "like_count": 27439,
+          "listed_count": 4,
+          "media_count": 1251,
+          "tweet_count": 7355
+        },
+        "username": "yawarakai421",
+        "verified": false
+      }
+    ]
+  }
+}

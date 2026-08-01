@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1789374318574498132",
+    "created_at": "2024-05-12T04:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T05:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789520030390227006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264240875674140673",
+          "start": 0,
+          "username": "Queencat003"
+        },
+        {
+          "end": 23,
+          "id": "1698410586508599296",
+          "start": 13,
+          "username": "signdog02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789520030390227006",
+    "in_reply_to_user_id": "1264240875674140673",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789519047190778215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Queencat003 @signdog02 低能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1789374318574498132",
+        "created_at": "2024-05-12T04:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T05:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789520030390227006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264240875674140673",
+              "start": 0,
+              "username": "Queencat003"
+            },
+            {
+              "end": 23,
+              "id": "1698410586508599296",
+              "start": 13,
+              "username": "signdog02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789520030390227006",
+        "in_reply_to_user_id": "1264240875674140673",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789519047190778215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Queencat003 @signdog02 低能"
+      },
+      {
+        "attachments": {},
+        "author_id": "1264240875674140673",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1789374318574498132",
+        "created_at": "2024-05-12T04:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T05:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789519047190778215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1698410586508599296",
+              "start": 0,
+              "username": "signdog02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789519047190778215",
+        "in_reply_to_user_id": "1698410586508599296",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789374318574498132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@signdog02 大板留学但是瞬移ICU还能带手机进去。\n比那个ktv跟妈卖逼的。 被亲爹强奸和母亲3p的确实不相上下😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1652,
+          "following_count": 889,
+          "like_count": 78772,
+          "listed_count": 1,
+          "tweet_count": 4290
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-23T17:05:08.000Z",
+        "description": "🖤一位 来自kr 爱好碾着小可爱们脑子 胁迫压榨洗脑的变态姐姐哦🖤\n🖤把快乐建立在你们的痛苦之上是我的乐趣🖤\n全天24小时有空🖤可涉三🖤\nqq:1730303109 加不上私信推哦。\n门槛52 ,30min/99r 口嗨装死黑名单\n🖤专业猎杀推上挂着s女皮 发情女皮男:4kill已处决:2kill🖤",
+        "id": "1264240875674140673",
+        "location": "Hell",
+        "name": "Queen♡cat（互推）",
+        "pinned_tweet_id": "1774730591528947791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1689324371352141824/CEUA9KMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5561,
+          "following_count": 9,
+          "like_count": 86,
+          "listed_count": 23,
+          "tweet_count": 537
+        },
+        "username": "Queencat003",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T19:00:20.000Z",
+        "description": "犬パン🍞｜狗包🐾 ｜大阪留学中🇯🇵｜生活推｜美術 ｜🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜双極性障害｜躁鬱｜BDSM｜独身｜自由主義🐾其他详情请看文章",
+        "id": "1698410586508599296",
+        "location": "Japan",
+        "name": "酸奶片",
+        "pinned_tweet_id": "1779414610095051040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788111402852667393/XvmL89Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5812,
+          "following_count": 16,
+          "like_count": 8342,
+          "listed_count": 7,
+          "tweet_count": 1418
+        },
+        "username": "signdog02",
+        "verified": false
+      }
+    ]
+  }
+}

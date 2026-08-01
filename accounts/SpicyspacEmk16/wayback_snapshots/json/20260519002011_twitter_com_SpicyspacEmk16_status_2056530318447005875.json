@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056409358838485190",
+    "created_at": "2026-05-19T00:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056530318447005875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2005739449058230272",
+          "start": 0,
+          "username": "usagimm208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056530318447005875",
+    "in_reply_to_user_id": "2005739449058230272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056409358838485190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usagimm208 好萌！这个设计好漂亮！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7033,
+        "height": 1280,
+        "media_key": "13_2056409119347863552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056409119347863552/img/EmNgvqy5TfgH576F.jpg",
+        "public_metrics": {
+          "view_count": 88
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056409119347863552/vid/avc1/320x568/jYJV2nQIGiID3J3Q.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056409119347863552/vid/avc1/480x852/Sz1p8ZMat7KTGUi6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056409119347863552/vid/avc1/720x1280/WjkbKcLZFma2Rrbv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056409119347863552/pl/NwHMXnOvZH97kjJ0.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2056409119343726593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HInVMt9bUAESvvc.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056409358838485190",
+        "created_at": "2026-05-19T00:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056530318447005875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005739449058230272",
+              "start": 0,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056530318447005875",
+        "in_reply_to_user_id": "2005739449058230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056409358838485190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usagimm208 好萌！这个设计好漂亮！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056409119347863552",
+            "3_2056409119343726593"
+          ]
+        },
+        "author_id": "2005739449058230272",
+        "conversation_id": "2056409358838485190",
+        "created_at": "2026-05-18T16:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056409358838485190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d4lF6F6I55",
+              "end": 36,
+              "expanded_url": "https://x.com/usagimm208/status/2056409358838485190/video/1",
+              "media_key": "13_2056409119347863552",
+              "start": 13,
+              "url": "https://t.co/d4lF6F6I55"
+            },
+            {
+              "display_url": "pic.x.com/d4lF6F6I55",
+              "end": 36,
+              "expanded_url": "https://x.com/usagimm208/status/2056409358838485190/video/1",
+              "media_key": "3_2056409119343726593",
+              "start": 13,
+              "url": "https://t.co/d4lF6F6I55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056409358838485190",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日ootd和我的新包包 https://t.co/d4lF6F6I55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 1475,
+          "like_count": 96220,
+          "listed_count": 6,
+          "media_count": 743,
+          "tweet_count": 9880
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 15,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

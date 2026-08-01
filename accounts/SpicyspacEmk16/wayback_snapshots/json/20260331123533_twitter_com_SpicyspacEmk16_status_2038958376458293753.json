@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2038958376458293753",
+    "created_at": "2026-03-31T12:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T13:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038958376458293753"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038958376458293753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "其实小红书上面蛮多人都挺友善的 不过还是没办法喜欢这个软件\n焦虑派发得实在是太狠了🥹\n实在是没办法用得起来\n可能推特用惯了感觉很多墙外用户和墙内用户的部分认知真的不一样导致相处起来一点不难受 🍠上其实我知道对方是真的没恶意但是偏偏很多地方的焦虑就是来自于一些无心的伤人处\n我已急哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2038958376458293753",
+        "created_at": "2026-03-31T12:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038958376458293753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038958376458293753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实小红书上面蛮多人都挺友善的 不过还是没办法喜欢这个软件\n焦虑派发得实在是太狠了🥹\n实在是没办法用得起来\n可能推特用惯了感觉很多墙外用户和墙内用户的部分认知真的不一样导致相处起来一点不难受 🍠上其实我知道对方是真的没恶意但是偏偏很多地方的焦虑就是来自于一些无心的伤人处\n我已急哭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 1391,
+          "like_count": 92611,
+          "listed_count": 5,
+          "media_count": 749,
+          "tweet_count": 9125
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

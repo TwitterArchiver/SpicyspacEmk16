@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1788796091598881141",
+    "created_at": "2024-05-10T04:59:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:59:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788796091598881141"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1788796091598881141",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的真的恨透了日本人的死板\n死活不让我面会\n明明救护车陪护是我\nicu陪护是我\n一直跟医生说明情况到深夜也是我\n应付警察说明她不会伤人的还是我\n为什么就不让我面会\n她妈妈根本就没办法来这里也根本不相信自己女儿生病了\n我真的好无助"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1788796091598881141",
+        "created_at": "2024-05-10T04:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788796091598881141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788796091598881141",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的真的恨透了日本人的死板\n死活不让我面会\n明明救护车陪护是我\nicu陪护是我\n一直跟医生说明情况到深夜也是我\n应付警察说明她不会伤人的还是我\n为什么就不让我面会\n她妈妈根本就没办法来这里也根本不相信自己女儿生病了\n我真的好无助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 958,
+          "like_count": 78666,
+          "listed_count": 1,
+          "tweet_count": 4239
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

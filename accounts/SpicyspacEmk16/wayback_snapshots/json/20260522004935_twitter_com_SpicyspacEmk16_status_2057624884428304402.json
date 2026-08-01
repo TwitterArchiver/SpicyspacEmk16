@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      }
+    ],
+    "conversation_id": "2057624884428304402",
+    "created_at": "2026-05-22T00:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T01:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057624884428304402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ccccc0104/stat…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/ccccc0104/status/2057422222525092316",
+          "start": 109,
+          "url": "https://t.co/Ih9p6Ssajb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057624884428304402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057422222525092316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "花知晓真是我美妆产品白月光！虽然她们家产品我个人用起来感觉性价比没那么高可是真的很漂亮😭\n除开一些涂涂抹抹产品以外她们家的刷子或者小镜子还有一些小物件什么的我真的认为是超级绝美又好用 肯定一定绝对能让小女生一眼沦陷😭 https://t.co/Ih9p6Ssajb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057422213373140992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1umjUaoAAvPmB.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057422213251526656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1umi3a8AAWInZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2057624884428304402",
+        "created_at": "2026-05-22T00:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T01:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057624884428304402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ccccc0104/stat…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/ccccc0104/status/2057422222525092316",
+              "start": 109,
+              "url": "https://t.co/Ih9p6Ssajb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057624884428304402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057422222525092316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花知晓真是我美妆产品白月光！虽然她们家产品我个人用起来感觉性价比没那么高可是真的很漂亮😭\n除开一些涂涂抹抹产品以外她们家的刷子或者小镜子还有一些小物件什么的我真的认为是超级绝美又好用 肯定一定绝对能让小女生一眼沦陷😭 https://t.co/Ih9p6Ssajb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057422213373140992",
+            "3_2057422213251526656"
+          ]
+        },
+        "author_id": "1047438234383351808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "2057422222525092316",
+        "created_at": "2026-05-21T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057422222525092316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tR9H39rSCc",
+              "end": 100,
+              "expanded_url": "https://x.com/Ccccc0104/status/2057422222525092316/photo/1",
+              "media_key": "3_2057422213373140992",
+              "start": 77,
+              "url": "https://t.co/tR9H39rSCc"
+            },
+            {
+              "display_url": "pic.x.com/tR9H39rSCc",
+              "end": 100,
+              "expanded_url": "https://x.com/Ccccc0104/status/2057422222525092316/photo/1",
+              "media_key": "3_2057422213251526656",
+              "start": 77,
+              "url": "https://t.co/tR9H39rSCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057422222525092316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 272928,
+          "like_count": 667,
+          "quote_count": 6,
+          "reply_count": 120,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "好厉害啊……两个coser在2016年开的牌子，短短10年发展到这样，被收购应该财富自由了吧😭我最先就是这两个人的粉丝来着，说要做彩妆还以为是闹着玩…… https://t.co/tR9H39rSCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 1484,
+          "like_count": 96445,
+          "listed_count": 6,
+          "media_count": 752,
+          "tweet_count": 9997
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2018-10-03T10:48:30.000Z",
+        "description": "小相册@llily1173377 \n私信骚扰的滚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "llily1173377"
+              }
+            ]
+          }
+        },
+        "id": "1047438234383351808",
+        "name": "ccccccccc.",
+        "pinned_tweet_id": "2048724680987881843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920874922743631873/KMDzP2Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42651,
+          "following_count": 161,
+          "like_count": 3097,
+          "listed_count": 173,
+          "media_count": 215,
+          "tweet_count": 6450
+        },
+        "username": "Ccccc0104",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Weather",
+          "id": "857083369514876928",
+          "name": "Weather"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395109820571656195",
+          "name": "Korean cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1357686092971995137",
+          "name": "Asian cuisine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Weather-related topics like Boston weather or Earthquakes",
+          "id": "155",
+          "name": "Weather"
+        },
+        "entity": {
+          "id": "1412542101984710656",
+          "name": "Rainy season"
+        }
+      }
+    ],
+    "conversation_id": "2057312946813079638",
+    "created_at": "2026-05-21T04:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057312946813079638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koko__virtual/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/koko__virtual/status/2057292922601812302",
+          "start": 29,
+          "url": "https://t.co/qhlLjEuWwr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057312946813079638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057292922601812302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "原来是进入梅雨季了哭死\n下雨天通勤两个小时真的太痛苦了😭 https://t.co/qhlLjEuWwr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395109820571656195",
+              "name": "Korean cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1357686092971995137",
+              "name": "Asian cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2057312946813079638",
+        "created_at": "2026-05-21T04:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057312946813079638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koko__virtual/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/koko__virtual/status/2057292922601812302",
+              "start": 29,
+              "url": "https://t.co/qhlLjEuWwr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057312946813079638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057292922601812302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是进入梅雨季了哭死\n下雨天通勤两个小时真的太痛苦了😭 https://t.co/qhlLjEuWwr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312300650277990401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Weather",
+              "id": "857083369514876928",
+              "name": "Weather"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1193991001892745216",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395109820571656195",
+              "name": "Korean cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1357686092971995137",
+              "name": "Asian cuisine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Weather-related topics like Boston weather or Earthquakes",
+              "id": "155",
+              "name": "Weather"
+            },
+            "entity": {
+              "id": "1412542101984710656",
+              "name": "Rainy season"
+            }
+          }
+        ],
+        "conversation_id": "2057292922601812302",
+        "created_at": "2026-05-21T02:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T03:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057292922601812302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057292922601812302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5048,
+          "like_count": 472,
+          "quote_count": 2,
+          "reply_count": 76,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "おはビビンバ🍚\n雨だぁ\n梅雨かぁ？！？！😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 1480,
+          "like_count": 96549,
+          "listed_count": 6,
+          "media_count": 749,
+          "tweet_count": 9963
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T07:57:16.000Z",
+        "description": "幸祜(ココ)です。歌を歌います。幸組⚡️【鳴潮】千咲「切り咲く」𝑹𝒆𝒍𝒆𝒂𝒔𝒆⚡️TVアニメ「神椿市建設中」 ▶ #幸祜美術部/ #KOKO見てみ野菜/ #MAISONKOKO / #KTRコレクション🎧 https://t.co/hbZaX1CmUR ⚡️info▶@koko_info0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "幸祜美術部"
+              },
+              {
+                "end": 75,
+                "start": 65,
+                "tag": "KOKO見てみ野菜"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "tag": "MAISONKOKO"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "KTRコレクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "koko_info0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/virtual_koko",
+                "end": 126,
+                "expanded_url": "https://linktr.ee/virtual_koko",
+                "start": 103,
+                "url": "https://t.co/hbZaX1CmUR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@koko__virtual…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@koko__virtual?si=qP6jSFpqAD3W6EXI",
+                "start": 0,
+                "url": "https://t.co/7SsCgNfsed"
+              }
+            ]
+          }
+        },
+        "id": "1312300650277990401",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "幸祜-KOKO",
+        "pinned_tweet_id": "1997518927228731414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039351286416736256/SZFM1ZRk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117742,
+          "following_count": 286,
+          "like_count": 12202,
+          "listed_count": 1087,
+          "media_count": 804,
+          "tweet_count": 8777
+        },
+        "url": "https://t.co/7SsCgNfsed",
+        "username": "KOKO__virtual",
+        "verified": true
+      }
+    ]
+  }
+}

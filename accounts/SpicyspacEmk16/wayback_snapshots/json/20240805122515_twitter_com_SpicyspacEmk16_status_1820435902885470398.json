@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1820403635530121434",
+    "created_at": "2024-08-05T12:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T13:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820435902885470398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774410859491799041",
+          "start": 0,
+          "username": "kiwi_03096"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820435902885470398",
+    "in_reply_to_user_id": "1774410859491799041",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820403635530121434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiwi_03096 辛苦了辛苦了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1820403635530121434",
+        "created_at": "2024-08-05T12:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T13:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820435902885470398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774410859491799041",
+              "start": 0,
+              "username": "kiwi_03096"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820435902885470398",
+        "in_reply_to_user_id": "1774410859491799041",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820403635530121434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiwi_03096 辛苦了辛苦了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774410859491799041",
+        "conversation_id": "1820403635530121434",
+        "created_at": "2024-08-05T10:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T11:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820403635530121434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820403635530121434",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想死真的想死  吞药又没死成在医院真的想死  老子两眼一睁就是在当免费陪聊  求求了没有什么大事能不能别来吵死了真以为我想鸟你吗  买的cos服急用我叫那个卖家发顺丰三天了还不给我发刚才给我退掉了，你个死全家死臭婊子你妈死了你没时间发为什么不能一开始就说非要等我要用的时候冷不丁的退掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 1024,
+          "like_count": 84098,
+          "listed_count": 1,
+          "tweet_count": 5600
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-31T12:18:22.000Z",
+        "description": "谢谢你们关注我，",
+        "id": "1774410859491799041",
+        "location": "Japan",
+        "name": "kiwi_0309",
+        "pinned_tweet_id": "1803824052672618657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813935309773824001/6zG4mmJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738,
+          "following_count": 290,
+          "like_count": 2681,
+          "listed_count": 4,
+          "tweet_count": 858
+        },
+        "username": "kiwi_03096",
+        "verified": false
+      }
+    ]
+  }
+}

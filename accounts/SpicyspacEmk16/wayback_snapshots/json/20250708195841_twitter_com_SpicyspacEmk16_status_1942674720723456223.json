@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1942603471972360464",
+    "created_at": "2025-07-08T19:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T20:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942674720723456223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1841788446245081089",
+          "start": 0,
+          "username": "wife_O7O9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942674720723456223",
+    "in_reply_to_user_id": "1841788446245081089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942603471972360464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wife_O7O9 誕生日おめでとう🎉～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1942603471972360464",
+        "created_at": "2025-07-08T19:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T20:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942674720723456223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1841788446245081089",
+              "start": 0,
+              "username": "wife_O7O9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942674720723456223",
+        "in_reply_to_user_id": "1841788446245081089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942603471972360464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wife_O7O9 誕生日おめでとう🎉～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841788446245081089",
+        "conversation_id": "1942603471972360464",
+        "created_at": "2025-07-08T15:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T16:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942603471972360464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942603471972360464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2786,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日迎えました！！！！！！！！！！！🎉🎂Happy Birthday 🎂🎉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 1280,
+          "like_count": 87005,
+          "listed_count": 2,
+          "media_count": 559,
+          "tweet_count": 7713
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-03T10:32:55.000Z",
+        "description": "自傷垢LJC 🗝@MDCN20t 🩷@277dX 💍@zzz2uwu 🤱@wolfmgmg0203",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "MDCN20t"
+              },
+              {
+                "end": 24,
+                "start": 18,
+                "username": "277dX"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "zzz2uwu"
+              },
+              {
+                "end": 49,
+                "start": 36,
+                "username": "wolfmgmg0203"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hfui2h64n5bxdk…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hfui2h64n5bxdky?t=sUzRzb&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/IMTlpYBK5n"
+              }
+            ]
+          }
+        },
+        "id": "1841788446245081089",
+        "location": "所詮、私は病気の子おやすみ",
+        "name": "愛玩人形(わいふ)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909522349164314626/hSdFvWBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 884,
+          "following_count": 265,
+          "like_count": 2714,
+          "listed_count": 9,
+          "media_count": 123,
+          "tweet_count": 1821
+        },
+        "url": "https://t.co/IMTlpYBK5n",
+        "username": "wife_O7O9",
+        "verified": false
+      }
+    ]
+  }
+}

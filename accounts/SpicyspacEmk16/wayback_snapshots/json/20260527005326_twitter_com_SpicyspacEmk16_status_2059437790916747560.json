@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1561695480702111746",
+    "created_at": "2026-05-27T00:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059437790916747560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653688628407832576",
+          "start": 0,
+          "username": "Hiroshi35354176"
+        },
+        {
+          "end": 29,
+          "id": "1442019368355827716",
+          "start": 17,
+          "username": "ccc25009890"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059437790916747560",
+    "in_reply_to_user_id": "1653688628407832576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1653689281213505536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiroshi35354176 @ccc25009890 哥哥你好我是东京这边线下提供服务的男娘🥺 您有兴趣可以私信我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1561695480702111746",
+        "created_at": "2026-05-27T00:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059437790916747560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653688628407832576",
+              "start": 0,
+              "username": "Hiroshi35354176"
+            },
+            {
+              "end": 29,
+              "id": "1442019368355827716",
+              "start": 17,
+              "username": "ccc25009890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059437790916747560",
+        "in_reply_to_user_id": "1653688628407832576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1653689281213505536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiroshi35354176 @ccc25009890 哥哥你好我是东京这边线下提供服务的男娘🥺 您有兴趣可以私信我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653688628407832576",
+        "conversation_id": "1561695480702111746",
+        "created_at": "2023-05-03T09:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-03T09:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1653689281213505536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1442019368355827716",
+              "start": 0,
+              "username": "ccc25009890"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1653689281213505536",
+        "in_reply_to_user_id": "1442019368355827716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1561695480702111746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ccc25009890 我在丰台。有兴趣的话加QQ联系。361346415"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1518,
+          "like_count": 97172,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10141
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-03T09:11:16.000Z",
+        "description": "",
+        "id": "1653688628407832576",
+        "name": "Hiroshi",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "Hiroshi35354176",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-26T06:53:16.000Z",
+        "description": "兰州城关重度SP爱好者，喜板子、杖刑，同好私信联系",
+        "id": "1442019368355827716",
+        "location": "兰州",
+        "name": "重度SP爱好者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665691705209917443/sH9lLKDe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 507,
+          "like_count": 180,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 124
+        },
+        "username": "ccc25009890",
+        "verified": false
+      }
+    ]
+  }
+}

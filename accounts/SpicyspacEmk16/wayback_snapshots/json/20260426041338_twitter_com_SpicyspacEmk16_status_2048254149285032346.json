@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048248018722574549",
+    "created_at": "2026-04-26T04:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T05:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048254149285032346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530546999891828737",
+          "start": 0,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048254149285032346",
+    "in_reply_to_user_id": "1530546999891828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048248018722574549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzlqsaki_UvU 妈咪生日快乐！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5400,
+        "height": 1280,
+        "media_key": "13_2048247956965568512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048247956965568512/img/MP8bt6fP57GtNnI3.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048247956965568512/vid/avc1/320x568/x434n3WpFnj_FGP-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048247956965568512/vid/avc1/480x852/NYX6_51dLy_qRgV3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048247956965568512/vid/avc1/720x1280/trtiRjHtFnOTUNtu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048247956965568512/pl/rOLCbA0e3nenVRnK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048248018722574549",
+        "created_at": "2026-04-26T04:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T05:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048254149285032346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530546999891828737",
+              "start": 0,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048254149285032346",
+        "in_reply_to_user_id": "1530546999891828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048248018722574549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzlqsaki_UvU 妈咪生日快乐！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048247956965568512"
+          ]
+        },
+        "author_id": "1530546999891828737",
+        "conversation_id": "2048248018722574549",
+        "created_at": "2026-04-26T03:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T04:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048248018722574549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQVtrO9Nzr",
+              "end": 35,
+              "expanded_url": "https://x.com/xzlqsaki_UvU/status/2048248018722574549/video/1",
+              "media_key": "13_2048247956965568512",
+              "start": 12,
+              "url": "https://t.co/WQVtrO9Nzr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048248018722574549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雷霆阴阳头严肃过生日中 https://t.co/WQVtrO9Nzr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3099,
+          "following_count": 1454,
+          "like_count": 94417,
+          "listed_count": 5,
+          "media_count": 788,
+          "tweet_count": 9596
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "欢迎来到我的日常UvU",
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013133748142043136/VN0_zPMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 126,
+          "like_count": 33470,
+          "listed_count": 5,
+          "media_count": 652,
+          "tweet_count": 5271
+        },
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

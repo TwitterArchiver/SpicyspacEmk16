@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2068997681134092461",
+    "created_at": "2026-06-22T10:47:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069009380671111333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069009380671111333",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069007899951767850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 想吃了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2068997681134092461",
+        "created_at": "2026-06-22T10:47:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069009380671111333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069009380671111333",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069007899951767850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 想吃了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2068997681134092461",
+        "created_at": "2026-06-22T10:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069007899951767850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069007899951767850",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068997681134092461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我这边能看到无色虾条"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1554,
+          "like_count": 97619,
+          "listed_count": 6,
+          "media_count": 779,
+          "tweet_count": 10295
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234772630712320/QiJd4UkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 347,
+          "like_count": 50933,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 788
+        },
+        "url": "",
+        "username": "HaoyangZ20152",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1798962548349473022",
+    "created_at": "2024-06-07T10:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T11:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799032456743661770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640341296043917325",
+          "start": 0,
+          "username": "annannanngle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799032456743661770",
+    "in_reply_to_user_id": "1640341296043917325",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799032366121546186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annannanngle 好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1798962548349473022",
+        "created_at": "2024-06-07T10:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T11:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799032456743661770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640341296043917325",
+              "start": 0,
+              "username": "annannanngle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799032456743661770",
+        "in_reply_to_user_id": "1640341296043917325",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799032366121546186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annannanngle 好！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1640341296043917325",
+        "conversation_id": "1798962548349473022",
+        "created_at": "2024-06-07T10:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T11:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799032366121546186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799032366121546186",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799021580322054601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 私你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 953,
+          "like_count": 79893,
+          "listed_count": 1,
+          "tweet_count": 4637
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T13:13:49.000Z",
+        "description": "⊹˚.⋆ ✞ 湖のほとりに天使が舞い降りた ·̩͙ ಎ ⊹˚ 大家安安我是安安｜請多多跟我互動！！！｜中文⭕️日文⭕️英文⭕️｜翻譯器使用｜🚪88｜我是二次元｜性別是麵包🍞｜FF14｜躁鬱治療中｜大量廢話｜日常發瘋｜要互fo請私信！！｜接占卜｜皮套：小森七工作室",
+        "id": "1640341296043917325",
+        "location": "天國湖畔",
+        "name": "♡あんあん♡",
+        "pinned_tweet_id": "1729154706906464376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760324080694329344/KE2hu8Sj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 586,
+          "like_count": 8727,
+          "listed_count": 1,
+          "tweet_count": 4265
+        },
+        "username": "annannanngle",
+        "verified": false
+      }
+    ]
+  }
+}

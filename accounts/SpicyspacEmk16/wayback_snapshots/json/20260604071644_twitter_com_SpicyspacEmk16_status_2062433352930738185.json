@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054441378697097234",
+    "created_at": "2026-06-04T07:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062433352930738185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1450447398354882560",
+          "start": 0,
+          "username": "cdjjboom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062433352930738185",
+    "in_reply_to_user_id": "1450447398354882560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054441378697097234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cdjjboom 能看到我最后一条私信嘛…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11586,
+        "height": 630,
+        "media_key": "13_2054407288224616448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054407288224616448/img/JvmAGtUrJHy6uIy1.jpg",
+        "public_metrics": {
+          "view_count": 529102
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/630x270/mNazOpt6CmT4hgZX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/840x360/CSKz2IglIbnLNX1f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/vid/avc1/1470x630/xBWVMB5XyL2GTRWd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054407288224616448/pl/7gOwN5n4n6p_tqPG.m3u8?v=cfc"
+          }
+        ],
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054441378697097234",
+        "created_at": "2026-06-04T07:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062433352930738185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1450447398354882560",
+              "start": 0,
+              "username": "cdjjboom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062433352930738185",
+        "in_reply_to_user_id": "1450447398354882560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054441378697097234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cdjjboom 能看到我最后一条私信嘛…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054407288224616448"
+          ],
+          "media_source_tweet_id": [
+            "2054407640198041720"
+          ]
+        },
+        "author_id": "1450447398354882560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054441378697097234",
+        "created_at": "2026-05-13T05:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054441378697097234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbIiHUGnLz",
+              "end": 23,
+              "expanded_url": "https://x.com/CuiMao/status/2054407640198041720/video/1",
+              "media_key": "13_2054407288224616448",
+              "start": 0,
+              "url": "https://t.co/BbIiHUGnLz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054441378697097234",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BbIiHUGnLz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 1523,
+          "like_count": 97348,
+          "listed_count": 6,
+          "media_count": 765,
+          "tweet_count": 10189
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-19T13:03:10.000Z",
+        "description": "スイッチャー、縛ったり縛られたりしてます.\n男女問わず、ただし常識人に限る。全ての縄好きさんと仲良くしたい、撮られたい\n#緊縛 #麻縄 #拘束 #拘绑 #sm #監禁 #首輪 #被写体 #BDSM #东京 #bondage #s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "緊縛"
+              },
+              {
+                "end": 67,
+                "start": 64,
+                "tag": "麻縄"
+              },
+              {
+                "end": 71,
+                "start": 68,
+                "tag": "拘束"
+              },
+              {
+                "end": 75,
+                "start": 72,
+                "tag": "拘绑"
+              },
+              {
+                "end": 79,
+                "start": 76,
+                "tag": "sm"
+              },
+              {
+                "end": 83,
+                "start": 80,
+                "tag": "監禁"
+              },
+              {
+                "end": 87,
+                "start": 84,
+                "tag": "首輪"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "被写体"
+              },
+              {
+                "end": 98,
+                "start": 93,
+                "tag": "BDSM"
+              },
+              {
+                "end": 102,
+                "start": 99,
+                "tag": "东京"
+              },
+              {
+                "end": 111,
+                "start": 103,
+                "tag": "bondage"
+              },
+              {
+                "end": 114,
+                "start": 112,
+                "tag": "s"
+              }
+            ]
+          }
+        },
+        "id": "1450447398354882560",
+        "location": "Taito-ku, Tokyo",
+        "name": "RyuSen",
+        "pinned_tweet_id": "1732036018315153687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050361465530699776/a2uva-0R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 461,
+          "like_count": 3226,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1135
+        },
+        "username": "cdjjboom",
+        "verified": false
+      }
+    ]
+  }
+}

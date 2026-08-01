@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1987681977303237013",
+    "created_at": "2025-11-10T10:23:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T11:23:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987828397515637193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124924918607409152",
+          "start": 0,
+          "username": "Fb3QYZj3wZBTEkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987828397515637193",
+    "in_reply_to_user_id": "1124924918607409152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987755833867051495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fb3QYZj3wZBTEkd 超级酷的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987755825549684736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5XtZEoaMAAGX8i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1987681977303237013",
+        "created_at": "2025-11-10T10:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T11:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987828397515637193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124924918607409152",
+              "start": 0,
+              "username": "Fb3QYZj3wZBTEkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987828397515637193",
+        "in_reply_to_user_id": "1124924918607409152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987755833867051495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fb3QYZj3wZBTEkd 超级酷的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987755825549684736"
+          ]
+        },
+        "author_id": "1124924918607409152",
+        "conversation_id": "1987681977303237013",
+        "created_at": "2025-11-10T05:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987755833867051495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dSPnAvmxcr",
+              "end": 68,
+              "expanded_url": "https://x.com/Fb3QYZj3wZBTEkd/status/1987755833867051495/photo/1",
+              "media_key": "3_1987755825549684736",
+              "start": 45,
+              "url": "https://t.co/dSPnAvmxcr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987755833867051495",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987755148941406428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 當初買給另一把LCR用的，這種左輪上了裝飾彈真的好有感覺 https://t.co/dSPnAvmxcr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1307,
+          "like_count": 87868,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 8311
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-05T06:32:55.000Z",
+        "description": "來自台灣 airsoft玩家 軍事愛好者",
+        "id": "1124924918607409152",
+        "location": "台中市, 台灣",
+        "name": "WEI51D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825750127845453824/wRa0gJio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 535,
+          "like_count": 1032,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 677
+        },
+        "username": "Fb3QYZj3wZBTEkd",
+        "verified": false
+      }
+    ]
+  }
+}

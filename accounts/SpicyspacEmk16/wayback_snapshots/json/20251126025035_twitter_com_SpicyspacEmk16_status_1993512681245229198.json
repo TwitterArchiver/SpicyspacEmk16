@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1993506213087395968",
+    "created_at": "2025-11-26T02:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T03:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993512681245229198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "姫ちゃん",
+          "probability": 0.7783,
+          "start": 11,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1909632133607702528",
+          "start": 0,
+          "username": "hiiUoxoUo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993512681245229198",
+    "in_reply_to_user_id": "1909632133607702528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993511839356068275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiiUoxoUo 姫ちゃんもめちゃかわいい！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1993506213087395968",
+        "created_at": "2025-11-26T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993512681245229198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "姫ちゃん",
+              "probability": 0.7783,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1909632133607702528",
+              "start": 0,
+              "username": "hiiUoxoUo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993512681245229198",
+        "in_reply_to_user_id": "1909632133607702528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993511839356068275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiiUoxoUo 姫ちゃんもめちゃかわいい！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909632133607702528",
+        "conversation_id": "1993506213087395968",
+        "created_at": "2025-11-26T02:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993511839356068275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993511839356068275",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "vi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993506213087395968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 𝑽‌𝒆𝐫𝐲 𝒄𝒖𝒕𝒆... /•᷅•᷄\\੭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 1330,
+          "like_count": 89023,
+          "listed_count": 3,
+          "media_count": 673,
+          "tweet_count": 8454
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T15:39:33.000Z",
+        "description": "にこいち @x0o0x__________",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "x0o0x__________"
+              }
+            ]
+          }
+        },
+        "id": "1909632133607702528",
+        "location": "04 底辺ｷｬﾊﾞ嬢",
+        "name": "姫んたるくりにっく",
+        "pinned_tweet_id": "1978472931220238705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992487159048368128/I8ccK9b5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 87,
+          "like_count": 7815,
+          "listed_count": 4,
+          "media_count": 46,
+          "tweet_count": 2885
+        },
+        "username": "hiiUoxoUo",
+        "verified": false
+      }
+    ]
+  }
+}

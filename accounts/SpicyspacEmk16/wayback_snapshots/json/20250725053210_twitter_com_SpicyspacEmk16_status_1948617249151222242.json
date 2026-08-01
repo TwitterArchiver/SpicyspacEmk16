@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1948617249151222242",
+    "created_at": "2025-07-25T05:32:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T06:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948617249151222242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1718776457198280704",
+          "start": 3,
+          "username": "yng014522566684"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948617249151222242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948603399861403679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yng014522566684: 我是白婴 坐标青岛\n165 55 kg \n一个人搬出来住了需要钱所以接线下\n接S调 我是绳师女S 有线下调教经验\nM也可以\n爸爸活接纯绿半绿过门槛咨询\n\n求转发+关注 参与\n抽一个人两盒愚昧片\n一个人两盒普瑞\n7.30号开奖 https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_1948603390512271360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaObEAAKz4J.jpg",
+        "width": 630
+      },
+      {
+        "height": 1362,
+        "media_key": "3_1948603390524862464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaRbMAA0NG-.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1362,
+        "media_key": "3_1948603390461968389",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwrUdaCbgAUzH3-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1948617249151222242",
+        "created_at": "2025-07-25T05:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T06:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948617249151222242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1718776457198280704",
+              "start": 3,
+              "username": "yng014522566684"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948617249151222242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948603399861403679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yng014522566684: 我是白婴 坐标青岛\n165 55 kg \n一个人搬出来住了需要钱所以接线下\n接S调 我是绳师女S 有线下调教经验\nM也可以\n爸爸活接纯绿半绿过门槛咨询\n\n求转发+关注 参与\n抽一个人两盒愚昧片\n一个人两盒普瑞\n7.30号开奖 https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948603390512271360",
+            "3_1948603390524862464",
+            "3_1948603390461968389"
+          ]
+        },
+        "author_id": "1718776457198280704",
+        "conversation_id": "1948603399861403679",
+        "created_at": "2025-07-25T04:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T05:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948603399861403679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390512271360",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            },
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390524862464",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            },
+            {
+              "display_url": "pic.x.com/6guz6TZajJ",
+              "end": 136,
+              "expanded_url": "https://x.com/yng014522566684/status/1948603399861403679/photo/1",
+              "media_key": "3_1948603390461968389",
+              "start": 113,
+              "url": "https://t.co/6guz6TZajJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948603399861403679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是白婴 坐标青岛\n165 55 kg \n一个人搬出来住了需要钱所以接线下\n接S调 我是绳师女S 有线下调教经验\nM也可以\n爸爸活接纯绿半绿过门槛咨询\n\n求转发+关注 参与\n抽一个人两盒愚昧片\n一个人两盒普瑞\n7.30号开奖 https://t.co/6guz6TZajJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2773,
+          "following_count": 1285,
+          "like_count": 87656,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 7794
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-29T23:47:10.000Z",
+        "description": "🚪88接线下 我很好请给我钱",
+        "id": "1718776457198280704",
+        "name": "婴",
+        "pinned_tweet_id": "1948603399861403679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790813312378355713/4D4XM3PN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 93,
+          "like_count": 2046,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 545
+        },
+        "username": "yng014522566684",
+        "verified": false
+      }
+    ]
+  }
+}

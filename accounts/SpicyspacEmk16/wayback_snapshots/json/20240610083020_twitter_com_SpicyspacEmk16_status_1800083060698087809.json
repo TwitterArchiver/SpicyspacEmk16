@@ -1,0 +1,194 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1800080178749796421",
+    "created_at": "2024-06-10T08:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T09:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800083060698087809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800083060698087809",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800080178749796421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui 喂！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1800080178749796421",
+        "created_at": "2024-06-10T08:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T09:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800083060698087809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800083060698087809",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800080178749796421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui 喂！！！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800080167592980480"
+          ]
+        },
+        "author_id": "1798982562494414848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1800080178749796421",
+        "created_at": "2024-06-10T08:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T09:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800080178749796421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kQWsUT6xZK",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1800080178749796421/photo/1",
+              "media_key": "3_1800080167592980480",
+              "start": 24,
+              "url": "https://t.co/kQWsUT6xZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800080178749796421",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主人带我吃鸟贵族～🤪🤪🤪\n我怎么也这么抽象了🌿 https://t.co/kQWsUT6xZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 953,
+          "like_count": 80146,
+          "listed_count": 1,
+          "tweet_count": 4681
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength.\n万物皆腐，众生不灭。",
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "pinned_tweet_id": "1798991599424405683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 35,
+          "like_count": 45,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "Nokami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

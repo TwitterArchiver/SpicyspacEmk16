@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2047874878267867464",
+    "created_at": "2026-04-25T11:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T12:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048001095738532236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1960348162616672256",
+          "start": 0,
+          "username": "rainw20100301"
+        },
+        {
+          "end": 27,
+          "id": "2024195400442531841",
+          "start": 15,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048001095738532236",
+    "in_reply_to_user_id": "1960348162616672256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047874878267867464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainw20100301 @zhngy228309 呜呜宝宝你别管那些恶心的家伙…\n有些人到哪里都只会对别人充满恶意\n别生气抱抱 希望你可以开心🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2047874878267867464",
+        "created_at": "2026-04-25T11:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T12:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048001095738532236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1960348162616672256",
+              "start": 0,
+              "username": "rainw20100301"
+            },
+            {
+              "end": 27,
+              "id": "2024195400442531841",
+              "start": 15,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048001095738532236",
+        "in_reply_to_user_id": "1960348162616672256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047874878267867464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainw20100301 @zhngy228309 呜呜宝宝你别管那些恶心的家伙…\n有些人到哪里都只会对别人充满恶意\n别生气抱抱 希望你可以开心🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960348162616672256",
+        "conversation_id": "2047874878267867464",
+        "created_at": "2026-04-25T03:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047874878267867464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047874878267867464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3248,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "不要骂我了，我都来墙外发了，你们戾气不要这么重好不好？上来就操你妈、去跳楼，没必要这样，起不到任何伤害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3076,
+          "following_count": 1449,
+          "like_count": 94495,
+          "listed_count": 5,
+          "media_count": 785,
+          "tweet_count": 9561
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-26T14:26:50.000Z",
+        "description": "可以叫我雨温或uon\n10年丨♀️丨精神状态不稳定但温良丨od丨自残丨碎碎念 | 喜欢聊天！求同类互fo🫶没回fo是没看到，请一定要告诉我！",
+        "id": "1960348162616672256",
+        "location": "天国",
+        "name": "uon",
+        "pinned_tweet_id": "2044290333367017765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044998083092848640/LIM89P8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 262,
+          "like_count": 321,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 366
+        },
+        "username": "rainw20100301",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我爱发啥发啥\nod｜自残｜抽烟\n10年｜162cm｜40kg 可以叫我小予喵🥺\n互fo我爱你们w 回fo私信 查成分\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "天堂",
+        "name": "痂",
+        "pinned_tweet_id": "2045432424860119448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044364789103935488/__gBwnPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 564,
+          "like_count": 6196,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 2442
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

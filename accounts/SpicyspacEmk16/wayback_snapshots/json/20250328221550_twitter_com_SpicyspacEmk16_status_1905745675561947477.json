@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1905405023582089692",
+    "created_at": "2025-03-28T22:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T23:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905745675561947477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3186322153",
+          "start": 0,
+          "username": "aa123429181tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905745675561947477",
+    "in_reply_to_user_id": "3186322153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905405023582089692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa123429181tw 居然有马裤螺丝德尔塔！！激动！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1905405023582089692",
+        "created_at": "2025-03-28T22:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T23:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905745675561947477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3186322153",
+              "start": 0,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905745675561947477",
+        "in_reply_to_user_id": "3186322153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905405023582089692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa123429181tw 居然有马裤螺丝德尔塔！！激动！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3186322153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1236060574254952448",
+              "name": "Super Robot Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1236060574254952448",
+              "name": "Super Robot Wars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1248370550247849988",
+              "name": "Tokusatsu"
+            }
+          }
+        ],
+        "conversation_id": "1905405023582089692",
+        "created_at": "2025-03-27T23:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T00:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905405023582089692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/famitsu/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/famitsu/status/1905264477261746326",
+              "start": 26,
+              "url": "https://t.co/Ije4B0vIpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905405023582089692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905264477261746326",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "竟然..竟然還有新作!?我等著啊啊...\\OAQ/ https://t.co/Ije4B0vIpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2434,
+          "following_count": 1085,
+          "like_count": 83982,
+          "listed_count": 3,
+          "media_count": 503,
+          "tweet_count": 6982
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲...\\OwO/\n其實我會的也不多啦~\n\n還有我是男的,只是喜歡穿女裝而已,而且沒有很漂亮...O_O/\n\n另外,我的畫技很差所以不接任何委託喔~(´・ω・`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/960150",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/960150",
+                "start": 0,
+                "url": "https://t.co/EYNZRnOMbn"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876658964844449792/dQuuXver_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 1528,
+          "like_count": 142005,
+          "listed_count": 16,
+          "media_count": 2280,
+          "tweet_count": 59921
+        },
+        "url": "https://t.co/EYNZRnOMbn",
+        "username": "aa123429181tw",
+        "verified": false
+      }
+    ]
+  }
+}

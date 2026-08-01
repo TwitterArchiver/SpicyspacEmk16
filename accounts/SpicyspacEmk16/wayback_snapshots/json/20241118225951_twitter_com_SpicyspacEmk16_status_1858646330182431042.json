@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1858559527718973585",
+    "created_at": "2024-11-18T22:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T23:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858646330182431042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1418508620883390465",
+          "start": 0,
+          "username": "IzolitaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858646330182431042",
+    "in_reply_to_user_id": "1418508620883390465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858559527718973585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzolitaR 生日快乐🎂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1858559527718973585].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1858559527718973585",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1858559527718973585"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1858559527718973585",
+        "created_at": "2024-11-18T22:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T23:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858646330182431042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1418508620883390465",
+              "start": 0,
+              "username": "IzolitaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858646330182431042",
+        "in_reply_to_user_id": "1418508620883390465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858559527718973585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzolitaR 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 1116,
+          "like_count": 87467,
+          "listed_count": 2,
+          "tweet_count": 6552
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-23T09:50:01.000Z",
+        "description": "@Molybdicizo  ♪✧♫•*¨*•.¸¸♪✧♫•*¨*•.¸¸♪☆〜（ゝ。∂）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "Molybdicizo"
+              }
+            ]
+          }
+        },
+        "id": "1418508620883390465",
+        "location": "izorld",
+        "name": "iZolita",
+        "pinned_tweet_id": "1812151722493792578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818330551826427904/Mz9zH3Ia_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 622,
+          "like_count": 471,
+          "listed_count": 1,
+          "tweet_count": 4429
+        },
+        "username": "IzolitaR",
+        "verified": false
+      }
+    ]
+  }
+}

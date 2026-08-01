@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1950753919837352013",
+    "created_at": "2025-08-03T21:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T22:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952116108254961772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1749379104032649216",
+          "start": 0,
+          "username": "114514kaeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952116108254961772",
+    "in_reply_to_user_id": "1749379104032649216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951987743652798671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@114514kaeri そう…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1950753919837352013",
+        "created_at": "2025-08-03T21:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T22:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952116108254961772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1749379104032649216",
+              "start": 0,
+              "username": "114514kaeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952116108254961772",
+        "in_reply_to_user_id": "1749379104032649216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951987743652798671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@114514kaeri そう…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749379104032649216",
+        "conversation_id": "1950753919837352013",
+        "created_at": "2025-08-03T12:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T13:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951987743652798671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951987743652798671",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950753919837352013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 是崴脚吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2777,
+          "following_count": 1293,
+          "like_count": 86452,
+          "listed_count": 2,
+          "media_count": 581,
+          "tweet_count": 7888
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T10:31:41.000Z",
+        "description": "我是绝对的政治不正确，讨厌任何形式和方面的政治正确，我讨厌封建思想，我恨猪大大，讨厌二极管，喜歡研究心理，清真饮食，厌蠢症",
+        "id": "1749379104032649216",
+        "name": "藤原楽進（大食い）",
+        "pinned_tweet_id": "1853807359941808317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921357942928125953/3LwgI0K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 247,
+          "like_count": 4155,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2455
+        },
+        "username": "114514kaeri",
+        "verified": false
+      }
+    ]
+  }
+}

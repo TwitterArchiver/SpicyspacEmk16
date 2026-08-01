@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1919726033500024838",
+    "created_at": "2025-05-06T13:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T14:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919750187888853189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1169796366869991425",
+          "start": 0,
+          "username": "15O1473"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919750187888853189",
+    "in_reply_to_user_id": "1169796366869991425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919749129535680648",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@15O1473 特别感谢特别感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1919726033500024838",
+        "created_at": "2025-05-06T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919750187888853189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1169796366869991425",
+              "start": 0,
+              "username": "15O1473"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919750187888853189",
+        "in_reply_to_user_id": "1169796366869991425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919749129535680648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@15O1473 特别感谢特别感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1169796366869991425",
+        "conversation_id": "1919726033500024838",
+        "created_at": "2025-05-06T13:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T14:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919749129535680648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "description": "跨性别男性知识库",
+              "display_url": "ftm.wiki/zh-cn/hrt/inje…",
+              "end": 39,
+              "expanded_url": "https://ftm.wiki/zh-cn/hrt/injection-guide/#fnref:1",
+              "start": 16,
+              "status": 200,
+              "title": "注射指南 - FtM.wiki",
+              "unwound_url": "https://ftm.wiki/zh-cn/hrt/injection-guide/#fnref:1",
+              "url": "https://t.co/cj6mNnV4kA"
+            },
+            {
+              "description": "皮下注射的给药途径是在皮下脂肪层（与静脉注射不同，静脉注射的给药是直接注入血管）。因为比静脉注射推药慢且缓，所以皮下注射往往作为疫苗和药物（比如，I型糖尿病通常用这种注射方式来注射胰岛素）的给药方式。需要皮下注射的药物处方单，通常都应该附有正确进行注射的详细指导。本文的这些说明仅作为指导。在家进行任何注射前应询问医护人员。以下是如何进行皮下注射的详细说明。",
+              "display_url": "zh.wikihow.com/%e8%bf%9b%e8%a…",
+              "end": 63,
+              "expanded_url": "https://zh.wikihow.com/%e8%bf%9b%e8%a1%8c%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84",
+              "start": 40,
+              "status": 200,
+              "title": "3种方法来进行皮下注射",
+              "unwound_url": "https://zh.wikihow.com/%e8%bf%9b%e8%a1%8c%e7%9a%ae%e4%b8%8b%e6%b3%a8%e5%b0%84",
+              "url": "https://t.co/QccaNRYUFt"
+            },
+            {
+              "description": "如果你或者你的家人患有某种疾病，需要注射药物，那么学习肌肉注射（IM）或许就成了你的必修课。当然，医生会根据你的情况做决定，护士也会教授肌肉注射的具体方法，总的来说，应该和以下所说基本一致。 首先洗干净手。良好的卫生能最小化感染的风险。用肥皂和温水洗手不能短于20秒。",
+              "display_url": "zh.wikihow.com/%e8%bf%9b%e8%a…",
+              "end": 87,
+              "expanded_url": "https://zh.wikihow.com/%e8%bf%9b%e8%a1%8c%e8%82%8c%e8%82%89%e6%b3%a8%e5%b0%84",
+              "images": [
+                {
+                  "height": 2400,
+                  "url": "https://pbs.twimg.com/news_img/1885720337142145024/2q8PGkk8?format=jpg&name=orig",
+                  "width": 3200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1885720337142145024/2q8PGkk8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "3种方法来进行肌肉注射",
+              "unwound_url": "https://zh.wikihow.com/%e8%bf%9b%e8%a1%8c%e8%82%8c%e8%82%89%e6%b3%a8%e5%b0%84",
+              "url": "https://t.co/AuPcqgU8FC"
+            },
+            {
+              "description": "跨性別者因生理性別與心理性別相互矛盾，造成性別不安的情形。透過「賀爾蒙置換療法 HRT」，改變生理上的性別特徵，使其與自身性別認同一致，以減低性別不安造成的焦慮或其他負面影響。從認識HRT是什麼，到如何使用、有什麼影響...本篇文章帶你深入了解跨男賀爾蒙治療的眉眉角角。",
+              "display_url": "trans-attaboy.com/hrt-guidebook/",
+              "end": 111,
+              "expanded_url": "https://trans-attaboy.com/hrt-guidebook/",
+              "images": [
+                {
+                  "height": 924,
+                  "url": "https://pbs.twimg.com/news_img/1919749172443439104/3n30sdZs?format=jpg&name=orig",
+                  "width": 1386
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1919749172443439104/3n30sdZs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "跨男的賀爾蒙置換療法（HRT）實用入門手冊 | Attaboy",
+              "unwound_url": "https://trans-attaboy.com/hrt-guidebook/",
+              "url": "https://t.co/3iRiaTgHCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919749129535680648",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919726033500024838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 https://t.co/cj6mNnV4kA\nhttps://t.co/QccaNRYUFt\nhttps://t.co/AuPcqgU8FC\nhttps://t.co/3iRiaTgHCe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 1152,
+          "like_count": 84640,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 7256
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-06T02:16:44.000Z",
+        "description": "呟き垢丨Trans! (they or She)丨GNHT R5.3.13丨ADHD丨Feminism丨Anarchism丨中文・日本語・English (poor) 丨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuyutuki.org",
+                "end": 23,
+                "expanded_url": "https://fuyutuki.org/",
+                "start": 0,
+                "url": "https://t.co/svuPnDSqd3"
+              }
+            ]
+          }
+        },
+        "id": "1169796366869991425",
+        "location": "MyDeadBody",
+        "name": "冬月 チヤ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878750404177166336/ein0t76C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 1074,
+          "like_count": 45421,
+          "listed_count": 4,
+          "media_count": 508,
+          "tweet_count": 7768
+        },
+        "url": "https://t.co/svuPnDSqd3",
+        "username": "15O1473",
+        "verified": false
+      }
+    ]
+  }
+}

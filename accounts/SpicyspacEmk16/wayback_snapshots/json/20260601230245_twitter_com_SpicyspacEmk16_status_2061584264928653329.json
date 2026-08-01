@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2060985824469196807",
+    "created_at": "2026-06-01T23:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061584264928653329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "912044845",
+          "start": 0,
+          "username": "osala593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061584264928653329",
+    "in_reply_to_user_id": "912044845",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060985824469196807",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osala593 コメント失礼します...正直病院の名前知りたいけど...最近はめちゃ手術のこと困ってますですけど...親から嘘をつき続け「いつか必ずできるになるよ」とか言って...昨日マジちょうとだけで飛び降りたわ...日本語上手く伝え無くてごめん..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2060985824469196807",
+        "created_at": "2026-06-01T23:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061584264928653329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "912044845",
+              "start": 0,
+              "username": "osala593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061584264928653329",
+        "in_reply_to_user_id": "912044845",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060985824469196807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osala593 コメント失礼します...正直病院の名前知りたいけど...最近はめちゃ手術のこと困ってますですけど...親から嘘をつき続け「いつか必ずできるになるよ」とか言って...昨日マジちょうとだけで飛び降りたわ...日本語上手く伝え無くてごめん..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "912044845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2060985824469196807",
+        "created_at": "2026-05-31T07:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T08:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060985824469196807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060985824469196807",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 16474,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "日帰りSRSのポストが流れてきた。\n滲出液ドレーン入った状態で帰宅って...心配💧\n私も穴無し翌日退院特に我慢する程の痛みもなくだったけど、ホテルまでの帰路はがに股だったしましてや当日ドレーン刺さった状態で帰されたらとても無理だったと思う。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 1521,
+          "like_count": 97279,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10163
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2012-10-29T08:43:44.000Z",
+        "description": "#MtF\nフラホルH29～、診断 2023/11/27、改名 2025/07/09、SRS 2026/02/16、戸変2026/03/26\n酒好き🍶湯巡り好き♨️ 茨城北部生息\n\n#ingress 緑組\n\n#おさらのSRS体験記\nにてSRS(性別適合手術)を受けた感想を書いてます。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "MtF"
+              },
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "ingress"
+              },
+              {
+                "end": 114,
+                "start": 103,
+                "tag": "おさらのSRS体験記"
+              }
+            ]
+          }
+        },
+        "id": "912044845",
+        "location": "UTC+9時間",
+        "name": "まいこ@元おさら",
+        "pinned_tweet_id": "2037098610123563495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008466051487653888/yB7DiHMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 1349,
+          "like_count": 180399,
+          "listed_count": 18,
+          "media_count": 1351,
+          "tweet_count": 16035
+        },
+        "username": "osala593",
+        "verified": true
+      }
+    ]
+  }
+}

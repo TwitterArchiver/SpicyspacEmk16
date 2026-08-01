@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043483799217123725",
+    "created_at": "2026-04-13T00:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T01:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043483799217123725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jourikiichirou…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/jourikiichirou/status/2043296488227541473",
+          "start": 7,
+          "url": "https://t.co/ryIRcbxHvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043483799217123725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043296488227541473",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就是我😭 https://t.co/ryIRcbxHvf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 310,
+        "media_key": "3_2043296483995467777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs_U4tawAEM1Cv.jpg",
+        "width": 281
+      },
+      {
+        "height": 317,
+        "media_key": "3_2043296483999670272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs_U4ua4AA0ntC.jpg",
+        "width": 279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043483799217123725",
+        "created_at": "2026-04-13T00:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043483799217123725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jourikiichirou…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/jourikiichirou/status/2043296488227541473",
+              "start": 7,
+              "url": "https://t.co/ryIRcbxHvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043483799217123725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043296488227541473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是我😭 https://t.co/ryIRcbxHvf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043296483995467777",
+            "3_2043296483999670272"
+          ]
+        },
+        "author_id": "1615937518364692482",
+        "conversation_id": "2043296488227541473",
+        "created_at": "2026-04-12T11:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043296488227541473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 41,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483995467777",
+              "start": 18,
+              "url": "https://t.co/AiAmUF4GQq"
+            },
+            {
+              "display_url": "pic.x.com/AiAmUF4GQq",
+              "end": 41,
+              "expanded_url": "https://x.com/jourikiichirou/status/2043296488227541473/photo/1",
+              "media_key": "3_2043296483999670272",
+              "start": 18,
+              "url": "https://t.co/AiAmUF4GQq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043296488227541473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 404836,
+          "like_count": 6166,
+          "quote_count": 188,
+          "reply_count": 35,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "“ガチ”で友達がいないので毎日これ https://t.co/AiAmUF4GQq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1407,
+          "like_count": 93381,
+          "listed_count": 5,
+          "media_count": 766,
+          "tweet_count": 9293
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-19T05:01:51.000Z",
+        "description": "笑みが止まらん故w w w w @IKlSUGI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "IKlSUGI"
+              }
+            ]
+          }
+        },
+        "id": "1615937518364692482",
+        "location": "2024海軍中将",
+        "name": "めろう",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925143541803864064/K5R1zSbr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 1184,
+          "like_count": 22146,
+          "listed_count": 11,
+          "media_count": 1172,
+          "tweet_count": 7241
+        },
+        "username": "jourikiichirou",
+        "verified": false
+      }
+    ]
+  }
+}

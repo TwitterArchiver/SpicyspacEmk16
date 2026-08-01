@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071011538115440640"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2071011551298130190",
+    "created_at": "2026-06-27T23:23:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T00:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071011551298130190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHdLlrjsS5",
+          "end": 43,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2071011551298130190/photo/1",
+          "media_key": "3_2071011538115440640",
+          "start": 20,
+          "url": "https://t.co/xHdLlrjsS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071011551298130190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在韩餐外卖里吃到了好多这个…\n抑郁了😭 https://t.co/xHdLlrjsS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2071011538115440640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL22BW8bMAAmIoP.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071011538115440640"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2071011551298130190",
+        "created_at": "2026-06-27T23:23:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T00:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071011551298130190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHdLlrjsS5",
+              "end": 43,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2071011551298130190/photo/1",
+              "media_key": "3_2071011538115440640",
+              "start": 20,
+              "url": "https://t.co/xHdLlrjsS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071011551298130190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在韩餐外卖里吃到了好多这个…\n抑郁了😭 https://t.co/xHdLlrjsS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1570,
+          "like_count": 97684,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 10370
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

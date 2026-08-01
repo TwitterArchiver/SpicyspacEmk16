@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1970048198355095878",
+    "created_at": "2025-09-22T09:05:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T10:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970051828797821140"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1970051828797821140",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970048198355095878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次挑战鸡汤拉面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1970048198355095878",
+        "created_at": "2025-09-22T09:05:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970051828797821140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970051828797821140",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970048198355095878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次挑战鸡汤拉面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1970048198355095878",
+        "created_at": "2025-09-22T08:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970048198355095878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1969732839181861205",
+              "start": 67,
+              "url": "https://t.co/y6muZDWFIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970048198355095878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969732839181861205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天又试了一次\n早上七点开始炖到现在\n现在家里的味道是真的变得跟拉面店一模一样了\n吃了下感觉基本还原了家系的汤底味\n可以说是很成功了 https://t.co/y6muZDWFIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 1289,
+          "like_count": 86775,
+          "listed_count": 4,
+          "media_count": 609,
+          "tweet_count": 7992
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

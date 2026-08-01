@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2071028097940697556",
+    "created_at": "2026-06-28T04:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071091969628229652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228406233738072064",
+          "start": 0,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071091969628229652",
+    "in_reply_to_user_id": "1228406233738072064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071028097940697556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AR10545614 🥺下次我也要拍一个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2071028097940697556",
+        "created_at": "2026-06-28T04:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071091969628229652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071091969628229652",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071028097940697556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 🥺下次我也要拍一个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228406233738072064",
+        "conversation_id": "2071028097940697556",
+        "created_at": "2026-06-28T00:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071028097940697556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sikigane_0705/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/sikigane_0705/status/2070351893059244447",
+              "start": 27,
+              "url": "https://t.co/aLjGXHNSND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071028097940697556",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070351893059244447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 你看看人家  好整齐 https://t.co/aLjGXHNSND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1571,
+          "like_count": 97687,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 10373
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 975,
+          "like_count": 321,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

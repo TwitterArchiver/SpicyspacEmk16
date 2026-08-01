@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790385526966727026",
+    "created_at": "2024-05-14T14:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T15:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790385526966727026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/okami_rui/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/okami_rui/status/1790216063743099169",
+          "start": 30,
+          "url": "https://t.co/Q18aOsOAom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790385526966727026",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790216063743099169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被卖了还要帮别人数钱说的就是我了\n只能说我这次是真的心寒了 https://t.co/Q18aOsOAom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790385526966727026",
+        "created_at": "2024-05-14T14:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T15:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790385526966727026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/okami_rui/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/okami_rui/status/1790216063743099169",
+              "start": 30,
+              "url": "https://t.co/Q18aOsOAom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790385526966727026",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790216063743099169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被卖了还要帮别人数钱说的就是我了\n只能说我这次是真的心寒了 https://t.co/Q18aOsOAom"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790216054972755969",
+            "3_1790216054972813312",
+            "3_1790216054977032192",
+            "3_1790216054981197824"
+          ]
+        },
+        "author_id": "445317178",
+        "conversation_id": "1790216063743099169",
+        "created_at": "2024-05-14T03:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T04:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790216063743099169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/U0hY704CLx",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1790216063743099169/photo/1",
+              "media_key": "3_1790216054972755969",
+              "start": 140,
+              "url": "https://t.co/U0hY704CLx"
+            },
+            {
+              "display_url": "pic.twitter.com/U0hY704CLx",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1790216063743099169/photo/1",
+              "media_key": "3_1790216054972813312",
+              "start": 140,
+              "url": "https://t.co/U0hY704CLx"
+            },
+            {
+              "display_url": "pic.twitter.com/U0hY704CLx",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1790216063743099169/photo/1",
+              "media_key": "3_1790216054977032192",
+              "start": 140,
+              "url": "https://t.co/U0hY704CLx"
+            },
+            {
+              "display_url": "pic.twitter.com/U0hY704CLx",
+              "end": 163,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1790216063743099169/photo/1",
+              "media_key": "3_1790216054981197824",
+              "start": 140,
+              "url": "https://t.co/U0hY704CLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790216063743099169",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2825,
+          "like_count": 19,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为看到段似曾相识的话实在是憋不住了。直接开锤：\n推特5k粉网红流浪小狗面包和她前男友啥人：都是身边认识个人就可以上一下的那种恶心人的b玩意\n\np1最近的\np2年初和我\np3狡辩为什么和我边缘\np4我和朋友吐槽这次她和前任分手来找我还在勾引我\n\n建议这次复合之后这俩直接🔒死嗷！ https://t.co/U0hY704CLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 925,
+          "like_count": 78879,
+          "listed_count": 1,
+          "tweet_count": 4360
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-24T07:56:42.000Z",
+        "description": "中国語🈶️雑多垢/日常アニメゲーム自撮り/⚔️武装娘🔫/top理工商卒/INTJ-A 5w6 541/飛鳥たきな推し/社交不安/LesFem🌈娘T/中立善良/保守派不正常少女/网络野爹/负能树洞号⚠️/提供有偿战略管理咨询/🇨🇳🇺🇸🇯🇵/他SNS⬇️link⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okamirui",
+                "end": 23,
+                "expanded_url": "https://lit.link/okamirui",
+                "start": 0,
+                "url": "https://t.co/imiQPkPEhW"
+              }
+            ]
+          }
+        },
+        "id": "445317178",
+        "location": "Andromeda",
+        "name": "Sephy✨渾沌神Khorne",
+        "pinned_tweet_id": "1770788281124364339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650703663994933248/cMU1JaF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 274,
+          "like_count": 4723,
+          "listed_count": 6,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/imiQPkPEhW",
+        "username": "Okami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

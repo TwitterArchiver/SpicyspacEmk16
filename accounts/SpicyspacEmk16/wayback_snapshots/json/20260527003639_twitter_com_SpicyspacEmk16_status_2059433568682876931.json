@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1805464517008293940",
+    "created_at": "2026-05-27T00:36:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:36:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059433568682876931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1647891608891973632",
+          "start": 0,
+          "username": "qs6zn"
+        },
+        {
+          "end": 14,
+          "id": "1683090078778929152",
+          "start": 7,
+          "username": "VSp7fk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059433568682876931",
+    "in_reply_to_user_id": "1647891608891973632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052304544030474480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qs6zn @VSp7fk 抱歉打扰您…哥哥不嫌弃的话我这边的服务可以满足哥哥的各种需求🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1805464517008293940",
+        "created_at": "2026-05-27T00:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059433568682876931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1647891608891973632",
+              "start": 0,
+              "username": "qs6zn"
+            },
+            {
+              "end": 14,
+              "id": "1683090078778929152",
+              "start": 7,
+              "username": "VSp7fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059433568682876931",
+        "in_reply_to_user_id": "1647891608891973632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052304544030474480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qs6zn @VSp7fk 抱歉打扰您…哥哥不嫌弃的话我这边的服务可以满足哥哥的各种需求🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647891608891973632",
+        "conversation_id": "1805464517008293940",
+        "created_at": "2026-05-07T08:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052304544030474480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1683090078778929152",
+              "start": 0,
+              "username": "VSp7fk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052304544030474480",
+        "in_reply_to_user_id": "1683090078778929152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805464517008293940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VSp7fk 请问接线下吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1518,
+          "like_count": 97171,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10138
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-17T09:15:57.000Z",
+        "description": "",
+        "id": "1647891608891973632",
+        "location": "Beijing",
+        "name": "さよなら絵梨",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 846,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 120
+        },
+        "username": "qs6zn",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T12:22:12.000Z",
+        "description": "在日本留学的男孩子，XP是肌肉巨乳futa，最近喜欢上了露出",
+        "id": "1683090078778929152",
+        "name": "V 菲酱 S",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920074181817085952/U3PF-uKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 47,
+          "like_count": 678,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 171
+        },
+        "username": "VSp7fk",
+        "verified": false
+      }
+    ]
+  }
+}

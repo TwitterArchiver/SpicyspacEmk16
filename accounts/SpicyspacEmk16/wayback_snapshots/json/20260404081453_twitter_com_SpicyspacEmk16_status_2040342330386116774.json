@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2039669211107299642",
+    "created_at": "2026-04-04T08:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040342330386116774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1738822705003311104",
+          "start": 0,
+          "username": "kkk456504869044"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040342330386116774",
+    "in_reply_to_user_id": "1738822705003311104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039669211107299642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkk456504869044 其实效果和玉米片一模一样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2039669211107299642",
+        "created_at": "2026-04-04T08:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040342330386116774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1738822705003311104",
+              "start": 0,
+              "username": "kkk456504869044"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040342330386116774",
+        "in_reply_to_user_id": "1738822705003311104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039669211107299642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkk456504869044 其实效果和玉米片一模一样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738822705003311104",
+        "conversation_id": "2039669211107299642",
+        "created_at": "2026-04-02T11:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039669211107299642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039669211107299642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "盐野义到底什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3002,
+          "following_count": 1400,
+          "like_count": 92801,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 9165
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-24T07:23:52.000Z",
+        "description": "十年双相+玉米片重度依赖",
+        "id": "1738822705003311104",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "k kk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930258122494619652/Sf3gh16p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 48,
+          "like_count": 32,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "username": "kkk456504869044",
+        "verified": false
+      }
+    ]
+  }
+}

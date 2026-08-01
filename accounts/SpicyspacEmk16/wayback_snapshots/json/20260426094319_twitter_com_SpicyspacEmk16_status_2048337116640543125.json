@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048334204182937752",
+    "created_at": "2026-04-26T09:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048337116640543125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1708301558516207616",
+          "start": 0,
+          "username": "816kei_riko325"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048337116640543125",
+    "in_reply_to_user_id": "1708301558516207616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048335991367233864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@816kei_riko325 可能我是因为大城市人流量大然后我基本快背下来店员的班表了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048334204182937752",
+        "created_at": "2026-04-26T09:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048337116640543125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1708301558516207616",
+              "start": 0,
+              "username": "816kei_riko325"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048337116640543125",
+        "in_reply_to_user_id": "1708301558516207616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048335991367233864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@816kei_riko325 可能我是因为大城市人流量大然后我基本快背下来店员的班表了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708301558516207616",
+        "conversation_id": "2048334204182937752",
+        "created_at": "2026-04-26T09:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048335991367233864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048335991367233864",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048334204182937752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 好像不是药店的问题 我经常在我家附近三家不同药店买药 后来都不卖给我了他们 店员都认识我了不卖给我 买的太频繁了没办法只能坐电车去别的站买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 1455,
+          "like_count": 94476,
+          "listed_count": 5,
+          "media_count": 789,
+          "tweet_count": 9601
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T02:03:46.000Z",
+        "description": "💟\nずっとそばにいるね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/overdose_rourou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/overdose_rourou",
+                "start": 0,
+                "url": "https://t.co/3KbFAs3dO8"
+              }
+            ]
+          }
+        },
+        "id": "1708301558516207616",
+        "location": "地獄",
+        "name": "りこ",
+        "pinned_tweet_id": "1795717221689557493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048332758595092480/Ey_JW-7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 152,
+          "like_count": 501,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 772
+        },
+        "url": "https://t.co/3KbFAs3dO8",
+        "username": "816kei_riko325",
+        "verified": false
+      }
+    ]
+  }
+}

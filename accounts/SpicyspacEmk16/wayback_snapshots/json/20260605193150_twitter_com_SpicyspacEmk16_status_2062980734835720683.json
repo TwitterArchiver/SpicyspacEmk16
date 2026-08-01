@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2062980734835720683",
+    "created_at": "2026-06-05T19:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T20:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062980734835720683"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/2062855695100469531",
+          "start": 15,
+          "url": "https://t.co/VqzZywuUpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062980734835720683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062855695100469531",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谢谢台风救了一个小女孩的命… https://t.co/VqzZywuUpI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062980734835720683",
+        "created_at": "2026-06-05T19:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T20:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062980734835720683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2062855695100469531",
+              "start": 15,
+              "url": "https://t.co/VqzZywuUpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062980734835720683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062855695100469531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谢谢台风救了一个小女孩的命… https://t.co/VqzZywuUpI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062855695100469531",
+        "created_at": "2026-06-05T11:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062855695100469531"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062855695100469531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 326,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思思酱现在在大久保公园站街中…\n6000元包夜\n虽然廉价但是绝不会少了服务"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 1532,
+          "like_count": 97378,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 10208
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

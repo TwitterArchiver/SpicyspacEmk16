@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057192671710753051",
+    "created_at": "2026-05-20T22:15:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:15:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057223748550562008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2005739449058230272",
+          "start": 0,
+          "username": "usagimm208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057223748550562008",
+    "in_reply_to_user_id": "2005739449058230272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057192671710753051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usagimm208 老一辈的恐怖代沟…😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057192671710753051",
+        "created_at": "2026-05-20T22:15:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:15:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057223748550562008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2005739449058230272",
+              "start": 0,
+              "username": "usagimm208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057223748550562008",
+        "in_reply_to_user_id": "2005739449058230272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057192671710753051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usagimm208 老一辈的恐怖代沟…😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2005739449058230272",
+        "conversation_id": "2057192671710753051",
+        "created_at": "2026-05-20T20:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T21:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057192671710753051"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057192671710753051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前闺蜜让我恐育，闪焰王牌让我恐婚\n我已经四年、即将第五年没谈过恋爱\n尤其是我爸在我上大学之后就催我谈对象还想让我回本地相亲，他想让我谈个三四年恋爱稳定了就毕业结婚\n这听起来太吓人了，所以我今年年初就独自跑来成都了，生怕给我拉回去介绍对象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1476,
+          "like_count": 96341,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 9925
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T20:35:54.000Z",
+        "description": "暴食导致长胖10斤、每天还因为吃不饱而充满怨气的僵尸ぐる，皮下有双重人格随便切换",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/soukoo208?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/soukoo208?igsh=dW9hM3Npam8zZXB3&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/jZLCPobOgo"
+              }
+            ]
+          }
+        },
+        "id": "2005739449058230272",
+        "name": "ぐる",
+        "pinned_tweet_id": "2054194679433077045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056491693529288704/0alTgWlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 18,
+          "like_count": 1118,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 420
+        },
+        "url": "https://t.co/jZLCPobOgo",
+        "username": "usagimm208",
+        "verified": false
+      }
+    ]
+  }
+}

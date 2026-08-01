@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1942297801242861880",
+    "created_at": "2025-07-07T19:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T20:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942298527776006210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942298527776006210",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942298238327148749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai 好像没有｡ﾟ( ﾟஇωஇﾟ)ﾟ｡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1942297801242861880",
+        "created_at": "2025-07-07T19:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942298527776006210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942298527776006210",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942298238327148749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai 好像没有｡ﾟ( ﾟஇωஇﾟ)ﾟ｡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870078920621731842",
+        "conversation_id": "1942297801242861880",
+        "created_at": "2025-07-07T19:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T20:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942298238327148749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942298238327148749",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942297801242861880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 Rojita有没有42肩宽能穿的款"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 1280,
+          "like_count": 86925,
+          "listed_count": 2,
+          "media_count": 558,
+          "tweet_count": 7708
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "Chinese | 男の娘 生理♂ | 性別流動 | OD 斷藥中| 卒業Vtuber | 私はうつ病と不安障害を抱えてるの | 趣味Cosplay、メイド服 王子系ロリータ服 天使界隈| DM ⭕ | 妹→ @Bronbangbangbon 内容確認後申請を🙇🏻‍♀️🗝️ @Mirai1145144",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Bronbangbangbon"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Mirai1145144"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/ReisuiMirai/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/ReisuiMirai/",
+                "start": 0,
+                "url": "https://t.co/QdZgHerG32"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "靈水未來",
+        "pinned_tweet_id": "1942171007420383308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941785235714191360/nq4uTLFa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 274,
+          "like_count": 12140,
+          "listed_count": 6,
+          "media_count": 207,
+          "tweet_count": 2024
+        },
+        "url": "https://t.co/QdZgHerG32",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

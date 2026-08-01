@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1938652494131012074",
+    "created_at": "2025-06-28T05:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938828893395591244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719306859558195200",
+          "start": 0,
+          "username": "harusaki_0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938828893395591244",
+    "in_reply_to_user_id": "1719306859558195200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938828727309500896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@harusaki_0421 是最新的！（我只有小天使系列的）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1938828727309500896].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1938828727309500896",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1938828727309500896"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1938652494131012074",
+        "created_at": "2025-06-28T05:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938828893395591244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719306859558195200",
+              "start": 0,
+              "username": "harusaki_0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938828893395591244",
+        "in_reply_to_user_id": "1719306859558195200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938828727309500896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@harusaki_0421 是最新的！（我只有小天使系列的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1266,
+          "like_count": 86681,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 7647
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-31T10:54:43.000Z",
+        "description": "🇹🇼/主頁雜亂/我是精神病（嘗試轉正中）/日本語苦手/女的/可能算是裏垢",
+        "id": "1719306859558195200",
+        "location": "Taiwan",
+        "name": "はる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938614993584574464/mJMR5IRE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 146,
+          "like_count": 7401,
+          "listed_count": 2,
+          "media_count": 372,
+          "tweet_count": 4743
+        },
+        "username": "harusaki_0421",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2074745669001060763",
+    "created_at": "2026-07-08T19:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T20:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074939109358043608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228406233738072064",
+          "start": 0,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074939109358043608",
+    "in_reply_to_user_id": "1228406233738072064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074745669001060763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AR10545614 🌞氵🌻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2074745639054045184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr6Ko8bcAAVU5z.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4000,
+        "media_key": "3_2074745656191954945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMr6LoybMAEYSRj.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2074745669001060763",
+        "created_at": "2026-07-08T19:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074939109358043608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074939109358043608",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074745669001060763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 🌞氵🌻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074745639054045184",
+            "3_2074745656191954945"
+          ]
+        },
+        "author_id": "1228406233738072064",
+        "conversation_id": "2074745669001060763",
+        "created_at": "2026-07-08T06:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T07:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074745669001060763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1530699087133421568",
+              "start": 32,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AuZ1pVyt8Z",
+              "end": 71,
+              "expanded_url": "https://x.com/AR10545614/status/2074745669001060763/photo/1",
+              "media_key": "3_2074745639054045184",
+              "start": 48,
+              "url": "https://t.co/AuZ1pVyt8Z"
+            },
+            {
+              "display_url": "pic.x.com/AuZ1pVyt8Z",
+              "end": 71,
+              "expanded_url": "https://x.com/AR10545614/status/2074745669001060763/photo/1",
+              "media_key": "3_2074745656191954945",
+              "start": 48,
+              "url": "https://t.co/AuZ1pVyt8Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074745669001060763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朝霞不出门，暮霞行千里，昨天飞了四千公里到东京收到了花，谢谢宝宝@SpicyspacEmk16 https://t.co/AuZ1pVyt8Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 1569,
+          "like_count": 97770,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 10415
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 975,
+          "like_count": 337,
+          "listed_count": 6,
+          "media_count": 213,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

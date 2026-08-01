@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1946426556899070368",
+    "created_at": "2025-07-19T04:54:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T05:54:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946433340963540994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1194115298158247936",
+          "start": 0,
+          "username": "yawarakai421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946433340963540994",
+    "in_reply_to_user_id": "1194115298158247936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946429564890353711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yawarakai421 有可能）马斯克是真的抽象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1946426556899070368",
+        "created_at": "2025-07-19T04:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946433340963540994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1194115298158247936",
+              "start": 0,
+              "username": "yawarakai421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946433340963540994",
+        "in_reply_to_user_id": "1194115298158247936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946429564890353711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yawarakai421 有可能）马斯克是真的抽象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194115298158247936",
+        "conversation_id": "1946426556899070368",
+        "created_at": "2025-07-19T04:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T05:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946429564890353711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946429564890353711",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946426556899070368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我也被提了 莫名其妙的感觉 不知道是不是马斯克在强行给自己的ai刷存在感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 1281,
+          "like_count": 87804,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 7768
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-11-12T04:51:11.000Z",
+        "description": "兔妹妹@miya051223/我的猫猫@SarkazWisadel/非主流时代不收味的遗老/游戏重度患者、网络赛博人、离开网络一小时会死/不是男娘非跨是个变态幻想着涩涩的双性恋（擦口水）/3D建模和绘画是花钱升级出来的技能/现在日本产品设计修士留学中（居住在名古屋周边）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "miya051223"
+              },
+              {
+                "end": 33,
+                "start": 19,
+                "username": "SarkazWisadel"
+              }
+            ]
+          }
+        },
+        "id": "1194115298158247936",
+        "location": "日本 愛知県岡崎市",
+        "name": "ヤワラカイ",
+        "pinned_tweet_id": "1923261107709333980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925685681621213185/-hVbekGe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2442,
+          "like_count": 33340,
+          "listed_count": 5,
+          "media_count": 1529,
+          "tweet_count": 8960
+        },
+        "username": "yawarakai421",
+        "verified": false
+      }
+    ]
+  }
+}

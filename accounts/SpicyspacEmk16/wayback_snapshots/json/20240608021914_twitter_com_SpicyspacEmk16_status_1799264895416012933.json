@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1799097790892847402",
+    "created_at": "2024-06-08T02:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T03:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799264895416012933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797975208407519232",
+          "start": 0,
+          "username": "NanmiyaHazuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799264895416012933",
+    "in_reply_to_user_id": "1797975208407519232",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799144323604500549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanmiyaHazuru 明恋你！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1799097790892847402",
+        "created_at": "2024-06-08T02:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T03:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799264895416012933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797975208407519232",
+              "start": 0,
+              "username": "NanmiyaHazuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799264895416012933",
+        "in_reply_to_user_id": "1797975208407519232",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799144323604500549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanmiyaHazuru 明恋你！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1797975208407519232",
+        "conversation_id": "1799097790892847402",
+        "created_at": "2024-06-07T18:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T19:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799144323604500549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799144323604500549",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799097790892847402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我也"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1777,
+          "following_count": 954,
+          "like_count": 79967,
+          "listed_count": 1,
+          "tweet_count": 4653
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-04T12:54:50.000Z",
+        "description": "加速南墙/天要下雨/沼泽浮木/无形天眼",
+        "id": "1797975208407519232",
+        "name": "南宫羽弦（戒色第0天）",
+        "pinned_tweet_id": "1798354618910659016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797993142664237056/GshREWfJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 99,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "NanmiyaHazuru",
+        "verified": false
+      }
+    ]
+  }
+}

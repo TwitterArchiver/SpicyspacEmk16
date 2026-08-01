@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069418061413876103",
+    "created_at": "2026-06-24T01:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069598741871628305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835921137622208512",
+          "start": 0,
+          "username": "Yan9x1_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069598741871628305",
+    "in_reply_to_user_id": "1835921137622208512",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069469481878036985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan9x1_1028 ～～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-24T01:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069598741871628305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835921137622208512",
+              "start": 0,
+              "username": "Yan9x1_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069598741871628305",
+        "in_reply_to_user_id": "1835921137622208512",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069469481878036985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan9x1_1028 ～～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835921137622208512",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-23T17:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069469481878036985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069469481878036985",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 776,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069418061413876103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1567,
+          "like_count": 97723,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10342
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T05:58:13.000Z",
+        "description": "阴间作息苦逼初二生一枚，置顶帖子才是简介",
+        "id": "1835921137622208512",
+        "location": "中国 福建 福州",
+        "name": "阳熹",
+        "pinned_tweet_id": "2054625687634682334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 245,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "Yan9x1_1028",
+        "verified": false
+      }
+    ]
+  }
+}

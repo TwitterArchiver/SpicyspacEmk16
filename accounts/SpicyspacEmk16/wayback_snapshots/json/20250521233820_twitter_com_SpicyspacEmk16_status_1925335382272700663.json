@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1925264749484462341",
+    "created_at": "2025-05-21T23:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T00:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925335382272700663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593157647447965696",
+          "start": 0,
+          "username": "Mojester1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925335382272700663",
+    "in_reply_to_user_id": "1593157647447965696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925285933051781322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mojester1984 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1925264749484462341",
+        "created_at": "2025-05-21T23:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T00:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925335382272700663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593157647447965696",
+              "start": 0,
+              "username": "Mojester1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925335382272700663",
+        "in_reply_to_user_id": "1593157647447965696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925285933051781322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mojester1984 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593157647447965696",
+        "conversation_id": "1925264749484462341",
+        "created_at": "2025-05-21T20:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T21:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925285933051781322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925285933051781322",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925264749484462341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 1199,
+          "like_count": 85621,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 7342
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-17T08:22:59.000Z",
+        "description": "SLAM/Space Robotic/BI3ADR",
+        "id": "1593157647447965696",
+        "location": "Earth",
+        "name": "Sinuo An",
+        "pinned_tweet_id": "1913228074533232737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916493372753395712/AWkZUmz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 330,
+          "like_count": 3643,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 367
+        },
+        "username": "Mojester1984",
+        "verified": false
+      }
+    ]
+  }
+}

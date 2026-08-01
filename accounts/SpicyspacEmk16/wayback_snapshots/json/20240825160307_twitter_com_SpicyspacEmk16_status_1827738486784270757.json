@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1827604709504688374",
+    "created_at": "2024-08-25T16:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T17:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827738486784270757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1167502107429105670",
+          "start": 0,
+          "username": "kotomiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827738486784270757",
+    "in_reply_to_user_id": "1167502107429105670",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827651337154371852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotomiouo 谢谢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1827604709504688374",
+        "created_at": "2024-08-25T16:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T17:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827738486784270757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1167502107429105670",
+              "start": 0,
+              "username": "kotomiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827738486784270757",
+        "in_reply_to_user_id": "1167502107429105670",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827651337154371852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotomiouo 谢谢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167502107429105670",
+        "conversation_id": "1827604709504688374",
+        "created_at": "2024-08-25T10:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T11:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827651337154371852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827651337154371852",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827604709504688374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱斯斯🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 1022,
+          "like_count": 84862,
+          "listed_count": 1,
+          "tweet_count": 5737
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-30T18:19:39.000Z",
+        "description": "台灣 19 重鬱.\nJpop.音遊.東方.\n發病文&血圖請注意.\n不接爸爸活 看黃男離我遠點.",
+        "id": "1167502107429105670",
+        "location": "幻想鄉",
+        "name": "ことみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809390507988250624/9jrvTYb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 610,
+          "like_count": 10063,
+          "listed_count": 1,
+          "tweet_count": 2734
+        },
+        "username": "kotomiouo",
+        "verified": false
+      }
+    ]
+  }
+}

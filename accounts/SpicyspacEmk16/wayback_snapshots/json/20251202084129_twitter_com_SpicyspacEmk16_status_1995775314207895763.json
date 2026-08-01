@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995775303894138883"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1995755839496540319",
+    "created_at": "2025-12-02T08:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T09:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995775314207895763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OhcFcxzsnF",
+          "end": 23,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1995775314207895763/photo/1",
+          "media_key": "3_1995775303894138883",
+          "start": 0,
+          "url": "https://t.co/OhcFcxzsnF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995775314207895763",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995755839496540319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/OhcFcxzsnF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995775303894138883",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7JrEJgbgAMKk-N.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995775303894138883"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1995755839496540319",
+        "created_at": "2025-12-02T08:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T09:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995775314207895763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OhcFcxzsnF",
+              "end": 23,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1995775314207895763/photo/1",
+              "media_key": "3_1995775303894138883",
+              "start": 0,
+              "url": "https://t.co/OhcFcxzsnF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995775314207895763",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995755839496540319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/OhcFcxzsnF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1995755839496540319",
+        "created_at": "2025-12-02T07:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T08:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995755839496540319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "スパイシスペース’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mnGe…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mnGeNXrMYLJX",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 视奸视奸视奸",
+              "unwound_url": "https://twitter.com/i/spaces/1mnGeNXrMYLJX/peek",
+              "url": "https://t.co/m5X0KZrhIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995755839496540319",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m5X0KZrhIA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 1341,
+          "like_count": 89889,
+          "listed_count": 4,
+          "media_count": 684,
+          "tweet_count": 8537
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

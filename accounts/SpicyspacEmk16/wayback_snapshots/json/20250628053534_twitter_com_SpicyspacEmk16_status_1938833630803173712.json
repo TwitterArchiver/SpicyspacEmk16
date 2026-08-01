@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1938453548808999070",
+    "created_at": "2025-06-28T05:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T06:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938833630803173712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793636329299066880",
+          "start": 0,
+          "username": "cuichuna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938833630803173712",
+    "in_reply_to_user_id": "1793636329299066880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938453548808999070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichuna7 虽然一语中的但是很意外的这个视频下面理智的理解者还是蛮多的\n顺便我是里面的受访者之一（因为要在墙内出镜所以被采访的时候说了蛮多违心发言）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_1938453542219788288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GubFOe2bsAAkIVn.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1938453548808999070",
+        "created_at": "2025-06-28T05:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938833630803173712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793636329299066880",
+              "start": 0,
+              "username": "cuichuna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938833630803173712",
+        "in_reply_to_user_id": "1793636329299066880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938453548808999070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichuna7 虽然一语中的但是很意外的这个视频下面理智的理解者还是蛮多的\n顺便我是里面的受访者之一（因为要在墙内出镜所以被采访的时候说了蛮多违心发言）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938453542219788288"
+          ]
+        },
+        "author_id": "1793636329299066880",
+        "conversation_id": "1938453548808999070",
+        "created_at": "2025-06-27T04:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T05:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938453548808999070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tjQ2UFWfyF",
+              "end": 70,
+              "expanded_url": "https://x.com/cuichuna7/status/1938453548808999070/photo/1",
+              "media_key": "3_1938453542219788288",
+              "start": 47,
+              "url": "https://t.co/tjQ2UFWfyF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938453548808999070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 42493,
+          "like_count": 599,
+          "quote_count": 5,
+          "reply_count": 57,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "看似正确的视频其实内核都是高高在上的指责弱势群体，这才是很多人包括我觉得不对劲和反感的原因😸 https://t.co/tjQ2UFWfyF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2739,
+          "following_count": 1266,
+          "like_count": 86718,
+          "listed_count": 2,
+          "media_count": 554,
+          "tweet_count": 7653
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-23T13:33:30.000Z",
+        "description": "🇹🇼🇺🇦/09的滴泪系小猫娘/identityV/抑郁症患者🥹/欢迎互fo，这里是time欢迎找我倾诉聊天😾最终目标是100000粉😿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/troellstoree2",
+                "end": 23,
+                "expanded_url": "https://t.me/troellstoree2",
+                "start": 0,
+                "url": "https://t.co/YwNpXr2uZp"
+              }
+            ]
+          }
+        },
+        "id": "1793636329299066880",
+        "location": "宇宙之外",
+        "name": "grace.time☃︎",
+        "pinned_tweet_id": "1935901251621007841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844267194240335874/5S0ww2Z4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2765,
+          "following_count": 4106,
+          "like_count": 7902,
+          "listed_count": 3,
+          "media_count": 198,
+          "tweet_count": 2973
+        },
+        "url": "https://t.co/YwNpXr2uZp",
+        "username": "cuichuna7",
+        "verified": true
+      }
+    ]
+  }
+}

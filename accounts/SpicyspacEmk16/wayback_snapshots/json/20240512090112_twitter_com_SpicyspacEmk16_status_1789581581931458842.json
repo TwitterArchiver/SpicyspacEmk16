@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1789581581931458842",
+    "created_at": "2024-05-12T09:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T10:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789581581931458842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789581581931458842",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的真的要崩溃了\n海珍你不能有事\n你真的真的不能有事啊\n求求你了\n真的算我求求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1789581581931458842",
+        "created_at": "2024-05-12T09:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T10:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789581581931458842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789581581931458842",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的真的要崩溃了\n海珍你不能有事\n你真的真的不能有事啊\n求求你了\n真的算我求求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1658,
+          "following_count": 891,
+          "like_count": 78786,
+          "listed_count": 1,
+          "tweet_count": 4309
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

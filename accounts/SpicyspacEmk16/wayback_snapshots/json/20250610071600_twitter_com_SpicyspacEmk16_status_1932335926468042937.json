@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1932252251537707503",
+    "created_at": "2025-06-10T07:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T08:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932335926468042937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932335926468042937",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932252251537707503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai citrus(シトラス)がな これめっちゃおすすめですよ～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1932252251537707503",
+        "created_at": "2025-06-10T07:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T08:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932335926468042937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932335926468042937",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932252251537707503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai citrus(シトラス)がな これめっちゃおすすめですよ～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870078920621731842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          }
+        ],
+        "conversation_id": "1932252251537707503",
+        "created_at": "2025-06-10T01:43:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T02:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932252251537707503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1932252251537707503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 199,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと恥ずかしいんだけど、百合系（女性同士）の作品を見てみたいなと思ってて。おすすめの作品とかある？(ˊo̶̶̷ᴗo̶̶̷`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 1265,
+          "like_count": 86044,
+          "listed_count": 3,
+          "media_count": 539,
+          "tweet_count": 7489
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "Chinese 男の娘♂（引退したVtuber）私はうつ病と不安障害を抱えてるの。私は成人だけど（1987）、男の身体で心はまだ子供なの。王子系やスイート系のロリータ服が大好きだし、水色天使界隈地雷系スポーツウェアもハマってる。DM open Line:https://t.co/a5IpY5NonW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "line.me/ti/p/v-8FsDTeU6",
+                "end": 150,
+                "expanded_url": "https://line.me/ti/p/v-8FsDTeU6",
+                "start": 127,
+                "url": "https://t.co/a5IpY5NonW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/ReisuiMirai/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/ReisuiMirai/",
+                "start": 0,
+                "url": "https://t.co/QdZgHerG32"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "靈水未來",
+        "pinned_tweet_id": "1930529483540541841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924350796625321985/lTLXvlVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 142,
+          "like_count": 3456,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/QdZgHerG32",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

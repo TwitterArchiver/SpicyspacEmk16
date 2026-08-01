@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1938957700609831196",
+    "created_at": "2025-06-28T14:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T15:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938961778786058560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938961778786058560",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 30,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938957700609831196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels 好萌的果冻）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24950,
+        "height": 960,
+        "media_key": "13_1938957340041957376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938957340041957376/img/HG31cJLZMVbEvjUr.jpg",
+        "public_metrics": {
+          "view_count": 97
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938957340041957376/vid/avc1/320x426/n9dHJkHz0S6B0yT9.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938957340041957376/vid/avc1/480x640/uAhCvXEbLZc8G7Na.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938957340041957376/vid/avc1/720x960/389TEHe5s6zwhg2X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938957340041957376/pl/p9w1YgDY3XPR0qh8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1938957700609831196",
+        "created_at": "2025-06-28T14:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T15:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938961778786058560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938961778786058560",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938957700609831196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels 好萌的果冻）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938957340041957376"
+          ]
+        },
+        "author_id": "1341766476609462274",
+        "conversation_id": "1938957700609831196",
+        "created_at": "2025-06-28T13:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T14:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938957700609831196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Klzez15Yc",
+              "end": 32,
+              "expanded_url": "https://x.com/mentallychels/status/1938957700609831196/video/1",
+              "media_key": "13_1938957340041957376",
+              "start": 9,
+              "url": "https://t.co/0Klzez15Yc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938957700609831196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概就是果凍…. https://t.co/0Klzez15Yc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 1278,
+          "like_count": 86847,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 7681
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "我是壑｜很久沒有更新就應該是死掉了  🚪200",
+        "id": "1341766476609462274",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1465787319303159808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11831,
+          "following_count": 135,
+          "like_count": 663,
+          "listed_count": 19,
+          "media_count": 209,
+          "tweet_count": 783
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

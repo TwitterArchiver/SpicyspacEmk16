@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1925264749484462341",
+    "created_at": "2025-05-23T02:20:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T03:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925738464026198265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396852906020667395",
+          "start": 0,
+          "username": "acdhmbhhg7788"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925738464026198265",
+    "in_reply_to_user_id": "1396852906020667395",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925402648897102059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acdhmbhhg7788 抱抱哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1925264749484462341",
+        "created_at": "2025-05-23T02:20:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T03:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925738464026198265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1396852906020667395",
+              "start": 0,
+              "username": "acdhmbhhg7788"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925738464026198265",
+        "in_reply_to_user_id": "1396852906020667395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925402648897102059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acdhmbhhg7788 抱抱哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1396852906020667395",
+        "conversation_id": "1925264749484462341",
+        "created_at": "2025-05-22T04:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T05:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925402648897102059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925402648897102059",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925264749484462341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2656,
+          "following_count": 1203,
+          "like_count": 85663,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 7366
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-24T15:38:08.000Z",
+        "description": "",
+        "id": "1396852906020667395",
+        "name": "暂无姓名",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922584862286127104/kFNj11hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 32,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 40
+        },
+        "username": "acdhmbhhg7788",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1809723930556657888",
+    "created_at": "2024-07-07T01:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T02:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809764185846477297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1550717145684004864",
+          "start": 0,
+          "username": "Ah_Syue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809764185846477297",
+    "in_reply_to_user_id": "1550717145684004864",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809748884006023636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ah_Syue 真的好好笑哦\nftm是女生？真的有病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1809723930556657888",
+        "created_at": "2024-07-07T01:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T02:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809764185846477297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1550717145684004864",
+              "start": 0,
+              "username": "Ah_Syue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809764185846477297",
+        "in_reply_to_user_id": "1550717145684004864",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809748884006023636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ah_Syue 真的好好笑哦\nftm是女生？真的有病"
+      },
+      {
+        "attachments": {},
+        "author_id": "1550717145684004864",
+        "conversation_id": "1809723930556657888",
+        "created_at": "2024-07-07T00:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T01:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809748884006023636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809748884006023636",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809723930556657888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 允許FTM的原因我猜應該是身分證寫的確實是個「女」字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 980,
+          "like_count": 82113,
+          "listed_count": 1,
+          "tweet_count": 5043
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-23T05:39:30.000Z",
+        "description": "えーりん！えーりん！おっぱい！おっぱい！\n/他她均可／both he and she\n/中文／English in @Syue_eng／日本語を勉強中、ほとんどのツイートにGoogle翻訳を使用😭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 58,
+                "username": "Syue_eng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sway.cloud.microsoft/8vFwMJ9c43Qh9g…",
+                "end": 23,
+                "expanded_url": "https://sway.cloud.microsoft/8vFwMJ9c43Qh9ghb",
+                "start": 0,
+                "url": "https://t.co/GmpufeO8tX"
+              }
+            ]
+          }
+        },
+        "id": "1550717145684004864",
+        "location": "在你背後",
+        "name": "沉迷中二的阿雪☮️チュウニズム中毒するのユキさん",
+        "pinned_tweet_id": "1771466221591921001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806254069024985088/3SmGzggF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 150,
+          "like_count": 11076,
+          "listed_count": 2,
+          "tweet_count": 3446
+        },
+        "url": "https://t.co/GmpufeO8tX",
+        "username": "Ah_Syue",
+        "verified": false
+      }
+    ]
+  }
+}

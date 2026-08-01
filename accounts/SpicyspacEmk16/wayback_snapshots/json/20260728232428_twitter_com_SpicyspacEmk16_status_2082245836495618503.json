@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2077419551013175479",
+    "created_at": "2026-07-28T23:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082245836495618503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906989460405035008",
+          "start": 0,
+          "username": "eulerfurai04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082245836495618503",
+    "in_reply_to_user_id": "1906989460405035008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077419551013175479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eulerfurai04 不会忘记你的…\n向我求救过的勇敢小女孩…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077419533359329281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNR6DxdXMAE0jl3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2077419551013175479",
+        "created_at": "2026-07-28T23:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082245836495618503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906989460405035008",
+              "start": 0,
+              "username": "eulerfurai04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082245836495618503",
+        "in_reply_to_user_id": "1906989460405035008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077419551013175479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eulerfurai04 不会忘记你的…\n向我求救过的勇敢小女孩…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077419533359329281"
+          ]
+        },
+        "author_id": "1906989460405035008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271534251415007234",
+              "name": "Rilakkuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          }
+        ],
+        "conversation_id": "2077419551013175479",
+        "created_at": "2026-07-15T15:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077419551013175479"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 1,
+              "tag": "リラックマ"
+            },
+            {
+              "end": 18,
+              "start": 8,
+              "tag": "Rilakkuma"
+            },
+            {
+              "end": 32,
+              "start": 20,
+              "tag": "リラックマがいる暮らし"
+            },
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "ぬい撮り"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "ぬいぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeP3dqA6iC",
+              "end": 91,
+              "expanded_url": "https://x.com/eulerfurai04/status/2077419551013175479/photo/1",
+              "media_key": "3_2077419533359329281",
+              "start": 68,
+              "url": "https://t.co/OeP3dqA6iC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077419551013175479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⁠#リラックマ⁠#Rilakkuma\n⁠#リラックマがいる暮らし\n⁠#ぬい撮り⁠#ぬいぐるみ\n野生的死目莉！以轻松熊的形态！突然出现！ https://t.co/OeP3dqA6iC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢(教えないよ～👅ベヘー～)性同一性障害mtf 日本留子 心理学专业在读 为了帮助大家击败心理疾病🤜👿(抑郁精分双相等)会加油! (可惜以后这里只能发点碎碎念跟生活推了呜呜🥺)無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💙#深蓝可是小遥の推し色～",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1565,
+          "like_count": 98545,
+          "listed_count": 6,
+          "media_count": 811,
+          "tweet_count": 10547
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T08:38:29.000Z",
+        "description": "为什么就3.0了呢我也不知道。\n＝死目莉@DrankGhostU 是我\n双相情感障碍/重焦/adhd/💊🔪🩸/病み垢\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸😺😈❤️‍🩹⁉️…",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "DrankGhostU"
+              }
+            ]
+          }
+        },
+        "id": "1906989460405035008",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075282840787533825/3PiGZLdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 52,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "eulerfurai04",
+        "verified": false
+      }
+    ]
+  }
+}

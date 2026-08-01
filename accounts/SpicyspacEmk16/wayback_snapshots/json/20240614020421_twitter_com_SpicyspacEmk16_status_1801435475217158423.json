@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1801426088742322552",
+    "created_at": "2024-06-14T02:04:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T03:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801435475217158423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1694437145035816960",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801435475217158423",
+    "in_reply_to_user_id": "1694437145035816960",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801426088742322552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1801426088742322552",
+        "created_at": "2024-06-14T02:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T03:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801435475217158423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1694437145035816960",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801435475217158423",
+        "in_reply_to_user_id": "1694437145035816960",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801426088742322552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 好耶！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1694437145035816960",
+        "conversation_id": "1801426088742322552",
+        "created_at": "2024-06-14T01:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T02:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801426088742322552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801426088742322552",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去打耳洞了www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 954,
+          "like_count": 80130,
+          "listed_count": 1,
+          "tweet_count": 4717
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-23T19:51:33.000Z",
+        "description": "取关请双取谢谢|17岁|无性别&无性恋，双性浪漫，代词随意|精神分裂患者脑子有病|大概率回fo|屏蔽必回敬|欢迎理性讨论别来犯贱|第二人格@theDarkCypress|EN: @Cypress_Albert",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 69,
+                "username": "theDarkCypress"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "Cypress_Albert"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Cypress_Albert",
+                "end": 23,
+                "expanded_url": "https://t.me/Cypress_Albert",
+                "start": 0,
+                "url": "https://t.co/JSs8D5a7Jw"
+              }
+            ]
+          }
+        },
+        "id": "1694437145035816960",
+        "location": "我才知道星期八的真名叫作schizophrenia",
+        "name": "住在星期八的柏树🏳‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1796901169941590175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767246062312386560/lPNw_-Qt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1322,
+          "following_count": 1141,
+          "like_count": 14510,
+          "listed_count": 3,
+          "tweet_count": 4245
+        },
+        "url": "https://t.co/JSs8D5a7Jw",
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

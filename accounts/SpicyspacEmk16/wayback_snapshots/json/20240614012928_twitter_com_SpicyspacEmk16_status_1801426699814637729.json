@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1801371671548543210",
+    "created_at": "2024-06-14T01:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T02:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801426699814637729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801426699814637729",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801371671548543210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui 哇靠你们好甜！！！\n9999999！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1801371671548543210",
+        "created_at": "2024-06-14T01:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T02:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801426699814637729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801426699814637729",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801371671548543210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui 哇靠你们好甜！！！\n9999999！！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1798982562494414848",
+        "conversation_id": "1801371671548543210",
+        "created_at": "2024-06-13T21:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T22:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801371671548543210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801371671548543210",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "快变成热恋期日常推了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 954,
+          "like_count": 80091,
+          "listed_count": 1,
+          "tweet_count": 4707
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength.\n万物皆腐，众生不灭。",
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "pinned_tweet_id": "1798991599424405683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 42,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 78
+        },
+        "username": "Nokami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

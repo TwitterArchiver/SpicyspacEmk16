@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1923917174558818610",
+    "created_at": "2025-05-18T01:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T02:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923917174558818610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_rin_nes/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/_rin_nes/status/1923504340377214977",
+          "start": 20,
+          "url": "https://t.co/kIpIXKSPyh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923917174558818610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923504340377214977",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个出了绝对买wwwwwww\n笑死我了 https://t.co/kIpIXKSPyh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1923504333556961280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrGpAA2WUAAhanL.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_1923504333590503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrGpAA-WIAA11lF.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1923917174558818610",
+        "created_at": "2025-05-18T01:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T02:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923917174558818610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_rin_nes/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/_rin_nes/status/1923504340377214977",
+              "start": 20,
+              "url": "https://t.co/kIpIXKSPyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923917174558818610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923504340377214977",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个出了绝对买wwwwwww\n笑死我了 https://t.co/kIpIXKSPyh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923504333556961280",
+            "3_1923504333590503424"
+          ]
+        },
+        "author_id": "1870073083626958852",
+        "conversation_id": "1923504340377214977",
+        "created_at": "2025-05-16T22:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-16T23:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923504340377214977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hum2qYuT7D",
+              "end": 34,
+              "expanded_url": "https://x.com/_rin_nes/status/1923504340377214977/photo/1",
+              "media_key": "3_1923504333556961280",
+              "start": 11,
+              "url": "https://t.co/Hum2qYuT7D"
+            },
+            {
+              "display_url": "pic.x.com/Hum2qYuT7D",
+              "end": 34,
+              "expanded_url": "https://x.com/_rin_nes/status/1923504340377214977/photo/1",
+              "media_key": "3_1923504333590503424",
+              "start": 11,
+              "url": "https://t.co/Hum2qYuT7D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923504340377214977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 21122,
+          "like_count": 798,
+          "quote_count": 7,
+          "reply_count": 6,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "つらいうつにシリーズ https://t.co/Hum2qYuT7D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 1167,
+          "like_count": 85095,
+          "listed_count": 3,
+          "media_count": 520,
+          "tweet_count": 7296
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T11:45:54.000Z",
+        "description": "初手タメ大歓迎 FJKの陰キャ 【#輪廻転生図鑑】 避難@_rin_ne 最奥@ri_n_nes 狂依存彼女永遠@shia__rin ドMロリコン@nanashi_9326 病み垢闘病垢フォロバ100%",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 17,
+                "tag": "輪廻転生図鑑"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "_rin_ne"
+              },
+              {
+                "end": 48,
+                "start": 39,
+                "username": "ri_n_nes"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "shia__rin"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "nanashi_9326"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ccs1qe1qdk5ce4…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ccs1qe1qdk5ce4y?t=zsKU62&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/oyONVaa7GF"
+              }
+            ]
+          }
+        },
+        "id": "1870073083626958852",
+        "location": "精神異常者",
+        "name": "りんねだヨ‼️",
+        "pinned_tweet_id": "1923320724195787232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923422581039956027/ttmPMszZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 1328,
+          "like_count": 3135,
+          "listed_count": 34,
+          "media_count": 540,
+          "tweet_count": 21127
+        },
+        "url": "https://t.co/oyONVaa7GF",
+        "username": "_rin_nes",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857358934056828928"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1857358952557584577",
+    "created_at": "2024-11-15T09:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T10:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857358952557584577"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQ4xwDqS36",
+          "end": 96,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1857358952557584577/photo/1",
+          "media_key": "3_1857358934056828928",
+          "start": 73,
+          "url": "https://t.co/iQ4xwDqS36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857358952557584577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "虽然但是\n我真的觉得新干线设置吸烟室是有必要的日本压力那么大 真的几乎是人人抽烟了呀\n最让我不明白的是\n你们甚至已经设置了\n为什么要取消呢？？？ https://t.co/iQ4xwDqS36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857358934056828928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcaqHBzbAAAWVhg.jpg",
+        "width": 1962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857358934056828928"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1857358952557584577",
+        "created_at": "2024-11-15T09:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T10:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857358952557584577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQ4xwDqS36",
+              "end": 96,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1857358952557584577/photo/1",
+              "media_key": "3_1857358934056828928",
+              "start": 73,
+              "url": "https://t.co/iQ4xwDqS36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857358952557584577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然但是\n我真的觉得新干线设置吸烟室是有必要的日本压力那么大 真的几乎是人人抽烟了呀\n最让我不明白的是\n你们甚至已经设置了\n为什么要取消呢？？？ https://t.co/iQ4xwDqS36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 1114,
+          "like_count": 87555,
+          "listed_count": 2,
+          "tweet_count": 6544
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

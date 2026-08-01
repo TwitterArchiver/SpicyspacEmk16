@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2030370245572182518",
+    "created_at": "2026-03-08T05:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T06:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030521122220052847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2001670790669058048",
+          "start": 0,
+          "username": "Min1440r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030521122220052847",
+    "in_reply_to_user_id": "2001670790669058048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030370245572182518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "@Min1440r 不要啊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2030370245572182518",
+        "created_at": "2026-03-08T05:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T06:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030521122220052847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2001670790669058048",
+              "start": 0,
+              "username": "Min1440r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030521122220052847",
+        "in_reply_to_user_id": "2001670790669058048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030370245572182518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "@Min1440r 不要啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001670790669058048",
+        "conversation_id": "2030370245572182518",
+        "created_at": "2026-03-07T19:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T20:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030370245572182518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030370245572182518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "verified",
+        "text": "我死之后没有任何事发生，只是家人觉得晦气、得罪过的人会说一句好死。其他再不会有什么事情发生。对我来说，再也不会去焦虑去忍耐，可以离开这个我爱却不爱我的世界。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 1387,
+          "like_count": 91731,
+          "listed_count": 5,
+          "media_count": 739,
+          "tweet_count": 9029
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-18T15:08:12.000Z",
+        "description": "想要和大家所有人一起玩游戏！想和你一起。 痛苦与欢乐让我们一起面对。 ip江苏苏州/江苏盐城来找我玩来找我玩！ 我爱你们。NGL提问：https://t.co/9e5mRIkpE5 负能里推：@Stressmaxp加我q好嘛可能会注销",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Stressmaxp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/min1440r",
+                "end": 90,
+                "expanded_url": "https://ngl.link/min1440r",
+                "start": 67,
+                "url": "https://t.co/9e5mRIkpE5"
+              }
+            ]
+          }
+        },
+        "id": "2001670790669058048",
+        "location": "江苏省苏州市长江路55号",
+        "name": "1440r/min🏳️‍⚧️",
+        "pinned_tweet_id": "2024210469960253930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001671000900210688/tRq7Bkqb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 53,
+          "like_count": 1967,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1249
+        },
+        "username": "Min1440r",
+        "verified": false
+      }
+    ]
+  }
+}

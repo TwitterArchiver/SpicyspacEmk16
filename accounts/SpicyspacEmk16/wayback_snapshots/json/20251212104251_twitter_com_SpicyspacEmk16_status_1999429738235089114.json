@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1778707484989145366",
+    "created_at": "2025-12-12T10:42:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:42:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999429738235089114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684492249416323072",
+          "start": 0,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999429738235089114",
+    "in_reply_to_user_id": "1684492249416323072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1778707484989145366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdou_cici 天呐这什么好萌！！想要了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6705,
+        "height": 1280,
+        "media_key": "7_1778707456270696448",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1778707456270696448/pu/img/tSoos5PpIWBZLc12.jpg",
+        "public_metrics": {
+          "view_count": 10287
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1778707456270696448/pu/vid/avc1/320x568/gRNsn4SDD5ysKj3t.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1778707456270696448/pu/vid/avc1/480x852/oSE9jwMmlcyx-a4w.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1778707456270696448/pu/vid/avc1/720x1280/M99tMrn2o1iD-CMX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1778707456270696448/pu/pl/vkU9_5CLExCvgcZs.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1778707484989145366",
+        "created_at": "2025-12-12T10:42:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:42:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999429738235089114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684492249416323072",
+              "start": 0,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999429738235089114",
+        "in_reply_to_user_id": "1684492249416323072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1778707484989145366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdou_cici 天呐这什么好萌！！想要了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1778707456270696448"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "conversation_id": "1778707484989145366",
+        "created_at": "2024-04-12T08:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-04-12T09:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1778707484989145366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4FxUSMhQ4",
+              "end": 29,
+              "expanded_url": "https://x.com/cecilia_cici_/status/1778707484989145366/video/1",
+              "media_key": "7_1778707456270696448",
+              "start": 6,
+              "url": "https://t.co/j4FxUSMhQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1778707484989145366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 19187,
+          "like_count": 1071,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "脂肪吧唧✊ https://t.co/j4FxUSMhQ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2965,
+          "following_count": 1349,
+          "like_count": 89612,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 8664
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死 || 我是红豆糕 || feel free to block me if my pics sacared u❌不喜欢我请自避雷❕|| 备用机@hongdougao_hong || 我宝💗@Unrestrained000||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1991789253169451496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989655780656607232/LRVKVUOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 202,
+          "like_count": 5413,
+          "listed_count": 8,
+          "media_count": 384,
+          "tweet_count": 2839
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

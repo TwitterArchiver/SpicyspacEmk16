@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2061215767656558842",
+    "created_at": "2026-05-31T22:38:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061215767656558842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1921107120768118785",
+          "start": 3,
+          "username": "SaotomeShimeri"
+        },
+        {
+          "end": 72,
+          "id": "1921107120768118785",
+          "start": 57,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061215767656558842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061170343918608663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SaotomeShimeri: ⁺˚♡ˎˊ˗˚✧₊⁎♡⁎⁺˳✧༚ ⁺˚♡ˎˊ˗  \n  (｡•̀ᴗ-)✧ @SaotomeShimeri ♡(｡•ㅅ•｡)♡  \n               ⁺˚♡ˎˊ˗   ˚✧₊⁎♡⁎⁺˳✧༚   ⁺˚♡ˎˊ˗\n\n死目莉的成分：双相…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1361,
+        "media_key": "3_2061170327464370185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq_fgYW4Akg5xA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061170327401463815",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq_fgJXAAc-FGY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061170327116193798",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq_ffFWIAY7vG1.jpg",
+        "width": 472
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061170327476903944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJq_fgbWIAgO8yQ.jpg",
+        "width": 1227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2061215767656558842",
+        "created_at": "2026-05-31T22:38:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061215767656558842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1921107120768118785",
+              "start": 3,
+              "username": "SaotomeShimeri"
+            },
+            {
+              "end": 72,
+              "id": "1921107120768118785",
+              "start": 57,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061215767656558842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061170343918608663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SaotomeShimeri: ⁺˚♡ˎˊ˗˚✧₊⁎♡⁎⁺˳✧༚ ⁺˚♡ˎˊ˗  \n  (｡•̀ᴗ-)✧ @SaotomeShimeri ♡(｡•ㅅ•｡)♡  \n               ⁺˚♡ˎˊ˗   ˚✧₊⁎♡⁎⁺˳✧༚   ⁺˚♡ˎˊ˗\n\n死目莉的成分：双相…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061170327464370185",
+            "3_2061170327401463815",
+            "3_2061170327116193798",
+            "3_2061170327476903944"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "conversation_id": "2061170343918608663",
+        "created_at": "2026-05-31T19:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T20:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061170343918608663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 167,
+              "start": 155,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 173,
+              "start": 169,
+              "tag": "病み垢"
+            },
+            {
+              "end": 177,
+              "start": 174,
+              "tag": "繪師"
+            },
+            {
+              "end": 182,
+              "start": 178,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 189,
+              "start": 183,
+              "tag": "shtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "1921107120768118785",
+              "start": 37,
+              "username": "SaotomeShimeri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4d8t62N0iQ",
+              "end": 213,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2061170343918608663/photo/1",
+              "media_key": "3_2061170327464370185",
+              "start": 190,
+              "url": "https://t.co/4d8t62N0iQ"
+            },
+            {
+              "display_url": "pic.x.com/4d8t62N0iQ",
+              "end": 213,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2061170343918608663/photo/1",
+              "media_key": "3_2061170327401463815",
+              "start": 190,
+              "url": "https://t.co/4d8t62N0iQ"
+            },
+            {
+              "display_url": "pic.x.com/4d8t62N0iQ",
+              "end": 213,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2061170343918608663/photo/1",
+              "media_key": "3_2061170327116193798",
+              "start": 190,
+              "url": "https://t.co/4d8t62N0iQ"
+            },
+            {
+              "display_url": "pic.x.com/4d8t62N0iQ",
+              "end": 213,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2061170343918608663/photo/1",
+              "media_key": "3_2061170327476903944",
+              "start": 190,
+              "url": "https://t.co/4d8t62N0iQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061170343918608663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 332,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "⁺˚♡ˎˊ˗˚✧₊⁎♡⁎⁺˳✧༚ ⁺˚♡ˎˊ˗  \n  (｡•̀ᴗ-)✧ @SaotomeShimeri ♡(｡•ㅅ•｡)♡  \n               ⁺˚♡ˎˊ˗   ˚✧₊⁎♡⁎⁺˳✧༚   ⁺˚♡ˎˊ˗\n\n死目莉的成分：双相情感障碍/adhd/ed/💊/🎨/🩸/😸໒꒰ྀི ∩⸝⸝∩ ꒱ྀི১\n\n#病み垢さんと繋がりたい \n#病み垢 #繪師 #雰囲気 #shtwt https://t.co/4d8t62N0iQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 1521,
+          "like_count": 97207,
+          "listed_count": 6,
+          "media_count": 760,
+          "tweet_count": 10136
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/刻板印象entp4w3/喜欢twt的大家且希望所有人能幸福\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2061170343918608663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 146,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 428
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

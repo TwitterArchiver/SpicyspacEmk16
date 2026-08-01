@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1990572665950839168",
+    "created_at": "2025-11-26T19:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T20:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993758860549738809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684492249416323072",
+          "start": 0,
+          "username": "hongdou_cici"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993758860549738809",
+    "in_reply_to_user_id": "1684492249416323072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990572665950839168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongdou_cici 虽然但是小割怡情啦 大割是真的杀自己"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1990572656819572736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_vSO1WEAA6oHq.jpg",
+        "width": 1206
+      },
+      {
+        "height": 850,
+        "media_key": "3_1990572656798691328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_vSOwXcAAlwJt.jpg",
+        "width": 1423
+      },
+      {
+        "height": 1116,
+        "media_key": "3_1990572656807088128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5_vSOyXkAAavGM.jpg",
+        "width": 1545
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1990572665950839168",
+        "created_at": "2025-11-26T19:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T20:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993758860549738809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684492249416323072",
+              "start": 0,
+              "username": "hongdou_cici"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993758860549738809",
+        "in_reply_to_user_id": "1684492249416323072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990572665950839168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongdou_cici 虽然但是小割怡情啦 大割是真的杀自己"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990572656819572736",
+            "3_1990572656798691328",
+            "3_1990572656807088128"
+          ]
+        },
+        "author_id": "1684492249416323072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990572665950839168",
+        "created_at": "2025-11-18T00:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T01:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990572665950839168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sLcC6rCTP",
+              "end": 50,
+              "expanded_url": "https://x.com/hongdou_cici/status/1990572665950839168/photo/1",
+              "media_key": "3_1990572656819572736",
+              "start": 27,
+              "url": "https://t.co/0sLcC6rCTP"
+            },
+            {
+              "display_url": "pic.x.com/0sLcC6rCTP",
+              "end": 50,
+              "expanded_url": "https://x.com/hongdou_cici/status/1990572665950839168/photo/1",
+              "media_key": "3_1990572656798691328",
+              "start": 27,
+              "url": "https://t.co/0sLcC6rCTP"
+            },
+            {
+              "display_url": "pic.x.com/0sLcC6rCTP",
+              "end": 50,
+              "expanded_url": "https://x.com/hongdou_cici/status/1990572665950839168/photo/1",
+              "media_key": "3_1990572656807088128",
+              "start": 27,
+              "url": "https://t.co/0sLcC6rCTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990572665950839168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 3978,
+          "like_count": 233,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "超绝层次脂肪\n\n太清晰了感觉会被ban所以标一下敏感 https://t.co/0sLcC6rCTP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 1334,
+          "like_count": 89201,
+          "listed_count": 3,
+          "media_count": 677,
+          "tweet_count": 8471
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-27T09:13:54.000Z",
+        "description": "去死| 我是红豆糕｜feel free to block me if my pics sacared u❌不喜欢我请自避雷❗️｜备用机@hongdougao_hong｜我宝💗@Unrestrained000｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "hongdougao_hong"
+              },
+              {
+                "end": 103,
+                "start": 87,
+                "username": "Unrestrained000"
+              }
+            ]
+          }
+        },
+        "id": "1684492249416323072",
+        "name": "红豆糕🍰",
+        "pinned_tweet_id": "1991789253169451496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989655780656607232/LRVKVUOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 197,
+          "like_count": 5204,
+          "listed_count": 8,
+          "media_count": 377,
+          "tweet_count": 2707
+        },
+        "username": "hongdou_cici",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064122298744147968"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597570732032",
+          "name": "Multi-Purpose Department - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Don Quixote (ドン・キホーテ)",
+          "id": "1038147907264765954",
+          "name": "Don Quixote (ドン・キホーテ)"
+        }
+      }
+    ],
+    "conversation_id": "2064122304683200525",
+    "created_at": "2026-06-08T23:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T00:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064122304683200525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tTTfM8YCQ7",
+          "end": 43,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2064122304683200525/photo/1",
+          "media_key": "3_2064122298744147968",
+          "start": 20,
+          "url": "https://t.co/tTTfM8YCQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064122304683200525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ドンキ收获wwwww\n终于还是买了经典 https://t.co/tTTfM8YCQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064122298744147968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKU8S2WbkAAsmUi.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064122298744147968"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Don Quixote (ドン・キホーテ)",
+              "id": "1038147907264765954",
+              "name": "Don Quixote (ドン・キホーテ)"
+            }
+          }
+        ],
+        "conversation_id": "2064122304683200525",
+        "created_at": "2026-06-08T23:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T00:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064122304683200525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tTTfM8YCQ7",
+              "end": 43,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2064122304683200525/photo/1",
+              "media_key": "3_2064122298744147968",
+              "start": 20,
+              "url": "https://t.co/tTTfM8YCQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064122304683200525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ドンキ收获wwwww\n终于还是买了经典 https://t.co/tTTfM8YCQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 1533,
+          "like_count": 97546,
+          "listed_count": 6,
+          "media_count": 769,
+          "tweet_count": 10210
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

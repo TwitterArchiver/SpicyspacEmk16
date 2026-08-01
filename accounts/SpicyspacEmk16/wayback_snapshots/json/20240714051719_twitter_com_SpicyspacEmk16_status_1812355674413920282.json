@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1812351627455848895",
+    "created_at": "2024-07-14T05:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T06:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812355674413920282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1612675417785401346",
+          "start": 0,
+          "username": "Yii1Zzz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812355674413920282",
+    "in_reply_to_user_id": "1612675417785401346",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812351627455848895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yii1Zzz_ 你的一个椅子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1812351627455848895",
+        "created_at": "2024-07-14T05:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T06:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812355674413920282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1612675417785401346",
+              "start": 0,
+              "username": "Yii1Zzz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812355674413920282",
+        "in_reply_to_user_id": "1612675417785401346",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812351627455848895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yii1Zzz_ 你的一个椅子"
+      },
+      {
+        "attachments": {},
+        "author_id": "1612675417785401346",
+        "conversation_id": "1812351627455848895",
+        "created_at": "2024-07-14T05:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T06:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812351627455848895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812351627455848895",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是椅子的小跟班"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 997,
+          "like_count": 82622,
+          "listed_count": 1,
+          "tweet_count": 5155
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-10T04:59:26.000Z",
+        "description": "Just pass by_(:з」∠)_｜日文勉强中…｜15歳｜intj-t｜Arknights💙🤍｜90%愛的人：@Nokami_Rui｜本号纯转贴➕不定期冒泡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "Nokami_Rui"
+              }
+            ]
+          }
+        },
+        "id": "1612675417785401346",
+        "name": "Yii1Zzz",
+        "pinned_tweet_id": "1812351627455848895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812350916483268609/0226AxZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 466,
+          "like_count": 3034,
+          "listed_count": 0,
+          "tweet_count": 928
+        },
+        "username": "Yii1Zzz_",
+        "verified": false
+      }
+    ]
+  }
+}

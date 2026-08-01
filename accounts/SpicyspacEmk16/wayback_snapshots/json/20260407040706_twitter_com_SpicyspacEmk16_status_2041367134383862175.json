@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2041362526638887284",
+    "created_at": "2026-04-07T04:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T05:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041367134383862175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345200516335161344",
+          "start": 0,
+          "username": "Fayden_Nokki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041367134383862175",
+    "in_reply_to_user_id": "1345200516335161344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041362526638887284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayden_Nokki だれや？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_2041362521005973504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFRgZbJbYAAigxz.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2041362526638887284",
+        "created_at": "2026-04-07T04:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T05:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041367134383862175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345200516335161344",
+              "start": 0,
+              "username": "Fayden_Nokki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041367134383862175",
+        "in_reply_to_user_id": "1345200516335161344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041362526638887284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayden_Nokki だれや？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041362521005973504"
+          ]
+        },
+        "author_id": "1345200516335161344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to National Pension in Japan. 日本の年金に関する問題。",
+              "id": "1142154424866856960",
+              "name": "JP - National Pension"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "2041362526638887284",
+        "created_at": "2026-04-07T03:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T04:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041362526638887284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/srw71AG3iL",
+              "end": 23,
+              "expanded_url": "https://x.com/Fayden_Nokki/status/2041362526638887284/photo/1",
+              "media_key": "3_2041362521005973504",
+              "start": 0,
+              "url": "https://t.co/srw71AG3iL"
+            },
+            {
+              "display_url": "x.com/fayden_nokki/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/fayden_nokki/status/2040955694405533711",
+              "start": 24,
+              "url": "https://t.co/7hUguyZw7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041362526638887284",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040955694405533711",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/srw71AG3iL https://t.co/7hUguyZw7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3005,
+          "following_count": 1401,
+          "like_count": 92969,
+          "listed_count": 5,
+          "media_count": 757,
+          "tweet_count": 9198
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-02T02:49:43.000Z",
+        "description": "🃂 🃗",
+        "id": "1345200516335161344",
+        "location": "Neon Bay",
+        "name": "V “Nøkki” Fayden (Lite)",
+        "pinned_tweet_id": "1797531859280330989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650660406661373952/XrxKDDdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 584,
+          "like_count": 48554,
+          "listed_count": 3,
+          "media_count": 1850,
+          "tweet_count": 11720
+        },
+        "url": "",
+        "username": "Fayden_Nokki",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T02:49:43.000Z",
+        "description": "🃂 🃗",
+        "id": "1345200516335161344",
+        "location": "Neon Bay",
+        "name": "V “Nøkki” Fayden (Lite)",
+        "pinned_tweet_id": "1797531859280330989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650660406661373952/XrxKDDdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 584,
+          "like_count": 48554,
+          "listed_count": 3,
+          "media_count": 1850,
+          "tweet_count": 11720
+        },
+        "username": "Fayden_Nokki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2068997681134092461",
+    "created_at": "2026-06-24T01:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069598997267075494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345200516335161344",
+          "start": 0,
+          "username": "Fayden_Nokki"
+        },
+        {
+          "end": 28,
+          "id": "3186322153",
+          "start": 14,
+          "username": "aa123429181tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069598997267075494",
+    "in_reply_to_user_id": "1345200516335161344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069597035855266147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fayden_Nokki @aa123429181tw 笑死 怀旧版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2068997681134092461",
+        "created_at": "2026-06-24T01:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069598997267075494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345200516335161344",
+              "start": 0,
+              "username": "Fayden_Nokki"
+            },
+            {
+              "end": 28,
+              "id": "3186322153",
+              "start": 14,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069598997267075494",
+        "in_reply_to_user_id": "1345200516335161344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069597035855266147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fayden_Nokki @aa123429181tw 笑死 怀旧版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345200516335161344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2068997681134092461",
+        "created_at": "2026-06-24T01:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069597035855266147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 30,
+              "id": "3186322153",
+              "start": 16,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069597035855266147",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069593489869046038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @aa123429181tw 看到這的時候一度以爲時光倒流回到1975（澳大利亞TV信號全彩切換）之前了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1567,
+          "like_count": 97724,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10345
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-02T02:49:43.000Z",
+        "description": "🃂 🃗",
+        "id": "1345200516335161344",
+        "location": "Neon Bay",
+        "name": "V “Nøkki” Fayden (Lite)",
+        "pinned_tweet_id": "1797531859280330989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650660406661373952/XrxKDDdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 591,
+          "like_count": 50788,
+          "listed_count": 2,
+          "media_count": 1967,
+          "tweet_count": 12279
+        },
+        "url": "",
+        "username": "Fayden_Nokki",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲\n但是畫技差所以不接任何委託喔~ (´・ω・`)\n\n我是男的,只是喜歡穿女裝而已,而且沒有很漂亮\n還會放自己色色🔞的照片,介意的請別點開 (つд⊂)\n\n私訊話題都OK~\n但拜託多說一點話不然我會以為是詐騙 (っ・Д・)っ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aa1234…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aa123429181.bsky.social",
+                "start": 0,
+                "url": "https://t.co/qvvv3yIeff"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray♂️",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061986433691521024/H0wW2TlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1748,
+          "like_count": 183648,
+          "listed_count": 15,
+          "media_count": 3409,
+          "tweet_count": 77940
+        },
+        "url": "https://t.co/qvvv3yIeff",
+        "username": "aa123429181tw",
+        "verified": true
+      }
+    ]
+  }
+}

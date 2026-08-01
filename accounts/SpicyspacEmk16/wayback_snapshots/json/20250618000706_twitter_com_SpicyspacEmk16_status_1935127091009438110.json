@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1935088386060263456",
+    "created_at": "2025-06-18T00:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T01:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935127091009438110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1629505750971334657",
+          "start": 0,
+          "username": "narikonoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935127091009438110",
+    "in_reply_to_user_id": "1629505750971334657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935088386060263456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@narikonoko 私もうめっちゃねむい...と言うわけでメジコン60錠飛んだ\nこれで眠さが一気に吹き飛びましたwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1935088386060263456",
+        "created_at": "2025-06-18T00:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T01:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935127091009438110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1629505750971334657",
+              "start": 0,
+              "username": "narikonoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935127091009438110",
+        "in_reply_to_user_id": "1629505750971334657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935088386060263456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@narikonoko 私もうめっちゃねむい...と言うわけでメジコン60錠飛んだ\nこれで眠さが一気に吹き飛びましたwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1629505750971334657",
+        "conversation_id": "1935088386060263456",
+        "created_at": "2025-06-17T21:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T22:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935088386060263456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935088386060263456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "おはよ〜\nねむい！おわりだ！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2751,
+          "following_count": 1274,
+          "like_count": 86411,
+          "listed_count": 0,
+          "media_count": 547,
+          "tweet_count": 7563
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-25T15:38:06.000Z",
+        "description": "成(なり)です 華 jk たまに病む！ 夢は美少女に甘やかされながら殺されること！",
+        "id": "1629505750971334657",
+        "location": "心はいつでもふんわり女の子！",
+        "name": "成",
+        "pinned_tweet_id": "1930197867878330775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926480187710930944/EeHFRU6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 129,
+          "like_count": 72498,
+          "listed_count": 5,
+          "media_count": 133,
+          "tweet_count": 1057
+        },
+        "username": "narikonoko",
+        "verified": false
+      }
+    ]
+  }
+}

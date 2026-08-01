@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992846927445266433"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1992842907972485379",
+    "created_at": "2025-11-24T06:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T07:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992846933585752452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938926036689035264",
+          "start": 0,
+          "username": "x0o0x__________"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ih5y9PWAFZ",
+          "end": 40,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1992846933585752452/photo/1",
+          "media_key": "3_1992846927445266433",
+          "start": 17,
+          "url": "https://t.co/ih5y9PWAFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992846933585752452",
+    "in_reply_to_user_id": "1938926036689035264",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992842907972485379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@x0o0x__________ https://t.co/ih5y9PWAFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992846927445266433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gDuNIakAE2gvs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992846927445266433"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1992842907972485379",
+        "created_at": "2025-11-24T06:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992846933585752452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938926036689035264",
+              "start": 0,
+              "username": "x0o0x__________"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ih5y9PWAFZ",
+              "end": 40,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1992846933585752452/photo/1",
+              "media_key": "3_1992846927445266433",
+              "start": 17,
+              "url": "https://t.co/ih5y9PWAFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992846933585752452",
+        "in_reply_to_user_id": "1938926036689035264",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992842907972485379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x0o0x__________ https://t.co/ih5y9PWAFZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938926036689035264",
+        "conversation_id": "1992842907972485379",
+        "created_at": "2025-11-24T06:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T07:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992842907972485379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ねこ！❗️’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1jMJg…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1jMJgRdWQgAGL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1992842909947957248/0uC7auZO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992842909947957248/0uC7auZO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 無職ロリ",
+              "unwound_url": "https://twitter.com/i/spaces/1jMJgRdWQgAGL/peek",
+              "url": "https://t.co/mahJvhWXlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992842907972485379",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mahJvhWXlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 1326,
+          "like_count": 88834,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 8436
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-28T11:42:58.000Z",
+        "description": "解離性同一性障害つよめ 胡桃鯖、AB",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "on.soundcloud.com/UznSL4xafv9g8c…",
+                "end": 23,
+                "expanded_url": "https://on.soundcloud.com/UznSL4xafv9g8cCeWK",
+                "start": 0,
+                "url": "https://t.co/b5PSSPBbml"
+              }
+            ]
+          }
+        },
+        "id": "1938926036689035264",
+        "location": "新宿歌舞伎町",
+        "name": "ねこ！❗️",
+        "pinned_tweet_id": "1987680868106985747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990421903589490688/lqrbbf5L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 113,
+          "like_count": 8318,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1744
+        },
+        "url": "https://t.co/b5PSSPBbml",
+        "username": "x0o0x__________",
+        "verified": true
+      }
+    ]
+  }
+}

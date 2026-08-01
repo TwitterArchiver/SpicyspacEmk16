@@ -1,0 +1,132 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790667265391857882",
+    "created_at": "2024-05-15T09:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T10:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790677394640318821"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790677394640318821",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790667265391857882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "大概明白了\n果然还是要买回国梯子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790667265391857882",
+        "created_at": "2024-05-15T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790677394640318821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790677394640318821",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790667265391857882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大概明白了\n果然还是要买回国梯子"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1790667264532111360"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790667265391857882",
+        "created_at": "2024-05-15T08:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T09:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790667265391857882"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790667265391857882",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调查一下如果互关宝宝们愿意来看我的皮套人直播的话偏好什么视频软件\n想通过调查结果决定自己在哪里开播"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 934,
+          "like_count": 78971,
+          "listed_count": 1,
+          "tweet_count": 4392
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993512472813486081"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993490324774437252",
+    "created_at": "2025-11-26T02:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T03:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993512479067136421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NxLv0wI5hL",
+          "end": 23,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1993512479067136421/photo/1",
+          "media_key": "3_1993512472813486081",
+          "start": 0,
+          "url": "https://t.co/NxLv0wI5hL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993512479067136421",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993490324774437252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/NxLv0wI5hL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1993512472813486081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6phCC1bwAEMPFa.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993512472813486081"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993490324774437252",
+        "created_at": "2025-11-26T02:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T03:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993512479067136421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxLv0wI5hL",
+              "end": 23,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1993512479067136421/photo/1",
+              "media_key": "3_1993512472813486081",
+              "start": 0,
+              "url": "https://t.co/NxLv0wI5hL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993512479067136421",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993490324774437252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/NxLv0wI5hL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1993490324774437252",
+        "created_at": "2025-11-26T01:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T02:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993490324774437252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/spaces/1BRKj…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BRKjgLWApNGw",
+              "start": 0,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://twitter.com/i/spaces/1BRKjgLWApNGw/peek",
+              "url": "https://t.co/EN81JBM0qN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993490324774437252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EN81JBM0qN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859,
+          "following_count": 1330,
+          "like_count": 89021,
+          "listed_count": 3,
+          "media_count": 673,
+          "tweet_count": 8453
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

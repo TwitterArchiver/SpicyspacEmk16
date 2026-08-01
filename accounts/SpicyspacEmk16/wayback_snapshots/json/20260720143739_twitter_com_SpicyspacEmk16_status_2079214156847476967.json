@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079214145136898048",
+        "3_2079214145174753280"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079214156847476967",
+    "created_at": "2026-07-20T14:37:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T15:37:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079214156847476967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IkHSCGdjcn",
+          "end": 50,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2079214156847476967/photo/1",
+          "media_key": "3_2079214145136898048",
+          "start": 27,
+          "url": "https://t.co/IkHSCGdjcn"
+        },
+        {
+          "display_url": "pic.x.com/IkHSCGdjcn",
+          "end": 50,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2079214156847476967/photo/1",
+          "media_key": "3_2079214145174753280",
+          "start": 27,
+          "url": "https://t.co/IkHSCGdjcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079214156847476967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么思思酱的工作纪录片 那真的必须狠狠的买了(不是) https://t.co/IkHSCGdjcn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079214145136898048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNraP7TaMAAMSMa.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1983,
+        "media_key": "3_2079214145174753280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNraP7cb0AAirXG.jpg",
+        "width": 1668
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079214145136898048",
+            "3_2079214145174753280"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079214156847476967",
+        "created_at": "2026-07-20T14:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079214156847476967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkHSCGdjcn",
+              "end": 50,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2079214156847476967/photo/1",
+              "media_key": "3_2079214145136898048",
+              "start": 27,
+              "url": "https://t.co/IkHSCGdjcn"
+            },
+            {
+              "display_url": "pic.x.com/IkHSCGdjcn",
+              "end": 50,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2079214156847476967/photo/1",
+              "media_key": "3_2079214145174753280",
+              "start": 27,
+              "url": "https://t.co/IkHSCGdjcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079214156847476967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么思思酱的工作纪录片 那真的必须狠狠的买了(不是) https://t.co/IkHSCGdjcn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1567,
+          "like_count": 98283,
+          "listed_count": 6,
+          "media_count": 806,
+          "tweet_count": 10499
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

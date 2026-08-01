@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2052214575337288003",
+    "created_at": "2026-05-07T02:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T03:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052215681798767041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1761739613436321792",
+          "start": 0,
+          "username": "YJGAME0189"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052215681798767041",
+    "in_reply_to_user_id": "1761739613436321792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052215236422492335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJGAME0189 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2052214575337288003",
+        "created_at": "2026-05-07T02:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052215681798767041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1761739613436321792",
+              "start": 0,
+              "username": "YJGAME0189"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215681798767041",
+        "in_reply_to_user_id": "1761739613436321792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052215236422492335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJGAME0189 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761739613436321792",
+        "conversation_id": "2052214575337288003",
+        "created_at": "2026-05-07T02:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T03:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052215236422492335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052215236422492335",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052214575337288003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3152,
+          "following_count": 1477,
+          "like_count": 95535,
+          "listed_count": 6,
+          "media_count": 805,
+          "tweet_count": 9788
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T13:07:28.000Z",
+        "description": "「人类在惨痛的历史中选择了重蹈覆辙」\n叫我雨爵_YJGAME/Y*Jubeat/MrRain.J，另有TO3RO等马甲\n我的世界/chunithm/jubeat/arcaea/malody/modern tetris丨中文〇/eng〇\n开盒鉴证傻逼全部滚蛋，自杀干预请通过QQ联系我\n「可有时你无法救下任何人，不是吗？」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/101638040",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/101638040",
+                "start": 0,
+                "url": "https://t.co/PmgsVH8ahQ"
+              }
+            ]
+          }
+        },
+        "id": "1761739613436321792",
+        "location": "STAR.RAIL 2.5次元空间站/音乐游戏体验馆",
+        "name": "YJGAME TO3RO MrRainJ等十来号人",
+        "pinned_tweet_id": "2020803041977335808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029372782774239234/vCPZmWdp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 1275,
+          "like_count": 45715,
+          "listed_count": 3,
+          "media_count": 414,
+          "tweet_count": 15477
+        },
+        "url": "https://t.co/PmgsVH8ahQ",
+        "username": "YJGAME0189",
+        "verified": false
+      }
+    ]
+  }
+}

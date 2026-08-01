@@ -1,0 +1,128 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790260979911229458",
+    "created_at": "2024-05-14T09:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T10:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790311025604264163"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790311025604264163",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790260979911229458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "找到妈咪了已经！太感谢了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790260979911229458",
+        "created_at": "2024-05-14T09:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T10:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790311025604264163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790311025604264163",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790260979911229458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "找到妈咪了已经！太感谢了！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790260979911229458",
+        "created_at": "2024-05-14T06:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T07:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790260979911229458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790260979911229458",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2028,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想问一下推特的朋友们\n有没有会画皮套人拆分的\n我想要一个3.0的立绘拆分\n目前已经有一个基本的草图人设了\n然后价格这边我们好商量的\n预算在2000-10000左右\n详细的内容私聊说\n这个企划实在是放置太久了\n好早之前就在说要转生\n最近的事情结束了我终于是有时间捡起来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 925,
+          "like_count": 78875,
+          "listed_count": 1,
+          "tweet_count": 4356
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

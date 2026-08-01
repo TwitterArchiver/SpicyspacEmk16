@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790665351329685893",
+    "created_at": "2024-05-15T08:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T09:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790665351329685893"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790665351329685893",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问一下大家喜欢看什么类型的直播\n我这边已经找到妈咪在画3.0角色了\n然后想先了解一下互关宝宝们的兴趣\n事前准备一下直播内容\n目前决定的内容已经有:\n杂谈\n玩游戏\n画画\n模型制作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790665351329685893",
+        "created_at": "2024-05-15T08:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T09:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790665351329685893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790665351329685893",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下大家喜欢看什么类型的直播\n我这边已经找到妈咪在画3.0角色了\n然后想先了解一下互关宝宝们的兴趣\n事前准备一下直播内容\n目前决定的内容已经有:\n杂谈\n玩游戏\n画画\n模型制作"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1734,
+          "following_count": 933,
+          "like_count": 78964,
+          "listed_count": 1,
+          "tweet_count": 4390
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

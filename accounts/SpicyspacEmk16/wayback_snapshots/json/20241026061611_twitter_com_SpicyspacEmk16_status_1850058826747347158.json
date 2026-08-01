@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1850058414661194172",
+    "created_at": "2024-10-26T06:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T07:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850058826747347158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850058826747347158",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850058414661194172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_TW 这些人真的很烦！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1850058414661194172",
+        "created_at": "2024-10-26T06:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T07:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850058826747347158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850058826747347158",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850058414661194172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_TW 这些人真的很烦！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850058407069507584"
+          ]
+        },
+        "author_id": "1731670068189114368",
+        "conversation_id": "1850058414661194172",
+        "created_at": "2024-10-26T06:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T07:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850058414661194172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xzdXjEI0Nq",
+              "end": 39,
+              "expanded_url": "https://x.com/Oori_TW/status/1850058414661194172/photo/1",
+              "media_key": "3_1850058407069507584",
+              "start": 16,
+              "url": "https://t.co/xzdXjEI0Nq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850058414661194172",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私訊裡面可不可以少一點這種人。 https://t.co/xzdXjEI0Nq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1847992196789842211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2348,
+          "following_count": 1103,
+          "like_count": 86279,
+          "listed_count": 2,
+          "tweet_count": 6353
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN ｜互fo大歡迎！",
+        "id": "1731670068189114368",
+        "location": "My mom",
+        "name": "崎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849669922827485184/xafKH5ev_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 214,
+          "like_count": 11155,
+          "listed_count": 0,
+          "tweet_count": 1180
+        },
+        "username": "Oori_TW",
+        "verified": false
+      }
+    ]
+  }
+}

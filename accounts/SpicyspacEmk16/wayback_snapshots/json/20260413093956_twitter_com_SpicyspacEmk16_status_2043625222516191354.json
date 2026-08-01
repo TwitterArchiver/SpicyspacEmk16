@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043625209027330048"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043625222516191354",
+    "created_at": "2026-04-13T09:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T10:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043625222516191354"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yYRD3sVyXG",
+          "end": 50,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2043625222516191354/photo/1",
+          "media_key": "3_2043625209027330048",
+          "start": 27,
+          "url": "https://t.co/yYRD3sVyXG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043625222516191354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在宣布！🫡\n大空最萌！🫡\n地雷系鸭鸭我真的好爱🥹 https://t.co/yYRD3sVyXG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043625209027330048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxqTM4bgAAEe74.jpg",
+        "width": 1334
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043625209027330048"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043625222516191354",
+        "created_at": "2026-04-13T09:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T10:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043625222516191354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yYRD3sVyXG",
+              "end": 50,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2043625222516191354/photo/1",
+              "media_key": "3_2043625209027330048",
+              "start": 27,
+              "url": "https://t.co/yYRD3sVyXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043625222516191354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在宣布！🫡\n大空最萌！🫡\n地雷系鸭鸭我真的好爱🥹 https://t.co/yYRD3sVyXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 1412,
+          "like_count": 93485,
+          "listed_count": 5,
+          "media_count": 771,
+          "tweet_count": 9312
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

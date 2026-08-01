@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2078585433991320026",
+    "created_at": "2026-07-18T21:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078595493274476579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856197998990241794",
+          "start": 0,
+          "username": "haijin_sos1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078595493274476579",
+    "in_reply_to_user_id": "1856197998990241794",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078585433991320026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haijin_sos1 いま飲んでるところwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_2078585427628589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNiebwEbAAAjUgI.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2078585433991320026",
+        "created_at": "2026-07-18T21:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078595493274476579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856197998990241794",
+              "start": 0,
+              "username": "haijin_sos1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078595493274476579",
+        "in_reply_to_user_id": "1856197998990241794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078585433991320026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haijin_sos1 いま飲んでるところwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078585427628589056"
+          ]
+        },
+        "author_id": "1856197998990241794",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "in Jelly (inゼリー)",
+              "id": "1123675560503177216",
+              "name": "in Jelly (inゼリー)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2078585433991320026",
+        "created_at": "2026-07-18T20:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078585433991320026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEBer24E0s",
+              "end": 168,
+              "expanded_url": "https://x.com/haijin_sos1/status/2078585433991320026/photo/1",
+              "media_key": "3_2078585427628589056",
+              "start": 145,
+              "url": "https://t.co/GEBer24E0s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078585433991320026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "「鬱」で食事🍽️食べれんよう、\nになって、すすめられた物、\n\n代表格、ウイダーinゼリー、\n種類がある、\n\n難消化デキストリン⚠️、\n↓\n消化されにくいように、\n加工された食物繊維、\n\nマルトデキストリン⚠️、\n↓\n消化されやすい糖質、\n\nウイダーinゼリー、\n「液状デキストリン」って、\n表示されてる物あって「？」、\nなんだが？、"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「鬱」で食事🍽️食べれんよう、\nになって、すすめられた物、\n\n代表格、ウイダーinゼリー、\n種類がある、\n\n難消化デキストリン⚠️、\n↓\n消化されにくいように、\n加工された食物繊維、\n\nマルトデキストリン⚠️、\n↓\n消化されやすい糖質、\n\nウイダーinゼリー、\n「液状デキストリン」って、 https://t.co/GEBer24E0s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 1564,
+          "like_count": 98226,
+          "listed_count": 6,
+          "media_count": 802,
+          "tweet_count": 10484
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T04:51:46.000Z",
+        "description": "鬱→パニック障害→双極性障害→摂食障害→闘病中、躁と鬱繰り返して自分を見失う人、病み垢さんも歓迎、似た環境の方、仲良くしてください。毒吐きます。相互フォローしてくれるとありがたいです。自衛してください。エロ垢❌スピリチュアル❌作業所勧誘❌ハンドメイド紹介❌",
+        "id": "1856197998990241794",
+        "name": "廃人1号",
+        "pinned_tweet_id": "2035084961032937659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941250075629395968/kK2bYNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 7496,
+          "like_count": 5385,
+          "listed_count": 13,
+          "media_count": 201,
+          "tweet_count": 5105
+        },
+        "url": "",
+        "username": "haijin_sos1",
+        "verified": true
+      }
+    ]
+  }
+}

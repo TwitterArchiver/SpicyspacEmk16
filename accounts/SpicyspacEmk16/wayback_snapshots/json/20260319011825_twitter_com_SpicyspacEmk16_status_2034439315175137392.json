@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034439239564476416",
+        "3_2034439239535112192",
+        "3_2034439239543537664",
+        "3_2034439239543500800"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2034439315175137392",
+    "created_at": "2026-03-19T01:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T02:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034439315175137392"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/x8f3xUNoXs",
+          "end": 66,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+          "media_key": "13_2034439239564476416",
+          "start": 43,
+          "url": "https://t.co/x8f3xUNoXs"
+        },
+        {
+          "display_url": "pic.x.com/x8f3xUNoXs",
+          "end": 66,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+          "media_key": "3_2034439239535112192",
+          "start": 43,
+          "url": "https://t.co/x8f3xUNoXs"
+        },
+        {
+          "display_url": "pic.x.com/x8f3xUNoXs",
+          "end": 66,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+          "media_key": "3_2034439239543537664",
+          "start": 43,
+          "url": "https://t.co/x8f3xUNoXs"
+        },
+        {
+          "display_url": "pic.x.com/x8f3xUNoXs",
+          "end": 66,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+          "media_key": "3_2034439239543500800",
+          "start": 43,
+          "url": "https://t.co/x8f3xUNoXs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034439315175137392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在家用投影仪体验荒野真的好爽！！！\n死死酱的孤鸟真的好萌\n地雷鸟太可爱了wwwww😘 https://t.co/x8f3xUNoXs"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16861,
+        "height": 750,
+        "media_key": "13_2034439239564476416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034439239564476416/img/1SWnNKZMYMFlLYvS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034439239564476416/vid/avc1/360x270/X8fabINwGVzYkoSC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034439239564476416/vid/avc1/480x360/m9yimHaUOwCwSk8i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034439239564476416/vid/avc1/1000x750/WJgTi6wnrCOawxmo.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034439239564476416/pl/E-kZRy1O8DuBCYXc.m3u8"
+          }
+        ],
+        "width": 1000
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034439239535112192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvHtZ2bMAA96xI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034439239543537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvHtZ4bwAAUzym.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2034439239543500800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvHtZ4bMAAfw1l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034439239564476416",
+            "3_2034439239535112192",
+            "3_2034439239543537664",
+            "3_2034439239543500800"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2034439315175137392",
+        "created_at": "2026-03-19T01:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034439315175137392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x8f3xUNoXs",
+              "end": 66,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+              "media_key": "13_2034439239564476416",
+              "start": 43,
+              "url": "https://t.co/x8f3xUNoXs"
+            },
+            {
+              "display_url": "pic.x.com/x8f3xUNoXs",
+              "end": 66,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+              "media_key": "3_2034439239535112192",
+              "start": 43,
+              "url": "https://t.co/x8f3xUNoXs"
+            },
+            {
+              "display_url": "pic.x.com/x8f3xUNoXs",
+              "end": 66,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+              "media_key": "3_2034439239543537664",
+              "start": 43,
+              "url": "https://t.co/x8f3xUNoXs"
+            },
+            {
+              "display_url": "pic.x.com/x8f3xUNoXs",
+              "end": 66,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2034439315175137392/video/1",
+              "media_key": "3_2034439239543500800",
+              "start": 43,
+              "url": "https://t.co/x8f3xUNoXs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034439315175137392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在家用投影仪体验荒野真的好爽！！！\n死死酱的孤鸟真的好萌\n地雷鸟太可爱了wwwww😘 https://t.co/x8f3xUNoXs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2960,
+          "following_count": 1385,
+          "like_count": 91929,
+          "listed_count": 5,
+          "media_count": 745,
+          "tweet_count": 9063
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

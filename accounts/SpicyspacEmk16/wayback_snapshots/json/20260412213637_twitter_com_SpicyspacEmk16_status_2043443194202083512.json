@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043190734598410673",
+    "created_at": "2026-04-12T21:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T22:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043443194202083512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985648276046315520",
+          "start": 0,
+          "username": "0o_170o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043443194202083512",
+    "in_reply_to_user_id": "1985648276046315520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043409429870399718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0o_170o 原来如此 日版的有可待因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043190734598410673",
+        "created_at": "2026-04-12T21:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T22:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043443194202083512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985648276046315520",
+              "start": 0,
+              "username": "0o_170o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043443194202083512",
+        "in_reply_to_user_id": "1985648276046315520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043409429870399718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0o_170o 原来如此 日版的有可待因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985648276046315520",
+        "conversation_id": "2043190734598410673",
+        "created_at": "2026-04-12T19:22:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043409429870399718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043409429870399718",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043190734598410673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 補充一下 台灣人不要買台灣版 沒有爽的成分 \n因為我親自試過了 之後懂成分才知道台灣是閹割過"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1403,
+          "like_count": 93299,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 9279
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-04T10:00:24.000Z",
+        "description": "20↑ 雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/minmin425",
+                "end": 23,
+                "expanded_url": "http://paypal.me/minmin425",
+                "start": 0,
+                "url": "https://t.co/83N8HlkAri"
+              }
+            ]
+          }
+        },
+        "id": "1985648276046315520",
+        "location": "吵死了",
+        "name": "四月一日★",
+        "pinned_tweet_id": "2039776366128926882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040887994522193920/IR3gnffY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 449,
+          "like_count": 3560,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1813
+        },
+        "url": "https://t.co/83N8HlkAri",
+        "username": "0o_170o",
+        "verified": false
+      }
+    ]
+  }
+}

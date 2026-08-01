@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2062305327526342900",
+    "created_at": "2026-06-04T03:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T04:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062373967298806136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3186322153",
+          "start": 0,
+          "username": "aa123429181tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062373967298806136",
+    "in_reply_to_user_id": "3186322153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062305327526342900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa123429181tw 我有一台超合金魂～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062305327526342900",
+        "created_at": "2026-06-04T03:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T04:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062373967298806136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3186322153",
+              "start": 0,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062373967298806136",
+        "in_reply_to_user_id": "3186322153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062305327526342900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa123429181tw 我有一台超合金魂～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3186322153",
+        "conversation_id": "2062305327526342900",
+        "created_at": "2026-06-03T22:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062305327526342900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gsc_mechasmile…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/gsc_mechasmile/status/2062131080036290909",
+              "start": 11,
+              "url": "https://t.co/MwhzyLoxjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062305327526342900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062131080036290909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最強吉姆 \\OAO/ https://t.co/MwhzyLoxjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 1522,
+          "like_count": 97331,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10177
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲.... (・ω・)\n其實我會的也不多啦~\n\n我是男的,只是喜歡穿女裝而已,而且沒有很漂亮...\n還會放奇怪的照片,我都會設置敏感注意,介意的請別點開 (つд⊂)\n\n話題都OK~\n另外,我的畫技很差所以不接任何委託喔~ (´・ω・`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aa1234…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aa123429181.bsky.social",
+                "start": 0,
+                "url": "https://t.co/qvvv3yIeff"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061986433691521024/H0wW2TlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 1718,
+          "like_count": 181389,
+          "listed_count": 15,
+          "media_count": 3352,
+          "tweet_count": 77100
+        },
+        "url": "https://t.co/qvvv3yIeff",
+        "username": "aa123429181tw",
+        "verified": false
+      }
+    ]
+  }
+}

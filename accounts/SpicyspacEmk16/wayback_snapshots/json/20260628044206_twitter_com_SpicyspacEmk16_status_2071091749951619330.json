@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2070351893059244447",
+    "created_at": "2026-06-28T04:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071091749951619330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1995774191858319361",
+          "start": 0,
+          "username": "sikigane_0705"
+        },
+        {
+          "end": 26,
+          "id": "1228406233738072064",
+          "start": 15,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071091749951619330",
+    "in_reply_to_user_id": "1995774191858319361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070351893059244447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sikigane_0705 @AR10545614 紫しか見えない！！！美しく美味しく紫！！！🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_2070351884200841216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLteEcnaEAAPTGS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070351884205142017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLteEcobsAEXGBu.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2070351893059244447",
+        "created_at": "2026-06-28T04:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071091749951619330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1995774191858319361",
+              "start": 0,
+              "username": "sikigane_0705"
+            },
+            {
+              "end": 26,
+              "id": "1228406233738072064",
+              "start": 15,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071091749951619330",
+        "in_reply_to_user_id": "1995774191858319361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070351893059244447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sikigane_0705 @AR10545614 紫しか見えない！！！美しく美味しく紫！！！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070351884200841216",
+            "3_2070351884205142017"
+          ]
+        },
+        "author_id": "1995774191858319361",
+        "conversation_id": "2070351893059244447",
+        "created_at": "2026-06-26T03:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070351893059244447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 37,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884200841216",
+              "start": 14,
+              "url": "https://t.co/h3urX2ytno"
+            },
+            {
+              "display_url": "pic.x.com/h3urX2ytno",
+              "end": 37,
+              "expanded_url": "https://x.com/sikigane_0705/status/2070351893059244447/photo/1",
+              "media_key": "3_2070351884205142017",
+              "start": 14,
+              "url": "https://t.co/h3urX2ytno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070351893059244447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 143914,
+          "like_count": 2464,
+          "quote_count": 70,
+          "reply_count": 25,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "溜めすぎて捨て方に悩んでる https://t.co/h3urX2ytno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1571,
+          "like_count": 97687,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 10372
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-02T08:37:15.000Z",
+        "description": "名前しきがねって読みます。みんな姫って呼んでるから姫って呼んでね:バセドウ病:発達障害:躁鬱:OD:リスカ:タバコ:ツイ廃ニート:宇宙猫です:いいね既読感覚:片思い1日:サブ垢@yukiyura0129:最奥@K41RI0129",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "yukiyura0129"
+              },
+              {
+                "end": 114,
+                "start": 104,
+                "username": "K41RI0129"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2IZR1EI5K45CU?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/E3OofhB5sQ"
+              }
+            ]
+          }
+        },
+        "id": "1995774191858319361",
+        "name": "屍鬼華嶺",
+        "pinned_tweet_id": "2057781503061631058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069530862677528576/6n8O7VFH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1309,
+          "following_count": 98,
+          "like_count": 17312,
+          "listed_count": 14,
+          "media_count": 295,
+          "tweet_count": 3177
+        },
+        "url": "https://t.co/E3OofhB5sQ",
+        "username": "sikigane_0705",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 975,
+          "like_count": 321,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

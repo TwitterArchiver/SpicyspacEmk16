@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1808156211512332412",
+    "created_at": "2024-07-02T15:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T16:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808160787032379641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510316984",
+          "start": 0,
+          "username": "samuelmondina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808160787032379641",
+    "in_reply_to_user_id": "1510316984",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808160446316437703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samuelmondina 🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1808156211512332412",
+        "created_at": "2024-07-02T15:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808160787032379641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510316984",
+              "start": 0,
+              "username": "samuelmondina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808160787032379641",
+        "in_reply_to_user_id": "1510316984",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808160446316437703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samuelmondina 🥳"
+      },
+      {
+        "attachments": {},
+        "author_id": "1510316984",
+        "conversation_id": "1808156211512332412",
+        "created_at": "2024-07-02T15:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T16:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808160446316437703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808160446316437703",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808156211512332412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 哇🎊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 970,
+          "like_count": 81718,
+          "listed_count": 1,
+          "tweet_count": 4962
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-12T11:52:11.000Z",
+        "description": "😪",
+        "id": "1510316984",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "darkmini",
+        "pinned_tweet_id": "1791758161218867501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790683620191166464/ZL5vQmr3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 407,
+          "like_count": 899,
+          "listed_count": 0,
+          "tweet_count": 364
+        },
+        "username": "samuelmondina",
+        "verified": false
+      }
+    ]
+  }
+}

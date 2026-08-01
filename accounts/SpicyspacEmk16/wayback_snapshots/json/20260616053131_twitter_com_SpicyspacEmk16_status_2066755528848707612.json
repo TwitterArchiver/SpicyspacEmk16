@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066755524570554368",
+        "3_2066755524574715904"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066479225339871720",
+    "created_at": "2026-06-16T05:31:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066755528848707612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1336102181364064257",
+          "start": 0,
+          "username": "mnb34856015"
+        },
+        {
+          "end": 24,
+          "id": "1228406233738072064",
+          "start": 13,
+          "username": "AR10545614"
+        },
+        {
+          "end": 38,
+          "id": "862890812845113345",
+          "start": 25,
+          "username": "kotsuban0120"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fsPWK5epSv",
+          "end": 74,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2066755528848707612/photo/1",
+          "media_key": "3_2066755524570554368",
+          "start": 51,
+          "url": "https://t.co/fsPWK5epSv"
+        },
+        {
+          "display_url": "pic.x.com/fsPWK5epSv",
+          "end": 74,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2066755528848707612/photo/1",
+          "media_key": "3_2066755524574715904",
+          "start": 51,
+          "url": "https://t.co/fsPWK5epSv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066755528848707612",
+    "in_reply_to_user_id": "1336102181364064257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066747999557243094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnb34856015 @AR10545614 @kotsuban0120 查成分一下随即满意离去 https://t.co/fsPWK5epSv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066755524570554368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6XMw-aoAAF4pC.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066755524574715904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6XMw_aIAAxoQC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066755524570554368",
+            "3_2066755524574715904"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066479225339871720",
+        "created_at": "2026-06-16T05:31:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066755528848707612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1336102181364064257",
+              "start": 0,
+              "username": "mnb34856015"
+            },
+            {
+              "end": 24,
+              "id": "1228406233738072064",
+              "start": 13,
+              "username": "AR10545614"
+            },
+            {
+              "end": 38,
+              "id": "862890812845113345",
+              "start": 25,
+              "username": "kotsuban0120"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fsPWK5epSv",
+              "end": 74,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2066755528848707612/photo/1",
+              "media_key": "3_2066755524570554368",
+              "start": 51,
+              "url": "https://t.co/fsPWK5epSv"
+            },
+            {
+              "display_url": "pic.x.com/fsPWK5epSv",
+              "end": 74,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2066755528848707612/photo/1",
+              "media_key": "3_2066755524574715904",
+              "start": 51,
+              "url": "https://t.co/fsPWK5epSv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066755528848707612",
+        "in_reply_to_user_id": "1336102181364064257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066747999557243094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnb34856015 @AR10545614 @kotsuban0120 查成分一下随即满意离去 https://t.co/fsPWK5epSv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1336102181364064257",
+        "conversation_id": "2066479225339871720",
+        "created_at": "2026-06-16T05:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066747999557243094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            },
+            {
+              "end": 25,
+              "id": "862890812845113345",
+              "start": 12,
+              "username": "kotsuban0120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066747999557243094",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 268,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066693987529089055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 @kotsuban0120 你他妈开炮前能不能看清楚现状，有人在骂这件事吗？你上来就搁那乱扣帽子，先射箭再画靶。\n廉价的正义"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1558,
+          "like_count": 97455,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 10262
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-08T00:16:12.000Z",
+        "description": "",
+        "id": "1336102181364064257",
+        "name": "mnb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1411126375155568643/gzF2u1Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 869,
+          "like_count": 459,
+          "listed_count": 9,
+          "media_count": 0,
+          "tweet_count": 481
+        },
+        "username": "mnb34856015",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 843,
+          "following_count": 965,
+          "like_count": 274,
+          "listed_count": 6,
+          "media_count": 176,
+          "tweet_count": 750
+        },
+        "username": "AR10545614",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-12T04:42:56.000Z",
+        "description": "副交感神経過多",
+        "id": "862890812845113345",
+        "name": "ナーキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/888001225060360194/K1cztj35_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 100,
+          "like_count": 11918,
+          "listed_count": 14,
+          "media_count": 2701,
+          "tweet_count": 9235
+        },
+        "username": "kotsuban0120",
+        "verified": false
+      }
+    ]
+  }
+}

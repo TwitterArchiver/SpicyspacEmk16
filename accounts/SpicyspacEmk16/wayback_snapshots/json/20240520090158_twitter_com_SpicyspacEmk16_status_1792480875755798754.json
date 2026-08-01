@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1792479824445137306",
+    "created_at": "2024-05-20T09:01:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T10:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792480875755798754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "445317178",
+          "start": 0,
+          "username": "Okami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792480875755798754",
+    "in_reply_to_user_id": "445317178",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792479824445137306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okami_Rui 所以说我几乎在她面前崩溃都是因为杜先生啊\n结果在她那里就是我们互相帮助谁也不欠了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1792479824445137306",
+        "created_at": "2024-05-20T09:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T10:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792480875755798754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "445317178",
+              "start": 0,
+              "username": "Okami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792480875755798754",
+        "in_reply_to_user_id": "445317178",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792479824445137306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okami_Rui 所以说我几乎在她面前崩溃都是因为杜先生啊\n结果在她那里就是我们互相帮助谁也不欠了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792479820150198272"
+          ]
+        },
+        "author_id": "445317178",
+        "conversation_id": "1792479824445137306",
+        "created_at": "2024-05-20T08:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T09:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792479824445137306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/h29ssqpBFU",
+              "end": 92,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1792479824445137306/photo/1",
+              "media_key": "3_1792479820150198272",
+              "start": 69,
+              "url": "https://t.co/h29ssqpBFU"
+            },
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1792430958853136456",
+              "start": 93,
+              "url": "https://t.co/Z1N3kTKsSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792479824445137306",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792430958853136456",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "证明：\nhz小姐4月有次答应再也不见杜y偷偷去见给人思思搞崩，我说了原因人hz小姐直接开启装傻模式。\n结论只能说是：人清醒着，选择作恶。 https://t.co/h29ssqpBFU https://t.co/Z1N3kTKsSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 948,
+          "like_count": 79147,
+          "listed_count": 1,
+          "tweet_count": 4468
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-24T07:56:42.000Z",
+        "description": "中国語🈶️雑多垢/日常アニメゲーム自撮り/⚔️武装娘🔫/top理工商卒/INTJ-A 5w6 541/飛鳥たきな推し/社交不安/LesFem🌈娘T/守序善良/保守派不正常少女/网络野爹/负能树洞号⚠️/提供有偿战略管理咨询/🇨🇳🇺🇸🇯🇵/他SNS⬇️link⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okamirui",
+                "end": 23,
+                "expanded_url": "https://lit.link/okamirui",
+                "start": 0,
+                "url": "https://t.co/imiQPkPEhW"
+              }
+            ]
+          }
+        },
+        "id": "445317178",
+        "location": "Andromeda",
+        "name": "Sephy✨渾沌神Khorne",
+        "pinned_tweet_id": "1791801199739707661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650703663994933248/cMU1JaF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 279,
+          "like_count": 4810,
+          "listed_count": 6,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/imiQPkPEhW",
+        "username": "Okami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

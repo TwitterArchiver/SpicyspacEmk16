@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944597280449036289"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1944550097871941892",
+    "created_at": "2025-07-14T03:18:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T04:18:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944597289504526697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3186322153",
+          "start": 0,
+          "username": "aa123429181tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/84GW6acEFG",
+          "end": 51,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1944597289504526697/photo/1",
+          "media_key": "3_1944597280449036289",
+          "start": 28,
+          "url": "https://t.co/84GW6acEFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944597289504526697",
+    "in_reply_to_user_id": "3186322153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944550097871941892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa123429181tw 好巧！我最近也在做这个！ https://t.co/84GW6acEFG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944597280449036289",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvyY7HRbAAEy3Gj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1944550090770911232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxuAUBakAAlQRB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1944550091853090816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxuAYDbUAAUFyA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944550093383938048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxuAdwaMAA83v_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_1944550094746894336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvxuAi1XQAAOu13.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944597280449036289"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1944550097871941892",
+        "created_at": "2025-07-14T03:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T04:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944597289504526697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3186322153",
+              "start": 0,
+              "username": "aa123429181tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/84GW6acEFG",
+              "end": 51,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1944597289504526697/photo/1",
+              "media_key": "3_1944597280449036289",
+              "start": 28,
+              "url": "https://t.co/84GW6acEFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944597289504526697",
+        "in_reply_to_user_id": "3186322153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944550097871941892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa123429181tw 好巧！我最近也在做这个！ https://t.co/84GW6acEFG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944550090770911232",
+            "3_1944550091853090816",
+            "3_1944550093383938048",
+            "3_1944550094746894336"
+          ]
+        },
+        "author_id": "3186322153",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1944550097871941892",
+        "created_at": "2025-07-14T00:10:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T01:10:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944550097871941892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1GrfG3OAB9",
+              "end": 101,
+              "expanded_url": "https://x.com/aa123429181tw/status/1944550097871941892/photo/1",
+              "media_key": "3_1944550090770911232",
+              "start": 78,
+              "url": "https://t.co/1GrfG3OAB9"
+            },
+            {
+              "display_url": "pic.x.com/1GrfG3OAB9",
+              "end": 101,
+              "expanded_url": "https://x.com/aa123429181tw/status/1944550097871941892/photo/1",
+              "media_key": "3_1944550091853090816",
+              "start": 78,
+              "url": "https://t.co/1GrfG3OAB9"
+            },
+            {
+              "display_url": "pic.x.com/1GrfG3OAB9",
+              "end": 101,
+              "expanded_url": "https://x.com/aa123429181tw/status/1944550097871941892/photo/1",
+              "media_key": "3_1944550093383938048",
+              "start": 78,
+              "url": "https://t.co/1GrfG3OAB9"
+            },
+            {
+              "display_url": "pic.x.com/1GrfG3OAB9",
+              "end": 101,
+              "expanded_url": "https://x.com/aa123429181tw/status/1944550097871941892/photo/1",
+              "media_key": "3_1944550094746894336",
+              "start": 78,
+              "url": "https://t.co/1GrfG3OAB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944550097871941892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[近況]\n\n最近很多人在說\"來都來了\"\n\n而我大多都是在經過模型店時才會說這句,剛好不小心經過沒看過的模型店就進去了\n\n當然,這也不是最近的照片了 O_O https://t.co/1GrfG3OAB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 1282,
+          "like_count": 87199,
+          "listed_count": 2,
+          "media_count": 564,
+          "tweet_count": 7736
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲.... (・ω・)\n其實我會的也不多啦~\n\n還有我是男的,只是喜歡穿女裝而已,而且沒有很漂亮...\n還會放奇怪的照片,我都會設置敏感注意,介意的請別點開 (つд⊂)\n\n話題都OK~\n另外,我的畫技很差所以不接任何委託喔~ (´・ω・`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/960150",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/960150",
+                "start": 0,
+                "url": "https://t.co/EYNZRnOMbn"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933481454392258563/UAu-aj6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1572,
+          "like_count": 153968,
+          "listed_count": 15,
+          "media_count": 2608,
+          "tweet_count": 65298
+        },
+        "url": "https://t.co/EYNZRnOMbn",
+        "username": "aa123429181tw",
+        "verified": false
+      }
+    ]
+  }
+}

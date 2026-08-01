@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2049617839456436340",
+    "created_at": "2026-04-30T03:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049696993396863201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1871856668818227200",
+          "start": 0,
+          "username": "SEISEI_YUYU_EX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049696993396863201",
+    "in_reply_to_user_id": "1871856668818227200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049656687204954590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SEISEI_YUYU_EX 🤫💊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2049617839456436340",
+        "created_at": "2026-04-30T03:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049696993396863201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1871856668818227200",
+              "start": 0,
+              "username": "SEISEI_YUYU_EX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049696993396863201",
+        "in_reply_to_user_id": "1871856668818227200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049656687204954590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SEISEI_YUYU_EX 🤫💊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871856668818227200",
+        "conversation_id": "2049617839456436340",
+        "created_at": "2026-04-30T01:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049656687204954590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049656687204954590",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049617839456436340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 狠狠羡慕了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 1461,
+          "like_count": 94714,
+          "listed_count": 5,
+          "media_count": 794,
+          "tweet_count": 9654
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-25T09:53:30.000Z",
+        "description": "OD&リスカㅣ語言學ㅣLanguage🇨🇳🇯🇵🇰🇷🇻🇳🇺🇸🇫🇷ㅣ04ㅣINFPㅣ特攝ㅣ動畫ㅣ寶可夢",
+        "id": "1871856668818227200",
+        "location": "XANADU",
+        "name": "青々悠々",
+        "pinned_tweet_id": "2029990238769270840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048474911338037248/XNMIyi5u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 538,
+          "like_count": 6731,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 846
+        },
+        "username": "SEISEI_YUYU_EX",
+        "verified": false
+      }
+    ]
+  }
+}

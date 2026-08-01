@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2003796833081167928",
+    "created_at": "2025-12-24T12:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T13:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003812606365381106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965531250447568896",
+          "start": 0,
+          "username": "jingyin_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003812606365381106",
+    "in_reply_to_user_id": "1965531250447568896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003796833081167928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingyin_8964 确实）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2003796833081167928",
+        "created_at": "2025-12-24T12:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T13:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003812606365381106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965531250447568896",
+              "start": 0,
+              "username": "jingyin_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003812606365381106",
+        "in_reply_to_user_id": "1965531250447568896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003796833081167928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingyin_8964 确实）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965531250447568896",
+        "conversation_id": "2003796833081167928",
+        "created_at": "2025-12-24T11:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T12:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003796833081167928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003796833081167928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很反感某些跨女在你妈不是同类小群体的群聊里发情“想被中出”“想被论剑”“希望后天自己能被插到求饶插到哭”“发情了呜”群里都被俩人刷屏了，发情能不能去私聊或者小群体啊，暴露癖吗非要跑普通群里来发情，完全不考虑群里其他普通人感受，司马跨出一股味，你他吗永远是性压抑郭男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003619781711429634/6r7AP6fD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 1358,
+          "like_count": 90211,
+          "listed_count": 4,
+          "media_count": 706,
+          "tweet_count": 8746
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-09T21:43:35.000Z",
+        "description": "我看着幸福的日子被我亲手摧毁以后开心地闭上了眼 \n/freeodwiki参与者\n/接RC测试\n/全新阿片类策划药“湮灭”有售\n/过🚪有图包视频和RC咨询\n/我宝宝🤗：@Edward_8964\n/镜音的匿名提问箱：https://t.co/Ko843XKMQP\n口粮：@420420420C",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "Edward_8964"
+              },
+              {
+                "end": 144,
+                "start": 133,
+                "username": "420420420C"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jingyin_8964",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jingyin_8964",
+                "start": 106,
+                "url": "https://t.co/Ko843XKMQP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeod.wiki",
+                "end": 23,
+                "expanded_url": "https://freeod.wiki/",
+                "start": 0,
+                "url": "https://t.co/p3AyZyGkrj"
+              }
+            ]
+          }
+        },
+        "id": "1965531250447568896",
+        "location": "🚪88/288/520/1314可不固定",
+        "name": "和泉镜音能成为真正的RC之神吗",
+        "pinned_tweet_id": "2003653531056984520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996595366100361216/GWBNbt7G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 334,
+          "following_count": 153,
+          "like_count": 1962,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/p3AyZyGkrj",
+        "username": "jingyin_8964",
+        "verified": false
+      }
+    ]
+  }
+}

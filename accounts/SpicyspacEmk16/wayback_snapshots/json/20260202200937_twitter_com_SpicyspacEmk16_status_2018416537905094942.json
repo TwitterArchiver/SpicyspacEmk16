@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2018240875797885145",
+    "created_at": "2026-02-02T20:09:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T21:09:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018416537905094942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740188738469367808",
+          "start": 0,
+          "username": "HJS_2403_0"
+        },
+        {
+          "end": 22,
+          "id": "1339446920511569920",
+          "start": 12,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018416537905094942",
+    "in_reply_to_user_id": "1740188738469367808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018327420777206116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HJS_2403_0 @shudesu00 真的很蕾！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2018240875797885145",
+        "created_at": "2026-02-02T20:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T21:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018416537905094942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740188738469367808",
+              "start": 0,
+              "username": "HJS_2403_0"
+            },
+            {
+              "end": 22,
+              "id": "1339446920511569920",
+              "start": 12,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018416537905094942",
+        "in_reply_to_user_id": "1740188738469367808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018327420777206116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HJS_2403_0 @shudesu00 真的很蕾！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740188738469367808",
+        "conversation_id": "2018240875797885145",
+        "created_at": "2026-02-02T14:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T15:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018327420777206116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 26,
+              "id": "1339446920511569920",
+              "start": 16,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018327420777206116",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018240875797885145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @shudesu00 好看诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 1363,
+          "like_count": 91242,
+          "listed_count": 5,
+          "media_count": 731,
+          "tweet_count": 8942
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-28T01:51:56.000Z",
+        "description": "我是一些些  荒景肆(Arakei Shi)\n⚠️精神疾患 | 繁花園 | 文學向@HJS_2403_2\n勘測統系 | INFP-A |🩵🩶心裏建設供給\n虛無的理想 主義患者\n無政治立場 無參與圈子\nEx2403 程式 寫作 繪畫 願你幸福\n🏳️‍🌈 🏳️‍⚧️ 🦋 🦴 ❤️ ‍🩹 ✨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 41,
+                "username": "HJS_2403_2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/AraiShi",
+                "end": 23,
+                "expanded_url": "https://bio.site/AraiShi",
+                "start": 0,
+                "url": "https://t.co/Z3lsqQxdE3"
+              }
+            ]
+          }
+        },
+        "id": "1740188738469367808",
+        "location": "꒰ঌ♫*'✟:｡-願你退此苦海以至願山-｡.:*♡'*♪໒꒱",
+        "name": "閃閃亮 毛茸茸 可可愛愛的一些些",
+        "pinned_tweet_id": "1991772859178610921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005998532231311361/Sk5ocZC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264,
+          "following_count": 305,
+          "like_count": 43253,
+          "listed_count": 6,
+          "media_count": 920,
+          "tweet_count": 4253
+        },
+        "url": "https://t.co/Z3lsqQxdE3",
+        "username": "HJS_2403_0",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_poly_愛🩵👭 💕✝️@CoFfffEeeeE1 @Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 54,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932288019887001600/qzDa0LNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4418,
+          "following_count": 2207,
+          "like_count": 116437,
+          "listed_count": 9,
+          "media_count": 1719,
+          "tweet_count": 18064
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

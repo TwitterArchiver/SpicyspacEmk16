@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1986347799227584573",
+    "created_at": "2025-11-06T08:28:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T09:28:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986349854063526390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986349854063526390",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986347799227584573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 666不收钱他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_1986347795373072384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Dsy7eXoAAxnTk.jpg",
+        "width": 857
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1986347799227584573",
+        "created_at": "2025-11-06T08:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986349854063526390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986349854063526390",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986347799227584573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 666不收钱他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986347795373072384"
+          ]
+        },
+        "author_id": "1550811468009963521",
+        "conversation_id": "1986347799227584573",
+        "created_at": "2025-11-06T08:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T09:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986347799227584573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0FyYubaw7",
+              "end": 66,
+              "expanded_url": "https://x.com/zhi_cheng233/status/1986347799227584573/photo/1",
+              "media_key": "3_1986347795373072384",
+              "start": 43,
+              "url": "https://t.co/n0FyYubaw7"
+            },
+            {
+              "display_url": "x.com/SpicyspacEmk16…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1986246980113473550",
+              "start": 67,
+              "url": "https://t.co/ZVrDBDgWN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986347799227584573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986246980113473550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯自己没看注意事项备注了导致店家怕被追踪不收钱，又退不了\n\n这就是推主所谓的智商税😁 https://t.co/n0FyYubaw7 https://t.co/ZVrDBDgWN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2818,
+          "following_count": 1311,
+          "like_count": 87716,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 8260
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/OIer预备役/后端Java开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4NLJQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 134,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 111,
+                "url": "https://t.co/1UTMj4NLJQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8FktvQ"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成🍥",
+        "pinned_tweet_id": "1934498789944902108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979024625456611328/Svb9D1WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 786,
+          "like_count": 6437,
+          "listed_count": 4,
+          "media_count": 398,
+          "tweet_count": 2907
+        },
+        "url": "https://t.co/t9zy8FktvQ",
+        "username": "zhi_cheng233",
+        "verified": false
+      }
+    ]
+  }
+}

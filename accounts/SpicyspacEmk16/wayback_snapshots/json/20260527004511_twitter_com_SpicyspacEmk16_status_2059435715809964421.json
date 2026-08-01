@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2020361303991484824",
+    "created_at": "2026-05-27T00:45:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059435715809964421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1911624919751770112",
+          "start": 0,
+          "username": "wjingu174068"
+        },
+        {
+          "end": 26,
+          "id": "1638543470016221187",
+          "start": 14,
+          "username": "xiao_zhezhe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059435715809964421",
+    "in_reply_to_user_id": "1911624919751770112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044259337481396521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjingu174068 @xiao_zhezhe 很抱歉打扰哥哥请问有需要男娘提供服务嘛🥺我这边能尽量满足您的一切需求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2020361303991484824",
+        "created_at": "2026-05-27T00:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059435715809964421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1911624919751770112",
+              "start": 0,
+              "username": "wjingu174068"
+            },
+            {
+              "end": 26,
+              "id": "1638543470016221187",
+              "start": 14,
+              "username": "xiao_zhezhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059435715809964421",
+        "in_reply_to_user_id": "1911624919751770112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044259337481396521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjingu174068 @xiao_zhezhe 很抱歉打扰哥哥请问有需要男娘提供服务嘛🥺我这边能尽量满足您的一切需求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911624919751770112",
+        "conversation_id": "2020361303991484824",
+        "created_at": "2026-04-15T03:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T04:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044259337481396521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1638543470016221187",
+              "start": 0,
+              "username": "xiao_zhezhe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044259337481396521",
+        "in_reply_to_user_id": "1638543470016221187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020361303991484824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiao_zhezhe 你好呀在东京的男娘嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1518,
+          "like_count": 97172,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10140
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:38:08.000Z",
+        "description": "",
+        "id": "1911624919751770112",
+        "name": "吴建国",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 110,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "wjingu174068",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T14:10:10.000Z",
+        "description": "普通男孩纸 / 周末女装子 / #iiii / 中文号 / 主要发一些日常吐槽 + 时不时会有奇怪内容 / 日本 東京",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "iiii"
+              }
+            ]
+          }
+        },
+        "id": "1638543470016221187",
+        "location": "Tokyo-to, Japan",
+        "name": "爱美的小哲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638547109506072577/h2_ew9Li_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 20,
+          "like_count": 68,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 101
+        },
+        "username": "xiao_zhezhe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057577554291417088"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057577561920880960",
+    "created_at": "2026-05-21T21:41:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T22:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057577561920880960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YyPjD03m9d",
+          "end": 110,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057577561920880960/photo/1",
+          "media_key": "3_2057577554291417088",
+          "start": 87,
+          "url": "https://t.co/YyPjD03m9d"
+        },
+        {
+          "display_url": "x.com/dqadopt/status…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/dqadopt/status/2057428313220764072",
+          "start": 111,
+          "url": "https://t.co/qgfCGByqjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057577561920880960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057428313220764072",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以前突然想到要不要画点什么想了半天不知道画什么结果🩸快干完了赶紧随手沾了一点描了个爱心\n然后后期的时候捣鼓出来这个滤镜莫名其妙感觉好漂亮\n\n结果我拿这张图做了好几年手机壁纸 https://t.co/YyPjD03m9d https://t.co/qgfCGByqjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057577554291417088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI374lVbYAAJr9Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057428251111510016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_pa0AAiJWn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057428251145015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_xaEAAx3gh.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057428251115675648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI10F_qaYAA4xMg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057577554291417088"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057577561920880960",
+        "created_at": "2026-05-21T21:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057577561920880960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyPjD03m9d",
+              "end": 110,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057577561920880960/photo/1",
+              "media_key": "3_2057577554291417088",
+              "start": 87,
+              "url": "https://t.co/YyPjD03m9d"
+            },
+            {
+              "display_url": "x.com/dqadopt/status…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/dqadopt/status/2057428313220764072",
+              "start": 111,
+              "url": "https://t.co/qgfCGByqjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057577561920880960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057428313220764072",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以前突然想到要不要画点什么想了半天不知道画什么结果🩸快干完了赶紧随手沾了一点描了个爱心\n然后后期的时候捣鼓出来这个滤镜莫名其妙感觉好漂亮\n\n结果我拿这张图做了好几年手机壁纸 https://t.co/YyPjD03m9d https://t.co/qgfCGByqjt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057428251111510016",
+            "3_2057428251145015296",
+            "3_2057428251115675648"
+          ]
+        },
+        "author_id": "1989965282799226880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057428313220764072",
+        "created_at": "2026-05-21T11:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057428313220764072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251111510016",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251145015296",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            },
+            {
+              "display_url": "pic.x.com/G0yZxsqi5q",
+              "end": 74,
+              "expanded_url": "https://x.com/DQadopt/status/2057428313220764072/photo/1",
+              "media_key": "3_2057428251115675648",
+              "start": 51,
+              "url": "https://t.co/G0yZxsqi5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057428313220764072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 70820,
+          "like_count": 546,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "抖人你继续拿颜料装作用血画画小众逼\n一眼就看出来真血画画和假血画画的区别…….这滴水真的不是在搞笑吗 https://t.co/G0yZxsqi5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 1484,
+          "like_count": 96624,
+          "listed_count": 6,
+          "media_count": 750,
+          "tweet_count": 9983
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-16T07:54:40.000Z",
+        "description": "有个很爱的女朋友叫小鸟丨我站在这里，是为了击破真善美的臆想，查拉图斯特拉独自下山，没有碰到任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/dqadopt",
+                "end": 23,
+                "expanded_url": "https://ngl.link/dqadopt",
+                "start": 0,
+                "url": "https://t.co/nFHbt8f2ne"
+              }
+            ]
+          }
+        },
+        "id": "1989965282799226880",
+        "location": "千百次孤独",
+        "name": "查拉图斯特拉.",
+        "pinned_tweet_id": "2051669162335023145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008710992977362944/ooE2SguW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 339,
+          "like_count": 3425,
+          "listed_count": 1,
+          "media_count": 368,
+          "tweet_count": 4094
+        },
+        "url": "https://t.co/nFHbt8f2ne",
+        "username": "DQadopt",
+        "verified": false
+      }
+    ]
+  }
+}

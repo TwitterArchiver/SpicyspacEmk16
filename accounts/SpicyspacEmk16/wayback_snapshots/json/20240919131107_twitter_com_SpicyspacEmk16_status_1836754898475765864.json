@@ -1,0 +1,97 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1836754898475765864",
+    "created_at": "2024-09-19T13:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-19T14:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1836754898475765864"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1836754898475765864",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "问一下有没有浙江宁波的宝宝合租同住的\n十月份打算回家好好治病\n等恢复一点了再回去继续上学这样\n但是作为e人真的非常需要社交就是了\n房租的话看着给就好了真的\n哎我真的哭死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1836754898475765864",
+        "created_at": "2024-09-19T13:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-19T14:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1836754898475765864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1836754898475765864",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "问一下有没有浙江宁波的宝宝合租同住的\n十月份打算回家好好治病\n等恢复一点了再回去继续上学这样\n但是作为e人真的非常需要社交就是了\n房租的话看着给就好了真的\n哎我真的哭死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1959,
+          "following_count": 1063,
+          "like_count": 86123,
+          "listed_count": 2,
+          "tweet_count": 6019
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

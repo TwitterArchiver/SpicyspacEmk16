@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2045450482538389941",
+    "created_at": "2026-04-18T10:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045452466301624333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045452466301624333",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045450482538389941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 好米"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2045450473139064832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLmXjkb0AA6wPw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2045450482538389941",
+        "created_at": "2026-04-18T10:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045452466301624333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045452466301624333",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045450482538389941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 好米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045450473139064832"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "2045450482538389941",
+        "created_at": "2026-04-18T10:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045450482538389941"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 36,
+              "tag": "毎日メイク"
+            },
+            {
+              "end": 50,
+              "start": 43,
+              "tag": "ショートヘア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wxfQG69ula",
+              "end": 74,
+              "expanded_url": "https://x.com/kurabakei/status/2045450482538389941/photo/1",
+              "media_key": "3_2045450473139064832",
+              "start": 51,
+              "url": "https://t.co/wxfQG69ula"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045450482538389941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天穿的新中式，但妝是日系妝（？\n頭髮紮起來be like this↓\n#毎日メイク #ショートヘア https://t.co/wxfQG69ula"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3077,
+          "following_count": 1443,
+          "like_count": 94072,
+          "listed_count": 5,
+          "media_count": 776,
+          "tweet_count": 9457
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪188\n都来过我门槛吧，我死了\nfamily @emptieXtr_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "emptieXtr_"
+              }
+            ]
+          }
+        },
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038986594074718209/txD_t6sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 415,
+          "like_count": 2555,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 619
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

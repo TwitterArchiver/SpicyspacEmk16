@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992987181099692032",
+        "3_1992987181082959872",
+        "3_1992987181095559168",
+        "3_1992987181087129600"
+      ],
+      "media_source_tweet_id": [
+        "1992987218600964468",
+        "1992987218600964468",
+        "1992987218600964468",
+        "1992987218600964468"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1993471720406262121",
+    "created_at": "2025-11-26T00:07:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T01:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993471720406262121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929355844837376000",
+          "start": 3,
+          "username": "Zoee_TuT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eLxrX6X483",
+          "end": 63,
+          "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+          "media_key": "3_1992987181099692032",
+          "start": 40,
+          "url": "https://t.co/eLxrX6X483"
+        },
+        {
+          "display_url": "pic.x.com/eLxrX6X483",
+          "end": 63,
+          "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+          "media_key": "3_1992987181082959872",
+          "start": 40,
+          "url": "https://t.co/eLxrX6X483"
+        },
+        {
+          "display_url": "pic.x.com/eLxrX6X483",
+          "end": 63,
+          "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+          "media_key": "3_1992987181095559168",
+          "start": 40,
+          "url": "https://t.co/eLxrX6X483"
+        },
+        {
+          "display_url": "pic.x.com/eLxrX6X483",
+          "end": 63,
+          "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+          "media_key": "3_1992987181087129600",
+          "start": 40,
+          "url": "https://t.co/eLxrX6X483"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993471720406262121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992987218600964468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zoee_TuT: 我是N77\n10｜我o我割\n欢迎互fo！我想交朋友 https://t.co/eLxrX6X483"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1992987181099692032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iDSCtasAAhRMe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1992987181082959872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iDSCpbYAArIsr.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992987181095559168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iDSCsboAAHj4x.jpg",
+        "width": 1540
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992987181087129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iDSCqbAAAA2O4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992987181099692032",
+            "3_1992987181082959872",
+            "3_1992987181095559168",
+            "3_1992987181087129600"
+          ],
+          "media_source_tweet_id": [
+            "1992987218600964468",
+            "1992987218600964468",
+            "1992987218600964468",
+            "1992987218600964468"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1993471720406262121",
+        "created_at": "2025-11-26T00:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T01:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993471720406262121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929355844837376000",
+              "start": 3,
+              "username": "Zoee_TuT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 63,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181099692032",
+              "start": 40,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 63,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181082959872",
+              "start": 40,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 63,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181095559168",
+              "start": 40,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 63,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181087129600",
+              "start": 40,
+              "url": "https://t.co/eLxrX6X483"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993471720406262121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992987218600964468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zoee_TuT: 我是N77\n10｜我o我割\n欢迎互fo！我想交朋友 https://t.co/eLxrX6X483"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992987181099692032",
+            "3_1992987181082959872",
+            "3_1992987181095559168",
+            "3_1992987181087129600"
+          ]
+        },
+        "author_id": "1929355844837376000",
+        "conversation_id": "1992987218600964468",
+        "created_at": "2025-11-24T16:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992987218600964468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 49,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181099692032",
+              "start": 26,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 49,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181082959872",
+              "start": 26,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 49,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181095559168",
+              "start": 26,
+              "url": "https://t.co/eLxrX6X483"
+            },
+            {
+              "display_url": "pic.x.com/eLxrX6X483",
+              "end": 49,
+              "expanded_url": "https://x.com/Zoee_TuT/status/1992987218600964468/photo/1",
+              "media_key": "3_1992987181087129600",
+              "start": 26,
+              "url": "https://t.co/eLxrX6X483"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992987218600964468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 54062,
+          "like_count": 602,
+          "quote_count": 3,
+          "reply_count": 105,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我是N77\n10｜我o我割\n欢迎互fo！我想交朋友 https://t.co/eLxrX6X483"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 1327,
+          "like_count": 88952,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 8441
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-02T01:54:29.000Z",
+        "description": "我喜欢互动，我喜欢有趣的人，我看到消息尽量都会回，你对我善良我就对你善良，你对我刻薄我也会对你刻薄！我很好相处，我不是门槛妹，5.2🚪只是聊天而已，不接线下，我有对象我很爱她，请不要骚扰我谢谢！",
+        "id": "1929355844837376000",
+        "location": "天台",
+        "name": "活得比愈美片更苦",
+        "pinned_tweet_id": "1992987218600964468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991931428083290112/abwv_KT8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 219,
+          "like_count": 221,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 174
+        },
+        "username": "Zoee_TuT",
+        "verified": false
+      }
+    ]
+  }
+}

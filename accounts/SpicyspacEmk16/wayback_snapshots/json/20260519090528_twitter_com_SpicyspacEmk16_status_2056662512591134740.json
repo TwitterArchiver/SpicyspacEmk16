@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056653391640821979",
+    "created_at": "2026-05-19T09:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T10:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056662512591134740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865081933027512324",
+          "start": 0,
+          "username": "HsyhO0"
+        },
+        {
+          "end": 22,
+          "id": "1711342616866848768",
+          "start": 8,
+          "username": "lin2680972846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056662512591134740",
+    "in_reply_to_user_id": "1865081933027512324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056653391640821979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HsyhO0 @lin2680972846 好萌！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2056653387882807296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqzXBLbwAAJmpV.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056653391640821979",
+        "created_at": "2026-05-19T09:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T10:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056662512591134740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865081933027512324",
+              "start": 0,
+              "username": "HsyhO0"
+            },
+            {
+              "end": 22,
+              "id": "1711342616866848768",
+              "start": 8,
+              "username": "lin2680972846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056662512591134740",
+        "in_reply_to_user_id": "1865081933027512324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056653391640821979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HsyhO0 @lin2680972846 好萌！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056653387882807296"
+          ]
+        },
+        "author_id": "1865081933027512324",
+        "conversation_id": "2056653391640821979",
+        "created_at": "2026-05-19T08:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056653391640821979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWD6Kzl4lw",
+              "end": 43,
+              "expanded_url": "https://x.com/HsyhO0/status/2056653391640821979/photo/1",
+              "media_key": "3_2056653387882807296",
+              "start": 20,
+              "url": "https://t.co/qWD6Kzl4lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056653391640821979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漂亮又合身的小裙子，爱来自我亲爱的柳宝 https://t.co/qWD6Kzl4lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163,
+          "following_count": 1475,
+          "like_count": 96374,
+          "listed_count": 6,
+          "media_count": 746,
+          "tweet_count": 9901
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-06T17:12:49.000Z",
+        "description": "07/病み垢/双相/精分/分离转换障碍/自伤/碎碎念/ \n  ♡彼氏 @lin2680972846绝赞恋爱中♡🚪50",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "lin2680972846"
+              }
+            ]
+          }
+        },
+        "id": "1865081933027512324",
+        "location": "暗い小さな部屋",
+        "name": "氷室 リリカ",
+        "pinned_tweet_id": "2054265800278921630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945519740467937281/9ZIUYBkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 214,
+          "like_count": 12923,
+          "listed_count": 1,
+          "media_count": 442,
+          "tweet_count": 1844
+        },
+        "username": "HsyhO0",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T11:27:36.000Z",
+        "description": "❦@HsyhO0恋爱放送中！\n会更新cos/溶图/二次相关🚪35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 1,
+                "username": "HsyhO0"
+              }
+            ]
+          }
+        },
+        "id": "1711342616866848768",
+        "name": "Ameko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053180201534722050/STSkWhmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 32,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "lin2680972846",
+        "verified": false
+      }
+    ]
+  }
+}

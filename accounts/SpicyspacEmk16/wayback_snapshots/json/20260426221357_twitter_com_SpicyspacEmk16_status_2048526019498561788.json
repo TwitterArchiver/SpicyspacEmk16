@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048334204182937752",
+    "created_at": "2026-04-26T22:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048526019498561788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "613074635",
+          "start": 0,
+          "username": "iTZQing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048526019498561788",
+    "in_reply_to_user_id": "613074635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048431501600260346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iTZQing 啊这个我有朝天椒联名的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048334204182937752",
+        "created_at": "2026-04-26T22:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048526019498561788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "613074635",
+              "start": 0,
+              "username": "iTZQing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048526019498561788",
+        "in_reply_to_user_id": "613074635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048431501600260346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iTZQing 啊这个我有朝天椒联名的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "613074635",
+        "conversation_id": "2048334204182937752",
+        "created_at": "2026-04-26T15:58:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048431501600260346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048431501600260346",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048334204182937752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 👀想去welcia搞张临时v point卡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3123,
+          "following_count": 1461,
+          "like_count": 94519,
+          "listed_count": 5,
+          "media_count": 790,
+          "tweet_count": 9613
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY。是笨蛋。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 猪猪比我还笨！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDVC8y"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬💝",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025432610009481216/pHD14NMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 1131,
+          "like_count": 35568,
+          "listed_count": 14,
+          "media_count": 1878,
+          "tweet_count": 30200
+        },
+        "url": "https://t.co/VFMpbDVC8y",
+        "username": "iTZQing",
+        "verified": false
+      }
+    ]
+  }
+}

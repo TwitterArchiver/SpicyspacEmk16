@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1839563593978957825"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Mercari (メルカリ)",
+          "id": "1038130137156308992",
+          "name": "Mercari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Mercari (メルカリ)",
+          "id": "1038130137156308992",
+          "name": "Mercari"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "1839563598701699320",
+    "created_at": "2024-09-27T07:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T08:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1839563598701699320"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 91,
+          "start": 86,
+          "tag": "メルカリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 45,
+          "id": "1530699087133421568",
+          "start": 30,
+          "username": "SpicyspacEmk16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gf6aedidwi",
+          "end": 115,
+          "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1839563598701699320/photo/1",
+          "media_key": "3_1839563593978957825",
+          "start": 92,
+          "url": "https://t.co/GF6aediDwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839563598701699320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "家人们千万小心在煤炉上买东西！！！\n有很多人货不对版\n受害者@SpicyspacEmk16 \n买了一个马路亿的usp\n结果对面塞了一包爆米花冒充商品\n切煤千万小心！！！\n\n#メルカリ https://t.co/GF6aediDwi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1839563593978957825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYdxV6DbUAE6mpA.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1839563593978957825"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Mercari (メルカリ)",
+              "id": "1038130137156308992",
+              "name": "Mercari"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "1839563598701699320",
+        "created_at": "2024-09-27T07:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T08:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839563598701699320"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 86,
+              "tag": "メルカリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1530699087133421568",
+              "start": 30,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gf6aedidwi",
+              "end": 115,
+              "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1839563598701699320/photo/1",
+              "media_key": "3_1839563593978957825",
+              "start": 92,
+              "url": "https://t.co/GF6aediDwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839563598701699320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们千万小心在煤炉上买东西！！！\n有很多人货不对版\n受害者@SpicyspacEmk16 \n买了一个马路亿的usp\n结果对面塞了一包爆米花冒充商品\n切煤千万小心！！！\n\n#メルカリ https://t.co/GF6aediDwi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 1069,
+          "like_count": 86280,
+          "listed_count": 1,
+          "tweet_count": 6084
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

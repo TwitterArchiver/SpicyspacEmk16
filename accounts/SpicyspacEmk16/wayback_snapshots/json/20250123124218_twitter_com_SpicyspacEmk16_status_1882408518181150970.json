@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1882408518181150970",
+    "created_at": "2025-01-23T12:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T13:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882408518181150970"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882408518181150970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么我就要受到这么过分的人生对待\n凭什么凭什么！？我讨好型人格障碍想让别人都好 结果是我掉落深渊对吧\n我从来没有感受到过爱\n我就是缺爱逼你们骂我吧\n来啊随便"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1882408518181150970",
+        "created_at": "2025-01-23T12:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T13:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882408518181150970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882408518181150970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我就要受到这么过分的人生对待\n凭什么凭什么！？我讨好型人格障碍想让别人都好 结果是我掉落深渊对吧\n我从来没有感受到过爱\n我就是缺爱逼你们骂我吧\n来啊随便"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい@MuyumeKiki 彼女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "MuyumeKiki"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 1100,
+          "like_count": 86025,
+          "listed_count": 2,
+          "media_count": 483,
+          "tweet_count": 6815
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

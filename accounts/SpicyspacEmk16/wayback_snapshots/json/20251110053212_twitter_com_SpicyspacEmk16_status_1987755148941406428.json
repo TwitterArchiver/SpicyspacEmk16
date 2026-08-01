@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1987681977303237013",
+    "created_at": "2025-11-10T05:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T06:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987755148941406428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124924918607409152",
+          "start": 0,
+          "username": "Fb3QYZj3wZBTEkd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987755148941406428",
+    "in_reply_to_user_id": "1124924918607409152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987751736505987126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fb3QYZj3wZBTEkd 好棒 还有金属子弹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19116,
+        "height": 1280,
+        "media_key": "13_1987751665089601536",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987751665089601536/img/4u54Skcxs2qMXoyV.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987751665089601536/vid/avc1/320x568/LENsvfPX8CH4Z4YH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987751665089601536/vid/avc1/480x852/PM6lWIGAHVfHLicA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987751665089601536/vid/avc1/720x1280/Jjc7i4a5edUI6kgS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987751665089601536/pl/IuKp-VU3AjlcmQvj.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1987681977303237013",
+        "created_at": "2025-11-10T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987755148941406428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124924918607409152",
+              "start": 0,
+              "username": "Fb3QYZj3wZBTEkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987755148941406428",
+        "in_reply_to_user_id": "1124924918607409152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987751736505987126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fb3QYZj3wZBTEkd 好棒 还有金属子弹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987751665089601536"
+          ]
+        },
+        "author_id": "1124924918607409152",
+        "conversation_id": "1987681977303237013",
+        "created_at": "2025-11-10T05:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T06:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987751736505987126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0qlxBsJ0Q",
+              "end": 50,
+              "expanded_url": "https://x.com/Fb3QYZj3wZBTEkd/status/1987751736505987126/video/1",
+              "media_key": "13_1987751665089601536",
+              "start": 27,
+              "url": "https://t.co/D0qlxBsJ0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987751736505987126",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987711257978519900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 是的 相當好玩～～～ https://t.co/D0qlxBsJ0Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1309,
+          "like_count": 87856,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 8303
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-05T06:32:55.000Z",
+        "description": "來自台灣 airsoft玩家 軍事愛好者",
+        "id": "1124924918607409152",
+        "location": "台中市, 台灣",
+        "name": "WEI51D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825750127845453824/wRa0gJio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 533,
+          "like_count": 1024,
+          "listed_count": 2,
+          "media_count": 305,
+          "tweet_count": 674
+        },
+        "username": "Fb3QYZj3wZBTEkd",
+        "verified": false
+      }
+    ]
+  }
+}

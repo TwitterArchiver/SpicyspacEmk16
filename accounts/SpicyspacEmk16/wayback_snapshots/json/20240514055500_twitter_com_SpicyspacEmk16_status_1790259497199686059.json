@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790259497199686059",
+    "created_at": "2024-05-14T05:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T06:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790259497199686059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790259497199686059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "动画相关的课程我真的是听天书\n其实我只是喜欢画画哇\n太煎熬了\n每次动画制作的课都感觉煎熬\n画画的课都很快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790259497199686059",
+        "created_at": "2024-05-14T05:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T06:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790259497199686059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790259497199686059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "动画相关的课程我真的是听天书\n其实我只是喜欢画画哇\n太煎熬了\n每次动画制作的课都感觉煎熬\n画画的课都很快乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 922,
+          "like_count": 78845,
+          "listed_count": 1,
+          "tweet_count": 4341
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1805813431242834205",
+    "created_at": "2024-06-30T03:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T04:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807250860612747424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1398694225097609219",
+          "start": 0,
+          "username": "amaeee0430"
+        },
+        {
+          "end": 22,
+          "id": "988799907245916160",
+          "start": 12,
+          "username": "Kwai_Reon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807250860612747424",
+    "in_reply_to_user_id": "1398694225097609219",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807112317978673453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amaeee0430 @Kwai_Reon 谢谢！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1805813431242834205",
+        "created_at": "2024-06-30T03:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T04:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807250860612747424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1398694225097609219",
+              "start": 0,
+              "username": "amaeee0430"
+            },
+            {
+              "end": 22,
+              "id": "988799907245916160",
+              "start": 12,
+              "username": "Kwai_Reon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807250860612747424",
+        "in_reply_to_user_id": "1398694225097609219",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807112317978673453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amaeee0430 @Kwai_Reon 谢谢！！！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1398694225097609219",
+        "conversation_id": "1805813431242834205",
+        "created_at": "2024-06-29T18:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-29T19:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807112317978673453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 26,
+              "id": "988799907245916160",
+              "start": 16,
+              "username": "Kwai_Reon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807112317978673453",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805813431242834205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @Kwai_Reon 超級可愛的！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1794,
+          "following_count": 965,
+          "like_count": 81446,
+          "listed_count": 1,
+          "tweet_count": 4890
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-29T17:34:44.000Z",
+        "description": "撿到神奇遊戲片而被迫簽訂契約成為👾遊戲精靈的(原)大學生-極彩天繪です✨ ｜中文🆗 English🆗 日本語を勉強する📖 ｜ Fan name 繪飯 | 繪師把拔 @shark_slime🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "shark_slime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gokusaiamae",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gokusaiamae",
+                "start": 0,
+                "url": "https://t.co/Q8b5uFtRoQ"
+              }
+            ]
+          }
+        },
+        "id": "1398694225097609219",
+        "location": "🎨天繪的遊戲室🎮",
+        "name": "極彩アマエ🎮遊戲精靈VTuber",
+        "pinned_tweet_id": "1647612753337786370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788935041734901760/NWdgHez5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 1418,
+          "like_count": 101601,
+          "listed_count": 16,
+          "tweet_count": 40539
+        },
+        "url": "https://t.co/Q8b5uFtRoQ",
+        "username": "amaeee0430",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-24T15:20:43.000Z",
+        "description": "˚✧川井レオン✧˚ Kawai Reonー地雷美少女.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ.ᐟ給我看自介在給我追蹤✨裏垢 @Kwa_AI 最近活小帳號 藍勾回來就回來",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "Kwa_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCaMkI…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCaMkIeoM2nNP_1mG22lOkUg",
+                "start": 0,
+                "url": "https://t.co/DSfYz9Ya1W"
+              }
+            ]
+          }
+        },
+        "id": "988799907245916160",
+        "location": "戻った",
+        "name": "🎀川井芮恩Reon🎀メンヘラ兎",
+        "pinned_tweet_id": "1783491406876807484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804896354420109312/7MImKbRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 204,
+          "like_count": 8236,
+          "listed_count": 15,
+          "tweet_count": 4506
+        },
+        "url": "https://t.co/DSfYz9Ya1W",
+        "username": "Kwai_Reon",
+        "verified": true
+      }
+    ]
+  }
+}

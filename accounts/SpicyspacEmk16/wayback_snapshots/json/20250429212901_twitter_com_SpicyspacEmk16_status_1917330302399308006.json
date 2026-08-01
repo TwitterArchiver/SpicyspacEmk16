@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1917177552214626731",
+    "created_at": "2025-04-29T21:29:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T22:29:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917330302399308006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754625814426271744",
+          "start": 0,
+          "username": "aochu991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917330302399308006",
+    "in_reply_to_user_id": "1754625814426271744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917177552214626731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aochu991 かわいいすぎる！🩷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1304,
+        "media_key": "3_1917177548854968320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpsu0rLawAARysd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1917177552214626731",
+        "created_at": "2025-04-29T21:29:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T22:29:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917330302399308006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754625814426271744",
+              "start": 0,
+              "username": "aochu991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917330302399308006",
+        "in_reply_to_user_id": "1754625814426271744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917177552214626731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aochu991 かわいいすぎる！🩷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917177548854968320"
+          ]
+        },
+        "author_id": "1754625814426271744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1917177552214626731",
+        "created_at": "2025-04-29T11:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T12:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917177552214626731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzIe1g4Frr",
+              "end": 23,
+              "expanded_url": "https://x.com/aochu991/status/1917177552214626731/photo/1",
+              "media_key": "3_1917177548854968320",
+              "start": 0,
+              "url": "https://t.co/TzIe1g4Frr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917177552214626731",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 5042,
+          "like_count": 293,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TzIe1g4Frr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 1138,
+          "like_count": 84270,
+          "listed_count": 3,
+          "media_count": 511,
+          "tweet_count": 7213
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-05T21:59:45.000Z",
+        "description": "ぬいぐるみを抱いて寝るおじ\nメジコン狂\nODコミュ管理人\nうつ病不眠年金2級\nサブカルやアングラ好き\n現場猫でヨシ！がしたい\n合言葉は馬鹿でありがとう！セックスなしで愛してるぞい\n自分を傷つけてでも生き残ろうず\nhttps://t.co/FHgZchxeq4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 129,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1TOW7E1RSRPH6?re",
+                "start": 106,
+                "url": "https://t.co/FHgZchxeq4"
+              }
+            ]
+          }
+        },
+        "id": "1754625814426271744",
+        "name": "青ちゅ〜＝ラリックマ",
+        "pinned_tweet_id": "1915111533782376940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915798506067132416/MN3jSzbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 373,
+          "like_count": 1809,
+          "listed_count": 3,
+          "media_count": 63,
+          "tweet_count": 357
+        },
+        "username": "aochu991",
+        "verified": false
+      }
+    ]
+  }
+}

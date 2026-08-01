@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2062395665158906161",
+    "created_at": "2026-07-17T11:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T12:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078085039615848932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038576031955922944",
+          "start": 0,
+          "username": "Togarashiye6o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078085039615848932",
+    "in_reply_to_user_id": "2038576031955922944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077846052510797843",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Togarashiye6o 好耶～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062395665158906161",
+        "created_at": "2026-07-17T11:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T12:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078085039615848932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038576031955922944",
+              "start": 0,
+              "username": "Togarashiye6o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078085039615848932",
+        "in_reply_to_user_id": "2038576031955922944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077846052510797843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Togarashiye6o 好耶～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038576031955922944",
+        "conversation_id": "2062395665158906161",
+        "created_at": "2026-07-16T20:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077846052510797843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077846052510797843",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062395665158906161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 老师可以互fo吗我也在日本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1566,
+          "like_count": 98081,
+          "listed_count": 6,
+          "media_count": 800,
+          "tweet_count": 10448
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-30T11:16:59.000Z",
+        "description": "yuyake🌆\n病み垢｜中文🉑日本語🉑｜互fo欢迎｜灵障系精神障害者l｜💊中毒中",
+        "id": "2038576031955922944",
+        "location": "旧犬鸣隧道",
+        "name": "夕焼けくん",
+        "pinned_tweet_id": "2077860032373473543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074088796585705472/FRjxb8W0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 9,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "Togarashiye6o",
+        "verified": false
+      }
+    ]
+  }
+}

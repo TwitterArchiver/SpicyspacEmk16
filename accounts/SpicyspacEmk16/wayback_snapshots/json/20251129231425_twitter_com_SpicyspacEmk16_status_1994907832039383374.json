@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994907822879088640"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1994907832039383374",
+    "created_at": "2025-11-29T23:14:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T00:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994907832039383374"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5GPgBKLYQn",
+          "end": 58,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1994907832039383374/photo/1",
+          "media_key": "3_1994907822879088640",
+          "start": 35,
+          "url": "https://t.co/5GPgBKLYQn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994907832039383374",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天呐！！大前辈跟随了我啊啊啊啊！！\n我也想跟大前辈一起玩(￣Д￣)ﾉ https://t.co/5GPgBKLYQn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1994907822879088640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G69WGG5bIAAwQWY.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994907822879088640"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1994907832039383374",
+        "created_at": "2025-11-29T23:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T00:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994907832039383374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GPgBKLYQn",
+              "end": 58,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1994907832039383374/photo/1",
+              "media_key": "3_1994907822879088640",
+              "start": 35,
+              "url": "https://t.co/5GPgBKLYQn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994907832039383374",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天呐！！大前辈跟随了我啊啊啊啊！！\n我也想跟大前辈一起玩(￣Д￣)ﾉ https://t.co/5GPgBKLYQn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 1337,
+          "like_count": 89616,
+          "listed_count": 3,
+          "media_count": 682,
+          "tweet_count": 8512
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

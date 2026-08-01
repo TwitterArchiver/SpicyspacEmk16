@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1802416921687801996",
+    "created_at": "2024-06-16T22:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T23:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802462656961675588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1612675417785401346",
+          "start": 0,
+          "username": "Yii1Zzz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802462656961675588",
+    "in_reply_to_user_id": "1612675417785401346",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802416921687801996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yii1Zzz_ 人格分裂了！一定是人格分裂！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1802416921687801996",
+        "created_at": "2024-06-16T22:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T23:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802462656961675588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1612675417785401346",
+              "start": 0,
+              "username": "Yii1Zzz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802462656961675588",
+        "in_reply_to_user_id": "1612675417785401346",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802416921687801996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yii1Zzz_ 人格分裂了！一定是人格分裂！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1612675417785401346",
+        "conversation_id": "1802416921687801996",
+        "created_at": "2024-06-16T19:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T20:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802416921687801996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yzyzaaqwq/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/yzyzaaqwq/status/1802416522805277073",
+              "start": 9,
+              "url": "https://t.co/BXejMOfL6V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802416921687801996",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802416522805277073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "都几岁了还要人陪 https://t.co/BXejMOfL6V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 964,
+          "like_count": 80518,
+          "listed_count": 1,
+          "tweet_count": 4764
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-10T04:59:26.000Z",
+        "description": "meow meow…just pass by_(:з」∠)_｜日文勉强中…｜15歳｜intj-t｜トラウマ性無性愛｜Arknights💙🤍｜@yzYZaaQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 70,
+                "username": "yzYZaaQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1612675417785401346",
+        "name": "Yii1Zzz",
+        "pinned_tweet_id": "1793970647233949867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799551180080881664/kFK6APby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 428,
+          "like_count": 2686,
+          "listed_count": 0,
+          "tweet_count": 860
+        },
+        "username": "Yii1Zzz_",
+        "verified": false
+      }
+    ]
+  }
+}

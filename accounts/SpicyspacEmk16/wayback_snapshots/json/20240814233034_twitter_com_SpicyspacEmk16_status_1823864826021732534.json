@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1823864826021732534",
+    "created_at": "2024-08-14T23:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T00:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1823864826021732534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/1823293281985585157",
+          "start": 19,
+          "url": "https://t.co/Y8bpxN1koa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823864826021732534",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823293281985585157",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天呐我又在精神崩溃的时候发了离谱推文 https://t.co/Y8bpxN1koa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1823864826021732534",
+        "created_at": "2024-08-14T23:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T00:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823864826021732534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1823293281985585157",
+              "start": 19,
+              "url": "https://t.co/Y8bpxN1koa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823864826021732534",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823293281985585157",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天呐我又在精神崩溃的时候发了离谱推文 https://t.co/Y8bpxN1koa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1823293281985585157",
+        "created_at": "2024-08-13T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-13T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823293281985585157"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823293281985585157",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6072,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在如果去卖的话会有人接受我嘛……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1880,
+          "following_count": 1022,
+          "like_count": 84484,
+          "listed_count": 1,
+          "tweet_count": 5659
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2036062577130901982",
+    "created_at": "2026-03-24T03:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T04:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036288351251415185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029266472808398850",
+          "start": 0,
+          "username": "etan_chuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036288351251415185",
+    "in_reply_to_user_id": "2029266472808398850",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036062577130901982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@etan_chuu 女の子同士の恋最高や）\n良い彼女見つかるといいな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2036062577130901982",
+        "created_at": "2026-03-24T03:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036288351251415185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029266472808398850",
+              "start": 0,
+              "username": "etan_chuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036288351251415185",
+        "in_reply_to_user_id": "2029266472808398850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036062577130901982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@etan_chuu 女の子同士の恋最高や）\n良い彼女見つかるといいな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029266472808398850",
+        "conversation_id": "2036062577130901982",
+        "created_at": "2026-03-23T12:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T13:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036062577130901982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036062577130901982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9493,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想和一个很帅气的中国女孩子交往，\n感觉她们很温柔，应该会让我变得很幸福。\n\n我觉得日本人好像不太适合我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2966,
+          "following_count": 1385,
+          "like_count": 92174,
+          "listed_count": 5,
+          "media_count": 747,
+          "tweet_count": 9087
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T18:43:41.000Z",
+        "description": "完L、日本女生，喜欢女生。 想认识中国的女孩子，一起聊天慢慢变熟。 如果有缘的话，希望可以遇到女朋友。🤍我喜欢中性风的女生。🤍日本人です〜❣️❣️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@himeka_ohime_",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@himeka_ohime_",
+                "start": 0,
+                "url": "https://t.co/ITOuWprRTd"
+              }
+            ]
+          }
+        },
+        "id": "2029266472808398850",
+        "location": "都内",
+        "name": "いのり😴🌙",
+        "pinned_tweet_id": "2032445157405331711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032397740131713024/HUUBnRgV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 70,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 240
+        },
+        "url": "https://t.co/ITOuWprRTd",
+        "username": "etan_chuu",
+        "verified": false
+      }
+    ]
+  }
+}

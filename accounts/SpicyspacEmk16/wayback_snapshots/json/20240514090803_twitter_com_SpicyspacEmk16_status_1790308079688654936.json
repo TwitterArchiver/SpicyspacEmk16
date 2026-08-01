@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790288961384198224",
+    "created_at": "2024-05-14T09:08:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T10:08:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790308079688654936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790308079688654936",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790307239607337000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790288961384198224",
+        "created_at": "2024-05-14T09:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790308079688654936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790308079688654936",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790307239607337000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 谢谢你"
+      },
+      {
+        "attachments": {},
+        "author_id": "1395031782014205953",
+        "conversation_id": "1790288961384198224",
+        "created_at": "2024-05-14T09:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T10:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790307239607337000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790307239607337000",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790288961384198224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 925,
+          "like_count": 78870,
+          "listed_count": 1,
+          "tweet_count": 4355
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "MAG愛好者/JLPT-N2/ 憂鬱症 / 168センチ / ISFP-T/ フォロバ欲しいならDMください / 広州 | 南昌 / 昔の小鞠🍊 / 彼女❤️：@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 80,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/RWftLLpDVn"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "君のとなり",
+        "name": "泉こしや",
+        "pinned_tweet_id": "1776284490723377355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774696128065495040/JUSOddML_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 766,
+          "like_count": 12686,
+          "listed_count": 6,
+          "tweet_count": 4967
+        },
+        "url": "https://t.co/RWftLLpDVn",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

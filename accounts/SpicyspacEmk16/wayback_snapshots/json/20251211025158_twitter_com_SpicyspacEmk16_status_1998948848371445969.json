@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1998948848371445969",
+    "created_at": "2025-12-11T02:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T03:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998948848371445969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/1998948092146758037",
+          "start": 39,
+          "url": "https://t.co/6mEWJrvZtV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998948848371445969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998948092146758037",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真该说我是你这孩子的分身好还是你是我的分身好呢 真是 我这讲话方式跟你还真像 https://t.co/6mEWJrvZtV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1426,
+        "media_key": "3_1998948078574063616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G72wr8PbUAAkT45.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1998948848371445969",
+        "created_at": "2025-12-11T02:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998948848371445969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/1998948092146758037",
+              "start": 39,
+              "url": "https://t.co/6mEWJrvZtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998948848371445969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998948092146758037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真该说我是你这孩子的分身好还是你是我的分身好呢 真是 我这讲话方式跟你还真像 https://t.co/6mEWJrvZtV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998948078574063616"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998948092146758037",
+        "created_at": "2025-12-11T02:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998948092146758037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYt8ZJfXZn",
+              "end": 64,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1998948092146758037/photo/1",
+              "media_key": "3_1998948078574063616",
+              "start": 41,
+              "url": "https://t.co/kYt8ZJfXZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998948092146758037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎… 你这可怜孩子…\n知道这种时候没人会关心\n没办法啦\n幸亏有你姐我在\n交给我吧 https://t.co/kYt8ZJfXZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 1345,
+          "like_count": 89427,
+          "listed_count": 4,
+          "media_count": 696,
+          "tweet_count": 8626
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

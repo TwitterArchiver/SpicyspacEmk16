@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987808630398390272"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1987808644269035652",
+    "created_at": "2025-11-10T09:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T10:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987808644269035652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v5MQPNEd9s",
+          "end": 40,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1987808644269035652/photo/1",
+          "media_key": "3_1987808630398390272",
+          "start": 17,
+          "url": "https://t.co/v5MQPNEd9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987808644269035652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好无聊啊\n真的无聊吐了\n割手好了 https://t.co/v5MQPNEd9s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987808630398390272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5YdauBaEAAZ0iZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987808630398390272"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1987808644269035652",
+        "created_at": "2025-11-10T09:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T10:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987808644269035652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5MQPNEd9s",
+              "end": 40,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1987808644269035652/photo/1",
+              "media_key": "3_1987808630398390272",
+              "start": 17,
+              "url": "https://t.co/v5MQPNEd9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987808644269035652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊啊\n真的无聊吐了\n割手好了 https://t.co/v5MQPNEd9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1307,
+          "like_count": 87860,
+          "listed_count": 3,
+          "media_count": 658,
+          "tweet_count": 8308
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

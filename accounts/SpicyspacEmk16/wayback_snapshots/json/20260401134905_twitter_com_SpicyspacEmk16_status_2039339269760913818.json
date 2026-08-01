@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2039251096523477124",
+    "created_at": "2026-04-01T13:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039339269760913818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1178963214526083072",
+          "start": 0,
+          "username": "nrj66zn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039339269760913818",
+    "in_reply_to_user_id": "1178963214526083072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039338426529673556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nrj66zn ほんとはある店の名前は「破店」その店かと思った\n説明はっきりしてないのはほんとにごめん🙇‍♀️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2039251096523477124",
+        "created_at": "2026-04-01T13:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039339269760913818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1178963214526083072",
+              "start": 0,
+              "username": "nrj66zn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039339269760913818",
+        "in_reply_to_user_id": "1178963214526083072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039338426529673556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nrj66zn ほんとはある店の名前は「破店」その店かと思った\n説明はっきりしてないのはほんとにごめん🙇‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1178963214526083072",
+        "conversation_id": "2039251096523477124",
+        "created_at": "2026-04-01T13:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039338426529673556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039338426529673556",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039324017111568659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 内饰还算比较干净整洁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 1395,
+          "like_count": 92652,
+          "listed_count": 5,
+          "media_count": 751,
+          "tweet_count": 9137
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-01T09:21:57.000Z",
+        "description": "♀女性/女生👗喜欢中国的日本人😆每两天发一次帖/抖音→ 613336627 小紅書→ runa724",
+        "id": "1178963214526083072",
+        "location": "国籍:日本人",
+        "name": "露娜/runa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922204232532525056/xO9owOZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9766,
+          "following_count": 18,
+          "like_count": 24452,
+          "listed_count": 8,
+          "media_count": 523,
+          "tweet_count": 4064
+        },
+        "username": "nrj66zn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1942708285146292631",
+    "created_at": "2025-07-08T23:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T00:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942729907513221605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577564837319565312",
+          "start": 0,
+          "username": "fufufufurry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942729907513221605",
+    "in_reply_to_user_id": "1577564837319565312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942711029865087195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufufufurry 特别怨念的一款）总算是拿下了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1942708285146292631",
+        "created_at": "2025-07-08T23:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T00:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942729907513221605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577564837319565312",
+              "start": 0,
+              "username": "fufufufurry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942729907513221605",
+        "in_reply_to_user_id": "1577564837319565312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942711029865087195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufufufurry 特别怨念的一款）总算是拿下了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1577564837319565312",
+        "conversation_id": "1942708285146292631",
+        "created_at": "2025-07-08T22:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T23:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942711029865087195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942711029865087195",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942708285146292631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 这个好看诶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2752,
+          "following_count": 1280,
+          "like_count": 87001,
+          "listed_count": 2,
+          "media_count": 560,
+          "tweet_count": 7715
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-05T07:43:09.000Z",
+        "description": "please be polite.……",
+        "id": "1577564837319565312",
+        "name": "fufu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877203754690494464/u6kxJu-h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 128,
+          "like_count": 3052,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 994
+        },
+        "username": "fufufufurry",
+        "verified": false
+      }
+    ]
+  }
+}

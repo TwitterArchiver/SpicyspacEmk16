@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1998751484583047425",
+    "created_at": "2025-12-11T02:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T03:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998940853713436986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1994414314116337665",
+          "start": 0,
+          "username": "QiaoCai46088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998940853713436986",
+    "in_reply_to_user_id": "1994414314116337665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998751484583047425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiaoCai46088 太痛苦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1998751484583047425",
+        "created_at": "2025-12-11T02:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998940853713436986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1994414314116337665",
+              "start": 0,
+              "username": "QiaoCai46088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998940853713436986",
+        "in_reply_to_user_id": "1994414314116337665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998751484583047425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiaoCai46088 太痛苦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994414314116337665",
+        "conversation_id": "1998751484583047425",
+        "created_at": "2025-12-10T13:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998751484583047425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998751484583047425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己真心誠意付出很多錢的朋友\n連需要一點點幫忙都不願意幫你 就會特別傷心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 1345,
+          "like_count": 89366,
+          "listed_count": 4,
+          "media_count": 694,
+          "tweet_count": 8621
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-28T14:33:32.000Z",
+        "description": "雙/study 中文｜English",
+        "id": "1994414314116337665",
+        "name": "喬喬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998388243876995072/RRKMGPpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "QiaoCai46088",
+        "verified": false
+      }
+    ]
+  }
+}

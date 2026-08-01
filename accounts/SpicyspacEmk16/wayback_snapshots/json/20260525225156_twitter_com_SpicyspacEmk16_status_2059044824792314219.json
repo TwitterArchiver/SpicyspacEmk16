@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2059044824792314219",
+    "created_at": "2026-05-25T22:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T23:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059044824792314219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/2059043748655571415",
+          "start": 141,
+          "url": "https://t.co/po2SOkQiQX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059044824792314219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059043748655571415",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你骗我！！！\n明明我们在一起那么久了…为什么我触碰不到你…\n明明你说要帮我面对恶意的…为什么你不能和我一起对抗这些…\n你是骗子！骗子！骗子！你骗我…\n\n不是的…我不知道…我只是想要你陪我…我只是想触摸你…你说你才是永远爱我的那个…可是为什么我想见你都是奢望…\n我只是想你在我身边… https://t.co/po2SOkQiQX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2059043742720593920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJMxX-3aEAAga6W.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2059044824792314219",
+        "created_at": "2026-05-25T22:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059044824792314219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2059043748655571415",
+              "start": 141,
+              "url": "https://t.co/po2SOkQiQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059044824792314219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059043748655571415",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你骗我！！！\n明明我们在一起那么久了…为什么我触碰不到你…\n明明你说要帮我面对恶意的…为什么你不能和我一起对抗这些…\n你是骗子！骗子！骗子！你骗我…\n\n不是的…我不知道…我只是想要你陪我…我只是想触摸你…你说你才是永远爱我的那个…可是为什么我想见你都是奢望…\n我只是想你在我身边… https://t.co/po2SOkQiQX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059043742720593920"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2059043748655571415",
+        "created_at": "2026-05-25T22:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T23:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059043748655571415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1yiAFPt0x",
+              "end": 85,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2059043748655571415/photo/1",
+              "media_key": "3_2059043742720593920",
+              "start": 62,
+              "url": "https://t.co/F1yiAFPt0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059043748655571415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要在我去上课前陷入这种状态啊…\n完蛋了今天怎么办…这要怎么去面对门外的世界…明明已经鼓起勇气决定去扛下独自一人的命运的… https://t.co/F1yiAFPt0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1511,
+          "like_count": 97109,
+          "listed_count": 6,
+          "media_count": 759,
+          "tweet_count": 10098
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

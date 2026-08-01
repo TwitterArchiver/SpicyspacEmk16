@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056270203504500865",
+    "created_at": "2026-05-18T09:08:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:08:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056300974285930518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056300974285930518",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056270203504500865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 萌萌的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64916,
+        "height": 1280,
+        "media_key": "7_2056270176577056768",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056270176577056768/pu/img/7jldNKJMGFyjXifo.jpg",
+        "public_metrics": {
+          "view_count": 24
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270176577056768/pu/vid/avc1/320x710/XmWip8RWdmEWqWJN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270176577056768/pu/vid/avc1/480x1066/pKYJdzu0OhQMKEqo.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056270176577056768/pu/vid/avc1/576x1280/_9FyUF45xQbLGGOY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056270176577056768/pu/pl/fzXwiuAvNNcbdxsQ.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056270203504500865",
+        "created_at": "2026-05-18T09:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056300974285930518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056300974285930518",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056270203504500865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 萌萌的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056270176577056768"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247289661778571264",
+              "name": "Utaite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2056270203504500865",
+        "created_at": "2026-05-18T07:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056270203504500865"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "歌ってみた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SsuoFNEpIR",
+              "end": 43,
+              "expanded_url": "https://x.com/kurabakei/status/2056270203504500865/video/1",
+              "media_key": "7_2056270176577056768",
+              "start": 20,
+              "url": "https://t.co/SsuoFNEpIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056270203504500865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "淺唱一下\n各位耳朵遭罪了\n#歌ってみた https://t.co/SsuoFNEpIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1476,
+          "like_count": 96211,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 9906
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪188\nMy savior is you, for whom I owe my life.",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038986594074718209/txD_t6sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 436,
+          "like_count": 2686,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 680
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069009342926627187",
+    "created_at": "2026-06-22T10:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069009620123963612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228406233738072064",
+          "start": 0,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069009620123963612",
+    "in_reply_to_user_id": "1228406233738072064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069009342926627187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AR10545614 鬼迷鬼迷我给你六万能不能陪我一晚😈\n晚上apex缺人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2069009340602908672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaZCH-aAAAuLdt.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069009342926627187",
+        "created_at": "2026-06-22T10:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069009620123963612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069009620123963612",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069009342926627187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 鬼迷鬼迷我给你六万能不能陪我一晚😈\n晚上apex缺人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069009340602908672"
+          ]
+        },
+        "author_id": "1228406233738072064",
+        "conversation_id": "2069009342926627187",
+        "created_at": "2026-06-22T10:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069009342926627187"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I10qeMUMOq",
+              "end": 29,
+              "expanded_url": "https://x.com/AR10545614/status/2069009342926627187/photo/1",
+              "media_key": "3_2069009340602908672",
+              "start": 6,
+              "url": "https://t.co/I10qeMUMOq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069009342926627187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "努力工作中 https://t.co/I10qeMUMOq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1554,
+          "like_count": 97621,
+          "listed_count": 6,
+          "media_count": 779,
+          "tweet_count": 10296
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 968,
+          "like_count": 302,
+          "listed_count": 6,
+          "media_count": 187,
+          "tweet_count": 786
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

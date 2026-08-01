@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056567413261660440",
+    "created_at": "2026-05-19T03:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056579753298313489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928484105794281472",
+          "start": 0,
+          "username": "585_nomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056579753298313489",
+    "in_reply_to_user_id": "1928484105794281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056567413261660440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@585_nomi 对的特别恶心"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2056567180360347648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpk9FIa8AAETiY.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1071,
+        "media_key": "3_2056567180339372032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpk9FDa4AAZfdM.jpg",
+        "width": 465
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056567413261660440",
+        "created_at": "2026-05-19T03:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056579753298313489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928484105794281472",
+              "start": 0,
+              "username": "585_nomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056579753298313489",
+        "in_reply_to_user_id": "1928484105794281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056567413261660440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@585_nomi 对的特别恶心"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056567180360347648",
+            "3_2056567180339372032"
+          ]
+        },
+        "author_id": "1928484105794281472",
+        "conversation_id": "2056567413261660440",
+        "created_at": "2026-05-19T02:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056567413261660440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yM97L5nbEM",
+              "end": 77,
+              "expanded_url": "https://x.com/585_nomi/status/2056567413261660440/photo/1",
+              "media_key": "3_2056567180360347648",
+              "start": 54,
+              "url": "https://t.co/yM97L5nbEM"
+            },
+            {
+              "display_url": "pic.x.com/yM97L5nbEM",
+              "end": 77,
+              "expanded_url": "https://x.com/585_nomi/status/2056567413261660440/photo/1",
+              "media_key": "3_2056567180339372032",
+              "start": 54,
+              "url": "https://t.co/yM97L5nbEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056567413261660440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉有可能就是那帮瞎几把乱发的机器人干的，大家要是遇到这种机器人请速速删除其回复+拉黑，以免影响后续流量 https://t.co/yM97L5nbEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 1475,
+          "like_count": 96241,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 9883
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-30T16:10:23.000Z",
+        "description": "请称呼我为糯米。\n如果尖锐的批评完全消失，温和的批评将会变得刺耳。 如果温和的批评也不被允许，沉默将被认为居心叵测。 如果沉默也不再允许，赞扬不够卖力将是一种罪行。 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。",
+        "id": "1928484105794281472",
+        "name": "SaModesty",
+        "pinned_tweet_id": "2053337134007017871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056515780955758592/sXF7mgbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 8,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 247
+        },
+        "username": "585_nomi",
+        "verified": false
+      }
+    ]
+  }
+}

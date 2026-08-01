@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1919713040443887947",
+    "created_at": "2025-05-06T11:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T12:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919713040443887947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1867639848569372672",
+          "start": 3,
+          "username": "overdose_day"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919713040443887947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919331719976476973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose_day: 我也好想我死后能有人为我哭啊，好恨三次元的成功人士，他们有人爱有人关心有人欣赏，我们这些卑贱的小人物只能承受生活的痛和无人问津的痛，我得不到什么爱爱过我的人也把我当抹布一样丢掉，我也很努力啊，真的，有些人的努力就配被看见被欣赏，而我，只配被忽…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1919713040443887947",
+        "created_at": "2025-05-06T11:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T12:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919713040443887947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1867639848569372672",
+              "start": 3,
+              "username": "overdose_day"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919713040443887947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919331719976476973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose_day: 我也好想我死后能有人为我哭啊，好恨三次元的成功人士，他们有人爱有人关心有人欣赏，我们这些卑贱的小人物只能承受生活的痛和无人问津的痛，我得不到什么爱爱过我的人也把我当抹布一样丢掉，我也很努力啊，真的，有些人的努力就配被看见被欣赏，而我，只配被忽…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867639848569372672",
+        "conversation_id": "1919331719976476973",
+        "created_at": "2025-05-05T10:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T11:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919331719976476973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919331719976476973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3586,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我也好想我死后能有人为我哭啊，好恨三次元的成功人士，他们有人爱有人关心有人欣赏，我们这些卑贱的小人物只能承受生活的痛和无人问津的痛，我得不到什么爱爱过我的人也把我当抹布一样丢掉，我也很努力啊，真的，有些人的努力就配被看见被欣赏，而我，只配被忽略。好想死，但没人会为我哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 1152,
+          "like_count": 84629,
+          "listed_count": 3,
+          "media_count": 515,
+          "tweet_count": 7250
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-13T18:37:15.000Z",
+        "description": "化学极乐百科🧪 未来可能会倒闭，但绝不会变味\n\n官网:https://t.co/bwfCFLxN8g\ngalgame下载:https://t.co/iRTTcRxOR2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 50,
+                "expanded_url": "https://overdose.day",
+                "start": 27,
+                "url": "https://t.co/bwfCFLxN8g"
+              },
+              {
+                "display_url": "lsd.kim",
+                "end": 84,
+                "expanded_url": "https://lsd.kim/",
+                "start": 61,
+                "url": "https://t.co/iRTTcRxOR2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "https://www.overdose.day",
+                "start": 0,
+                "url": "https://t.co/W009AsBfUr"
+              }
+            ]
+          }
+        },
+        "id": "1867639848569372672",
+        "name": "化学极乐百科⚛️",
+        "pinned_tweet_id": "1911617640910688727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909493731260289024/ezggnfUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238,
+          "following_count": 872,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 703
+        },
+        "url": "https://t.co/W009AsBfUr",
+        "username": "overdose_day",
+        "verified": false
+      }
+    ]
+  }
+}

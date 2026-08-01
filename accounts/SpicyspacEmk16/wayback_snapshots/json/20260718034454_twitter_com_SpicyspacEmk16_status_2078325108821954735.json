@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2078161951042281716",
+    "created_at": "2026-07-18T03:44:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:44:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078325108821954735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1856197998990241794",
+          "start": 0,
+          "username": "haijin_sos1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078325108821954735",
+    "in_reply_to_user_id": "1856197998990241794",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078320502368866573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haijin_sos1 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2078161951042281716",
+        "created_at": "2026-07-18T03:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078325108821954735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1856197998990241794",
+              "start": 0,
+              "username": "haijin_sos1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078325108821954735",
+        "in_reply_to_user_id": "1856197998990241794",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078320502368866573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haijin_sos1 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856197998990241794",
+        "conversation_id": "2078161951042281716",
+        "created_at": "2026-07-18T03:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078320502368866573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078320502368866573",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078315017347465651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 表情に出さないだけ、\nだからね🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 1566,
+          "like_count": 98100,
+          "listed_count": 6,
+          "media_count": 801,
+          "tweet_count": 10452
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-12T04:51:46.000Z",
+        "description": "鬱→パニック障害→双極性障害→摂食障害→闘病中、躁と鬱繰り返して自分を見失う人、病み垢さんも歓迎、似た環境の方、仲良くしてください。毒吐きます。相互フォローしてくれるとありがたいです。自衛してください。エロ垢❌スピリチュアル❌作業所勧誘❌ハンドメイド紹介❌",
+        "id": "1856197998990241794",
+        "name": "廃人1号",
+        "pinned_tweet_id": "2035084961032937659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941250075629395968/kK2bYNyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 7502,
+          "like_count": 5301,
+          "listed_count": 13,
+          "media_count": 200,
+          "tweet_count": 5015
+        },
+        "url": "",
+        "username": "haijin_sos1",
+        "verified": true
+      }
+    ]
+  }
+}

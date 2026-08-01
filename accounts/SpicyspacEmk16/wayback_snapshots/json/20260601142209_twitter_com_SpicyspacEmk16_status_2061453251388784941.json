@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2061453102855893128",
+    "created_at": "2026-06-01T14:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061453251388784941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905496747637702659",
+          "start": 0,
+          "username": "xnm1213888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061453251388784941",
+    "in_reply_to_user_id": "1905496747637702659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061453102855893128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnm1213888 加油！祝你开心每一天！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17733,
+        "height": 1280,
+        "media_key": "13_2061453004314927104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061453004314927104/img/NPAr4xm3R_1TDJ6J.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061453004314927104/vid/avc1/320x568/FsSjeDS4Z1mlqbD8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061453004314927104/vid/avc1/480x852/bia4KJIcj34EfQpP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061453004314927104/vid/avc1/720x1280/K9_JA5QIV0mwrxuw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061453004314927104/pl/jsZpxotPygFOMtAJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2061453102855893128",
+        "created_at": "2026-06-01T14:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061453251388784941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905496747637702659",
+              "start": 0,
+              "username": "xnm1213888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061453251388784941",
+        "in_reply_to_user_id": "1905496747637702659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061453102855893128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnm1213888 加油！祝你开心每一天！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061453004314927104"
+          ]
+        },
+        "author_id": "1905496747637702659",
+        "conversation_id": "2061453102855893128",
+        "created_at": "2026-06-01T14:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061453102855893128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VowAQ1oD3U",
+              "end": 36,
+              "expanded_url": "https://x.com/xnm1213888/status/2061453102855893128/video/1",
+              "media_key": "13_2061453004314927104",
+              "start": 13,
+              "url": "https://t.co/VowAQ1oD3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061453102855893128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "儿童节快乐喵喵\n麦当劳～ https://t.co/VowAQ1oD3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3197,
+          "following_count": 1521,
+          "like_count": 97267,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10159
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-28T05:46:54.000Z",
+        "description": "日本留学の朝鮮族中国人🌟生活推｜🇨🇳🇯🇵🇰🇷🇬🇧ok ｜ 自由アートクリエイター 🎨创作者｜芸術文化 💕Art Concect Studio/絵画の依頼はご連絡ください｜Designer✍️｜杂谈絵系Vtuber（b站同名）｜泛性恋｜ 🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜地雷系小女孩一枚｜",
+        "id": "1905496747637702659",
+        "name": "花見愛チヤ_i殿",
+        "pinned_tweet_id": "2002887421806162153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014445651501916160/5B3cBBu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 539,
+          "like_count": 2230,
+          "listed_count": 3,
+          "media_count": 32,
+          "tweet_count": 521
+        },
+        "username": "xnm1213888",
+        "verified": false
+      }
+    ]
+  }
+}

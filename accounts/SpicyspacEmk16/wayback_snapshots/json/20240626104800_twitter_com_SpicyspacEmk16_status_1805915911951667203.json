@@ -1,0 +1,137 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1805915911951667203",
+    "created_at": "2024-06-26T10:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-26T11:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1805915911951667203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "スパイシスペース’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1nake…",
+          "end": 23,
+          "expanded_url": "https://twitter.com/i/spaces/1nAKEapaDvyKL",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1805915912891170816/kmBTPrk-?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1805915912891170816/kmBTPrk-?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 烦躁得受不了了 我要O…",
+          "unwound_url": "https://twitter.com/i/spaces/1nAKEapaDvyKL/peek",
+          "url": "https://t.co/pinh9PQkfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805915911951667203",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/pinh9PQkfE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1805915911951667203",
+        "created_at": "2024-06-26T10:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T11:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1805915911951667203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "スパイシスペース’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nake…",
+              "end": 23,
+              "expanded_url": "https://twitter.com/i/spaces/1nAKEapaDvyKL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1805915912891170816/kmBTPrk-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1805915912891170816/kmBTPrk-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 烦躁得受不了了 我要O…",
+              "unwound_url": "https://twitter.com/i/spaces/1nAKEapaDvyKL/peek",
+              "url": "https://t.co/pinh9PQkfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805915911951667203",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pinh9PQkfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 964,
+          "like_count": 81172,
+          "listed_count": 1,
+          "tweet_count": 4873
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054431534472687844",
+    "created_at": "2026-05-13T05:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054431534472687844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/_9743_o_sub/st…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/_9743_o_sub/status/2053808890895319360",
+          "start": 27,
+          "url": "https://t.co/c6Vq8NcuHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054431534472687844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053808890895319360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们买砍妹的什么意思😭\n老是抢的那么疯\n给孩子留点吧 https://t.co/c6Vq8NcuHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053808879876935680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICYS3GbkAAVdST.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053808879885283329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICYS3Ia8AE13WT.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054431534472687844",
+        "created_at": "2026-05-13T05:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054431534472687844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_9743_o_sub/st…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/_9743_o_sub/status/2053808890895319360",
+              "start": 27,
+              "url": "https://t.co/c6Vq8NcuHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054431534472687844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053808890895319360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们买砍妹的什么意思😭\n老是抢的那么疯\n给孩子留点吧 https://t.co/c6Vq8NcuHF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053808879876935680",
+            "3_2053808879885283329"
+          ]
+        },
+        "author_id": "1655065720009682945",
+        "conversation_id": "2053808890895319360",
+        "created_at": "2026-05-11T12:06:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T13:06:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053808890895319360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XdK5dI7G2S",
+              "end": 33,
+              "expanded_url": "https://x.com/_9743_o_sub/status/2053808890895319360/photo/1",
+              "media_key": "3_2053808879876935680",
+              "start": 10,
+              "url": "https://t.co/XdK5dI7G2S"
+            },
+            {
+              "display_url": "pic.x.com/XdK5dI7G2S",
+              "end": 33,
+              "expanded_url": "https://x.com/_9743_o_sub/status/2053808890895319360/photo/1",
+              "media_key": "3_2053808879885283329",
+              "start": 10,
+              "url": "https://t.co/XdK5dI7G2S"
+            },
+            {
+              "display_url": "x.com/_9743_o_sub/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/_9743_o_sub/status/2053721283951759693",
+              "start": 34,
+              "url": "https://t.co/ZNGDFLcVA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053808890895319360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7244,
+          "impression_count": 9273412,
+          "like_count": 34857,
+          "quote_count": 401,
+          "reply_count": 365,
+          "retweet_count": 867
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053721283951759693",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "売ってないやんけ。 https://t.co/XdK5dI7G2S https://t.co/ZNGDFLcVA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1479,
+          "like_count": 96039,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 9868
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-07T04:23:28.000Z",
+        "description": "美容グルメ渡韓散財記録。PR受けてません。",
+        "id": "1655065720009682945",
+        "name": "🙂‍↕️🎀",
+        "pinned_tweet_id": "2053113518753554662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978787911056363520/LfBUnN-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49562,
+          "following_count": 184,
+          "like_count": 5295,
+          "listed_count": 85,
+          "media_count": 1646,
+          "tweet_count": 6756
+        },
+        "username": "_9743_o_sub",
+        "verified": false
+      }
+    ]
+  }
+}

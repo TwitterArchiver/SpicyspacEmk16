@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1802205206429765801",
+    "created_at": "2024-06-16T05:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T06:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802208963540492799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1790608762426040320",
+          "start": 0,
+          "username": "ln9814003229572"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802208963540492799",
+    "in_reply_to_user_id": "1790608762426040320",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802207989345972566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ln9814003229572 逗你玩的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1802205206429765801",
+        "created_at": "2024-06-16T05:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T06:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802208963540492799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1790608762426040320",
+              "start": 0,
+              "username": "ln9814003229572"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802208963540492799",
+        "in_reply_to_user_id": "1790608762426040320",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802207989345972566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ln9814003229572 逗你玩的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1790608762426040320",
+        "conversation_id": "1802205206429765801",
+        "created_at": "2024-06-16T05:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T06:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802207989345972566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802207989345972566",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802207651658707455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 🙀😿對不起😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 962,
+          "like_count": 80409,
+          "listed_count": 1,
+          "tweet_count": 4751
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-15T05:03:04.000Z",
+        "description": "人死後會去往何方？",
+        "id": "1790608762426040320",
+        "location": "台灣",
+        "name": "林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790609967042760704/rxRtF-RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 139,
+          "like_count": 3534,
+          "listed_count": 1,
+          "tweet_count": 2378
+        },
+        "username": "ln9814003229572",
+        "verified": false
+      }
+    ]
+  }
+}

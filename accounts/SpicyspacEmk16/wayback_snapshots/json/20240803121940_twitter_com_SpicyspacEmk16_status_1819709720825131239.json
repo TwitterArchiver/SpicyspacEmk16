@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1819637575046648045",
+    "created_at": "2024-08-03T12:19:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T13:19:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819709720825131239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712099097728241664",
+          "start": 0,
+          "username": "RiAkiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819709720825131239",
+    "in_reply_to_user_id": "1712099097728241664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819637575046648045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiAkiba 我们过去！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1819637575046648045",
+        "created_at": "2024-08-03T12:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T13:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819709720825131239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712099097728241664",
+              "start": 0,
+              "username": "RiAkiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819709720825131239",
+        "in_reply_to_user_id": "1712099097728241664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819637575046648045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiAkiba 我们过去！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1819637575046648045",
+        "created_at": "2024-08-03T07:32:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T08:32:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819637575046648045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1819637575046648045",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是如果你們沒有辦法看醫生沒有醫生證明但是有自殘傾向跟od 行為的話真的要謹慎交友。。 某些精神病就是會頂著自己有憂鬱症然後開始來亂搞我們這種人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 1020,
+          "like_count": 83893,
+          "listed_count": 1,
+          "tweet_count": 5543
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "不開放看黃男私訊 其他無限制 自傷｜OD ｜負面 私信查成分回fo 有喜歡的人了@SpicyspacEmk16 克服異地中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 40,
+                "username": "SpicyspacEmk16"
+              }
+            ]
+          }
+        },
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1811056882813170168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808692445431148547/YGTwHpDs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 72,
+          "like_count": 1162,
+          "listed_count": 0,
+          "tweet_count": 1306
+        },
+        "username": "RiAkiba",
+        "verified": false
+      }
+    ]
+  }
+}

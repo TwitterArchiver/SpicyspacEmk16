@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043213034878017989",
+    "created_at": "2026-04-12T06:31:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T07:31:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043215334371725372"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043215334371725372",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043213034878017989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你不说还以为是什么好学生呢 结果是那种一天到晚阴阳教授的粉红 一天到晚对这个老师有意见对那个老师有意见 然后三天两头骂日本怎么样又说讨厌日本 我真求你了 你那么讨厌要不然回去吧 身体挺诚实的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043213034878017989",
+        "created_at": "2026-04-12T06:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043215334371725372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043215334371725372",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043213034878017989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你不说还以为是什么好学生呢 结果是那种一天到晚阴阳教授的粉红 一天到晚对这个老师有意见对那个老师有意见 然后三天两头骂日本怎么样又说讨厌日本 我真求你了 你那么讨厌要不然回去吧 身体挺诚实的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043213034878017989",
+        "created_at": "2026-04-12T06:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T07:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043213034878017989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043213034878017989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真服了\n这帮留学生是真的有病…情商低到可怜\n感觉某个互关宝宝说的好对\n真的这种人纯npd\n就这种人我真心想问你修什么心理呢 真不配当心理医生 跟他讲话跟吃了火药一样 真的好自以为是啊…\n\n怪不得这种小留融不进去当地人的圈子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1402,
+          "like_count": 93308,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 9270
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1981397721497162076",
+    "created_at": "2025-10-24T05:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T06:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981589474644758924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130077248579465217",
+          "start": 0,
+          "username": "AntonioZore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981589474644758924",
+    "in_reply_to_user_id": "1130077248579465217",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981397721497162076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntonioZore 我甚至遇到过连路费都问我要的下头男"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1981397721497162076",
+        "created_at": "2025-10-24T05:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T06:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981589474644758924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130077248579465217",
+              "start": 0,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981589474644758924",
+        "in_reply_to_user_id": "1130077248579465217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981397721497162076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntonioZore 我甚至遇到过连路费都问我要的下头男"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130077248579465217",
+        "conversation_id": "1981397721497162076",
+        "created_at": "2025-10-23T16:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T17:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981397721497162076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AntonioZore/st…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/AntonioZore/status/1981397249679904947",
+              "start": 60,
+              "url": "https://t.co/QtnR6EOMoC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981397721497162076",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981397249679904947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就不得不提到我抑郁第一年\n千里送炮 来回打车200块钱自费\n最后连个aftercare都没有\n甚至晚上不愿意留我过夜 https://t.co/QtnR6EOMoC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2753,
+          "following_count": 1282,
+          "like_count": 86375,
+          "listed_count": 4,
+          "media_count": 622,
+          "tweet_count": 8060
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-19T11:46:26.000Z",
+        "description": "伪装成讨好型人格也是我补偿性自恋的一种手段",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wakusei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wakusei",
+                "start": 0,
+                "url": "https://t.co/Jdg9bvkzr7"
+              }
+            ]
+          }
+        },
+        "id": "1130077248579465217",
+        "location": "Kyoto-fu, Japan",
+        "name": "惑星",
+        "pinned_tweet_id": "1949740222310424760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948046546475552768/125FioE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 131,
+          "like_count": 21230,
+          "listed_count": 1,
+          "media_count": 1074,
+          "tweet_count": 15726
+        },
+        "url": "https://t.co/Jdg9bvkzr7",
+        "username": "AntonioZore",
+        "verified": false
+      }
+    ]
+  }
+}

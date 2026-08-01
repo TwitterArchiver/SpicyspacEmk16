@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1828474951437062433",
+    "created_at": "2024-08-28T07:47:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T08:47:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828700916293460018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1640341296043917325",
+          "start": 0,
+          "username": "annannanngle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828700916293460018",
+    "in_reply_to_user_id": "1640341296043917325",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828688831618637912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@annannanngle 好耶！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1828474951437062433",
+        "created_at": "2024-08-28T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828700916293460018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1640341296043917325",
+              "start": 0,
+              "username": "annannanngle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828700916293460018",
+        "in_reply_to_user_id": "1640341296043917325",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828688831618637912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@annannanngle 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640341296043917325",
+        "conversation_id": "1828474951437062433",
+        "created_at": "2024-08-28T06:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T07:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828688831618637912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828688831618637912",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828623635445359068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 思思萌～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1827969528694993393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1023,
+          "like_count": 85060,
+          "listed_count": 1,
+          "tweet_count": 5774
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T13:13:49.000Z",
+        "description": "⊹˚.⋆ ✞ 湖のほとりに天使が舞い降りた ·̩͙ ಎ ⊹˚ 大家安安我是安安｜請多多跟我互動！！！｜中文⭕️日文⭕️英文⭕️｜翻譯器使用｜🚪88｜我是二次元｜性別是麵包🍞｜躁鬱治療中｜大量廢話｜日常發瘋｜要互fo請私信！！｜接占卜｜皮套：小森七工作室｜繪帳：@annpann_wann",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "annpann_wann"
+              }
+            ]
+          }
+        },
+        "id": "1640341296043917325",
+        "location": "天國湖畔",
+        "name": "♡あんあん♡",
+        "pinned_tweet_id": "1729154706906464376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799336720049352704/KgI0bR6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 578,
+          "like_count": 9081,
+          "listed_count": 1,
+          "tweet_count": 4517
+        },
+        "username": "annannanngle",
+        "verified": false
+      }
+    ]
+  }
+}

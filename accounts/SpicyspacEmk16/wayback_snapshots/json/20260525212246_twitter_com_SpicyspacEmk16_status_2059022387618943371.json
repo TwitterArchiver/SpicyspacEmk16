@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1481496807184248836",
+    "created_at": "2026-05-25T21:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T22:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059022387618943371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1884371941597052928",
+          "start": 0,
+          "username": "kftimcx54196"
+        },
+        {
+          "end": 27,
+          "id": "705777407794352129",
+          "start": 14,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059022387618943371",
+    "in_reply_to_user_id": "1884371941597052928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058885770707111950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kftimcx54196 @ServalCandle 哎哎其实我是因为频繁发🈹手跟🩸图什么的被msk针对来着！？一般其实发的地蕾系内容比较多吧 互关其实也是顺女蕾蕾子们在被msk给ban掉 原来现在跨圈也被针对嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1481496807184248836",
+        "created_at": "2026-05-25T21:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T22:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059022387618943371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884371941597052928",
+              "start": 0,
+              "username": "kftimcx54196"
+            },
+            {
+              "end": 27,
+              "id": "705777407794352129",
+              "start": 14,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059022387618943371",
+        "in_reply_to_user_id": "1884371941597052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058885770707111950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kftimcx54196 @ServalCandle 哎哎其实我是因为频繁发🈹手跟🩸图什么的被msk针对来着！？一般其实发的地蕾系内容比较多吧 互关其实也是顺女蕾蕾子们在被msk给ban掉 原来现在跨圈也被针对嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884371941597052928",
+        "conversation_id": "1481496807184248836",
+        "created_at": "2026-05-25T12:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058885770707111950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "705777407794352129",
+              "start": 0,
+              "username": "ServalCandle"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/SpicyspacEmk16…",
+              "end": 56,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057230554328891713?s=20",
+              "start": 33,
+              "url": "https://t.co/awWLRIB9F1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058885770707111950",
+        "in_reply_to_user_id": "1884371941597052928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057230554328891713",
+            "type": "quoted"
+          },
+          {
+            "id": "2058885609079582766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ServalCandle 自己找了一下，发现同一个情况的mtf\nhttps://t.co/awWLRIB9F1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 1508,
+          "like_count": 97034,
+          "listed_count": 6,
+          "media_count": 757,
+          "tweet_count": 10085
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-28T22:44:25.000Z",
+        "description": "@kftimcx54196.bsky.social\nhttps://t.co/LQrtDXuvey",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "kftimcx54196"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kftimc…",
+                "end": 49,
+                "expanded_url": "https://bsky.app/profile/kftimcx54196.bsky.social",
+                "start": 26,
+                "url": "https://t.co/LQrtDXuvey"
+              }
+            ]
+          }
+        },
+        "id": "1884371941597052928",
+        "name": ".",
+        "pinned_tweet_id": "1947435741170073899",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 272,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2482
+        },
+        "username": "kftimcx54196",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "BPD胡亂發言警告⚠️\n頭像是自拍 / 身分證性別女\n封鎖必回\n癲貓精靈 咪咪超行(*≧ω≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "🐈🥖Pain chat🥯🙀",
+        "name": "🌸猫宮すみか🎀🫪",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024879161932918784/w21cnpHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33967,
+          "following_count": 420,
+          "like_count": 237024,
+          "listed_count": 106,
+          "media_count": 9219,
+          "tweet_count": 60093
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

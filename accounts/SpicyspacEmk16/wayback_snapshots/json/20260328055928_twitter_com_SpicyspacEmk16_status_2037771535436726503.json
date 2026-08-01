@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2037570436767310311",
+    "created_at": "2026-03-28T05:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037771535436726503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1761741354999353344",
+          "start": 0,
+          "username": "lei_rui20220"
+        },
+        {
+          "end": 25,
+          "id": "1908781084697124864",
+          "start": 14,
+          "username": "Ochiai4976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037771535436726503",
+    "in_reply_to_user_id": "1761741354999353344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037759058229477503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lei_rui20220 @Ochiai4976 感觉阅读理解能力小学生不如🫡\n找合租短租原来是过得很惨的意思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2037570436767310311",
+        "created_at": "2026-03-28T05:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037771535436726503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1761741354999353344",
+              "start": 0,
+              "username": "lei_rui20220"
+            },
+            {
+              "end": 25,
+              "id": "1908781084697124864",
+              "start": 14,
+              "username": "Ochiai4976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037771535436726503",
+        "in_reply_to_user_id": "1761741354999353344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037759058229477503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lei_rui20220 @Ochiai4976 感觉阅读理解能力小学生不如🫡\n找合租短租原来是过得很惨的意思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761741354999353344",
+        "conversation_id": "2037570436767310311",
+        "created_at": "2026-03-28T05:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037759058229477503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 27,
+              "id": "1908781084697124864",
+              "start": 16,
+              "username": "Ochiai4976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037759058229477503",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037570436767310311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @Ochiai4976 有没有过得很惨的照片或者视频，或者被饿的皮包骨头的照片之类的，没有就是假的不值得同情。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 1392,
+          "like_count": 92414,
+          "listed_count": 5,
+          "media_count": 747,
+          "tweet_count": 9115
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-25T13:14:16.000Z",
+        "description": "国家独立自衛の道は二つあり。一は主権線を守護すること、二は利益線を防護することなり。主権線とは国境を指す、利益線とは主権線の安危に緊要なる関係ある区域を謂う。今の時勢に於いては各国皆主権線を守護するのみならず、必ず利益線を防護するの必要を生ず。亡计：https://t.co/7SXDlQwCwm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/WZYLXQBC",
+                "end": 148,
+                "expanded_url": "https://x.com/WZYLXQBC",
+                "start": 125,
+                "url": "https://t.co/7SXDlQwCwm"
+              }
+            ]
+          }
+        },
+        "id": "1761741354999353344",
+        "location": "大日本帝国議会原始記念碑",
+        "name": "如日方升",
+        "pinned_tweet_id": "1917926498012631434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033995903309385729/QdBogCz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 336,
+          "like_count": 119,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 3075
+        },
+        "username": "lei_rui20220",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T07:17:48.000Z",
+        "description": "07男｜抽象乐子人｜中国語／日本語OK |可互fo|逃生舱移步@ochiai8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "ochiai8964"
+              }
+            ]
+          }
+        },
+        "id": "1908781084697124864",
+        "location": "東京　板橋区",
+        "name": "落合/Ochiai",
+        "pinned_tweet_id": "2016592487369101623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006609160851566597/Pz7GR2cD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 2639,
+          "like_count": 16011,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 2252
+        },
+        "username": "Ochiai4976",
+        "verified": false
+      }
+    ]
+  }
+}

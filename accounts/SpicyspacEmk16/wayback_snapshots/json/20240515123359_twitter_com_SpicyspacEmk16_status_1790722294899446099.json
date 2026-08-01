@@ -1,0 +1,254 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790720388252758177",
+    "created_at": "2024-05-15T12:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T13:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790722294899446099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "445317178",
+          "start": 0,
+          "username": "Okami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790722294899446099",
+    "in_reply_to_user_id": "445317178",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790720388252758177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okami_Rui 回所罗门～boom～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790720388252758177",
+        "created_at": "2024-05-15T12:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T13:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790722294899446099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "445317178",
+              "start": 0,
+              "username": "Okami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790722294899446099",
+        "in_reply_to_user_id": "445317178",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790720388252758177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okami_Rui 回所罗门～boom～"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1790720379704774657"
+          ]
+        },
+        "author_id": "445317178",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t ",
+              "id": "1022475984325369856",
+              "name": "Mobile Suit Gundam"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1790720388252758177",
+        "created_at": "2024-05-15T12:26:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T13:26:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790720388252758177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ZiPOV2rw35",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Okami_Rui/status/1790720388252758177/photo/1",
+              "media_key": "3_1790720379704774657",
+              "start": 33,
+              "url": "https://t.co/ZiPOV2rw35"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790720388252758177",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ガンダム夜フリータイム始まるぞーー\nソロモンよ、私は帰ってきた！ https://t.co/ZiPOV2rw35"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 935,
+          "like_count": 78986,
+          "listed_count": 1,
+          "tweet_count": 4395
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-24T07:56:42.000Z",
+        "description": "中国語🈶️雑多垢/日常アニメゲーム自撮り/⚔️武装娘🔫/top理工商卒/INTJ-A 5w6 541/飛鳥たきな推し/社交不安/LesFem🌈娘T/中立善良/保守派不正常少女/网络野爹/负能树洞号⚠️/提供有偿战略管理咨询/🇨🇳🇺🇸🇯🇵/他SNS⬇️link⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okamirui",
+                "end": 23,
+                "expanded_url": "https://lit.link/okamirui",
+                "start": 0,
+                "url": "https://t.co/imiQPkPEhW"
+              }
+            ]
+          }
+        },
+        "id": "445317178",
+        "location": "Andromeda",
+        "name": "Sephy✨渾沌神Khorne",
+        "pinned_tweet_id": "1790216063743099169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650703663994933248/cMU1JaF3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 275,
+          "like_count": 4738,
+          "listed_count": 6,
+          "tweet_count": 4577
+        },
+        "url": "https://t.co/imiQPkPEhW",
+        "username": "Okami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

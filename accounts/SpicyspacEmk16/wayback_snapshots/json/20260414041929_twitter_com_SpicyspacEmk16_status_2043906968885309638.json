@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043841577064534416",
+    "created_at": "2026-04-14T04:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T05:19:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043906968885309638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628357323944239105",
+          "start": 0,
+          "username": "AkumaKusane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043906968885309638",
+    "in_reply_to_user_id": "1628357323944239105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043906164178710829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkumaKusane 是不是识别成什么成年内容了所以给限流了？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2324,
+        "media_key": "3_2043906159279779840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1p0qIasAAxNAB.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043841577064534416",
+        "created_at": "2026-04-14T04:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043906968885309638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043906968885309638",
+        "in_reply_to_user_id": "1628357323944239105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043906164178710829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane 是不是识别成什么成年内容了所以给限流了？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043906159279779840"
+          ]
+        },
+        "author_id": "1628357323944239105",
+        "conversation_id": "2043841577064534416",
+        "created_at": "2026-04-14T04:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T05:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043906164178710829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgviSPQW6A",
+              "end": 43,
+              "expanded_url": "https://x.com/AkumaKusane/status/2043906164178710829/photo/1",
+              "media_key": "3_2043906159279779840",
+              "start": 20,
+              "url": "https://t.co/BgviSPQW6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043906164178710829",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043900518851104911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 你看撒 https://t.co/BgviSPQW6A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3062,
+          "following_count": 1422,
+          "like_count": 93572,
+          "listed_count": 5,
+          "media_count": 773,
+          "tweet_count": 9364
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 主要用来发癫 HRT 2010.11.11 该账号不用回关并可随意拉黑因为基本不说人话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 234,
+          "like_count": 1147,
+          "listed_count": 3,
+          "media_count": 113,
+          "tweet_count": 3221
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

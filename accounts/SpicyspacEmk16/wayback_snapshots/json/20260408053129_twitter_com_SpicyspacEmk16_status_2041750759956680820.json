@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2041349923401277940",
+    "created_at": "2026-04-08T05:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041750759956680820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "836879648",
+          "start": 0,
+          "username": "teikyoanime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041750759956680820",
+    "in_reply_to_user_id": "836879648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041748003640561983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teikyoanime 分かりました　ありがとうございます！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2041349923401277940",
+        "created_at": "2026-04-08T05:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041750759956680820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "836879648",
+              "start": 0,
+              "username": "teikyoanime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041750759956680820",
+        "in_reply_to_user_id": "836879648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041748003640561983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teikyoanime 分かりました　ありがとうございます！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "836879648",
+        "conversation_id": "2041349923401277940",
+        "created_at": "2026-04-08T05:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041748003640561983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041748003640561983",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041731219348713952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 勧誘期間内は活動時間中に部室でも説明します！\n野外にある勧誘ブースでもやっていることもありますが、居ないこともありますので良ければ6号館6階の部室まで起こしください！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3014,
+          "following_count": 1406,
+          "like_count": 93102,
+          "listed_count": 5,
+          "media_count": 758,
+          "tweet_count": 9225
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2012-09-21T03:11:28.000Z",
+        "description": "月・水・木曜に活動しています。上級生の参加も大歓迎です！ご興味のある方や見学、その他質問はDMや以下メールアドレスまで！ どうぞお気軽に！teikyo.animation.club@gmail.com",
+        "id": "836879648",
+        "location": "クラブ棟6階",
+        "name": "帝京大学アニメーションクラブ",
+        "pinned_tweet_id": "1929414350592164104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/851335546894819328/osx-Rl6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 248,
+          "like_count": 1017,
+          "listed_count": 8,
+          "media_count": 45,
+          "tweet_count": 318
+        },
+        "username": "teikyoanime",
+        "verified": false
+      }
+    ]
+  }
+}

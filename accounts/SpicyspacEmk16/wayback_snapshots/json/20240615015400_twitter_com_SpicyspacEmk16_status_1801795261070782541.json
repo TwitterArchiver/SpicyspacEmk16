@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1801795261070782541",
+    "created_at": "2024-06-15T01:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-15T02:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801795261070782541"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1801795261070782541",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不演了\n我不是双性恋\n就是纯粹的跨女同\n经历两次创伤早就不可能去爱男性了…\n一直说自己是双性恋就是怕被骂是想骗炮什么的 但我是无性恋根本就不愿意进行性行为啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1801795261070782541",
+        "created_at": "2024-06-15T01:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-15T02:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801795261070782541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801795261070782541",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不演了\n我不是双性恋\n就是纯粹的跨女同\n经历两次创伤早就不可能去爱男性了…\n一直说自己是双性恋就是怕被骂是想骗炮什么的 但我是无性恋根本就不愿意进行性行为啊…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1775,
+          "following_count": 959,
+          "like_count": 80284,
+          "listed_count": 1,
+          "tweet_count": 4738
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

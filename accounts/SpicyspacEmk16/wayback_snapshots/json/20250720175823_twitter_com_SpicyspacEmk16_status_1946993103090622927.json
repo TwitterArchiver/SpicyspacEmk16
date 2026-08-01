@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1946992914405687296"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1946993103090622927",
+    "created_at": "2025-07-20T17:58:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T18:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946993103090622927"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/98xd97mY3F",
+          "end": 31,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1946993103090622927/video/1",
+          "media_key": "13_1946992914405687296",
+          "start": 8,
+          "url": "https://t.co/98xd97mY3F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946993103090622927",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 128,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小血珠五芒星～ https://t.co/98xd97mY3F"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1946993103090622927].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1946993103090622927",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1946993103090622927"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8733,
+        "height": 1440,
+        "media_key": "13_1946992914405687296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1946992914405687296/img/_xflDZSyCs5xDjMr.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946992914405687296/vid/avc1/720x960/CJ-gMnISvSb0ai-C.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946992914405687296/vid/avc1/480x640/bMTCLEn2erARACk3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1946992914405687296/pl/75Y80FX1sXSRDqNc.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946992914405687296/vid/avc1/1080x1440/ZjNPIT4L_05j0MLs.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1946992914405687296/vid/avc1/320x426/BahTlNrmrv5_yCVS.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1278,
+          "like_count": 87871,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 7782
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

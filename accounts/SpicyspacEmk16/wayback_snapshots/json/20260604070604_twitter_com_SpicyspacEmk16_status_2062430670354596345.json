@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2062395665158906161",
+    "created_at": "2026-06-04T07:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062430670354596345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1902129412503695361",
+          "start": 0,
+          "username": "whydoilovedoris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062430670354596345",
+    "in_reply_to_user_id": "1902129412503695361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062428022347640930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whydoilovedoris 谢谢宝宝～"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062428022347640930].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062428022347640930",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062428022347640930"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062395665158906161",
+        "created_at": "2026-06-04T07:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062430670354596345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1902129412503695361",
+              "start": 0,
+              "username": "whydoilovedoris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062430670354596345",
+        "in_reply_to_user_id": "1902129412503695361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062428022347640930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whydoilovedoris 谢谢宝宝～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 1523,
+          "like_count": 97347,
+          "listed_count": 6,
+          "media_count": 765,
+          "tweet_count": 10188
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-18T22:46:56.000Z",
+        "description": "",
+        "id": "1902129412503695361",
+        "name": "sili",
+        "pinned_tweet_id": "1929184053783146805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990550821121966080/gLwrF8MR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 51,
+          "like_count": 11968,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1867
+        },
+        "username": "whydoilovedoris",
+        "verified": false
+      }
+    ]
+  }
+}

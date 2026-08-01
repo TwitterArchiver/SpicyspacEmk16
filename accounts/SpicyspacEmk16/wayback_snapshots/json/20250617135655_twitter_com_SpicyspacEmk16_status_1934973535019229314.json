@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1934882699518595253",
+    "created_at": "2025-06-17T13:56:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T14:56:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934973535019229314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1895060496308715520",
+          "start": 0,
+          "username": "hi5d3rgzOD4259"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934973535019229314",
+    "in_reply_to_user_id": "1895060496308715520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934882699518595253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hi5d3rgzOD4259 めっちゃわかる(;°;ω;°;)…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1934882699518595253",
+        "created_at": "2025-06-17T13:56:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T14:56:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934973535019229314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1895060496308715520",
+              "start": 0,
+              "username": "hi5d3rgzOD4259"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934973535019229314",
+        "in_reply_to_user_id": "1895060496308715520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934882699518595253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hi5d3rgzOD4259 めっちゃわかる(;°;ω;°;)…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895060496308715520",
+        "conversation_id": "1934882699518595253",
+        "created_at": "2025-06-17T07:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T08:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934882699518595253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1934882699518595253",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1年前「1回だけにしよう…」\n先月「もう最後にしよう…」\n2週間前「もう最後にしよう…」\n1週間前「もう最後にしよう…」\n\nいま「もう最後にしよう…」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2749,
+          "following_count": 1268,
+          "like_count": 86394,
+          "listed_count": 2,
+          "media_count": 547,
+          "tweet_count": 7554
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T10:36:57.000Z",
+        "description": "ネットのどこかに存在した病んだ人\n薬飲んで肉切って棘吐きます\n早めにおわりたい",
+        "id": "1895060496308715520",
+        "location": "深い場所の暗いどこか",
+        "name": "ヒオリ",
+        "pinned_tweet_id": "1895070353141215542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895150893701472257/xjqmduWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 285,
+          "like_count": 9772,
+          "listed_count": 6,
+          "media_count": 140,
+          "tweet_count": 975
+        },
+        "username": "hi5d3rgzOD4259",
+        "verified": false
+      }
+    ]
+  }
+}

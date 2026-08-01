@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048014398942540029",
+    "created_at": "2026-04-26T00:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T01:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048201327617146967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1184096289283133440",
+          "start": 0,
+          "username": "cheuk_baby"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048201327617146967",
+    "in_reply_to_user_id": "1184096289283133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048185112790188227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cheuk_baby 啊其实怎么约都可以 但是不一定每天都约的上 毕竟学习好累 然后本人精神状态也没有那么好啦哈哈…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-26T00:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T01:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048201327617146967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1184096289283133440",
+              "start": 0,
+              "username": "cheuk_baby"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048201327617146967",
+        "in_reply_to_user_id": "1184096289283133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048185112790188227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cheuk_baby 啊其实怎么约都可以 但是不一定每天都约的上 毕竟学习好累 然后本人精神状态也没有那么好啦哈哈…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1184096289283133440",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T23:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T00:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048185112790188227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048185112790188227",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 总觉得私信比电话更自在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3098,
+          "following_count": 1454,
+          "like_count": 94385,
+          "listed_count": 5,
+          "media_count": 787,
+          "tweet_count": 9592
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-15T13:19:03.000Z",
+        "description": "Web3 软件工程师 💻 | 链上玩家 | @SaharaLabsAI MOD | @RialoHQ & @arbitrum & @MorphLayer Ambassador | @Gaianet_AI Science Officer | #BNB $BTC Hodler | #Binance | 📩合作私信",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 129,
+                "start": 125,
+                "tag": "BTC"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "BNB"
+              },
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "Binance"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 22,
+                "username": "SaharaLabsAI"
+              },
+              {
+                "end": 50,
+                "start": 42,
+                "username": "RialoHQ"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "arbitrum"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "MorphLayer"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Gaianet_AI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/DqpSsv9jbZ",
+                "end": 23,
+                "expanded_url": "https://discord.gg/DqpSsv9jbZ",
+                "start": 0,
+                "url": "https://t.co/Zm8hkWdAzp"
+              }
+            ]
+          }
+        },
+        "id": "1184096289283133440",
+        "location": "Hong Kong",
+        "name": "Jason傑森 🇭🇰 | 🛠️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823163949283409921/g-_gGccQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13890,
+          "following_count": 4625,
+          "like_count": 165988,
+          "listed_count": 174,
+          "media_count": 932,
+          "tweet_count": 318823
+        },
+        "url": "https://t.co/Zm8hkWdAzp",
+        "username": "cheuk_baby",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1985940485752721765",
+    "created_at": "2025-11-05T08:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T09:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985994510044954745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "b23.tv/pDKj5sN",
+          "end": 41,
+          "expanded_url": "https://b23.tv/pDKj5sN",
+          "start": 18,
+          "status": 200,
+          "unwound_url": "https://live.bilibili.com/5064239?broadcast_type=0&is_room_feed=1&plat_id=265&share_from=live&share_medium=iphone&share_plat=ios&share_session_id=F2D04657-D5B7-4589-BD07-4FFFEC62304C&share_source=COPY&share_tag=s_i&spmid=tm.recommend.0.0&timestamp=1762332951&unique_k=pDKj5sN",
+          "url": "https://t.co/Jg6d0UAfm7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985994510044954745",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985940485752721765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【回归原点！恐怖！-哔哩哔哩直播】 https://t.co/Jg6d0UAfm7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1985940485752721765",
+        "created_at": "2025-11-05T08:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T09:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985994510044954745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "b23.tv/pDKj5sN",
+              "end": 41,
+              "expanded_url": "https://b23.tv/pDKj5sN",
+              "start": 18,
+              "status": 200,
+              "unwound_url": "https://live.bilibili.com/5064239?broadcast_type=0&is_room_feed=1&plat_id=265&share_from=live&share_medium=iphone&share_plat=ios&share_session_id=F2D04657-D5B7-4589-BD07-4FFFEC62304C&share_source=COPY&share_tag=s_i&spmid=tm.recommend.0.0&timestamp=1762332951&unique_k=pDKj5sN",
+              "url": "https://t.co/Jg6d0UAfm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985994510044954745",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985940485752721765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【回归原点！恐怖！-哔哩哔哩直播】 https://t.co/Jg6d0UAfm7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1985940485752721765",
+        "created_at": "2025-11-05T05:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T06:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985940485752721765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "スパイシスペース’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1djGX…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1djGXWZLpMNKZ",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1985940487795326977/XfbDkMur?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1985940487795326977/XfbDkMur?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 你们都在睡觉嘛？",
+              "unwound_url": "https://twitter.com/i/spaces/1djGXWZLpMNKZ/peek",
+              "url": "https://t.co/o1smSz75nl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985940485752721765",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 143,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o1smSz75nl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 1307,
+          "like_count": 87612,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 8219
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

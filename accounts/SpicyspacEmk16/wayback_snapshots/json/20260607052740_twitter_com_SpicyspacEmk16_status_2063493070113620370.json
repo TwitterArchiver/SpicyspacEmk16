@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063493064589803520"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2063493070113620370",
+    "created_at": "2026-06-07T05:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063493070113620370"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y6N3Gk7yUb",
+          "end": 81,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2063493070113620370/photo/1",
+          "media_key": "3_2063493064589803520",
+          "start": 58,
+          "url": "https://t.co/Y6N3Gk7yUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063493070113620370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很好笑的是客人爽完走了以后我在房间里面贩卖机买了瓶水因为不知道是自助结账导致在房间里惊恐发作以为要被抓去永远接客了 https://t.co/Y6N3Gk7yUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2063493064589803520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKMAAmdbgAAfNky.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063493064589803520"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2063493070113620370",
+        "created_at": "2026-06-07T05:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063493070113620370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y6N3Gk7yUb",
+              "end": 81,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2063493070113620370/photo/1",
+              "media_key": "3_2063493064589803520",
+              "start": 58,
+              "url": "https://t.co/Y6N3Gk7yUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063493070113620370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很好笑的是客人爽完走了以后我在房间里面贩卖机买了瓶水因为不知道是自助结账导致在房间里惊恐发作以为要被抓去永远接客了 https://t.co/Y6N3Gk7yUb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3212,
+          "following_count": 1534,
+          "like_count": 97421,
+          "listed_count": 6,
+          "media_count": 767,
+          "tweet_count": 10206
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

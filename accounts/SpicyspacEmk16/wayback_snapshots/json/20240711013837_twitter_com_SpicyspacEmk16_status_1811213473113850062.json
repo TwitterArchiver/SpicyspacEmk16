@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1811123469737984081",
+    "created_at": "2024-07-11T01:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T02:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811213473113850062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130077248579465217",
+          "start": 0,
+          "username": "AntonioZore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811213473113850062",
+    "in_reply_to_user_id": "1130077248579465217",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811123469737984081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AntonioZore 焦慮就是這麼來的🥹🥹\n321跳了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1811123469737984081",
+        "created_at": "2024-07-11T01:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T02:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811213473113850062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130077248579465217",
+              "start": 0,
+              "username": "AntonioZore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811213473113850062",
+        "in_reply_to_user_id": "1130077248579465217",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811123469737984081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntonioZore 焦慮就是這麼來的🥹🥹\n321跳了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1130077248579465217",
+        "conversation_id": "1811123469737984081",
+        "created_at": "2024-07-10T19:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T20:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811123469737984081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuanyuan_mm/st…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/yuanyuan_mm/status/1809894910570467353",
+              "start": 24,
+              "url": "https://t.co/AJQ93PyQmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811123469737984081",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809894910570467353",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的天哪天赋党\n这我还活集贸\n受不了了321跳 https://t.co/AJQ93PyQmj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 981,
+          "like_count": 82371,
+          "listed_count": 1,
+          "tweet_count": 5092
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-19T11:46:26.000Z",
+        "description": "PTB:Pauper trans Billionaire\nShe/Her/They\nhttps://t.co/FXbphb7JR9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/antoniozore",
+                "end": 65,
+                "expanded_url": "https://confess.ngl.link/antoniozore",
+                "start": 42,
+                "url": "https://t.co/FXbphb7JR9"
+              }
+            ]
+          }
+        },
+        "id": "1130077248579465217",
+        "location": "Kyoto-fu, Japan",
+        "name": "惑星",
+        "pinned_tweet_id": "1802193625788625059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809111511174164487/oFriv8qf_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 239,
+          "like_count": 12600,
+          "listed_count": 2,
+          "tweet_count": 8838
+        },
+        "username": "AntonioZore",
+        "verified": false
+      }
+    ]
+  }
+}

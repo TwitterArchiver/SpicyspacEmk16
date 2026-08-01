@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2045893080658907322",
+    "created_at": "2026-04-19T21:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T22:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045981905229893787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786771245750755328",
+          "start": 0,
+          "username": "Ayanekawaii2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045981905229893787",
+    "in_reply_to_user_id": "1786771245750755328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045893080658907322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanekawaii2 吃好好好羡慕我根本是便利店美食家😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045893072282955776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR46N3bsAAqjOK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045893072282853377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR46N3aIAEHQBF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045893072282923008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR46N3bMAARRtR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045893072295448576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGR46N6aUAAaHm-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2045893080658907322",
+        "created_at": "2026-04-19T21:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045981905229893787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786771245750755328",
+              "start": 0,
+              "username": "Ayanekawaii2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045981905229893787",
+        "in_reply_to_user_id": "1786771245750755328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045893080658907322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanekawaii2 吃好好好羡慕我根本是便利店美食家😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045893072282955776",
+            "3_2045893072282853377",
+            "3_2045893072282923008",
+            "3_2045893072295448576"
+          ]
+        },
+        "author_id": "1786771245750755328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2045893080658907322",
+        "created_at": "2026-04-19T15:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045893080658907322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w0QqgXo44p",
+              "end": 27,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2045893080658907322/photo/1",
+              "media_key": "3_2045893072282955776",
+              "start": 4,
+              "url": "https://t.co/w0QqgXo44p"
+            },
+            {
+              "display_url": "pic.x.com/w0QqgXo44p",
+              "end": 27,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2045893080658907322/photo/1",
+              "media_key": "3_2045893072282853377",
+              "start": 4,
+              "url": "https://t.co/w0QqgXo44p"
+            },
+            {
+              "display_url": "pic.x.com/w0QqgXo44p",
+              "end": 27,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2045893080658907322/photo/1",
+              "media_key": "3_2045893072282923008",
+              "start": 4,
+              "url": "https://t.co/w0QqgXo44p"
+            },
+            {
+              "display_url": "pic.x.com/w0QqgXo44p",
+              "end": 27,
+              "expanded_url": "https://x.com/Ayanekawaii2/status/2045893080658907322/photo/1",
+              "media_key": "3_2045893072295448576",
+              "start": 4,
+              "url": "https://t.co/w0QqgXo44p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045893080658907322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天。 https://t.co/w0QqgXo44p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3081,
+          "following_count": 1447,
+          "like_count": 94107,
+          "listed_count": 5,
+          "media_count": 778,
+          "tweet_count": 9492
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-04T14:54:06.000Z",
+        "description": "你可能需要的刻板印象：08/isfp/she/her/Bisexual/🇯🇵东京留学生/学部考学中/社交苦手/無言follow👌🏻/DM👌🏻/日本語N2レベル/视奸随意 我开心全世界第一重要 鍵垢@x_ayane_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "x_ayane_"
+              }
+            ]
+          }
+        },
+        "id": "1786771245750755328",
+        "location": "姐姐妈妈恋人的子宫里",
+        "name": "安",
+        "pinned_tweet_id": "2042905379848491159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004210371922640896/VbSnKRDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 138,
+          "like_count": 324,
+          "listed_count": 1,
+          "media_count": 198,
+          "tweet_count": 2061
+        },
+        "username": "Ayanekawaii2",
+        "verified": false
+      }
+    ]
+  }
+}

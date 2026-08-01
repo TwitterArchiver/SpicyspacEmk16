@@ -1,0 +1,96 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1813449390578872828",
+    "created_at": "2024-07-17T05:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-17T06:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1813449390578872828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1813449390578872828",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "决定死前疯狂一次\n暑假后申请到签证就跑去台湾找aki宝玩\n不管出勤率什么的学校什么的了\n反正就是要去\n虽然很不安很害怕但是至少可以让我暂时活下去对吧\n也为了最爱的aki宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1813449390578872828",
+        "created_at": "2024-07-17T05:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T06:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813449390578872828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813449390578872828",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "决定死前疯狂一次\n暑假后申请到签证就跑去台湾找aki宝玩\n不管出勤率什么的学校什么的了\n反正就是要去\n虽然很不安很害怕但是至少可以让我暂时活下去对吧\n也为了最爱的aki宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1001,
+          "like_count": 82803,
+          "listed_count": 1,
+          "tweet_count": 5186
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2075574518488474056",
+    "created_at": "2026-07-10T23:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T00:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075727214214287481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "orewahara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075727214214287481",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075574518488474056",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orewahara 喔去p1那个是白云山嘛🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075574489765781504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3sAGdaIAAOyx6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1188,
+        "media_key": "3_2075574489774264321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3sAGfbkAEsE6P.jpg",
+        "width": 1497
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2075574489782644736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3sAGhbcAAyPIv.jpg",
+        "width": 768
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2075574490084540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3sAHpaAAAyTmf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2075574518488474056",
+        "created_at": "2026-07-10T23:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T00:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075727214214287481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "orewahara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075727214214287481",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075574518488474056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orewahara 喔去p1那个是白云山嘛🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075574489765781504",
+            "3_2075574489774264321",
+            "3_2075574489782644736",
+            "3_2075574490084540416"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075574518488474056",
+        "created_at": "2026-07-10T13:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075574518488474056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D66lxlGBlg",
+              "end": 37,
+              "expanded_url": "https://x.com/orewahara/status/2075574518488474056/photo/1",
+              "media_key": "3_2075574489765781504",
+              "start": 14,
+              "url": "https://t.co/D66lxlGBlg"
+            },
+            {
+              "display_url": "pic.x.com/D66lxlGBlg",
+              "end": 37,
+              "expanded_url": "https://x.com/orewahara/status/2075574518488474056/photo/1",
+              "media_key": "3_2075574489774264321",
+              "start": 14,
+              "url": "https://t.co/D66lxlGBlg"
+            },
+            {
+              "display_url": "pic.x.com/D66lxlGBlg",
+              "end": 37,
+              "expanded_url": "https://x.com/orewahara/status/2075574518488474056/photo/1",
+              "media_key": "3_2075574489782644736",
+              "start": 14,
+              "url": "https://t.co/D66lxlGBlg"
+            },
+            {
+              "display_url": "pic.x.com/D66lxlGBlg",
+              "end": 37,
+              "expanded_url": "https://x.com/orewahara/status/2075574518488474056/photo/1",
+              "media_key": "3_2075574490084540416",
+              "start": 14,
+              "url": "https://t.co/D66lxlGBlg"
+            },
+            {
+              "display_url": "x.com/suckspierrre/s…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/suckspierrre/status/2075017980992184572",
+              "start": 38,
+              "url": "https://t.co/beZptY1ZZx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075574518488474056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4246,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075017980992184572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16岁地雷系女子的小屋⬇️ https://t.co/D66lxlGBlg https://t.co/beZptY1ZZx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 1569,
+          "like_count": 97839,
+          "listed_count": 6,
+          "media_count": 796,
+          "tweet_count": 10429
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "一个神秘的人｜会凭感觉关注人=w=｜萝卜哥或者hara请随意叫",
+        "id": "1942213637902348289",
+        "location": "夢",
+        "name": "はらちゃん？",
+        "pinned_tweet_id": "2064664620837790066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861332097298432/z6xG7fN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 127,
+          "like_count": 468,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "orewahara",
+        "verified": false
+      }
+    ]
+  }
+}

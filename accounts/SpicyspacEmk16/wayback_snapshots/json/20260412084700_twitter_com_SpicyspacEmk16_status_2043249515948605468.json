@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043213034878017989",
+    "created_at": "2026-04-12T08:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043249515948605468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4677053179",
+          "start": 0,
+          "username": "Nohomework0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043249515948605468",
+    "in_reply_to_user_id": "4677053179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043238426745663588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nohomework0 只能说以前接触的同学人都挺好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043213034878017989",
+        "created_at": "2026-04-12T08:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043249515948605468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4677053179",
+              "start": 0,
+              "username": "Nohomework0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043249515948605468",
+        "in_reply_to_user_id": "4677053179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043238426745663588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nohomework0 只能说以前接触的同学人都挺好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "conversation_id": "2043213034878017989",
+        "created_at": "2026-04-12T08:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043238426745663588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043238426745663588",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043213034878017989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 刚来日本不久？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 1404,
+          "like_count": 93318,
+          "listed_count": 5,
+          "media_count": 764,
+          "tweet_count": 9274
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵",
+        "id": "4677053179",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 3250,
+          "like_count": 11147,
+          "listed_count": 26,
+          "media_count": 1715,
+          "tweet_count": 23624
+        },
+        "username": "Nohomework0",
+        "verified": false
+      }
+    ]
+  }
+}

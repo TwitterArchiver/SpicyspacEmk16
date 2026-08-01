@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1982271637623017538",
+    "created_at": "2025-10-26T10:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T11:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982388743836410246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982388743836410246",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982271637623017538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 生日快樂🎁🎊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982271618266087424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JxiMcWwAAt1jL.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1982271618547109888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4JxiNfW0AAOXOv.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1982271637623017538",
+        "created_at": "2025-10-26T10:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T11:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982388743836410246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982388743836410246",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982271637623017538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 生日快樂🎁🎊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982271618266087424",
+            "3_1982271618547109888"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "conversation_id": "1982271637623017538",
+        "created_at": "2025-10-26T02:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T03:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982271637623017538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "序章 盼望著，憧憬著，期待著，長路歸鄉，魂歸九泉------櫻井玲奈 “我只是想让地球上没得其应得的个体都得其所愿罢了。” ------摇光•星海 “云肆瑶光，幻市如梦。念得琳琅，即得琳琅。” ------亿杉晓 “祝你减肥成功，我是说，丢掉自己不需要的东西。” ------灵柒",
+              "display_url": "pixiv.net/novel/show.php…",
+              "end": 39,
+              "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1979781901025263616/4j30kkzr?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1979781901025263616/4j30kkzr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "星空礼品店",
+              "unwound_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+              "url": "https://t.co/8ZpQyn9JCy"
+            },
+            {
+              "display_url": "pic.x.com/UPiqPpXI0F",
+              "end": 63,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1982271637623017538/photo/1",
+              "media_key": "3_1982271618266087424",
+              "start": 40,
+              "url": "https://t.co/UPiqPpXI0F"
+            },
+            {
+              "display_url": "pic.x.com/UPiqPpXI0F",
+              "end": 63,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1982271637623017538/photo/1",
+              "media_key": "3_1982271618547109888",
+              "start": 40,
+              "url": "https://t.co/UPiqPpXI0F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982271637623017538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 656,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我的生日，也是星空的生日\nhttps://t.co/8ZpQyn9JCy https://t.co/UPiqPpXI0F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 1282,
+          "like_count": 86621,
+          "listed_count": 4,
+          "media_count": 629,
+          "tweet_count": 8116
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "寄蜉蝣于天地，渺沧海之一粟//星空礼品店的守候者 星空文明的守夜人 书友世界 q 864276653 星光铁路 https://t.co/aBL8EQieV7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Shiohara.moe",
+                "end": 79,
+                "expanded_url": "http://Shiohara.moe",
+                "start": 56,
+                "url": "https://t.co/aBL8EQieV7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVs9o5"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 千载云屏 弥星原畔",
+        "name": "🌈⛩️摇光星辰🏳️‍⚧️✨（云游之星）",
+        "pinned_tweet_id": "1982271637623017538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 796,
+          "like_count": 2363,
+          "listed_count": 4,
+          "media_count": 424,
+          "tweet_count": 3106
+        },
+        "url": "https://t.co/3DFuJVs9o5",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

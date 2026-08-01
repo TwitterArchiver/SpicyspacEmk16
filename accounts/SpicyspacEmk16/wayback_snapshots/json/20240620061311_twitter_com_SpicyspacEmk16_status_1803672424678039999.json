@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1803648133261619514",
+    "created_at": "2024-06-20T06:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-20T07:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803672424678039999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1753324501167960064",
+          "start": 0,
+          "username": "tachibanalove01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803672424678039999",
+    "in_reply_to_user_id": "1753324501167960064",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803670817987080629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tachibanalove01 是依替唑仑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1803648133261619514",
+        "created_at": "2024-06-20T06:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803672424678039999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1753324501167960064",
+              "start": 0,
+              "username": "tachibanalove01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803672424678039999",
+        "in_reply_to_user_id": "1753324501167960064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803670817987080629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tachibanalove01 是依替唑仑"
+      },
+      {
+        "attachments": {},
+        "author_id": "1753324501167960064",
+        "conversation_id": "1803648133261619514",
+        "created_at": "2024-06-20T06:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-20T07:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803670817987080629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803670817987080629",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803648133261619514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 日本思诺思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 964,
+          "like_count": 80753,
+          "listed_count": 1,
+          "tweet_count": 4821
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T07:48:51.000Z",
+        "description": "自分らしく",
+        "id": "1753324501167960064",
+        "location": "精神病院",
+        "name": "穗西德",
+        "pinned_tweet_id": "1796892542082088992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796493551007858689/Vah5drK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 263,
+          "like_count": 1316,
+          "listed_count": 0,
+          "tweet_count": 1081
+        },
+        "username": "tachibanalove01",
+        "verified": false
+      }
+    ]
+  }
+}

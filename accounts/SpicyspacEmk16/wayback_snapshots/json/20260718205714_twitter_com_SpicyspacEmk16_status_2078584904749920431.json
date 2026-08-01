@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2078366148194914671",
+    "created_at": "2026-07-18T20:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T21:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078584904749920431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997334987549589504",
+          "start": 0,
+          "username": "gsc3363404194"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078584904749920431",
+    "in_reply_to_user_id": "1997334987549589504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078491143923524022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gsc3363404194 喔去那开心了 可惜照片拍的眼妆效果没有现实看的效果好哭死 是全粉调的那种"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2078366148194914671",
+        "created_at": "2026-07-18T20:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078584904749920431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997334987549589504",
+              "start": 0,
+              "username": "gsc3363404194"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078584904749920431",
+        "in_reply_to_user_id": "1997334987549589504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078491143923524022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gsc3363404194 喔去那开心了 可惜照片拍的眼妆效果没有现实看的效果好哭死 是全粉调的那种"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997334987549589504",
+        "conversation_id": "2078366148194914671",
+        "created_at": "2026-07-18T14:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078491143923524022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078491143923524022",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078447425619161139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 眼睛也很萌其实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 1564,
+          "like_count": 98163,
+          "listed_count": 6,
+          "media_count": 802,
+          "tweet_count": 10472
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T15:59:14.000Z",
+        "description": "祝你开心",
+        "id": "1997334987549589504",
+        "location": "天上",
+        "name": "云朵",
+        "pinned_tweet_id": "2056244397407371775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999625147247132674/avo2UUng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 3548,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "gsc3363404194",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1807943309303992355",
+    "created_at": "2024-07-02T09:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T10:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808067488774775085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1517543850142699520",
+          "start": 0,
+          "username": "HTSVStarch2048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808067488774775085",
+    "in_reply_to_user_id": "1517543850142699520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808065280465084630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HTSVStarch2048 啊啊那就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1807943309303992355",
+        "created_at": "2024-07-02T09:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T10:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808067488774775085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1517543850142699520",
+              "start": 0,
+              "username": "HTSVStarch2048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808067488774775085",
+        "in_reply_to_user_id": "1517543850142699520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808065280465084630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HTSVStarch2048 啊啊那就好"
+      },
+      {
+        "attachments": {},
+        "author_id": "1517543850142699520",
+        "conversation_id": "1807943309303992355",
+        "created_at": "2024-07-02T09:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T10:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808065280465084630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808065280465084630",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808062717208715613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 還好就是錢包丟了 人沒事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 970,
+          "like_count": 81615,
+          "listed_count": 1,
+          "tweet_count": 4931
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-22T16:40:48.000Z",
+        "description": "NWFB Dennis Trident 10.3m (Duple Metsec) !",
+        "id": "1517543850142699520",
+        "location": "Duple Metsec ",
+        "name": "📺廢但是不萌(318才不是會噴氣的蛋的說!) 🇸🇪 Strv122B PLSS",
+        "pinned_tweet_id": "1750686111759012333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1566634852203757568/gLXgbLy7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26873,
+          "following_count": 990,
+          "like_count": 55331,
+          "listed_count": 51,
+          "tweet_count": 19551
+        },
+        "username": "HTSVStarch2048",
+        "verified": false
+      }
+    ]
+  }
+}

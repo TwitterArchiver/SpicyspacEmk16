@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1808749183291289687",
+    "created_at": "2024-07-04T07:39:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-04T08:39:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1808767672131387402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808767672131387402",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1808749183291289687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui 你們好甜🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1808749183291289687",
+        "created_at": "2024-07-04T07:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T08:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1808767672131387402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808767672131387402",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808749183291289687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui 你們好甜🥹"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1808749178622988290"
+          ]
+        },
+        "author_id": "1798982562494414848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1808749183291289687",
+        "created_at": "2024-07-04T06:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-04T07:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808749183291289687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3R2n7Noybe",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1808749183291289687/photo/1",
+              "media_key": "3_1808749178622988290",
+              "start": 15,
+              "url": "https://t.co/3R2n7Noybe"
+            },
+            {
+              "display_url": "x.com/loveyouvaluri_…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/loveyouvaluri_/status/1808748551499088119",
+              "start": 39,
+              "url": "https://t.co/Z5prFyxqCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808749183291289687",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808748551499088119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卖相很好唉\n看得我❤️化了🥰 https://t.co/3R2n7Noybe https://t.co/Z5prFyxqCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1808,
+          "following_count": 973,
+          "like_count": 81886,
+          "listed_count": 1,
+          "tweet_count": 4999
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength/万物皆腐，众生不灭/爱妻@loveyouvaluri_/无限制回fo机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "loveyouvaluri_"
+              }
+            ]
+          }
+        },
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "pinned_tweet_id": "1808097881284661433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 59,
+          "like_count": 600,
+          "listed_count": 0,
+          "tweet_count": 306
+        },
+        "username": "Nokami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

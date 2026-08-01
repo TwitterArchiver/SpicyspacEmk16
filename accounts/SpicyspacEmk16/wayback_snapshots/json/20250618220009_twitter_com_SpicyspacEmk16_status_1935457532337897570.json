@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1935193579363975492",
+    "created_at": "2025-06-18T22:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T23:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935457532337897570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "700699352889581572",
+          "start": 0,
+          "username": "ChuuniC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935457532337897570",
+    "in_reply_to_user_id": "700699352889581572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935427145465262148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuuniC 不至于这样但是我确实不爽\n但凡你不告诉我偷偷的单取我我都不会这么大反应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1935193579363975492",
+        "created_at": "2025-06-18T22:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T23:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935457532337897570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "700699352889581572",
+              "start": 0,
+              "username": "ChuuniC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935457532337897570",
+        "in_reply_to_user_id": "700699352889581572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935427145465262148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuuniC 不至于这样但是我确实不爽\n但凡你不告诉我偷偷的单取我我都不会这么大反应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "700699352889581572",
+        "conversation_id": "1935193579363975492",
+        "created_at": "2025-06-18T19:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T20:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935427145465262148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935427145465262148",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935193579363975492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 蓄意misgender直接开盒都是轻的，建议真人快打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1270,
+          "like_count": 86419,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 7575
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-19T15:11:58.000Z",
+        "description": "有時很懊惱 \n有時也感到驕傲 \n有時不後悔 曾這樣表達憤怒",
+        "id": "700699352889581572",
+        "location": "康平路165号, 上海, 中华人民共和国",
+        "name": "chuuni_#C 🐬 🍥",
+        "pinned_tweet_id": "1705909425503093118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638852585196240897/yvg99ggZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 2332,
+          "like_count": 26748,
+          "listed_count": 5,
+          "media_count": 2332,
+          "tweet_count": 26400
+        },
+        "username": "ChuuniC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929708308036034560",
+        "3_1929708308036046849",
+        "3_1929708308010852352"
+      ],
+      "media_source_tweet_id": [
+        "1929708318421143820",
+        "1929708318421143820",
+        "1929708318421143820"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1929982687038845163",
+    "created_at": "2025-06-03T19:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T20:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929982687038845163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1911828872334831616",
+          "start": 3,
+          "username": "Edward_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtBYLANP4i",
+          "end": 60,
+          "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+          "media_key": "3_1929708308036034560",
+          "start": 37,
+          "url": "https://t.co/EtBYLANP4i"
+        },
+        {
+          "display_url": "pic.x.com/EtBYLANP4i",
+          "end": 60,
+          "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+          "media_key": "3_1929708308036046849",
+          "start": 37,
+          "url": "https://t.co/EtBYLANP4i"
+        },
+        {
+          "display_url": "pic.x.com/EtBYLANP4i",
+          "end": 60,
+          "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+          "media_key": "3_1929708308010852352",
+          "start": 37,
+          "url": "https://t.co/EtBYLANP4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929982687038845163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929708318421143820",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edward_8964: 為了自由\n稍微寫了一點關於這個塔的事情 https://t.co/EtBYLANP4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929708308036034560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gseze2yboAAXfnH.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929708308036046849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gseze2yb0AEABVv.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929708308010852352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gseze2sbYAAuVju.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929708308036034560",
+            "3_1929708308036046849",
+            "3_1929708308010852352"
+          ],
+          "media_source_tweet_id": [
+            "1929708318421143820",
+            "1929708318421143820",
+            "1929708318421143820"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929982687038845163",
+        "created_at": "2025-06-03T19:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T20:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929982687038845163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1911828872334831616",
+              "start": 3,
+              "username": "Edward_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 60,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308036034560",
+              "start": 37,
+              "url": "https://t.co/EtBYLANP4i"
+            },
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 60,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308036046849",
+              "start": 37,
+              "url": "https://t.co/EtBYLANP4i"
+            },
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 60,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308010852352",
+              "start": 37,
+              "url": "https://t.co/EtBYLANP4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929982687038845163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929708318421143820",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edward_8964: 為了自由\n稍微寫了一點關於這個塔的事情 https://t.co/EtBYLANP4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929708308036034560",
+            "3_1929708308036046849",
+            "3_1929708308010852352"
+          ]
+        },
+        "author_id": "1911828872334831616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1929708318421143820",
+        "created_at": "2025-06-03T01:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T02:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929708318421143820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 43,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308036034560",
+              "start": 20,
+              "url": "https://t.co/EtBYLANP4i"
+            },
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 43,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308036046849",
+              "start": 20,
+              "url": "https://t.co/EtBYLANP4i"
+            },
+            {
+              "display_url": "pic.x.com/EtBYLANP4i",
+              "end": 43,
+              "expanded_url": "https://x.com/Edward_8964/status/1929708318421143820/photo/1",
+              "media_key": "3_1929708308010852352",
+              "start": 20,
+              "url": "https://t.co/EtBYLANP4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929708318421143820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4619,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "為了自由\n稍微寫了一點關於這個塔的事情 https://t.co/EtBYLANP4i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2687,
+          "following_count": 1230,
+          "like_count": 86020,
+          "listed_count": 3,
+          "media_count": 532,
+          "tweet_count": 7456
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T17:08:26.000Z",
+        "description": "od不扩散就是个笑话，要是没扩散的话我tm就不会出现在这里 自由意志主义者 前世：@XuaEdward",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "XuaEdward"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nonexistent.fandom.com",
+                "end": 23,
+                "expanded_url": "http://nonexistent.fandom.com",
+                "start": 0,
+                "url": "https://t.co/jSvdcBPiBx"
+              }
+            ]
+          }
+        },
+        "id": "1911828872334831616",
+        "location": "ZheJiang",
+        "name": "爱德华 gen4 转生体",
+        "pinned_tweet_id": "1929081535720038434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921599678090780672/CQrzT5_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 401,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/jSvdcBPiBx",
+        "username": "Edward_8964",
+        "verified": false
+      }
+    ]
+  }
+}

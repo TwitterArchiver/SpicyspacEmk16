@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2006323463053869368",
+    "created_at": "2026-02-01T01:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T02:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017772897209881065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1558730611556175873",
+          "start": 0,
+          "username": "ChisakaKanako"
+        },
+        {
+          "end": 28,
+          "id": "114756013",
+          "start": 15,
+          "username": "tokiwayutaka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017772897209881065",
+    "in_reply_to_user_id": "1558730611556175873",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017418312532300064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChisakaKanako @tokiwayutaka 🤔🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2006323463053869368",
+        "created_at": "2026-02-01T01:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T02:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017772897209881065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1558730611556175873",
+              "start": 0,
+              "username": "ChisakaKanako"
+            },
+            {
+              "end": 28,
+              "id": "114756013",
+              "start": 15,
+              "username": "tokiwayutaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017772897209881065",
+        "in_reply_to_user_id": "1558730611556175873",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017418312532300064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChisakaKanako @tokiwayutaka 🤔🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558730611556175873",
+        "conversation_id": "2006323463053869368",
+        "created_at": "2026-01-31T02:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017418312532300064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "114756013",
+              "start": 0,
+              "username": "tokiwayutaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017418312532300064",
+        "in_reply_to_user_id": "114756013",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006323463053869368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokiwayutaka 店長が好き、店長になりたい🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2952,
+          "following_count": 1363,
+          "like_count": 91257,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 8924
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-14T08:22:12.000Z",
+        "description": "🧁",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/chisakakanako",
+                "end": 23,
+                "expanded_url": "http://bento.me/chisakakanako",
+                "start": 0,
+                "url": "https://t.co/gu1Hf8CbGK"
+              }
+            ]
+          }
+        },
+        "id": "1558730611556175873",
+        "location": "大连",
+        "name": "千坂神奈子",
+        "pinned_tweet_id": "1971608331635818577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005160042845405188/7FNnSndN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992,
+          "following_count": 1572,
+          "like_count": 43205,
+          "listed_count": 10,
+          "media_count": 78,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/gu1Hf8CbGK",
+        "username": "ChisakaKanako",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-16T14:17:20.000Z",
+        "description": "セクシー漫画屋さん♡ ふたなり♥百合♥男の娘にKISS♥\n🍈https://t.co/aZiB8vHvUJ  \n BOOTH https://t.co/G4TZlbKJBX\nFANBOX♥https://t.co/rep5e3GaLP\nふたなり単行本発売中！https://t.co/JTqwl5Bg7a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2OuQ4gI",
+                "end": 53,
+                "expanded_url": "http://bit.ly/2OuQ4gI",
+                "start": 30,
+                "url": "https://t.co/aZiB8vHvUJ"
+              },
+              {
+                "display_url": "tetrara.booth.pm",
+                "end": 86,
+                "expanded_url": "http://tetrara.booth.pm",
+                "start": 63,
+                "url": "https://t.co/G4TZlbKJBX"
+              },
+              {
+                "display_url": "tokiwayutaka.fanbox.cc",
+                "end": 117,
+                "expanded_url": "http://tokiwayutaka.fanbox.cc",
+                "start": 94,
+                "url": "https://t.co/rep5e3GaLP"
+              },
+              {
+                "display_url": "bit.ly/3mEDQ6Z",
+                "end": 152,
+                "expanded_url": "http://bit.ly/3mEDQ6Z",
+                "start": 129,
+                "url": "https://t.co/JTqwl5Bg7a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=144431",
+                "start": 0,
+                "url": "https://t.co/0fag9PShuk"
+              }
+            ]
+          }
+        },
+        "id": "114756013",
+        "location": "純愛サークルTETRARA代表",
+        "name": "ときわゆたか💛C107水曜東４フ12a",
+        "pinned_tweet_id": "2002738782815347105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/684711335255498752/ZFf4yk2b_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14284,
+          "following_count": 482,
+          "like_count": 1751,
+          "listed_count": 156,
+          "media_count": 1324,
+          "tweet_count": 62596
+        },
+        "url": "https://t.co/0fag9PShuk",
+        "username": "tokiwayutaka",
+        "verified": false
+      }
+    ]
+  }
+}

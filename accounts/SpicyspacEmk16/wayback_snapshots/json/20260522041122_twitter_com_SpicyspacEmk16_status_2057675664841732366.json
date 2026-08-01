@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057641428805914793",
+    "created_at": "2026-05-22T04:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T05:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057675664841732366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604404804440141824",
+          "start": 0,
+          "username": "SakuraizumiSayo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057675664841732366",
+    "in_reply_to_user_id": "1604404804440141824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057674352850813042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakuraizumiSayo 对的对的 目前看来相对好点的只有bluesky了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057641428805914793",
+        "created_at": "2026-05-22T04:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057675664841732366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604404804440141824",
+              "start": 0,
+              "username": "SakuraizumiSayo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057675664841732366",
+        "in_reply_to_user_id": "1604404804440141824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057674352850813042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraizumiSayo 对的对的 目前看来相对好点的只有bluesky了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1604404804440141824",
+        "conversation_id": "2057641428805914793",
+        "created_at": "2026-05-22T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057674352850813042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057674352850813042",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057670857418510731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 沒事恢復了\n代價是強制綁定手機號碼+上傳人臉……（x\n\n哎不過不得不說確實噁心x\n以後可能注重一下其它平臺的活動吧\n比如bsky）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1488,
+          "like_count": 96489,
+          "listed_count": 6,
+          "media_count": 753,
+          "tweet_count": 10015
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-18T09:15:15.000Z",
+        "description": "She/Her👗 · like manga,anime and games - connect with others...and dresses！🎉 🌏:English/中文/日本語を勉強中 計算機和攝影愛好者/喜歡旅遊、動漫畫和遊戲/變成換裝人偶了！（不是x）（HRT 2025/11/11）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122780618",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/122780618",
+                "start": 0,
+                "url": "https://t.co/yRn0ZOFPzi"
+              }
+            ]
+          }
+        },
+        "id": "1604404804440141824",
+        "location": "目前正在加急創作中/敬請期待後續更新！",
+        "name": "桜井 紗世🍥🏳️‍⚧️#Chaos;Girls",
+        "pinned_tweet_id": "2047519792673050940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047844792227491840/lhp_E9g7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 701,
+          "like_count": 13374,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 1472
+        },
+        "url": "https://t.co/yRn0ZOFPzi",
+        "username": "SakuraizumiSayo",
+        "verified": false
+      }
+    ]
+  }
+}

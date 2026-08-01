@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895772511943512064"
+      ],
+      "media_source_tweet_id": [
+        "1895772521972318638"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1896382321043149203",
+    "created_at": "2025-03-03T02:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T03:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896382321043149203"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 31,
+          "tag": "地雷系"
+        },
+        {
+          "end": 40,
+          "start": 36,
+          "tag": "cos"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "反差"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "男娘"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "金主"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1866672433547108352",
+          "start": 3,
+          "username": "rainnnluvskwi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AzCiQu3LsS",
+          "end": 81,
+          "expanded_url": "https://x.com/rainnnluvskwi/status/1895772521972318638/photo/1",
+          "media_key": "3_1895772511943512064",
+          "start": 58,
+          "url": "https://t.co/AzCiQu3LsS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896382321043149203",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895772521972318638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainnnluvskwi: ᜊ꒰๑˃͈꒵˂͈๑꒱ᜊ\n#地雷系 #cos #反差 #男娘 #爸爸活 #金主 https://t.co/AzCiQu3LsS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1895772511943512064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk8jDi1X0AAeCVB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895772511943512064"
+          ],
+          "media_source_tweet_id": [
+            "1895772521972318638"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1896382321043149203",
+        "created_at": "2025-03-03T02:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T03:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896382321043149203"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "地雷系"
+            },
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "cos"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "反差"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "男娘"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "金主"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1866672433547108352",
+              "start": 3,
+              "username": "rainnnluvskwi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzCiQu3LsS",
+              "end": 81,
+              "expanded_url": "https://x.com/rainnnluvskwi/status/1895772521972318638/photo/1",
+              "media_key": "3_1895772511943512064",
+              "start": 58,
+              "url": "https://t.co/AzCiQu3LsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896382321043149203",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895772521972318638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainnnluvskwi: ᜊ꒰๑˃͈꒵˂͈๑꒱ᜊ\n#地雷系 #cos #反差 #男娘 #爸爸活 #金主 https://t.co/AzCiQu3LsS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895772511943512064"
+          ]
+        },
+        "author_id": "1866672433547108352",
+        "conversation_id": "1895772521972318638",
+        "created_at": "2025-03-01T09:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895772521972318638"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "地雷系"
+            },
+            {
+              "end": 21,
+              "start": 17,
+              "tag": "cos"
+            },
+            {
+              "end": 25,
+              "start": 22,
+              "tag": "反差"
+            },
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "男娘"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "金主"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzCiQu3LsS",
+              "end": 62,
+              "expanded_url": "https://x.com/rainnnluvskwi/status/1895772521972318638/photo/1",
+              "media_key": "3_1895772511943512064",
+              "start": 39,
+              "url": "https://t.co/AzCiQu3LsS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895772521972318638",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ᜊ꒰๑˃͈꒵˂͈๑꒱ᜊ\n#地雷系 #cos #反差 #男娘 #爸爸活 #金主 https://t.co/AzCiQu3LsS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 1092,
+          "like_count": 84174,
+          "listed_count": 3,
+          "media_count": 492,
+          "tweet_count": 6919
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-11T02:32:58.000Z",
+        "description": "🚪50 过门解锁更多业务请私信哦w",
+        "id": "1866672433547108352",
+        "name": "束",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895770970876755971/e2yStE9a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "rainnnluvskwi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1799824892965392701",
+    "created_at": "2024-06-09T15:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T16:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799825113795510277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712099097728241664",
+          "start": 0,
+          "username": "RiAkiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799825113795510277",
+    "in_reply_to_user_id": "1712099097728241664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799824892965392701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiAkiba 辛苦了 宝宝🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1799824892965392701",
+        "created_at": "2024-06-09T15:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T16:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799825113795510277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712099097728241664",
+              "start": 0,
+              "username": "RiAkiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799825113795510277",
+        "in_reply_to_user_id": "1712099097728241664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799824892965392701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiAkiba 辛苦了 宝宝🥺"
+      },
+      {
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1799824892965392701",
+        "created_at": "2024-06-09T15:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T16:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799824892965392701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799824892965392701",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好累\n我好想一個人在家\n我不想要社交\n我討厭在現生跟人交流太多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 955,
+          "like_count": 80115,
+          "listed_count": 1,
+          "tweet_count": 4678
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "無🚪 不開放順男私訊 其他無限制 自傷｜OD ｜負面 私信查成分回fo",
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1757472407663915244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794188919497732096/e4Wl2ZuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 54,
+          "like_count": 830,
+          "listed_count": 0,
+          "tweet_count": 935
+        },
+        "username": "RiAkiba",
+        "verified": false
+      }
+    ]
+  }
+}

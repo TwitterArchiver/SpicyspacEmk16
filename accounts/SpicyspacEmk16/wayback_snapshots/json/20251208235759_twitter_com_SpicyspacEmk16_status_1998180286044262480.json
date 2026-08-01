@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1997983670209278073",
+    "created_at": "2025-12-08T23:57:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T00:57:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998180286044262480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1851327101946953728",
+          "start": 0,
+          "username": "060105o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998180286044262480",
+    "in_reply_to_user_id": "1851327101946953728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998144838299164991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@060105o 呜呜呜明白了(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1997983670209278073",
+        "created_at": "2025-12-08T23:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998180286044262480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1851327101946953728",
+              "start": 0,
+              "username": "060105o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998180286044262480",
+        "in_reply_to_user_id": "1851327101946953728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998144838299164991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@060105o 呜呜呜明白了(&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851327101946953728",
+        "conversation_id": "1997983670209278073",
+        "created_at": "2025-12-08T21:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T22:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998144838299164991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998144838299164991",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997983670209278073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 宝记得保护好自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 1345,
+          "like_count": 90146,
+          "listed_count": 4,
+          "media_count": 692,
+          "tweet_count": 8588
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-29T18:16:07.000Z",
+        "description": "哇咔/双相情感障碍/自残/ 双性恋/生活推/疾病生活日记录/治愈/满怀希望就会所向披靡/希望可以和更多的人成为朋友 一起聊天 /(。•ω•。)ノ♡/树洞博主/即使你没有米但是你真诚有趣有分享生活的欲望你依然可以和我成为朋友/成为你的树洞 倾诉心中压力 为你而活 门槛🚪十块钱谢谢宝子们可怜我这路边一条",
+        "id": "1851327101946953728",
+        "location": "门槛10r  520米可打视频打电话",
+        "name": "哇咔",
+        "pinned_tweet_id": "1974600117425758366",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855710973828702208/HGKYxt_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 457,
+          "like_count": 6718,
+          "listed_count": 3,
+          "media_count": 1632,
+          "tweet_count": 8595
+        },
+        "username": "060105o",
+        "verified": false
+      }
+    ]
+  }
+}

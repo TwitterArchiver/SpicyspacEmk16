@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1913516174706692436",
+    "created_at": "2025-04-19T23:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T00:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913742744205561936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1594991089924001792",
+          "start": 0,
+          "username": "ruih91841605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913742744205561936",
+    "in_reply_to_user_id": "1594991089924001792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913621150615110091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruih91841605 抱抱🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-19T23:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T00:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913742744205561936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1594991089924001792",
+              "start": 0,
+              "username": "ruih91841605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913742744205561936",
+        "in_reply_to_user_id": "1594991089924001792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913621150615110091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruih91841605 抱抱🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594991089924001792",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-19T15:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T16:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913621150615110091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913621150615110091",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913516174706692436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱，节哀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 1087,
+          "like_count": 84227,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 7072
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-22T09:48:11.000Z",
+        "description": "初次见面，我是ruih 爱吃麦当劳\n我患有抑郁症和焦虑症，我正在努力克服它们\n如果我变得奇怪，请通知我，我会尽力改正它",
+        "id": "1594991089924001792",
+        "location": "沙雕人民共和国",
+        "name": "ruih",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866534517135249413/3MaW3sqF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 234,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 408
+        },
+        "username": "ruih91841605",
+        "verified": false
+      }
+    ]
+  }
+}

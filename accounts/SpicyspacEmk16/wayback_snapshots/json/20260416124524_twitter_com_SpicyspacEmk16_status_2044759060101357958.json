@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043955462039908523",
+    "created_at": "2026-04-16T12:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044759060101357958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728097655669370880",
+          "start": 0,
+          "username": "meako214848"
+        },
+        {
+          "end": 25,
+          "id": "1974865605204586498",
+          "start": 13,
+          "username": "Krktmk_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044759060101357958",
+    "in_reply_to_user_id": "1728097655669370880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044489901484478796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meako214848 @Krktmk_8964 是单方右美啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043955462039908523",
+        "created_at": "2026-04-16T12:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044759060101357958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728097655669370880",
+              "start": 0,
+              "username": "meako214848"
+            },
+            {
+              "end": 25,
+              "id": "1974865605204586498",
+              "start": 13,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044759060101357958",
+        "in_reply_to_user_id": "1728097655669370880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044489901484478796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meako214848 @Krktmk_8964 是单方右美啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728097655669370880",
+        "conversation_id": "2043955462039908523",
+        "created_at": "2026-04-15T18:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T19:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044489901484478796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 28,
+              "id": "1974865605204586498",
+              "start": 16,
+              "username": "Krktmk_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044489901484478796",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044006835150283022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @Krktmk_8964 medicon不是白兔吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3086,
+          "following_count": 1442,
+          "like_count": 93851,
+          "listed_count": 5,
+          "media_count": 774,
+          "tweet_count": 9436
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-24T17:06:14.000Z",
+        "description": "18 he/him homosexual\n in China\nsingle",
+        "id": "1728097655669370880",
+        "location": "天国",
+        "name": "mikanagi meako",
+        "pinned_tweet_id": "2026228533295747339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034346555894116352/AtaQzK0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 94,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 346
+        },
+        "username": "meako214848",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "我是天照大神⛩",
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2043404058648826188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 2308,
+          "like_count": 36772,
+          "listed_count": 3,
+          "media_count": 317,
+          "tweet_count": 3763
+        },
+        "username": "Krktmk_8964",
+        "verified": false
+      }
+    ]
+  }
+}

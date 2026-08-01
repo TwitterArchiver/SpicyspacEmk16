@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1913516174706692436",
+    "created_at": "2025-04-19T11:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T12:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913556064492245164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559108137461829632",
+          "start": 0,
+          "username": "yyixpyds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913556064492245164",
+    "in_reply_to_user_id": "1559108137461829632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913553879717023936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyixpyds 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-19T11:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913556064492245164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559108137461829632",
+              "start": 0,
+              "username": "yyixpyds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913556064492245164",
+        "in_reply_to_user_id": "1559108137461829632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913553879717023936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyixpyds 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559108137461829632",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-19T11:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T12:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913553879717023936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913553879717023936",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913516174706692436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2416,
+          "following_count": 1087,
+          "like_count": 84198,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 7042
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-15T09:22:11.000Z",
+        "description": "人畜無害/P丸様。💛一伊那尔栖•天音かなた💗カグラナナ💙/HIMAHINA/\n偏⬇️/双相/社焦😵‍💫/极🚫端     \n                                「大FW😭」\n逃生仓@yphlyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 103,
+                "username": "yphlyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hololive.hololivepro.com/talents",
+                "end": 23,
+                "expanded_url": "https://hololive.hololivepro.com/talents",
+                "start": 0,
+                "url": "https://t.co/guEr1aaiAy"
+              }
+            ]
+          }
+        },
+        "id": "1559108137461829632",
+        "location": "https://pmarusama.com/",
+        "name": "いち夏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732421670416379904/SEv61-Un_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825,
+          "following_count": 1115,
+          "like_count": 91614,
+          "listed_count": 11,
+          "media_count": 359,
+          "tweet_count": 2058
+        },
+        "url": "https://t.co/guEr1aaiAy",
+        "username": "yyixpyds",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069527314887786496",
+        "3_2069527314875154432"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069527320810168492",
+    "created_at": "2026-06-23T21:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069527320810168492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A9D5aUsQCL",
+          "end": 77,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2069527320810168492/photo/1",
+          "media_key": "3_2069527314887786496",
+          "start": 54,
+          "url": "https://t.co/A9D5aUsQCL"
+        },
+        {
+          "display_url": "pic.x.com/A9D5aUsQCL",
+          "end": 77,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2069527320810168492/photo/1",
+          "media_key": "3_2069527314875154432",
+          "start": 54,
+          "url": "https://t.co/A9D5aUsQCL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069527320810168492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已严肃送鬼迷去机场\n\n中途右美痛包失而复得我真的无语了\n不过这种典的不行的诡异痛包应该确实没人会想顺手牵羊 https://t.co/A9D5aUsQCL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069527314887786496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwIMjawAAOvBC.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069527314875154432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLhwIMgaAAA3FoZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069527314887786496",
+            "3_2069527314875154432"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069527320810168492",
+        "created_at": "2026-06-23T21:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069527320810168492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9D5aUsQCL",
+              "end": 77,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2069527320810168492/photo/1",
+              "media_key": "3_2069527314887786496",
+              "start": 54,
+              "url": "https://t.co/A9D5aUsQCL"
+            },
+            {
+              "display_url": "pic.x.com/A9D5aUsQCL",
+              "end": 77,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2069527320810168492/photo/1",
+              "media_key": "3_2069527314875154432",
+              "start": 54,
+              "url": "https://t.co/A9D5aUsQCL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069527320810168492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃送鬼迷去机场\n\n中途右美痛包失而复得我真的无语了\n不过这种典的不行的诡异痛包应该确实没人会想顺手牵羊 https://t.co/A9D5aUsQCL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3318,
+          "following_count": 1567,
+          "like_count": 97700,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10312
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

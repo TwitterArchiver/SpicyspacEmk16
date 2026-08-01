@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1856170178385719306",
+    "created_at": "2024-11-12T03:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T04:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856170178385719306"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1856170178385719306",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前去日本蕾蕾子家玩的时候把我笑死\n她问我状态怎么样 我说还不错\n结果她来了一句\n没关系状态不好不要硬撑 我家有デパス 万一你需要随时给你\n可惜要分别了哭死\n她真的人超级好还超级可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1856170178385719306",
+        "created_at": "2024-11-12T03:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T04:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856170178385719306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856170178385719306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前去日本蕾蕾子家玩的时候把我笑死\n她问我状态怎么样 我说还不错\n结果她来了一句\n没关系状态不好不要硬撑 我家有デパス 万一你需要随时给你\n可惜要分别了哭死\n她真的人超级好还超级可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2362,
+          "following_count": 1117,
+          "like_count": 87432,
+          "listed_count": 2,
+          "tweet_count": 6528
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

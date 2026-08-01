@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1917552606077149297",
+    "created_at": "2025-04-30T20:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T21:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917678527094350207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734798359423332352",
+          "start": 0,
+          "username": "GuangjinWa93238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917678527094350207",
+    "in_reply_to_user_id": "1734798359423332352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917553175009320974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuangjinWa93238 好看吧 你思姐的审美不会差的(๑- ༥ -๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1917552606077149297",
+        "created_at": "2025-04-30T20:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T21:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917678527094350207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734798359423332352",
+              "start": 0,
+              "username": "GuangjinWa93238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917678527094350207",
+        "in_reply_to_user_id": "1734798359423332352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917553175009320974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuangjinWa93238 好看吧 你思姐的审美不会差的(๑- ༥ -๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734798359423332352",
+        "conversation_id": "1917552606077149297",
+        "created_at": "2025-04-30T12:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T13:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917553175009320974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917553175009320974",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917552606077149297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 挺好看的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2510,
+          "following_count": 1136,
+          "like_count": 84284,
+          "listed_count": 3,
+          "media_count": 512,
+          "tweet_count": 7220
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-13T04:52:38.000Z",
+        "description": "离忧|我玩王者荣耀，王者荣耀国际服，碧蓝档案，重返未来1999，nikke国际服，鸣潮。可以找我一起玩游戏，因为我是游戏狂😆",
+        "id": "1734798359423332352",
+        "name": "春上春树笔下的狗",
+        "pinned_tweet_id": "1909278424394588256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908059168168382464/ugmJC-2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 1873,
+          "like_count": 2195,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 858
+        },
+        "username": "GuangjinWa93238",
+        "verified": false
+      }
+    ]
+  }
+}

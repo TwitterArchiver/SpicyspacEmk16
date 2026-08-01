@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2064576558476808397",
+    "created_at": "2026-06-22T10:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T11:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068999862604247335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1733159160270012416",
+          "start": 0,
+          "username": "XQLPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068999862604247335",
+    "in_reply_to_user_id": "1733159160270012416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068642868399649134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XQLPY 喔去笑不活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_2068642865316773888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVLudJaQAADSL6.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2064576558476808397",
+        "created_at": "2026-06-22T10:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T11:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068999862604247335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1733159160270012416",
+              "start": 0,
+              "username": "XQLPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068999862604247335",
+        "in_reply_to_user_id": "1733159160270012416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068642868399649134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XQLPY 喔去笑不活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068642865316773888"
+          ]
+        },
+        "author_id": "1733159160270012416",
+        "conversation_id": "2064576558476808397",
+        "created_at": "2026-06-21T10:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068642868399649134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbRVxiJwZ4",
+              "end": 47,
+              "expanded_url": "https://x.com/XQLPY/status/2068642868399649134/photo/1",
+              "media_key": "3_2068642865316773888",
+              "start": 24,
+              "url": "https://t.co/WbRVxiJwZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068642868399649134",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068550792278388808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 等哪天找你签名 https://t.co/WbRVxiJwZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1554,
+          "like_count": 97616,
+          "listed_count": 6,
+          "media_count": 779,
+          "tweet_count": 10294
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T16:19:03.000Z",
+        "description": "",
+        "id": "1733159160270012416",
+        "name": "鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767885064338341888/1Ox15I52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "XQLPY",
+        "verified": false
+      }
+    ]
+  }
+}

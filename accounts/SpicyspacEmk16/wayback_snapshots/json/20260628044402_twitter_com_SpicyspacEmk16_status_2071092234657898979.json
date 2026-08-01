@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2071053154284974111",
+    "created_at": "2026-06-28T04:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T05:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071092234657898979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1228406233738072064",
+          "start": 0,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071092234657898979",
+    "in_reply_to_user_id": "1228406233738072064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071053154284974111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AR10545614 上班笑不活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071053056926773248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3byEkbcAAzD83.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071053056964440064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3byEtaMAAjRTF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071053151499943936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3b3k4bgAA3i0q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2071053154284974111",
+        "created_at": "2026-06-28T04:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T05:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071092234657898979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1228406233738072064",
+              "start": 0,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071092234657898979",
+        "in_reply_to_user_id": "1228406233738072064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071053154284974111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AR10545614 上班笑不活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071053056926773248",
+            "3_2071053056964440064",
+            "3_2071053151499943936"
+          ]
+        },
+        "author_id": "1228406233738072064",
+        "conversation_id": "2071053154284974111",
+        "created_at": "2026-06-28T02:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071053154284974111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BZHtohnTHn",
+              "end": 35,
+              "expanded_url": "https://x.com/AR10545614/status/2071053154284974111/photo/1",
+              "media_key": "3_2071053056926773248",
+              "start": 12,
+              "url": "https://t.co/BZHtohnTHn"
+            },
+            {
+              "display_url": "pic.x.com/BZHtohnTHn",
+              "end": 35,
+              "expanded_url": "https://x.com/AR10545614/status/2071053154284974111/photo/1",
+              "media_key": "3_2071053056964440064",
+              "start": 12,
+              "url": "https://t.co/BZHtohnTHn"
+            },
+            {
+              "display_url": "pic.x.com/BZHtohnTHn",
+              "end": 35,
+              "expanded_url": "https://x.com/AR10545614/status/2071053154284974111/photo/1",
+              "media_key": "3_2071053151499943936",
+              "start": 12,
+              "url": "https://t.co/BZHtohnTHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071053154284974111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十分真诚的  上一个班 https://t.co/BZHtohnTHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1571,
+          "like_count": 97687,
+          "listed_count": 6,
+          "media_count": 787,
+          "tweet_count": 10375
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /线下限广州/病娇/不会写代码/钕铜贴贴/严重精神病注意！/主要发猫猫/网络天使/🚪52",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "カッヤ𐙚⋆°.🏳️‍⚧️ ˖˚.",
+        "pinned_tweet_id": "2059016660129022298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 975,
+          "like_count": 321,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 812
+        },
+        "url": "",
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

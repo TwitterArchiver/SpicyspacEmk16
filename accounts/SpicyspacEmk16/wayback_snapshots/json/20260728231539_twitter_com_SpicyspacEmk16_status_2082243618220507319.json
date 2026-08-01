@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2082140656747573745",
+    "created_at": "2026-07-28T23:15:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:15:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082243618220507319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1534344658033180672",
+          "start": 0,
+          "username": "_tom0e_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082243618220507319",
+    "in_reply_to_user_id": "1534344658033180672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082241505113112887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@_tom0e_x なるほど！やばり恋の話しが...あたしもうこんな状態感じたことあるな...分かるわ...🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2082140656747573745",
+        "created_at": "2026-07-28T23:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082243618220507319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1534344658033180672",
+              "start": 0,
+              "username": "_tom0e_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082243618220507319",
+        "in_reply_to_user_id": "1534344658033180672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082241505113112887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@_tom0e_x なるほど！やばり恋の話しが...あたしもうこんな状態感じたことあるな...分かるわ...🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534344658033180672",
+        "conversation_id": "2082140656747573745",
+        "created_at": "2026-07-28T23:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082241505113112887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082241505113112887",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082240968150102491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@SpicyspacEmk16 最近このとてもとてもハンサムな男性と話し始めました &gt;.&lt; 彼は私のタイプです!!彼が私のメッセージに返事をするのを待っていましたが、返事がありました"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢(教えないよ～👅ベヘー～)性同一性障害mtf 日本留子 心理学专业在读 为了帮助大家击败心理疾病🤜👿(抑郁精分双相等)会加油! (可惜以后这里只能发点碎碎念跟生活推了呜呜🥺)無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💙#深蓝可是小遥の推し色～",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1565,
+          "like_count": 98545,
+          "listed_count": 6,
+          "media_count": 810,
+          "tweet_count": 10544
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-08T01:20:56.000Z",
+        "description": "私はサラ/ともえ黒人と日本人のハーフです♥︎\nNonbinary ✨ 統合失調効果障害| SH | BPD | 🚬✨EN / JP / CN / A 🟦 地雷",
+        "id": "1534344658033180672",
+        "location": "Somewhere In Nyc",
+        "name": "Sara 🖤/ともえ🩵",
+        "pinned_tweet_id": "2065990778090926196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076612225880506368/0wrap7kI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 158,
+          "like_count": 54657,
+          "listed_count": 1,
+          "media_count": 407,
+          "tweet_count": 2826
+        },
+        "url": "",
+        "username": "_tom0e_x",
+        "verified": false
+      }
+    ]
+  }
+}

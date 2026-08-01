@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2040714328211681552",
+    "created_at": "2026-04-05T12:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040776105330942303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1243727283178704897",
+          "start": 0,
+          "username": "Bochi_0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040776105330942303",
+    "in_reply_to_user_id": "1243727283178704897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040760838261284923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochi_0721 我感觉挺便宜的哎 主要是东京物价高 相对来说还是便宜的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2040714328211681552",
+        "created_at": "2026-04-05T12:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040776105330942303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1243727283178704897",
+              "start": 0,
+              "username": "Bochi_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040776105330942303",
+        "in_reply_to_user_id": "1243727283178704897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040760838261284923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochi_0721 我感觉挺便宜的哎 主要是东京物价高 相对来说还是便宜的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243727283178704897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2040714328211681552",
+        "created_at": "2026-04-05T11:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040760838261284923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040760838261284923",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040714328211681552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 这高达电影票都1500日元了（约合人民币65元）比中国内地看电影都要贵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994,
+          "following_count": 1400,
+          "like_count": 92845,
+          "listed_count": 5,
+          "media_count": 755,
+          "tweet_count": 9175
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-28T02:31:19.000Z",
+        "description": "大家好，这里是小波奇一枚!生日2000/06/26。不键政/友跨/ASD（阿斯伯格）/中文日本語English/游戏：沃肥派派BA1999方舟。音游：maimai/Phigros/Arcaea/Chunithm/Muse Dash/PJSK。/P社战犯（钢丝&群星）。",
+        "id": "1243727283178704897",
+        "location": "Central Region, Singapore",
+        "name": "🎸🍥小波奇酱（ぼちちゃん）🍥🎸",
+        "pinned_tweet_id": "2040606820188754004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878685948105617408/9FyE237g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 768,
+          "like_count": 3363,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 4648
+        },
+        "username": "Bochi_0721",
+        "verified": false
+      }
+    ]
+  }
+}

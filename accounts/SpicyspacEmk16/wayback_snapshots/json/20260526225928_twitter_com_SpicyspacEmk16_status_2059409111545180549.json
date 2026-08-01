@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rakuten (楽天)",
+          "id": "1038145750419435520",
+          "name": "Rakuten"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "2058820405239128537",
+    "created_at": "2026-05-26T22:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T23:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059409111545180549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "130671401",
+          "start": 0,
+          "username": "RakutenJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059409111545180549",
+    "in_reply_to_user_id": "130671401",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058820405239128537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RakutenJP お前らのオペレーターはロボットだろ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2058730553726386176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJIUh-8awAAagNF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2058820405239128537",
+        "created_at": "2026-05-26T22:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T23:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059409111545180549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "130671401",
+              "start": 0,
+              "username": "RakutenJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059409111545180549",
+        "in_reply_to_user_id": "130671401",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058820405239128537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RakutenJP お前らのオペレーターはロボットだろ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058730553726386176"
+          ]
+        },
+        "author_id": "130671401",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent focused on selling multiple brands such as supermarkets, stores, resellers, delivery apps",
+              "id": "1557697218248773632",
+              "name": "Retail Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rakuma",
+              "id": "1156668128731865088",
+              "name": "Rakuma"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rakuten (楽天)",
+              "id": "1038145750419435520",
+              "name": "Rakuten"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2058820405239128537",
+        "created_at": "2026-05-25T08:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T09:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058820405239128537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "タイムSALE、割引クーポン、ポイントGETなどお買い物マラソンではお得な企画が満載！買えば買うほどポイントアップ！",
+              "display_url": "r10.to/hPzYuM",
+              "end": 132,
+              "expanded_url": "https://r10.to/hPzYuM",
+              "start": 109,
+              "status": 200,
+              "title": "【楽天市場】お買い物マラソン",
+              "unwound_url": "https://event.rakuten.co.jp/campaign/point-up/marathon/?scid=we_ich_tw_p20260525_1",
+              "url": "https://t.co/sIxgcgzE65"
+            },
+            {
+              "display_url": "pic.x.com/QD28INVPk5",
+              "end": 156,
+              "expanded_url": "https://x.com/RakutenJP/status/2058820405239128537/photo/1",
+              "media_key": "3_2058730553726386176",
+              "start": 133,
+              "url": "https://t.co/QD28INVPk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058820405239128537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 31782,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "✨🏃‍♂️お買い物マラソン🏃‍♀️✨\n\nポイント最大47倍🥳🎉\nショップ買いまわり最大+10倍💪🛍️\nラクマ購入で+1倍もお見逃しなく！😆✨\n\n最大2,000円割引クーポンも配布中❣️\n5/27(水)01:59まで⏰ https://t.co/sIxgcgzE65 https://t.co/QD28INVPk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3179,
+          "following_count": 1518,
+          "like_count": 97174,
+          "listed_count": 6,
+          "media_count": 761,
+          "tweet_count": 10136
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-07T23:56:08.000Z",
+        "description": "楽天市場の公式アカウントです😆セール情報、ユニークな商品や、楽天のいろいろなサービスをご紹介しています❣️\n※お問合せは https://t.co/wfVzj29FF9 までお願いいたします。本アカウントにて個別のお返事はできませんので、あらかじめご了承ください。\nShopping is Entertainment!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "r10.to/hl5bd1",
+                "end": 84,
+                "expanded_url": "http://r10.to/hl5bd1",
+                "start": 61,
+                "url": "https://t.co/wfVzj29FF9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rakuten.co.jp",
+                "end": 23,
+                "expanded_url": "http://rakuten.co.jp",
+                "start": 0,
+                "url": "https://t.co/tAOnL69h3G"
+              }
+            ]
+          }
+        },
+        "id": "130671401",
+        "location": "Tokyo, Japan",
+        "name": "楽天市場",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1046580603078864896/siehi3PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289682,
+          "following_count": 46840,
+          "like_count": 8714,
+          "listed_count": 4383,
+          "media_count": 762936,
+          "tweet_count": 801689
+        },
+        "url": "https://t.co/tAOnL69h3G",
+        "username": "RakutenJP",
+        "verified": true
+      }
+    ]
+  }
+}

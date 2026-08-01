@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057103273879077324",
+    "created_at": "2026-05-20T22:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T23:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057230982835831215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1928484105794281472",
+          "start": 0,
+          "username": "585_nomi"
+        },
+        {
+          "end": 22,
+          "id": "1548480419217018880",
+          "start": 10,
+          "username": "RiceLittle2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057230982835831215",
+    "in_reply_to_user_id": "1928484105794281472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057103273879077324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@585_nomi @RiceLittle2 举报蛆和马斯克都活全冢了😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057103271391830016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIxMhr2aoAAd-2d.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057103273879077324",
+        "created_at": "2026-05-20T22:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T23:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057230982835831215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1928484105794281472",
+              "start": 0,
+              "username": "585_nomi"
+            },
+            {
+              "end": 22,
+              "id": "1548480419217018880",
+              "start": 10,
+              "username": "RiceLittle2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057230982835831215",
+        "in_reply_to_user_id": "1928484105794281472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057103273879077324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@585_nomi @RiceLittle2 举报蛆和马斯克都活全冢了😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057103271391830016"
+          ]
+        },
+        "author_id": "1928484105794281472",
+        "conversation_id": "2057103273879077324",
+        "created_at": "2026-05-20T14:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057103273879077324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1548480419217018880",
+              "start": 12,
+              "username": "RiceLittle2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nGT10qVOzU",
+              "end": 48,
+              "expanded_url": "https://x.com/585_nomi/status/2057103273879077324/photo/1",
+              "media_key": "3_2057103271391830016",
+              "start": 25,
+              "url": "https://t.co/nGT10qVOzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057103273879077324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此号将暂时停用，请先关注@RiceLittle2 https://t.co/nGT10qVOzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3166,
+          "following_count": 1477,
+          "like_count": 96400,
+          "listed_count": 6,
+          "media_count": 747,
+          "tweet_count": 9935
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-30T16:10:23.000Z",
+        "description": "请称呼我为糯米。\n如果尖锐的批评完全消失，温和的批评将会变得刺耳。 如果温和的批评也不被允许，沉默将被认为居心叵测。 如果沉默也不再允许，赞扬不够卖力将是一种罪行。 如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。",
+        "id": "1928484105794281472",
+        "name": "SaModesty",
+        "pinned_tweet_id": "2053337134007017871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056515780955758592/sXF7mgbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 8,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 266
+        },
+        "username": "585_nomi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-17T01:31:30.000Z",
+        "description": "@585_nomi 的小号，如果您看见我在用这个号活动，那就是我大号被封控了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "585_nomi"
+              }
+            ]
+          }
+        },
+        "id": "1548480419217018880",
+        "name": "Nomination",
+        "pinned_tweet_id": "2057102492547400128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057100471417073664/J9I6Wvnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "RiceLittle2",
+        "verified": false
+      }
+    ]
+  }
+}

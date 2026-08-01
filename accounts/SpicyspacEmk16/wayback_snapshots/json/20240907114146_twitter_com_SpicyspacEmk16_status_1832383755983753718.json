@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1832383755983753718",
+    "created_at": "2024-09-07T11:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T12:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832383755983753718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ringeye000/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/ringeye000/status/1832382899087405134",
+          "start": 25,
+          "url": "https://t.co/WinvfNosuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832383755983753718",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832382899087405134",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "话说开了这个账号的话岂不是现在的账号变成小号了嘛 https://t.co/WinvfNosuu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1832383755983753718",
+        "created_at": "2024-09-07T11:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T12:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832383755983753718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ringeye000/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/ringeye000/status/1832382899087405134",
+              "start": 25,
+              "url": "https://t.co/WinvfNosuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832383755983753718",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832382899087405134",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "话说开了这个账号的话岂不是现在的账号变成小号了嘛 https://t.co/WinvfNosuu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773758225890082816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1832382899087405134",
+        "created_at": "2024-09-07T11:38:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T12:38:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832382899087405134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "新人Vtuber"
+            },
+            {
+              "end": 114,
+              "start": 104,
+              "tag": "Vtuber準備中"
+            },
+            {
+              "end": 131,
+              "start": 115,
+              "tag": "Vtuberだって拡散されたい"
+            },
+            {
+              "end": 139,
+              "start": 132,
+              "tag": "vtuber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832382899087405134",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你你你！那邊的你！\n你就是地球人嘛！？\n有沒有興趣和我成為朋友？\n蛤！？聲音很難聽所以不要？！\n好過分！我可是外星生物哦！怎麼樣？有興趣了吧？\n哎哎？那也不要！？\nぴえん🥺求你了嘛——\n\n#新人Vtuber #Vtuber準備中 #Vtuberだって拡散されたい #vtuber"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 1038,
+          "like_count": 85850,
+          "listed_count": 1,
+          "tweet_count": 5906
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-29T17:05:01.000Z",
+        "description": "在十六夜的晚上降臨 來自遙遠的宇宙 为了和這個星球上的你們成為朋友而來！？ 抽象派的跨性別外星生命體十六夜遙💙",
+        "id": "1773758225890082816",
+        "location": "来自遙遠的宇宙",
+        "name": "十六夜遙💙新人準備中",
+        "pinned_tweet_id": "1817845813231730942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179109974376448/TSeVKowf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 181,
+          "listed_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ringeye000",
+        "verified": false
+      }
+    ]
+  }
+}

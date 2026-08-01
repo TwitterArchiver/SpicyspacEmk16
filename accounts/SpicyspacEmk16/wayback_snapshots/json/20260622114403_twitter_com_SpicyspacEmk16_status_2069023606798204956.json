@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2068960821892481239",
+    "created_at": "2026-06-22T11:44:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T12:44:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069023606798204956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1942213637902348289",
+          "start": 0,
+          "username": "orewahara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069023606798204956",
+    "in_reply_to_user_id": "1942213637902348289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068960821892481239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orewahara 感觉p2好像池袋还是新宿三丁目的副都心线入口）莫名的即视感"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2068960788644311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZs4B1bMAAr61j.jpg",
+        "width": 768
+      },
+      {
+        "height": 768,
+        "media_key": "3_2068960788652728321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZs4B3boAECWD-.jpg",
+        "width": 1024
+      },
+      {
+        "height": 768,
+        "media_key": "3_2068960788644343808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZs4B1bsAAlDQQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2068960821892481239",
+        "created_at": "2026-06-22T11:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T12:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069023606798204956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1942213637902348289",
+              "start": 0,
+              "username": "orewahara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069023606798204956",
+        "in_reply_to_user_id": "1942213637902348289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068960821892481239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orewahara 感觉p2好像池袋还是新宿三丁目的副都心线入口）莫名的即视感"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068960788644311040",
+            "3_2068960788652728321",
+            "3_2068960788644343808"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "2068960821892481239",
+        "created_at": "2026-06-22T07:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068960821892481239"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GxD5IAOqD6",
+              "end": 36,
+              "expanded_url": "https://x.com/orewahara/status/2068960821892481239/photo/1",
+              "media_key": "3_2068960788644311040",
+              "start": 13,
+              "url": "https://t.co/GxD5IAOqD6"
+            },
+            {
+              "display_url": "pic.x.com/GxD5IAOqD6",
+              "end": 36,
+              "expanded_url": "https://x.com/orewahara/status/2068960821892481239/photo/1",
+              "media_key": "3_2068960788652728321",
+              "start": 13,
+              "url": "https://t.co/GxD5IAOqD6"
+            },
+            {
+              "display_url": "pic.x.com/GxD5IAOqD6",
+              "end": 36,
+              "expanded_url": "https://x.com/orewahara/status/2068960821892481239/photo/1",
+              "media_key": "3_2068960788644343808",
+              "start": 13,
+              "url": "https://t.co/GxD5IAOqD6"
+            },
+            {
+              "display_url": "x.com/chicatreboll/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/chicatreboll/status/2068406374485111017",
+              "start": 37,
+              "url": "https://t.co/MOvMlzzF5p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068960821892481239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3649,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068406374485111017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么都在发，我也跟风一下 https://t.co/GxD5IAOqD6 https://t.co/MOvMlzzF5p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3245,
+          "following_count": 1554,
+          "like_count": 97641,
+          "listed_count": 6,
+          "media_count": 779,
+          "tweet_count": 10297
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "🚪2778",
+        "id": "1942213637902348289",
+        "location": "你妈坟头",
+        "name": "看你妈啊",
+        "pinned_tweet_id": "2064664620837790066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068857938123599872/dJhahZgk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 103,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "orewahara",
+        "verified": false
+      }
+    ]
+  }
+}

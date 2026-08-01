@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2020260799793824130",
+    "created_at": "2026-02-07T22:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T23:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020267315032674379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3186322153",
+          "start": 0,
+          "username": "aa123429181tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020267315032674379",
+    "in_reply_to_user_id": "3186322153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020260799793824130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa123429181tw 第一眼真的以为是武斗传的mf 但就是怎么都没办法从印象中搜索到关键词wwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1880,
+        "media_key": "3_2020260795825942528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlofXDacAA92sK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020260795138084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlofUfakAA5Y5V.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020260797168119808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlofcDacAAE_du.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020260795381436416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAlofVZb0AA0D3O.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2020260799793824130",
+        "created_at": "2026-02-07T22:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020267315032674379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3186322153",
+              "start": 0,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020267315032674379",
+        "in_reply_to_user_id": "3186322153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020260799793824130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa123429181tw 第一眼真的以为是武斗传的mf 但就是怎么都没办法从印象中搜索到关键词wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020260795825942528",
+            "3_2020260795138084864",
+            "3_2020260797168119808",
+            "3_2020260795381436416"
+          ]
+        },
+        "author_id": "3186322153",
+        "conversation_id": "2020260799793824130",
+        "created_at": "2026-02-07T22:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T23:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020260799793824130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiCc1mDL4I",
+              "end": 129,
+              "expanded_url": "https://x.com/aa123429181tw/status/2020260799793824130/photo/1",
+              "media_key": "3_2020260795825942528",
+              "start": 106,
+              "url": "https://t.co/hiCc1mDL4I"
+            },
+            {
+              "display_url": "pic.x.com/hiCc1mDL4I",
+              "end": 129,
+              "expanded_url": "https://x.com/aa123429181tw/status/2020260799793824130/photo/1",
+              "media_key": "3_2020260795138084864",
+              "start": 106,
+              "url": "https://t.co/hiCc1mDL4I"
+            },
+            {
+              "display_url": "pic.x.com/hiCc1mDL4I",
+              "end": 129,
+              "expanded_url": "https://x.com/aa123429181tw/status/2020260799793824130/photo/1",
+              "media_key": "3_2020260797168119808",
+              "start": 106,
+              "url": "https://t.co/hiCc1mDL4I"
+            },
+            {
+              "display_url": "pic.x.com/hiCc1mDL4I",
+              "end": 129,
+              "expanded_url": "https://x.com/aa123429181tw/status/2020260799793824130/photo/1",
+              "media_key": "3_2020260795381436416",
+              "start": 106,
+              "url": "https://t.co/hiCc1mDL4I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020260799793824130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "[近況]\n\n新俄羅斯代表的MF機動鬥士(X)\n好啦,真的長得很像嘛~ &gt;w&lt;\n\n族起來算是順暢,就里歐嘛~\n不過因為造型粗壯的關係蠻穩定的,武裝就沒什麼了,話說肩膀有肩炮,只是沒什麼存在感而已... https://t.co/hiCc1mDL4I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2976,
+          "following_count": 1398,
+          "like_count": 91663,
+          "listed_count": 5,
+          "media_count": 735,
+          "tweet_count": 8983
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲.... (・ω・)\n其實我會的也不多啦~\n\n我是男的,只是喜歡穿女裝而已,而且沒有很漂亮...\n還會放奇怪的照片,我都會設置敏感注意,介意的請別點開 (つд⊂)\n\n話題都OK~\n另外,我的畫技很差所以不接任何委託喔~ (´・ω・`)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aa1234…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aa123429181.bsky.social",
+                "start": 0,
+                "url": "https://t.co/qvvv3yHGpH"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945109648396443649/4DYPWWg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 1687,
+          "like_count": 171213,
+          "listed_count": 15,
+          "media_count": 3168,
+          "tweet_count": 73270
+        },
+        "url": "https://t.co/qvvv3yHGpH",
+        "username": "aa123429181tw",
+        "verified": false
+      }
+    ]
+  }
+}

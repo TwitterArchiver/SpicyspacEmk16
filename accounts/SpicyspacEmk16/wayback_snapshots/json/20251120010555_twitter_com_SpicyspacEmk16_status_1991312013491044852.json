@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1990879497982509508",
+    "created_at": "2025-11-20T01:05:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T02:05:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991312013491044852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2449544438",
+          "start": 0,
+          "username": "asfafefa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991312013491044852",
+    "in_reply_to_user_id": "2449544438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990879497982509508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@asfafefa 太可恶了这些人 她只是想cos自己喜欢的角色而已🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1990879497982509508",
+        "created_at": "2025-11-20T01:05:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T02:05:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991312013491044852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2449544438",
+              "start": 0,
+              "username": "asfafefa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991312013491044852",
+        "in_reply_to_user_id": "2449544438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990879497982509508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asfafefa 太可恶了这些人 她只是想cos自己喜欢的角色而已🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2449544438",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1990879497982509508",
+        "created_at": "2025-11-18T20:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T21:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990879497982509508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/squidkid1111/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/squidkid1111/status/1873410125182193789",
+              "start": 15,
+              "url": "https://t.co/BvH5oQXJmJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990879497982509508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 352128,
+          "like_count": 862,
+          "quote_count": 18,
+          "reply_count": 112,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873410125182193789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑coser被网暴到自杀了😰 https://t.co/BvH5oQXJmJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 1330,
+          "like_count": 88617,
+          "listed_count": 3,
+          "media_count": 665,
+          "tweet_count": 8397
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-17T11:16:54.000Z",
+        "description": "read backwards",
+        "id": "2449544438",
+        "name": "aminos covfefe",
+        "pinned_tweet_id": "1891718987328758066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897807263328616451/xX3oR68v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 2708,
+          "like_count": 85551,
+          "listed_count": 12,
+          "media_count": 75,
+          "tweet_count": 17495
+        },
+        "username": "asfafefa",
+        "verified": false
+      }
+    ]
+  }
+}

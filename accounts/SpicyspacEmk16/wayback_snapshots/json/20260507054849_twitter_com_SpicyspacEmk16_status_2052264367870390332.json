@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048014398942540029",
+    "created_at": "2026-05-07T05:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052264367870390332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1560044491121209344",
+          "start": 0,
+          "username": "majoyki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052264367870390332",
+    "in_reply_to_user_id": "1560044491121209344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052234169502302683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@majoyki 是的呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-05-07T05:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052264367870390332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1560044491121209344",
+              "start": 0,
+              "username": "majoyki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052264367870390332",
+        "in_reply_to_user_id": "1560044491121209344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052234169502302683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@majoyki 是的呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560044491121209344",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-05-07T03:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052234169502302683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052234169502302683",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 你是学这个专业的吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 1476,
+          "like_count": 95553,
+          "listed_count": 6,
+          "media_count": 805,
+          "tweet_count": 9789
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-17T23:22:56.000Z",
+        "description": "不通过私密账号的关注请求。日本語勉強中。ただ個人的雑垢のでイライラと無意味の発言が多いKIMAJOY/KIKI・｀ω´・)🦋現役蝶々の魔女、16歳16歳16歳だ(永遠に) .....",
+        "id": "1560044491121209344",
+        "location": "魔女之村第118号人偶当铺🧙キキのことを忘れないでね",
+        "name": "🦋蝶の魔女",
+        "pinned_tweet_id": "1984332628494074371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049761470750298112/a7BBafje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10113,
+          "following_count": 267,
+          "like_count": 12114,
+          "listed_count": 16,
+          "media_count": 536,
+          "tweet_count": 4532
+        },
+        "url": "",
+        "username": "majoyki",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1934182199915696395",
+    "created_at": "2025-06-16T04:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T05:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934471654245269716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "710457539121405954",
+          "start": 0,
+          "username": "boy_illu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934471654245269716",
+    "in_reply_to_user_id": "710457539121405954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934182199915696395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boy_illu ジ・O 動け！なぜ動かん？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1103,
+        "media_key": "3_1934182189056557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GteYdAWagAAo9n_.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1934182199915696395",
+        "created_at": "2025-06-16T04:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T05:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934471654245269716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "710457539121405954",
+              "start": 0,
+              "username": "boy_illu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934471654245269716",
+        "in_reply_to_user_id": "710457539121405954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934182199915696395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boy_illu ジ・O 動け！なぜ動かん？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934182189056557056"
+          ]
+        },
+        "author_id": "710457539121405954",
+        "conversation_id": "1934182199915696395",
+        "created_at": "2025-06-15T09:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T10:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934182199915696395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "軽い気持ちで描いたら反響があった絵"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJityk6Xoh",
+              "end": 42,
+              "expanded_url": "https://x.com/boy_illu/status/1934182199915696395/photo/1",
+              "media_key": "3_1934182189056557056",
+              "start": 19,
+              "url": "https://t.co/BJityk6Xoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934182199915696395",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5782,
+          "impression_count": 1805488,
+          "like_count": 80808,
+          "quote_count": 105,
+          "reply_count": 84,
+          "retweet_count": 7735
+        },
+        "reply_settings": "everyone",
+        "text": "#軽い気持ちで描いたら反響があった絵 https://t.co/BJityk6Xoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2743,
+          "following_count": 1266,
+          "like_count": 86202,
+          "listed_count": 3,
+          "media_count": 543,
+          "tweet_count": 7531
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-17T13:27:31.000Z",
+        "description": "ロボット、SF、女の子などが好きな2001年生まれのお絵描きマンです。 skeb再開しました https://t.co/wCS7qUHNne お仕事募集中！！！！！です メールアドレス mikan.11618@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@boy_illu",
+                "end": 70,
+                "expanded_url": "https://skeb.jp/@boy_illu",
+                "start": 47,
+                "url": "https://t.co/wCS7qUHNne"
+              }
+            ]
+          }
+        },
+        "id": "710457539121405954",
+        "location": "お布団",
+        "name": "三上レモン C106 日 南地区o09b",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651337267586428928/ClrXfSlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12074,
+          "following_count": 980,
+          "like_count": 110873,
+          "listed_count": 137,
+          "media_count": 595,
+          "tweet_count": 19460
+        },
+        "username": "boy_illu",
+        "verified": false
+      }
+    ]
+  }
+}

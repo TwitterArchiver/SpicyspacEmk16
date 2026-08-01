@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2062733565016805395",
+    "created_at": "2026-06-05T04:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T05:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062754865991082241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1429327078529257472",
+          "start": 0,
+          "username": "sissy_sola"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062754865991082241",
+    "in_reply_to_user_id": "1429327078529257472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062741921341292558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sissy_sola 我几乎一点钱都要没了…我真的想不到自己会沦落到这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2062733565016805395",
+        "created_at": "2026-06-05T04:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T05:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062754865991082241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1429327078529257472",
+              "start": 0,
+              "username": "sissy_sola"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062754865991082241",
+        "in_reply_to_user_id": "1429327078529257472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062741921341292558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sissy_sola 我几乎一点钱都要没了…我真的想不到自己会沦落到这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429327078529257472",
+        "conversation_id": "2062733565016805395",
+        "created_at": "2026-06-05T03:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T04:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062741921341292558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062741921341292558",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062733565016805395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 咋了这是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3206,
+          "following_count": 1533,
+          "like_count": 97368,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 10200
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-22T06:18:37.000Z",
+        "description": "坐标027，看男娘和小姐姐居多",
+        "id": "1429327078529257472",
+        "name": "sola",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1435132103776083971/_Pf2vgy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 1882,
+          "like_count": 105,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 160
+        },
+        "username": "sissy_sola",
+        "verified": false
+      }
+    ]
+  }
+}

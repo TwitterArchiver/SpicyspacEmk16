@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1811422996491567578",
+    "created_at": "2024-07-12T01:15:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-12T02:15:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1811570111675011392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798982562494414848",
+          "start": 0,
+          "username": "Nokami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811570111675011392",
+    "in_reply_to_user_id": "1798982562494414848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811422996491567578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nokami_Rui 好噁心天吶🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1811422996491567578",
+        "created_at": "2024-07-12T01:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T02:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811570111675011392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798982562494414848",
+              "start": 0,
+              "username": "Nokami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811570111675011392",
+        "in_reply_to_user_id": "1798982562494414848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811422996491567578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nokami_Rui 好噁心天吶🤮"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811422987461226496",
+            "3_1811422987406688256",
+            "3_1811422987469664256",
+            "3_1811422987406770176"
+          ]
+        },
+        "author_id": "1798982562494414848",
+        "conversation_id": "1811422996491567578",
+        "created_at": "2024-07-11T15:31:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T16:31:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811422996491567578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/17LaNL5E3j",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1811422996491567578/photo/1",
+              "media_key": "3_1811422987461226496",
+              "start": 148,
+              "url": "https://t.co/17LaNL5E3j"
+            },
+            {
+              "display_url": "pic.twitter.com/17LaNL5E3j",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1811422996491567578/photo/1",
+              "media_key": "3_1811422987406688256",
+              "start": 148,
+              "url": "https://t.co/17LaNL5E3j"
+            },
+            {
+              "display_url": "pic.twitter.com/17LaNL5E3j",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1811422996491567578/photo/1",
+              "media_key": "3_1811422987469664256",
+              "start": 148,
+              "url": "https://t.co/17LaNL5E3j"
+            },
+            {
+              "display_url": "pic.twitter.com/17LaNL5E3j",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Nokami_Rui/status/1811422996491567578/photo/1",
+              "media_key": "3_1811422987406770176",
+              "start": 148,
+              "url": "https://t.co/17LaNL5E3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811422996491567578",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "接上，挂一下这个玩意：\n\n一直把椅子当垃圾桶。今天说自己在天台上，椅子好心劝了下。直接蹬鼻子上脸写文案隐隐发情。\n椅子拒绝了就“文案”“在发癫”挽尊。在天台上还“嘿嘿/呵呵/喵喵”的。\nb了好心说下原因怕人想不开嘛又发推槽。\n\n不会讲话建议缩着点，人不想当想当狗是吧？被老娘看到一拳打爆你狗头。 https://t.co/17LaNL5E3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 983,
+          "like_count": 82452,
+          "listed_count": 1,
+          "tweet_count": 5112
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T07:37:57.000Z",
+        "description": "In death, there is life. In disease, there is strength/万物皆腐，众生不灭/爱妻@loveyouvaluri_/无限制回fo机·互fo≠立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 67,
+                "username": "loveyouvaluri_"
+              }
+            ]
+          }
+        },
+        "id": "1798982562494414848",
+        "location": "Garden of Nurgle",
+        "name": "Sephy🍵渾沌神Nurgle",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798984703648882688/9zjGs5WC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 64,
+          "like_count": 748,
+          "listed_count": 0,
+          "tweet_count": 377
+        },
+        "username": "Nokami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

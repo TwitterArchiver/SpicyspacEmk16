@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056530934753837056",
+        "3_2056530934749630464",
+        "3_2056530934745452544"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056531048289443867",
+    "created_at": "2026-05-19T00:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T01:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056531048289443867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ibJ1t4mr8J",
+          "end": 53,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+          "media_key": "3_2056530934753837056",
+          "start": 30,
+          "url": "https://t.co/ibJ1t4mr8J"
+        },
+        {
+          "display_url": "pic.x.com/ibJ1t4mr8J",
+          "end": 53,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+          "media_key": "3_2056530934749630464",
+          "start": 30,
+          "url": "https://t.co/ibJ1t4mr8J"
+        },
+        {
+          "display_url": "pic.x.com/ibJ1t4mr8J",
+          "end": 53,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+          "media_key": "3_2056530934745452544",
+          "start": 30,
+          "url": "https://t.co/ibJ1t4mr8J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056531048289443867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喔去清理🩸图的时候看到我以前的超绝美腿 居然羡慕自己了笑死 https://t.co/ibJ1t4mr8J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056530934753837056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpD_TuawAAFFL6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2056530934749630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpD_TtakAA_9Sz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056530934745452544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIpD_Tsa0AALp7f.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056530934753837056",
+            "3_2056530934749630464",
+            "3_2056530934745452544"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056531048289443867",
+        "created_at": "2026-05-19T00:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T01:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056531048289443867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ibJ1t4mr8J",
+              "end": 53,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+              "media_key": "3_2056530934753837056",
+              "start": 30,
+              "url": "https://t.co/ibJ1t4mr8J"
+            },
+            {
+              "display_url": "pic.x.com/ibJ1t4mr8J",
+              "end": 53,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+              "media_key": "3_2056530934749630464",
+              "start": 30,
+              "url": "https://t.co/ibJ1t4mr8J"
+            },
+            {
+              "display_url": "pic.x.com/ibJ1t4mr8J",
+              "end": 53,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2056531048289443867/photo/1",
+              "media_key": "3_2056530934745452544",
+              "start": 30,
+              "url": "https://t.co/ibJ1t4mr8J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056531048289443867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喔去清理🩸图的时候看到我以前的超绝美腿 居然羡慕自己了笑死 https://t.co/ibJ1t4mr8J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 1475,
+          "like_count": 96224,
+          "listed_count": 6,
+          "media_count": 744,
+          "tweet_count": 9881
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

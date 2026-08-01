@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042012774868619264",
+        "3_2042012774885380096",
+        "3_2042012774856044544",
+        "3_2042012774860255232"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2042012782292562065",
+    "created_at": "2026-04-08T22:52:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T23:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042012782292562065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IawvinFAL3",
+          "end": 156,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+          "media_key": "3_2042012774868619264",
+          "start": 133,
+          "url": "https://t.co/IawvinFAL3"
+        },
+        {
+          "display_url": "pic.x.com/IawvinFAL3",
+          "end": 156,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+          "media_key": "3_2042012774885380096",
+          "start": 133,
+          "url": "https://t.co/IawvinFAL3"
+        },
+        {
+          "display_url": "pic.x.com/IawvinFAL3",
+          "end": 156,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+          "media_key": "3_2042012774856044544",
+          "start": 133,
+          "url": "https://t.co/IawvinFAL3"
+        },
+        {
+          "display_url": "pic.x.com/IawvinFAL3",
+          "end": 156,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+          "media_key": "3_2042012774860255232",
+          "start": 133,
+          "url": "https://t.co/IawvinFAL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042012782292562065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "继续解答互非常多互关宝宝为什么遇到那么多下头抽象心理医生\n虽然我不能一棍子打死说没有好人\n但是当到处刷新这样随随便便的轻浮男甚至在提交报告里还有打算跟教授开黄腔说sm什么的人...\n 你们愿意把自己的内心最脆弱的伤口展示给这种人看嘛\n😭怎么说呢…留给家人们自己评😭\n\n孩子保证就业后会有医德的😭\n求家人们信我🥺我给你们看诊真不为钱\n\n(我现在怕谁给我认出来了然后直接一个孤立冷暴力送走我…)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "继续解答互非常多互关宝宝为什么遇到那么多下头抽象心理医生\n虽然我不能一棍子打死说没有好人\n但是当到处刷新这样随随便便的轻浮男甚至在提交报告里还有打算跟教授开黄腔说sm什么的人...\n 你们愿意把自己的内心最脆弱的伤口展示给这种人看嘛\n😭怎么说呢…留给家人们自己评😭 https://t.co/IawvinFAL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042012774868619264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFavzLjakAAdcKt.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042012774885380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFavzLnaUAAbZyl.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042012774856044544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFavzLgasAAhpg1.jpg",
+        "width": 1004
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042012774860255232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFavzLha8AAW1uE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042012774868619264",
+            "3_2042012774885380096",
+            "3_2042012774856044544",
+            "3_2042012774860255232"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042012782292562065",
+        "created_at": "2026-04-08T22:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042012782292562065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IawvinFAL3",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+              "media_key": "3_2042012774868619264",
+              "start": 133,
+              "url": "https://t.co/IawvinFAL3"
+            },
+            {
+              "display_url": "pic.x.com/IawvinFAL3",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+              "media_key": "3_2042012774885380096",
+              "start": 133,
+              "url": "https://t.co/IawvinFAL3"
+            },
+            {
+              "display_url": "pic.x.com/IawvinFAL3",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+              "media_key": "3_2042012774856044544",
+              "start": 133,
+              "url": "https://t.co/IawvinFAL3"
+            },
+            {
+              "display_url": "pic.x.com/IawvinFAL3",
+              "end": 156,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2042012782292562065/photo/1",
+              "media_key": "3_2042012774860255232",
+              "start": 133,
+              "url": "https://t.co/IawvinFAL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042012782292562065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "继续解答互非常多互关宝宝为什么遇到那么多下头抽象心理医生\n虽然我不能一棍子打死说没有好人\n但是当到处刷新这样随随便便的轻浮男甚至在提交报告里还有打算跟教授开黄腔说sm什么的人...\n 你们愿意把自己的内心最脆弱的伤口展示给这种人看嘛\n😭怎么说呢…留给家人们自己评😭\n\n孩子保证就业后会有医德的😭\n求家人们信我🥺我给你们看诊真不为钱\n\n(我现在怕谁给我认出来了然后直接一个孤立冷暴力送走我…)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续解答互非常多互关宝宝为什么遇到那么多下头抽象心理医生\n虽然我不能一棍子打死说没有好人\n但是当到处刷新这样随随便便的轻浮男甚至在提交报告里还有打算跟教授开黄腔说sm什么的人...\n 你们愿意把自己的内心最脆弱的伤口展示给这种人看嘛\n😭怎么说呢…留给家人们自己评😭 https://t.co/IawvinFAL3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3015,
+          "following_count": 1404,
+          "like_count": 93103,
+          "listed_count": 5,
+          "media_count": 759,
+          "tweet_count": 9228
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

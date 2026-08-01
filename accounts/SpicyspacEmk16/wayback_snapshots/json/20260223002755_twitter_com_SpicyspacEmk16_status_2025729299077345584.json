@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2025727602187706818",
+    "created_at": "2026-02-23T00:27:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T01:27:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025729299077345584"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 14,
+          "normalized_text": "マルイ",
+          "probability": 0.5725,
+          "start": 12,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477264043371282434",
+          "start": 0,
+          "username": "ruarua__07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025729299077345584",
+    "in_reply_to_user_id": "1477264043371282434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025727602187706818",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruarua__07 マルイ最高(￣Д￣)ﾉ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025727570210324480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzUfgoaAAAFttk.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025727575214223360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzUfzRbcAAghXE.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025727576489213952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzUf4BaQAAC7N2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2025727602187706818",
+        "created_at": "2026-02-23T00:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025729299077345584"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "マルイ",
+              "probability": 0.5725,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477264043371282434",
+              "start": 0,
+              "username": "ruarua__07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025729299077345584",
+        "in_reply_to_user_id": "1477264043371282434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025727602187706818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruarua__07 マルイ最高(￣Д￣)ﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025727570210324480",
+            "3_2025727575214223360",
+            "3_2025727576489213952"
+          ]
+        },
+        "author_id": "1477264043371282434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025727602187706818",
+        "created_at": "2026-02-23T00:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025727602187706818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wm56QnDpd1",
+              "end": 75,
+              "expanded_url": "https://x.com/ruarua__07/status/2025727602187706818/photo/1",
+              "media_key": "3_2025727570210324480",
+              "start": 52,
+              "url": "https://t.co/Wm56QnDpd1"
+            },
+            {
+              "display_url": "pic.x.com/Wm56QnDpd1",
+              "end": 75,
+              "expanded_url": "https://x.com/ruarua__07/status/2025727602187706818/photo/1",
+              "media_key": "3_2025727575214223360",
+              "start": 52,
+              "url": "https://t.co/Wm56QnDpd1"
+            },
+            {
+              "display_url": "pic.x.com/Wm56QnDpd1",
+              "end": 75,
+              "expanded_url": "https://x.com/ruarua__07/status/2025727602187706818/photo/1",
+              "media_key": "3_2025727576489213952",
+              "start": 52,
+              "url": "https://t.co/Wm56QnDpd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025727602187706818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1911を買い足した届いたのですが、ロマンが貼りますけど、でも素晴らしい性能でした、また買いたいです！ https://t.co/Wm56QnDpd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1390,
+          "like_count": 91884,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 9005
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T13:02:59.000Z",
+        "description": "躁鬱だけど任せとけ（任せられない）\n@ruatixya⇽🗝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 18,
+                "username": "ruatixya"
+              }
+            ]
+          }
+        },
+        "id": "1477264043371282434",
+        "location": "満州国",
+        "name": "瑠亜ｾﾞﾊﾟﾑ",
+        "pinned_tweet_id": "1952254779503370262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973425286965501962/kvLhVoSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 710,
+          "following_count": 730,
+          "like_count": 17135,
+          "listed_count": 13,
+          "media_count": 488,
+          "tweet_count": 5110
+        },
+        "username": "ruarua__07",
+        "verified": true
+      }
+    ]
+  }
+}

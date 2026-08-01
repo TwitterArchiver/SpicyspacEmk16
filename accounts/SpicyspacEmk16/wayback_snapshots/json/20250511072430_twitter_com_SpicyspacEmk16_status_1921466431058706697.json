@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1921442133782720889",
+    "created_at": "2025-05-11T07:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T08:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921466431058706697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1645088450511781888",
+          "start": 0,
+          "username": "sleepinker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921466431058706697",
+    "in_reply_to_user_id": "1645088450511781888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921465669566042519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleepinker 谢谢墨墨！已经买到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1921442133782720889",
+        "created_at": "2025-05-11T07:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921466431058706697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1645088450511781888",
+              "start": 0,
+              "username": "sleepinker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921466431058706697",
+        "in_reply_to_user_id": "1645088450511781888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921465669566042519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleepinker 谢谢墨墨！已经买到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645088450511781888",
+        "conversation_id": "1921442133782720889",
+        "created_at": "2025-05-11T07:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T08:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921465669566042519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Minokakay/stat…",
+              "end": 39,
+              "expanded_url": "https://x.com/Minokakay/status/1916475690863726978?s=19",
+              "start": 16,
+              "url": "https://t.co/6HhEZRq1vv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921465669566042519",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916475690863726978",
+            "type": "quoted"
+          },
+          {
+            "id": "1921442133782720889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 https://t.co/6HhEZRq1vv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 1160,
+          "like_count": 84749,
+          "listed_count": 3,
+          "media_count": 517,
+          "tweet_count": 7272
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T15:37:20.000Z",
+        "description": "………………",
+        "id": "1645088450511781888",
+        "name": "眠墨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822668275987488768/35tbAmvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874,
+          "following_count": 1347,
+          "like_count": 134252,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 5923
+        },
+        "username": "sleepinker",
+        "verified": false
+      }
+    ]
+  }
+}

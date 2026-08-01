@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058435578819997912",
+    "created_at": "2026-05-24T09:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058475548805132370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1723307524743397376",
+          "start": 0,
+          "username": "shijiannisile"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058475548805132370",
+    "in_reply_to_user_id": "1723307524743397376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058435578819997912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shijiannisile 这些人机真的很离谱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058435575732957186",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJEIQASW8AImXzh.jpg",
+        "width": 353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058435578819997912",
+        "created_at": "2026-05-24T09:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058475548805132370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1723307524743397376",
+              "start": 0,
+              "username": "shijiannisile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058475548805132370",
+        "in_reply_to_user_id": "1723307524743397376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058435578819997912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shijiannisile 这些人机真的很离谱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058435575732957186"
+          ]
+        },
+        "author_id": "1723307524743397376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058435578819997912",
+        "created_at": "2026-05-24T06:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T07:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058435578819997912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WG519kkSW1",
+              "end": 32,
+              "expanded_url": "https://x.com/shijiannisile/status/2058435578819997912/photo/1",
+              "media_key": "3_2058435575732957186",
+              "start": 9,
+              "url": "https://t.co/WG519kkSW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058435578819997912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这特么啥意思呀？ https://t.co/WG519kkSW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 1499,
+          "like_count": 96776,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 10062
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-11T11:52:14.000Z",
+        "description": "里人格@yaniaodawang/💙💙：@xiaoren00 @boboxie993876",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "yaniaodawang"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "xiaoren00"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "boboxie993876"
+              }
+            ]
+          }
+        },
+        "id": "1723307524743397376",
+        "location": "🚪66/128口令or赞赏码",
+        "name": "鸦鸦",
+        "pinned_tweet_id": "2051676261463073019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015639719367847937/5lr7unIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2210,
+          "following_count": 482,
+          "like_count": 13500,
+          "listed_count": 3,
+          "media_count": 571,
+          "tweet_count": 4262
+        },
+        "username": "shijiannisile",
+        "verified": false
+      }
+    ]
+  }
+}

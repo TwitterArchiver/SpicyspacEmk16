@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2052042927472554339",
+    "created_at": "2026-05-06T22:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T23:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052150156855058709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1961060368463335424",
+          "start": 0,
+          "username": "appppp0122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052150156855058709",
+    "in_reply_to_user_id": "1961060368463335424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052042927472554339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@appppp0122 划划划🚣🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052042921629962240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpSKj-b0AAvnEO.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2052042927472554339",
+        "created_at": "2026-05-06T22:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T23:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052150156855058709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1961060368463335424",
+              "start": 0,
+              "username": "appppp0122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052150156855058709",
+        "in_reply_to_user_id": "1961060368463335424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052042927472554339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@appppp0122 划划划🚣🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052042921629962240"
+          ]
+        },
+        "author_id": "1961060368463335424",
+        "conversation_id": "2052042927472554339",
+        "created_at": "2026-05-06T15:08:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:08:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052042927472554339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gWGXhLyQ8",
+              "end": 39,
+              "expanded_url": "https://x.com/appppp0122/status/2052042927472554339/photo/1",
+              "media_key": "3_2052042921629962240",
+              "start": 16,
+              "url": "https://t.co/7gWGXhLyQ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042927472554339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 393,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果泪水比爱多 我们一起划小船 https://t.co/7gWGXhLyQ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3151,
+          "following_count": 1476,
+          "like_count": 95407,
+          "listed_count": 6,
+          "media_count": 805,
+          "tweet_count": 9774
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-28T13:36:57.000Z",
+        "description": "@apppp0_01轉世 這人死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "apppp0_01"
+              }
+            ]
+          }
+        },
+        "id": "1961060368463335424",
+        "name": "pp（๑⃙⃘ˊ꒳​ˋ๑⃙⃘）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050406400808165376/zI568Ivm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1405,
+          "following_count": 63,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "appppp0122",
+        "verified": false
+      }
+    ]
+  }
+}

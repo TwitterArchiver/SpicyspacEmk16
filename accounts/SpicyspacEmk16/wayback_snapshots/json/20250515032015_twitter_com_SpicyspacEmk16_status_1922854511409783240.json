@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1922807845717717370",
+    "created_at": "2025-05-15T03:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T04:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922854511409783240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1690948132979515392",
+          "start": 0,
+          "username": "ahixnming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922854511409783240",
+    "in_reply_to_user_id": "1690948132979515392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922807845717717370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ahixnming 阿明要好好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1922807845717717370",
+        "created_at": "2025-05-15T03:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T04:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922854511409783240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1690948132979515392",
+              "start": 0,
+              "username": "ahixnming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922854511409783240",
+        "in_reply_to_user_id": "1690948132979515392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922807845717717370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ahixnming 阿明要好好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690948132979515392",
+        "conversation_id": "1922807845717717370",
+        "created_at": "2025-05-15T00:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T01:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1922807845717717370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1922807845717717370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不想生病了⋯不想發作了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 1160,
+          "like_count": 85003,
+          "listed_count": 3,
+          "media_count": 518,
+          "tweet_count": 7279
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-14T04:47:13.000Z",
+        "description": "@twelvedaystodie ♡×♡＝♡² ｜ 表單拍立得如下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "twelvedaystodie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/forms/d/e/1FAI…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/forms/d/e/1FAIpQLScUO0UAVlholS95hnaJ8-w8FaJ9M2NK-s59BVDRmMP5U-_77A/viewform",
+                "start": 0,
+                "url": "https://t.co/2Ot6QDJUZF"
+              }
+            ]
+          }
+        },
+        "id": "1690948132979515392",
+        "location": "精神障害雑垢",
+        "name": "ｱｷﾗ",
+        "pinned_tweet_id": "1905939111183257609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1728855488778186752/40OUVGRA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 506,
+          "like_count": 28255,
+          "listed_count": 2,
+          "media_count": 1100,
+          "tweet_count": 22505
+        },
+        "url": "https://t.co/2Ot6QDJUZF",
+        "username": "ahixnming",
+        "verified": false
+      }
+    ]
+  }
+}

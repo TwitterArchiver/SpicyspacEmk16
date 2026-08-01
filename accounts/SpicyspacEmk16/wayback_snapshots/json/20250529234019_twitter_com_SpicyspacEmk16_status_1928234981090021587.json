@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1928045505096855878",
+    "created_at": "2025-05-29T23:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T00:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928234981090021587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "880026868631478272",
+          "start": 0,
+          "username": "V_Error_V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928234981090021587",
+    "in_reply_to_user_id": "880026868631478272",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928045505096855878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V_Error_V 7:40"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1928045505096855878",
+        "created_at": "2025-05-29T23:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928234981090021587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "880026868631478272",
+              "start": 0,
+              "username": "V_Error_V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928234981090021587",
+        "in_reply_to_user_id": "880026868631478272",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928045505096855878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_Error_V 7:40"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "880026868631478272",
+        "conversation_id": "1928045505096855878",
+        "created_at": "2025-05-29T11:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T12:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928045505096855878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1928045505096855878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2802,
+          "like_count": 381,
+          "quote_count": 0,
+          "reply_count": 120,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "このポストを見た時間を教えて下さい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 1205,
+          "like_count": 85799,
+          "listed_count": 3,
+          "media_count": 522,
+          "tweet_count": 7393
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-28T11:35:30.000Z",
+        "description": "フォローご自由にどうぞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitcasting.tv/V_Error_V",
+                "end": 23,
+                "expanded_url": "https://twitcasting.tv/V_Error_V",
+                "start": 0,
+                "url": "https://t.co/j0mOqgQoUS"
+              }
+            ]
+          }
+        },
+        "id": "880026868631478272",
+        "location": "DM❌",
+        "name": "エラ子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824016829591015424/RQ0xWZsm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31791,
+          "following_count": 10245,
+          "like_count": 48099,
+          "listed_count": 165,
+          "media_count": 212,
+          "tweet_count": 3221
+        },
+        "url": "https://t.co/j0mOqgQoUS",
+        "username": "V_Error_V",
+        "verified": false
+      }
+    ]
+  }
+}

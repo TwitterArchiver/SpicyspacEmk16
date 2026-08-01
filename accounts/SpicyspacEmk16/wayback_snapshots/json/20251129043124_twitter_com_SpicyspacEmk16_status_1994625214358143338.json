@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1994480829217870028",
+    "created_at": "2025-11-29T04:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T05:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994625214358143338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497860307653251072",
+          "start": 0,
+          "username": "chengyiga"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994625214358143338",
+    "in_reply_to_user_id": "1497860307653251072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994480829217870028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengyiga 是的呀(&gt;﹏&lt;)\n就是因为一路走来都没怎么被爱才会变成这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_1994480824671207424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63RvinbAAAjyam.jpg",
+        "width": 1165
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1994480829217870028",
+        "created_at": "2025-11-29T04:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T05:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994625214358143338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497860307653251072",
+              "start": 0,
+              "username": "chengyiga"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994625214358143338",
+        "in_reply_to_user_id": "1497860307653251072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994480829217870028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengyiga 是的呀(&gt;﹏&lt;)\n就是因为一路走来都没怎么被爱才会变成这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994480824671207424"
+          ]
+        },
+        "author_id": "1497860307653251072",
+        "conversation_id": "1994480829217870028",
+        "created_at": "2025-11-28T18:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994480829217870028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GI6NNtY4fX",
+              "end": 68,
+              "expanded_url": "https://x.com/chengyiga/status/1994480829217870028/photo/1",
+              "media_key": "3_1994480824671207424",
+              "start": 45,
+              "url": "https://t.co/GI6NNtY4fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994480829217870028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 779,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和朋友交流之后发现，可能有人一辈子都很难被温柔的对待\n也许经常被爱的人，很少会选择自杀吧 https://t.co/GI6NNtY4fX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2869,
+          "following_count": 1336,
+          "like_count": 89557,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 8493
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-27T09:05:22.000Z",
+        "description": "奈昔❤️喵❤️曦月妹妹@Xiyue527sakura❤️最好的主人&姐姐洛米@chanyfgh❤️最喜欢贴贴筱琦@Xqqq0724❤️收留了汐颜妹妹@ChishioMoe❤️最可爱的玲绪@LX0505m❤️๑会一直陪着大家~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Xiyue527sakura"
+              },
+              {
+                "end": 47,
+                "start": 38,
+                "username": "chanyfgh"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Xqqq0724"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "ChishioMoe"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "username": "LX0505m"
+              }
+            ]
+          }
+        },
+        "id": "1497860307653251072",
+        "name": "沈奈昔（哀悼逝者版）",
+        "pinned_tweet_id": "1630921497257848834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593263084654579712/PjNt-IHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5228,
+          "following_count": 574,
+          "like_count": 24965,
+          "listed_count": 14,
+          "media_count": 1673,
+          "tweet_count": 9056
+        },
+        "username": "chengyiga",
+        "verified": false
+      }
+    ]
+  }
+}

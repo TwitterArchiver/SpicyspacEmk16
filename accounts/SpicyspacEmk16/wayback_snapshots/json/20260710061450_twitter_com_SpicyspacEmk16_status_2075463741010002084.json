@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2075437959051092058",
+    "created_at": "2026-07-10T06:14:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:14:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075463741010002084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047876446555914240",
+          "start": 0,
+          "username": "tsuyuriyuki_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075463741010002084",
+    "in_reply_to_user_id": "2047876446555914240",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075437959051092058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsuyuriyuki_ 🩵❤️‍🩹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075437954131173376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1v0rlaIAAAbrs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2075437959051092058",
+        "created_at": "2026-07-10T06:14:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:14:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075463741010002084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047876446555914240",
+              "start": 0,
+              "username": "tsuyuriyuki_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075463741010002084",
+        "in_reply_to_user_id": "2047876446555914240",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075437959051092058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsuyuriyuki_ 🩵❤️‍🩹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075437954131173376"
+          ]
+        },
+        "author_id": "2047876446555914240",
+        "conversation_id": "2075437959051092058",
+        "created_at": "2026-07-10T04:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075437959051092058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZfJZRdRf9",
+              "end": 35,
+              "expanded_url": "https://x.com/tsuyuriyuki_/status/2075437959051092058/photo/1",
+              "media_key": "3_2075437954131173376",
+              "start": 12,
+              "url": "https://t.co/XZfJZRdRf9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075437959051092058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了发点该发的 https://t.co/XZfJZRdRf9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3379,
+          "following_count": 1568,
+          "like_count": 97806,
+          "listed_count": 6,
+          "media_count": 796,
+          "tweet_count": 10421
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T03:14:07.000Z",
+        "description": "死人一枚 病み垢",
+        "id": "2047876446555914240",
+        "name": "ゆき",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074327601427169280/M9UCthOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 30,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "tsuyuriyuki_",
+        "verified": false
+      }
+    ]
+  }
+}

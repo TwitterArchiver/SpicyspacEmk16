@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000523304600518658"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2000523313634804222",
+    "created_at": "2025-12-15T11:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T12:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000523313634804222"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FdEiRnoe40",
+          "end": 47,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2000523313634804222/photo/1",
+          "media_key": "3_2000523304600518658",
+          "start": 24,
+          "url": "https://t.co/FdEiRnoe40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000523313634804222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子真的喜欢Vivienne Westwood https://t.co/FdEiRnoe40"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2000523304600518658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8NJWKeawAI5N3j.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000523304600518658"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2000523313634804222",
+        "created_at": "2025-12-15T11:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T12:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000523313634804222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FdEiRnoe40",
+              "end": 47,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2000523313634804222/photo/1",
+              "media_key": "3_2000523304600518658",
+              "start": 24,
+              "url": "https://t.co/FdEiRnoe40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000523313634804222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子真的喜欢Vivienne Westwood https://t.co/FdEiRnoe40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2968,
+          "following_count": 1354,
+          "like_count": 89850,
+          "listed_count": 4,
+          "media_count": 702,
+          "tweet_count": 8702
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

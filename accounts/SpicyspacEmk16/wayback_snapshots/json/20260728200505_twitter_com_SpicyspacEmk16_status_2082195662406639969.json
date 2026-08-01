@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2081780037909680360",
+    "created_at": "2026-07-28T20:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082195662406639969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1750684739441446912",
+          "start": 0,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082195662406639969",
+    "in_reply_to_user_id": "1750684739441446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081780037909680360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngy189327 窝也素看奥特曼的但好像也没触犯天条嘛呜呜\n🥹\n虽然但是特摄圈里刷新出了神仙逆天小粉红这个嘛…好像还挺真实的 接触了这个圈子这么多年好像遇到的圈内顺直男多多少少都有点粉红的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2072,
+        "media_key": "3_2081779997942157313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP34N3bEAEZm9o.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2720,
+        "media_key": "3_2081780012496392195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP35EFbEAMl_Bm.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1452,
+        "media_key": "3_2081780025544871937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP350sbEAE4jFO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2081780037909680360",
+        "created_at": "2026-07-28T20:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082195662406639969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082195662406639969",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081780037909680360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 窝也素看奥特曼的但好像也没触犯天条嘛呜呜\n🥹\n虽然但是特摄圈里刷新出了神仙逆天小粉红这个嘛…好像还挺真实的 接触了这个圈子这么多年好像遇到的圈内顺直男多多少少都有点粉红的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081779997942157313",
+            "3_2081780012496392195",
+            "3_2081780025544871937"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "2081780037909680360",
+        "created_at": "2026-07-27T16:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081780037909680360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHOBDC0BwM",
+              "end": 49,
+              "expanded_url": "https://x.com/wngy189327/status/2081780037909680360/photo/1",
+              "media_key": "3_2081779997942157313",
+              "start": 26,
+              "url": "https://t.co/fHOBDC0BwM"
+            },
+            {
+              "display_url": "pic.x.com/fHOBDC0BwM",
+              "end": 49,
+              "expanded_url": "https://x.com/wngy189327/status/2081780037909680360/photo/1",
+              "media_key": "3_2081780012496392195",
+              "start": 26,
+              "url": "https://t.co/fHOBDC0BwM"
+            },
+            {
+              "display_url": "pic.x.com/fHOBDC0BwM",
+              "end": 49,
+              "expanded_url": "https://x.com/wngy189327/status/2081780037909680360/photo/1",
+              "media_key": "3_2081780025544871937",
+              "start": 26,
+              "url": "https://t.co/fHOBDC0BwM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081780037909680360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14495,
+          "like_count": 70,
+          "quote_count": 1,
+          "reply_count": 60,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧粉红小辣条一看简介写奥特曼就知道是什么成分了。 https://t.co/fHOBDC0BwM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1563,
+          "like_count": 98463,
+          "listed_count": 6,
+          "media_count": 809,
+          "tweet_count": 10527
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "mtf\n2010年5月4日生日\n15岁的xyn\n1米8\n141斤\n1000度近视\n陆续含糖",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "pinned_tweet_id": "2041862853091864617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1600,
+          "following_count": 869,
+          "like_count": 10773,
+          "listed_count": 2,
+          "media_count": 265,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

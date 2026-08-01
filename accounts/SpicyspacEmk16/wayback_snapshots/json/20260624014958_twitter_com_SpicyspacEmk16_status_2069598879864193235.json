@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069418061413876103",
+    "created_at": "2026-06-24T01:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069598879864193235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2044796233508605952",
+          "start": 0,
+          "username": "yue_li0712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069598879864193235",
+    "in_reply_to_user_id": "2044796233508605952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069468455884202227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yue_li0712 🫶好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-24T01:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069598879864193235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2044796233508605952",
+              "start": 0,
+              "username": "yue_li0712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069598879864193235",
+        "in_reply_to_user_id": "2044796233508605952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069468455884202227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yue_li0712 🫶好耶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044796233508605952",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-23T17:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069468455884202227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069468455884202227",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 826,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069418061413876103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 恭喜恭喜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1567,
+          "like_count": 97723,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10344
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-16T15:13:31.000Z",
+        "description": "把过去的自己，轻轻放下。从此，向阳而生，慢慢长大。\n有证含🍥｜开始时间2026.4.30｜社恐小透明｜锦依卫｜特摄｜MtF | 06年 | 可以叫我曦曦/玥玥|可爱就忍不住想抱紧紧 | 不od｜不自残｜不定期会发一些COS照｜同类互fo喵",
+        "id": "2044796233508605952",
+        "name": "曦玥玥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067587441096294400/m451qvkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 91,
+          "like_count": 1524,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 248
+        },
+        "url": "",
+        "username": "yue_li0712",
+        "verified": false
+      }
+    ]
+  }
+}

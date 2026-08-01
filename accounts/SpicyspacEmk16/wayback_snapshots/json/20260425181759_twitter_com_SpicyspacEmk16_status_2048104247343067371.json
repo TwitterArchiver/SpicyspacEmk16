@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2048014398942540029",
+    "created_at": "2026-04-25T18:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T19:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048104247343067371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1296821657328185344",
+          "start": 0,
+          "username": "Yoh_o2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048104247343067371",
+    "in_reply_to_user_id": "1296821657328185344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048052705600692363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yoh_o2o 😭求你了这里是正经帮忙的推文\n不许发抽象句"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T18:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T19:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048104247343067371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1296821657328185344",
+              "start": 0,
+              "username": "Yoh_o2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048104247343067371",
+        "in_reply_to_user_id": "1296821657328185344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048052705600692363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yoh_o2o 😭求你了这里是正经帮忙的推文\n不许发抽象句"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296821657328185344",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T14:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048052705600692363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048052705600692363",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 医生，我还有救吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3089,
+          "following_count": 1452,
+          "like_count": 94589,
+          "listed_count": 5,
+          "media_count": 787,
+          "tweet_count": 9589
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-08-21T14:49:23.000Z",
+        "description": "",
+        "id": "1296821657328185344",
+        "location": "无名地",
+        "name": "Yoh",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1544317562326237186/JUYy1nQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 1208,
+          "like_count": 700,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 780
+        },
+        "username": "Yoh_o2o",
+        "verified": false
+      }
+    ]
+  }
+}

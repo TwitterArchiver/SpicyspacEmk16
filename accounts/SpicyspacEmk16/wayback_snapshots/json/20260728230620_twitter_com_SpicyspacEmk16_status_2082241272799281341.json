@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2082093984307110125",
+    "created_at": "2026-07-28T23:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082241272799281341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780055196460048385",
+          "start": 0,
+          "username": "lll_Libujin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082241272799281341",
+    "in_reply_to_user_id": "1780055196460048385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082093984307110125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lll_Libujin 神了推特…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082093975671029760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUVcIDaQAAi3Rw.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2082093984307110125",
+        "created_at": "2026-07-28T23:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082241272799281341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780055196460048385",
+              "start": 0,
+              "username": "lll_Libujin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082241272799281341",
+        "in_reply_to_user_id": "1780055196460048385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082093984307110125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lll_Libujin 神了推特…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082093975671029760"
+          ]
+        },
+        "author_id": "1780055196460048385",
+        "conversation_id": "2082093984307110125",
+        "created_at": "2026-07-28T13:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082093984307110125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7PvAUfftw",
+              "end": 34,
+              "expanded_url": "https://x.com/lll_Libujin/status/2082093984307110125/photo/1",
+              "media_key": "3_2082093975671029760",
+              "start": 11,
+              "url": "https://t.co/U7PvAUfftw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082093984307110125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1347,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶呀吓死我了这也封啊 https://t.co/U7PvAUfftw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢(教えないよ～👅ベヘー～)性同一性障害mtf 日本留子 心理学专业在读 为了帮助大家击败心理疾病🤜👿(抑郁精分双相等)会加油! (可惜以后这里只能发点碎碎念跟生活推了呜呜🥺)無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💙#深蓝可是小遥の推し色～",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3372,
+          "following_count": 1565,
+          "like_count": 98542,
+          "listed_count": 6,
+          "media_count": 810,
+          "tweet_count": 10542
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-16T02:07:08.000Z",
+        "description": "Amor Fati.",
+        "id": "1780055196460048385",
+        "location": "Welcome to Apocalypse.",
+        "name": "理不尽",
+        "pinned_tweet_id": "2072034532090601722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047553360581316608/N0DLm8Zc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 397,
+          "like_count": 7034,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1518
+        },
+        "url": "",
+        "username": "lll_Libujin",
+        "verified": false
+      }
+    ]
+  }
+}

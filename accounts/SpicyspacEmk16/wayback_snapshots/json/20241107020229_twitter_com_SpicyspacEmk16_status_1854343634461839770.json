@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1854173947283357726",
+    "created_at": "2024-11-07T02:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T03:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854343634461839770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1768509535441022976",
+          "start": 0,
+          "username": "aokitetsu111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854343634461839770",
+    "in_reply_to_user_id": "1768509535441022976",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854173947283357726",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aokitetsu111 宝宝特别萌🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1854173947283357726",
+        "created_at": "2024-11-07T02:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T03:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854343634461839770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1768509535441022976",
+              "start": 0,
+              "username": "aokitetsu111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854343634461839770",
+        "in_reply_to_user_id": "1768509535441022976",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854173947283357726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aokitetsu111 宝宝特别萌🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1854173911719837696",
+            "3_1854173912114036736",
+            "3_1854173911354880000"
+          ]
+        },
+        "author_id": "1768509535441022976",
+        "conversation_id": "1854173947283357726",
+        "created_at": "2024-11-06T14:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T15:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854173947283357726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovsuk3HfF8",
+              "end": 23,
+              "expanded_url": "https://x.com/aokitetsu111/status/1854173947283357726/photo/1",
+              "media_key": "3_1854173911719837696",
+              "start": 0,
+              "url": "https://t.co/ovsuk3HfF8"
+            },
+            {
+              "display_url": "pic.x.com/ovsuk3HfF8",
+              "end": 23,
+              "expanded_url": "https://x.com/aokitetsu111/status/1854173947283357726/photo/1",
+              "media_key": "3_1854173912114036736",
+              "start": 0,
+              "url": "https://t.co/ovsuk3HfF8"
+            },
+            {
+              "display_url": "pic.x.com/ovsuk3HfF8",
+              "end": 23,
+              "expanded_url": "https://x.com/aokitetsu111/status/1854173947283357726/photo/1",
+              "media_key": "3_1854173911354880000",
+              "start": 0,
+              "url": "https://t.co/ovsuk3HfF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854173947283357726",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ovsuk3HfF8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2355,
+          "following_count": 1108,
+          "like_count": 87193,
+          "listed_count": 2,
+          "tweet_count": 6474
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-15T05:28:34.000Z",
+        "description": "原号@AOKITETSUKO111 第二系统@SazukiYui\n              欢迎互fo~不喜欢我请屏蔽但是请不要举报🥺\n            ⁺✞ʚ猫猫重度依赖ɞ✟₊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "AOKITETSUKO111"
+              },
+              {
+                "end": 32,
+                "start": 22,
+                "username": "SazukiYui"
+              }
+            ]
+          }
+        },
+        "id": "1768509535441022976",
+        "location": "Hell",
+        "name": "てつこちゃん",
+        "pinned_tweet_id": "1810037724747055502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813117793522622465/DiYPKnq5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 189,
+          "like_count": 9595,
+          "listed_count": 1,
+          "tweet_count": 1433
+        },
+        "username": "aokitetsu111",
+        "verified": false
+      }
+    ]
+  }
+}

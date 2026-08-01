@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1796303554829021228",
+    "created_at": "2024-05-31T02:44:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T03:44:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796372266131091640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628357323944239105",
+          "start": 0,
+          "username": "AkumaKusane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796372266131091640",
+    "in_reply_to_user_id": "1628357323944239105",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796318481434243216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkumaKusane 所以是捡漏\n甚至还是全新的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1796303554829021228",
+        "created_at": "2024-05-31T02:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T03:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796372266131091640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796372266131091640",
+        "in_reply_to_user_id": "1628357323944239105",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796318481434243216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane 所以是捡漏\n甚至还是全新的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1628357323944239105",
+        "conversation_id": "1796303554829021228",
+        "created_at": "2024-05-30T23:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T00:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796318481434243216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796318481434243216",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796303554829021228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我o日i这个香取这么便宜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 956,
+          "like_count": 79692,
+          "listed_count": 1,
+          "tweet_count": 4602
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 喝多了也会写这儿 冬天滑雪夏天爬山",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 191,
+          "like_count": 419,
+          "listed_count": 0,
+          "tweet_count": 1638
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

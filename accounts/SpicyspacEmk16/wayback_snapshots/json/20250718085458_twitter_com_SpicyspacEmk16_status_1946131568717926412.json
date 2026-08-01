@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946131550757634048"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1946131568717926412",
+    "created_at": "2025-07-18T08:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T09:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1946131568717926412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LLqlEZxkmr",
+          "end": 38,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1946131568717926412/photo/1",
+          "media_key": "3_1946131550757634048",
+          "start": 15,
+          "url": "https://t.co/LLqlEZxkmr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946131568717926412",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 42,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "wwwwwwギーツマーク18 https://t.co/LLqlEZxkmr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1292,
+        "media_key": "3_1946131550757634048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwIMVZkWwAADcQt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946131550757634048"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1946131568717926412",
+        "created_at": "2025-07-18T08:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T09:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946131568717926412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLqlEZxkmr",
+              "end": 38,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1946131568717926412/photo/1",
+              "media_key": "3_1946131550757634048",
+              "start": 15,
+              "url": "https://t.co/LLqlEZxkmr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946131568717926412",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "wwwwwwギーツマーク18 https://t.co/LLqlEZxkmr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2747,
+          "following_count": 1282,
+          "like_count": 87720,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 7764
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

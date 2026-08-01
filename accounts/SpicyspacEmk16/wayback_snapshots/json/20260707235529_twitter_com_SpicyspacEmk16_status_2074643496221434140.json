@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2074591457558896840",
+    "created_at": "2026-07-07T23:55:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:55:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074643496221434140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1151064546255101952",
+          "start": 0,
+          "username": "t7xo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074643496221434140",
+    "in_reply_to_user_id": "1151064546255101952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074643077265043834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@t7xo4 🙄根本不信任条子 再说老娘的口语还用得着练…无语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-07T23:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074643496221434140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1151064546255101952",
+              "start": 0,
+              "username": "t7xo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074643496221434140",
+        "in_reply_to_user_id": "1151064546255101952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074643077265043834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@t7xo4 🙄根本不信任条子 再说老娘的口语还用得着练…无语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1151064546255101952",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-07T23:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074643077265043834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074643077265043834",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074591457558896840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 啊？\n报警归报警呗。就当是练口语了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3380,
+          "following_count": 1572,
+          "like_count": 97779,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 10414
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-16T09:42:28.000Z",
+        "description": "干啥啥不行，吃啥啥不剩，要啥啥没有，爱咋滴咋滴。",
+        "id": "1151064546255101952",
+        "location": "aisa",
+        "name": "！⊙▽⊙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597598777493389317/PIbBmYtQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 771,
+          "like_count": 12162,
+          "listed_count": 7,
+          "media_count": 28,
+          "tweet_count": 3134
+        },
+        "url": "",
+        "username": "t7xo4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1982989821015711974",
+    "created_at": "2025-10-28T03:59:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T04:59:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983020771657289901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983020771657289901",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983009861576351930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 還好在家裡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1982989821015711974",
+        "created_at": "2025-10-28T03:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983020771657289901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983020771657289901",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983009861576351930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 還好在家裡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "1982989821015711974",
+        "created_at": "2025-10-28T03:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T04:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983009861576351930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983009861576351930",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982989821015711974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 站起来，假装无事发生😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 1284,
+          "like_count": 86673,
+          "listed_count": 4,
+          "media_count": 632,
+          "tweet_count": 8127
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "37岁人夫，hrt2025.4.8持证含糖，老倒霉蛋一个，已和家人出柜    最后：老婆我永远爱着你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "Shanshan's Vile Pet🍥",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941855814437990400/0mAddQZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 134,
+          "like_count": 1214,
+          "listed_count": 3,
+          "media_count": 184,
+          "tweet_count": 1004
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

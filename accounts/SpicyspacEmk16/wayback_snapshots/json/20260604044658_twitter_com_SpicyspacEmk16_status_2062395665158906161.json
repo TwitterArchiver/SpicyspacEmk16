@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062395657282015232",
+        "3_2062395657244303360",
+        "3_2062395657244311552",
+        "3_2062395657286279168"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062395665158906161",
+    "created_at": "2026-06-04T04:46:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T05:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062395665158906161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jwaBPuFrVO",
+          "end": 172,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+          "media_key": "3_2062395657282015232",
+          "start": 149,
+          "url": "https://t.co/jwaBPuFrVO"
+        },
+        {
+          "display_url": "pic.x.com/jwaBPuFrVO",
+          "end": 172,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+          "media_key": "3_2062395657244303360",
+          "start": 149,
+          "url": "https://t.co/jwaBPuFrVO"
+        },
+        {
+          "display_url": "pic.x.com/jwaBPuFrVO",
+          "end": 172,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+          "media_key": "3_2062395657244311552",
+          "start": 149,
+          "url": "https://t.co/jwaBPuFrVO"
+        },
+        {
+          "display_url": "pic.x.com/jwaBPuFrVO",
+          "end": 172,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+          "media_key": "3_2062395657286279168",
+          "start": 149,
+          "url": "https://t.co/jwaBPuFrVO"
+        },
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 196,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/2059662940098453858",
+          "start": 173,
+          "url": "https://t.co/4z3Pv4U8g5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062395665158906161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059662940098453858",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简介5.5:\n\n这里是思～\n图上是我跟我的皮\n我长得不好看 很自卑\n精神状态不是很安定❤️‍🩹\n但是病情好转的话一定会加油直播\n我会🩸和💊 \nリスカとオーバードーズしますけどツイートしない\nここのみんなと繋がりたい\n我喜欢甜食🍮如果有人找我一起玩我会很开心\n欢迎你们找我玩！\n\n谢谢大家帮我转发～ https://t.co/jwaBPuFrVO https://t.co/4z3Pv4U8g5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062395657282015232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Z7FqaUAAWsqE.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062395657244303360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Z7Fha4AAXA_U.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2062395657244311552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Z7FhbAAAWixb.jpg",
+        "width": 1642
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062395657286279168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ8Z7FrbYAAJtyt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 688,
+        "media_key": "3_2059662934050250752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVkhqUaoAAOwrV.jpg",
+        "width": 1504
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062395657282015232",
+            "3_2062395657244303360",
+            "3_2062395657244311552",
+            "3_2062395657286279168"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062395665158906161",
+        "created_at": "2026-06-04T04:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T05:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062395665158906161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwaBPuFrVO",
+              "end": 172,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+              "media_key": "3_2062395657282015232",
+              "start": 149,
+              "url": "https://t.co/jwaBPuFrVO"
+            },
+            {
+              "display_url": "pic.x.com/jwaBPuFrVO",
+              "end": 172,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+              "media_key": "3_2062395657244303360",
+              "start": 149,
+              "url": "https://t.co/jwaBPuFrVO"
+            },
+            {
+              "display_url": "pic.x.com/jwaBPuFrVO",
+              "end": 172,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+              "media_key": "3_2062395657244311552",
+              "start": 149,
+              "url": "https://t.co/jwaBPuFrVO"
+            },
+            {
+              "display_url": "pic.x.com/jwaBPuFrVO",
+              "end": 172,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2062395665158906161/photo/1",
+              "media_key": "3_2062395657286279168",
+              "start": 149,
+              "url": "https://t.co/jwaBPuFrVO"
+            },
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2059662940098453858",
+              "start": 173,
+              "url": "https://t.co/4z3Pv4U8g5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062395665158906161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059662940098453858",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简介5.5:\n\n这里是思～\n图上是我跟我的皮\n我长得不好看 很自卑\n精神状态不是很安定❤️‍🩹\n但是病情好转的话一定会加油直播\n我会🩸和💊 \nリスカとオーバードーズしますけどツイートしない\nここのみんなと繋がりたい\n我喜欢甜食🍮如果有人找我一起玩我会很开心\n欢迎你们找我玩！\n\n谢谢大家帮我转发～ https://t.co/jwaBPuFrVO https://t.co/4z3Pv4U8g5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059662934050250752"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2059662940098453858",
+        "created_at": "2026-05-27T15:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059662940098453858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q5HrnfhbY",
+              "end": 164,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2059662940098453858/photo/1",
+              "media_key": "3_2059662934050250752",
+              "start": 141,
+              "url": "https://t.co/2Q5HrnfhbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059662940098453858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在日本的大家～\n如果想找人聊天 倾诉心事(免费树洞)欢迎随时来找我哦～💕 \n虽然我只是个普通的在读大学生 但是会努力陪你们聊天 一起想让心情变好的小办法～ \n⚠️小提醒:我还不是专业的心理咨询师和医生哦～如果心情很低落或情况严重 请一定要去找专业的医生帮忙！\n 我在东京日暮里附近 欢迎直接私信我❤️‍🩹让我们一起加油和病痛战斗吧！✨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1442,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在日本的大家～\n如果想找人聊天 倾诉心事(免费树洞)欢迎随时来找我哦～💕 \n虽然我只是个普通的在读大学生 但是会努力陪你们聊天 一起想让心情变好的小办法～ \n⚠️小提醒:我还不是专业的心理咨询师和医生哦～如果心情很低落或情况严重 请一定要去找专业的医生帮忙！\n 我在东京日暮里附近 https://t.co/2Q5HrnfhbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062394543711130049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 1522,
+          "like_count": 97346,
+          "listed_count": 6,
+          "media_count": 763,
+          "tweet_count": 10183
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

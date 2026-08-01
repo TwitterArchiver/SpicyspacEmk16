@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1949338058458898525",
+    "created_at": "2025-07-27T05:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T06:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949341737526157818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949341737526157818",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949338058458898525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 好像是有点发炎 蕾酱一定要好好处理伤口呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1949338058458898525",
+        "created_at": "2025-07-27T05:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949341737526157818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949341737526157818",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949338058458898525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 好像是有点发炎 蕾酱一定要好好处理伤口呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "1949338058458898525",
+        "created_at": "2025-07-27T05:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T06:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949338058458898525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/re1_y0/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/re1_y0/status/1949097006607306799",
+              "start": 33,
+              "url": "https://t.co/ZV6lYmKGJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949338058458898525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949097006607306799",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "伤口旁边的皮肤有触痛而且火辣辣的 这是发炎了吗 有没有知道的朋友 https://t.co/ZV6lYmKGJp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 1288,
+          "like_count": 87256,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 7820
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜中国語&ENG ｜日本語勉强中｜OD&自傷｜直fo选回｜非互fo私信不回｜清水推 ｜⚠️DO NOT re-upload or use my photos｜GF @Asszeqr｜https://t.co/tAHbDDrybz📪",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 91,
+                "username": "Asszeqr"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rei51208",
+                "end": 123,
+                "expanded_url": "https://ngl.link/rei51208",
+                "start": 100,
+                "url": "https://t.co/tAHbDDrybz"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ",
+        "pinned_tweet_id": "1948338656865140993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1895,
+          "following_count": 220,
+          "like_count": 1772,
+          "listed_count": 1,
+          "media_count": 441,
+          "tweet_count": 3730
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

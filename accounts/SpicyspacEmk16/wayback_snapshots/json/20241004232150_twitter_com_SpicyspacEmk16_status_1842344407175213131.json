@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1842199251243389306",
+    "created_at": "2024-10-04T23:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T00:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842344407175213131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1092183392",
+          "start": 0,
+          "username": "xxxholic125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842344407175213131",
+    "in_reply_to_user_id": "1092183392",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842199251243389306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxxholic125 这种情况根本过分\n再大的瘾都不应该在病人面前吸烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1842199251243389306",
+        "created_at": "2024-10-04T23:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T00:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842344407175213131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1092183392",
+              "start": 0,
+              "username": "xxxholic125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842344407175213131",
+        "in_reply_to_user_id": "1092183392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842199251243389306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxxholic125 这种情况根本过分\n再大的瘾都不应该在病人面前吸烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1092183392",
+        "conversation_id": "1842199251243389306",
+        "created_at": "2024-10-04T13:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T14:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842199251243389306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gherojamslava/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/gherojamslava/status/1842179164704805265",
+              "start": 53,
+              "url": "https://t.co/LnJDv0NTGe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842199251243389306",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842179164704805265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全贊成！！！\n尤其是愛麗絲不是大小姐=張昊宇\n明明知道我有嚴重氣喘還拼命在我面前抽，甚至要我抽，wbd https://t.co/LnJDv0NTGe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 1090,
+          "like_count": 86762,
+          "listed_count": 2,
+          "tweet_count": 6220
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2013-01-15T14:05:18.000Z",
+        "description": "正在努力跨過許多PTSD+重度憂鬱症，回復兔系女友魅魔中",
+        "id": "1092183392",
+        "name": "夜貓子的貓奴",
+        "pinned_tweet_id": "1803385989316157496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791734691705614336/fUKPwyQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 269,
+          "like_count": 3377,
+          "listed_count": 0,
+          "tweet_count": 2614
+        },
+        "username": "xxxholic125",
+        "verified": false
+      }
+    ]
+  }
+}

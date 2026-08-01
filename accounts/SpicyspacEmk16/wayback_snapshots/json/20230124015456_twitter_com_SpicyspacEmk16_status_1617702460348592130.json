@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1617371674109689856",
+    "created_at": "2023-01-24T01:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-24T02:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1617702460348592130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1521973388214177797",
+          "start": 0,
+          "username": "lowlandstudy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1617702460348592130",
+    "in_reply_to_user_id": "1521973388214177797",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1617371674109689856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lowlandstudy zb是什麼？裝備？中標？準備？周邊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1617371674109689856",
+        "created_at": "2023-01-24T01:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-24T02:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1617702460348592130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1521973388214177797",
+              "start": 0,
+              "username": "lowlandstudy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1617702460348592130",
+        "in_reply_to_user_id": "1521973388214177797",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1617371674109689856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lowlandstudy zb是什麼？裝備？中標？準備？周邊？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1617205180620996615"
+          ]
+        },
+        "author_id": "1521973388214177797",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1617371674109689856",
+        "created_at": "2023-01-23T04:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-23T04:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1617371674109689856"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "兔友迷惑行为"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/3IK6SviSav",
+              "end": 42,
+              "expanded_url": "https://twitter.com/lowlandstudy/status/1617371674109689856/photo/1",
+              "media_key": "3_1617205180620996615",
+              "start": 19,
+              "url": "https://t.co/3IK6SviSav"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1617371674109689856",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 27872,
+          "like_count": 275,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "#兔友迷惑行为 \n《原来这就是ZB》 https://t.co/3IK6SviSav"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "",
+        "id": "1530699087133421568",
+        "location": "東京 豊島区",
+        "name": "スパイススペース🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605188952247652354/TixpkahW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 16,
+          "listed_count": 0,
+          "tweet_count": 28
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T22:01:48.000Z",
+        "description": "⚠粉红勿扰⚠//接推广//“已疯”🎖️//“百次核酸”🏆//“能处”🏅//“绝望”🥇//反对一切威权🏴//点点关注，收获快乐//互fo私信//欢迎大家投稿各类平台上的逆天言论，随手一截，快乐源泉。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lowlandstudy.com",
+                "end": 23,
+                "expanded_url": "http://www.lowlandstudy.com",
+                "start": 0,
+                "url": "https://t.co/gopFAFpbZE"
+              }
+            ]
+          }
+        },
+        "id": "1521973388214177797",
+        "location": "梦乡",
+        "name": "洼地文明研究院",
+        "pinned_tweet_id": "1616045547453833220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609552452289957892/R3Em1UYm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5718,
+          "following_count": 505,
+          "listed_count": 12,
+          "tweet_count": 394
+        },
+        "url": "https://t.co/gopFAFpbZE",
+        "username": "lowlandstudy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2074591457558896840",
+    "created_at": "2026-07-09T09:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075155742068494393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3186322153",
+          "start": 0,
+          "username": "aa123429181tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075155742068494393",
+    "in_reply_to_user_id": "3186322153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074941596035137627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aa123429181tw 倒是没事就是被他跑了很火大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-09T09:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075155742068494393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3186322153",
+              "start": 0,
+              "username": "aa123429181tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075155742068494393",
+        "in_reply_to_user_id": "3186322153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074941596035137627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aa123429181tw 倒是没事就是被他跑了很火大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3186322153",
+        "conversation_id": "2074591457558896840",
+        "created_at": "2026-07-08T19:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T20:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074941596035137627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074941596035137627",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074591457558896840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 被搶錢 OAQ!?\n人沒事吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3380,
+          "following_count": 1569,
+          "like_count": 97797,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 10419
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2015-05-05T14:26:08.000Z",
+        "description": "嗨!我叫做ASTRAY~\n興趣是騎車,塗鴉,組模型和打生存遊戲\n但是畫技差所以不接任何委託喔~ (´・ω・`)\n\n我是男的,只是喜歡穿女裝而已,而且沒有很漂亮\n還會放自己色色🔞的照片,介意的請別點開 (つд⊂)\n\n私訊話題都OK~\n但拜託多說一點話不然我會以為是詐騙 (っ・Д・)っ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aa1234…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aa123429181.bsky.social",
+                "start": 0,
+                "url": "https://t.co/qvvv3yIeff"
+              }
+            ]
+          }
+        },
+        "id": "3186322153",
+        "location": "台灣",
+        "name": "Astray♂️",
+        "pinned_tweet_id": "1677615650255306752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061986433691521024/H0wW2TlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1773,
+          "like_count": 185489,
+          "listed_count": 15,
+          "media_count": 3441,
+          "tweet_count": 78574
+        },
+        "url": "https://t.co/qvvv3yIeff",
+        "username": "aa123429181tw",
+        "verified": true
+      }
+    ]
+  }
+}

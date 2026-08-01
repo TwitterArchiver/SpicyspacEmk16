@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1939556575779381580",
+    "created_at": "2025-06-30T07:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939582497714823575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870078920621731842",
+          "start": 0,
+          "username": "ReisuiMirai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939582497714823575",
+    "in_reply_to_user_id": "1870078920621731842",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 31,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939556575779381580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ReisuiMirai マジイケメン！！\n未来酱是一个完美的天使宝宝！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1939556554912477184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqwaRVWsAAnN0E.jpg",
+        "width": 853
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1939556554866315264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqwaRKWUAA19l9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939556554912526336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqwaRVXcAA8NWm.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1939556554749124608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuqwaQuaIAA614Q.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1939556575779381580",
+        "created_at": "2025-06-30T07:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939582497714823575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870078920621731842",
+              "start": 0,
+              "username": "ReisuiMirai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939582497714823575",
+        "in_reply_to_user_id": "1870078920621731842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939556575779381580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ReisuiMirai マジイケメン！！\n未来酱是一个完美的天使宝宝！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939556554912477184",
+            "3_1939556554866315264",
+            "3_1939556554912526336",
+            "3_1939556554749124608"
+          ]
+        },
+        "author_id": "1870078920621731842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "1939556575779381580",
+        "created_at": "2025-06-30T05:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939556575779381580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "自撮り界隈さんと繋がりた"
+            },
+            {
+              "end": 76,
+              "start": 70,
+              "tag": "繋がりたい"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "男装"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "制服"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "彼女募集"
+            },
+            {
+              "end": 94,
+              "start": 91,
+              "tag": "恋活"
+            },
+            {
+              "end": 101,
+              "start": 95,
+              "tag": "オタク男子"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "フォロバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jVXsF9JLqd",
+              "end": 131,
+              "expanded_url": "https://x.com/ReisuiMirai/status/1939556575779381580/photo/1",
+              "media_key": "3_1939556554912477184",
+              "start": 108,
+              "url": "https://t.co/jVXsF9JLqd"
+            },
+            {
+              "display_url": "pic.x.com/jVXsF9JLqd",
+              "end": 131,
+              "expanded_url": "https://x.com/ReisuiMirai/status/1939556575779381580/photo/1",
+              "media_key": "3_1939556554866315264",
+              "start": 108,
+              "url": "https://t.co/jVXsF9JLqd"
+            },
+            {
+              "display_url": "pic.x.com/jVXsF9JLqd",
+              "end": 131,
+              "expanded_url": "https://x.com/ReisuiMirai/status/1939556575779381580/photo/1",
+              "media_key": "3_1939556554912526336",
+              "start": 108,
+              "url": "https://t.co/jVXsF9JLqd"
+            },
+            {
+              "display_url": "pic.x.com/jVXsF9JLqd",
+              "end": 131,
+              "expanded_url": "https://x.com/ReisuiMirai/status/1939556575779381580/photo/1",
+              "media_key": "3_1939556554749124608",
+              "start": 108,
+              "url": "https://t.co/jVXsF9JLqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939556575779381580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 514,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "これは私がアイドルをしていた時に撮った写真。。でも結局公開されなかった。珍しい私の男装写真だよ。\n#自撮り界隈 #自撮り界隈さんと繋がりた\n#繋がりたい #男装 #制服 #彼女募集 #恋活 #オタク男子 #フォロバ https://t.co/jVXsF9JLqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2742,
+          "following_count": 1279,
+          "like_count": 86879,
+          "listed_count": 2,
+          "media_count": 555,
+          "tweet_count": 7686
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-20T12:09:06.000Z",
+        "description": "Chinese | 男の娘 生理♂ | 性別流動 | OD 斷藥中| 卒業Vtuber | 私はうつ病と不安障害を抱えてるの | 趣味Cosplay、メイド服 王子系ロリータ服 天使界隈| DM ⭕ | 妹→ @Bronbangbangbon 内容確認後申請を🙇🏻‍♀️🗝️ @Mirai1145144",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 105,
+                "username": "Bronbangbangbon"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "Mirai1145144"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "love-letter.club/to/ReisuiMirai/",
+                "end": 23,
+                "expanded_url": "https://love-letter.club/to/ReisuiMirai/",
+                "start": 0,
+                "url": "https://t.co/QdZgHerG32"
+              }
+            ]
+          }
+        },
+        "id": "1870078920621731842",
+        "name": "靈水未來",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924350796625321985/lTLXvlVM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 243,
+          "like_count": 9853,
+          "listed_count": 5,
+          "media_count": 156,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/QdZgHerG32",
+        "username": "ReisuiMirai",
+        "verified": false
+      }
+    ]
+  }
+}

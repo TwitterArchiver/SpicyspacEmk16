@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2012366091947782221",
+    "created_at": "2026-01-17T09:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012464121388929061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012464121388929061",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012366091947782221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 很难不认同 这样的恋爱观好棒\n这就是为什么喜欢我的互关wwwww"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1112,
+        "media_key": "3_2012366084708392960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-1cSsUWYAAURtf.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2012366091947782221",
+        "created_at": "2026-01-17T09:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012464121388929061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012464121388929061",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012366091947782221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 很难不认同 这样的恋爱观好棒\n这就是为什么喜欢我的互关wwwww"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012366084708392960"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "2012366091947782221",
+        "created_at": "2026-01-17T03:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T04:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012366091947782221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ajlXROFEpA",
+              "end": 146,
+              "expanded_url": "https://x.com/Re1_y0/status/2012366091947782221/photo/1",
+              "media_key": "3_2012366084708392960",
+              "start": 123,
+              "url": "https://t.co/ajlXROFEpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012366091947782221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是我较真但我真的特别讨厌这种说法或者有这种观念的人因为我觉得恋爱中的两个人是平等的关系无论过得好与坏真心爱对方就要共同承担责任啊 什么跟不跟的听着就是完全不尊重对方主体性 而且这么说的人里很少有人真的富有到能让对方会甘心放下尊严做躺平的下位者 https://t.co/ajlXROFEpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 1359,
+          "like_count": 90875,
+          "listed_count": 4,
+          "media_count": 721,
+          "tweet_count": 8872
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾（Rei）♀︎｜🚪88/188/288/520 过门解锁聊天和无码doi视频及照片 目前开放线下纯绿 非过门不回私信 有事请三句话内说清楚 ｜DO NOT re-upload or use my photos 盗图全家死｜现接代购普瑞 接伤口定制 ｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 131,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "有女朋友|彼女いる",
+        "name": "レイ｜接普瑞代购30/次",
+        "pinned_tweet_id": "2010596021949345980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3112,
+          "following_count": 274,
+          "like_count": 1885,
+          "listed_count": 5,
+          "media_count": 789,
+          "tweet_count": 5211
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

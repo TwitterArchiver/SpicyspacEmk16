@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056167045612577254",
+    "created_at": "2026-05-18T06:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T07:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056253676969504905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1946642385028718592",
+          "start": 0,
+          "username": "kurabakei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056253676969504905",
+    "in_reply_to_user_id": "1946642385028718592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056167045612577254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurabakei 宝宝你没事吧呜呜🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5842,
+        "height": 720,
+        "media_key": "7_2056167020576829440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2056167020576829440/pu/img/rsvsOh8OZtBZ3iT9.jpg",
+        "public_metrics": {
+          "view_count": 74
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056167020576829440/pu/vid/avc1/480x270/NZrBdmVY2zdWlu1U.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056167020576829440/pu/vid/avc1/640x360/0jIe3StD4vN872wk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2056167020576829440/pu/vid/avc1/1280x720/OXE6rkkZByxcqLLm.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2056167020576829440/pu/pl/pP6OabM9QuXiIM3j.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056167045612577254",
+        "created_at": "2026-05-18T06:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T07:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056253676969504905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1946642385028718592",
+              "start": 0,
+              "username": "kurabakei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056253676969504905",
+        "in_reply_to_user_id": "1946642385028718592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056167045612577254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurabakei 宝宝你没事吧呜呜🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2056167020576829440"
+          ]
+        },
+        "author_id": "1946642385028718592",
+        "conversation_id": "2056167045612577254",
+        "created_at": "2026-05-18T00:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T01:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056167045612577254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwVgW2sLF9",
+              "end": 38,
+              "expanded_url": "https://x.com/kurabakei/status/2056167045612577254/video/1",
+              "media_key": "7_2056167020576829440",
+              "start": 15,
+              "url": "https://t.co/bwVgW2sLF9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056167045612577254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 282,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完了好像割到神經了我使不上勁 https://t.co/bwVgW2sLF9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 1477,
+          "like_count": 96174,
+          "listed_count": 6,
+          "media_count": 771,
+          "tweet_count": 9893
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-19T18:44:58.000Z",
+        "description": "病み垢/リスカ/09/地雷女子/メンヘラ🚪188\nMy savior is you, for whom I owe my life.",
+        "id": "1946642385028718592",
+        "location": "地獄",
+        "name": "闇葉",
+        "pinned_tweet_id": "1976750551363981816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038986594074718209/txD_t6sc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 436,
+          "like_count": 2676,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 676
+        },
+        "username": "kurabakei",
+        "verified": false
+      }
+    ]
+  }
+}

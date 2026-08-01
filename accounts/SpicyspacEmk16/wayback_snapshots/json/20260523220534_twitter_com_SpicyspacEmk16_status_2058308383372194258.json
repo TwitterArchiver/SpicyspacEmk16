@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2058207577939345443",
+    "created_at": "2026-05-23T22:05:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T23:05:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058308383372194258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809529788178305024",
+          "start": 0,
+          "username": "qiiiiiiike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058308383372194258",
+    "in_reply_to_user_id": "1809529788178305024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058207577939345443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiiiiiiike 生日快乐哦🎂～～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058207502580256768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA40ZlXEAAOOV4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2058207502605438976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA40ZrXUAAYo1K.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2058207577939345443",
+        "created_at": "2026-05-23T22:05:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T23:05:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058308383372194258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809529788178305024",
+              "start": 0,
+              "username": "qiiiiiiike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058308383372194258",
+        "in_reply_to_user_id": "1809529788178305024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058207577939345443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiiiiiiike 生日快乐哦🎂～～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058207502580256768",
+            "3_2058207502605438976"
+          ]
+        },
+        "author_id": "1809529788178305024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2058207577939345443",
+        "created_at": "2026-05-23T15:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058207577939345443"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 8,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 16,
+              "start": 13,
+              "tag": "广东"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAKCG2jpTq",
+              "end": 40,
+              "expanded_url": "https://x.com/qiiiiiiike/status/2058207577939345443/photo/1",
+              "media_key": "3_2058207502580256768",
+              "start": 17,
+              "url": "https://t.co/BAKCG2jpTq"
+            },
+            {
+              "display_url": "pic.x.com/BAKCG2jpTq",
+              "end": 40,
+              "expanded_url": "https://x.com/qiiiiiiike/status/2058207577939345443/photo/1",
+              "media_key": "3_2058207502605438976",
+              "start": 17,
+              "url": "https://t.co/BAKCG2jpTq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058207577939345443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 114,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝我生日快乐呀 #门槛妹 #广东 https://t.co/BAKCG2jpTq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2057798540534092188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 1491,
+          "like_count": 96623,
+          "listed_count": 6,
+          "media_count": 757,
+          "tweet_count": 10040
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-06T10:08:56.000Z",
+        "description": "🚪88  所有问题过完🚪回答",
+        "id": "1809529788178305024",
+        "name": "7k",
+        "pinned_tweet_id": "2015152880760623483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812096532574822401/2qj18fxB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 42,
+          "like_count": 1028,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 583
+        },
+        "username": "qiiiiiiike",
+        "verified": false
+      }
+    ]
+  }
+}

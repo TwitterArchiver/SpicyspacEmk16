@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054336872542040314",
+    "created_at": "2026-05-12T23:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054336872542040314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koko_info0/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/koko_info0/status/2054184818187919788",
+          "start": 30,
+          "url": "https://t.co/Gv1flmtaIZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054336872542040314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054184818187919788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喔去好想要重新小猫挂件\n一看是场贩大概就知道没机会买到了😭 https://t.co/Gv1flmtaIZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2054181290484834304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHrAAuaIAAPuT9.jpg",
+        "width": 1199
+      },
+      {
+        "height": 900,
+        "media_key": "3_2054181290476552192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHrAAsbwAAtqWS.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054336872542040314",
+        "created_at": "2026-05-12T23:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054336872542040314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koko_info0/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/koko_info0/status/2054184818187919788",
+              "start": 30,
+              "url": "https://t.co/Gv1flmtaIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054336872542040314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054184818187919788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喔去好想要重新小猫挂件\n一看是场贩大概就知道没机会买到了😭 https://t.co/Gv1flmtaIZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054181290484834304",
+            "3_2054181290476552192"
+          ]
+        },
+        "author_id": "1569174741235400704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2054184818187919788",
+        "created_at": "2026-05-12T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054184818187919788"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "VRF2026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVqTle6BgW",
+              "end": 177,
+              "expanded_url": "https://x.com/koko_info0/status/2054184818187919788/photo/1",
+              "media_key": "3_2054181290484834304",
+              "start": 154,
+              "url": "https://t.co/UVqTle6BgW"
+            },
+            {
+              "display_url": "pic.x.com/UVqTle6BgW",
+              "end": 177,
+              "expanded_url": "https://x.com/koko_info0/status/2054184818187919788/photo/1",
+              "media_key": "3_2054181290476552192",
+              "start": 154,
+              "url": "https://t.co/UVqTle6BgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054184818187919788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 23,
+                "tag": "VRF2026"
+              }
+            ]
+          },
+          "text": "⚡️📣【新グッズ発売決定】\n\n5/15(金)「#VRF2026」\n5/17(日)「NIGHT HIKE」\nの両イベントにて、在庫販売の新グッズを販売することが決定しました！\n\n※在庫限りのため、売り切れの可能性があります\n※現地販売後、残りの在庫を後日オンライン販売予定\n※物販時間については後日アナウンス\n\n☟ラインナップはこちら☟"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 26308,
+          "like_count": 533,
+          "quote_count": 21,
+          "reply_count": 25,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "⚡️📣【新グッズ発売決定】\n\n5/15(金)「#VRF2026」\n5/17(日)「NIGHT HIKE」\nの両イベントにて、在庫販売の新グッズを販売することが決定しました！\n\n※在庫限りのため、売り切れの可能性があります\n※現地販売後、残りの在庫を後日オンライン販売予定\n※物販時間については後日アナウンス https://t.co/UVqTle6BgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 1478,
+          "like_count": 95913,
+          "listed_count": 6,
+          "media_count": 788,
+          "tweet_count": 9848
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-12T04:03:15.000Z",
+        "description": "⚡バーチャルシンガー・幸祜( @KOKO__virtual ) 公式インフォメーションアカウント ⚡contact :koko.information@kamitsubaki.jp⚡スケジュール： #幸組老人会回覧板⚡タグ #幸祜美術部 / #KOKO見てみ野菜 /  #KTRコレクション",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 108,
+                "start": 99,
+                "tag": "幸組老人会回覧板"
+              },
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "幸祜美術部"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "tag": "KOKO見てみ野菜"
+              },
+              {
+                "end": 145,
+                "start": 135,
+                "tag": "KTRコレクション"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "KOKO__virtual"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/virtual_koko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/virtual_koko",
+                "start": 0,
+                "url": "https://t.co/FJs2iUFFEu"
+              }
+            ]
+          }
+        },
+        "id": "1569174741235400704",
+        "location": "KAMITSUBAKI STUDIO",
+        "name": "幸祜 information",
+        "pinned_tweet_id": "2033845810312663474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569175499766890498/Bg7XgafR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16765,
+          "following_count": 42,
+          "like_count": 42944,
+          "listed_count": 157,
+          "media_count": 340,
+          "tweet_count": 1948
+        },
+        "url": "https://t.co/FJs2iUFFEu",
+        "username": "koko_info0",
+        "verified": true
+      }
+    ]
+  }
+}

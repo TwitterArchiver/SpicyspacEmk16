@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1995388762411708703",
+    "created_at": "2025-12-02T02:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T03:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995678686239130016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1825465744932614144",
+          "start": 0,
+          "username": "_a3edw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995678686239130016",
+    "in_reply_to_user_id": "1825465744932614144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995388762411708703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_a3edw めちゃすごい！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1995388762411708703",
+        "created_at": "2025-12-02T02:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T03:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995678686239130016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1825465744932614144",
+              "start": 0,
+              "username": "_a3edw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995678686239130016",
+        "in_reply_to_user_id": "1825465744932614144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995388762411708703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_a3edw めちゃすごい！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825465744932614144",
+        "conversation_id": "1995388762411708703",
+        "created_at": "2025-12-01T07:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995388762411708703"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "容さん",
+              "probability": 0.7065,
+              "start": 33,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995388762411708703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "参拝者さんが日本語が話せないと理解したあと、即座に英語で対応する笑容さんかっこよすぎだろ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2964,
+          "following_count": 1338,
+          "like_count": 89764,
+          "listed_count": 4,
+          "media_count": 683,
+          "tweet_count": 8533
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-19T09:32:24.000Z",
+        "description": "让我们彼此幸福吧。",
+        "id": "1825465744932614144",
+        "name": "笑容",
+        "pinned_tweet_id": "1989561137508356438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995053099497746432/Jlgzh9JA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 233,
+          "like_count": 19147,
+          "listed_count": 7,
+          "media_count": 76,
+          "tweet_count": 3096
+        },
+        "username": "_a3edw",
+        "verified": false
+      }
+    ]
+  }
+}

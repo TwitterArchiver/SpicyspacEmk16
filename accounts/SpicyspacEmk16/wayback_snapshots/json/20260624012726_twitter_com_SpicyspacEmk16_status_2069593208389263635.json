@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069418061413876103",
+    "created_at": "2026-06-24T01:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T02:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069593208389263635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "741886367819399168",
+          "start": 0,
+          "username": "Yan1Su"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069593208389263635",
+    "in_reply_to_user_id": "741886367819399168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069502450122555770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan1Su 阿里嘎多！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-24T01:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069593208389263635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "741886367819399168",
+              "start": 0,
+              "username": "Yan1Su"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069593208389263635",
+        "in_reply_to_user_id": "741886367819399168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069502450122555770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan1Su 阿里嘎多！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "741886367819399168",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-23T19:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T20:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069502450122555770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069502450122555770",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069418061413876103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3332,
+          "following_count": 1567,
+          "like_count": 97717,
+          "listed_count": 6,
+          "media_count": 783,
+          "tweet_count": 10330
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2016-06-12T06:54:28.000Z",
+        "description": "现在我能坦然面对自己",
+        "id": "741886367819399168",
+        "location": "瓦努亞图",
+        "name": "千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777616320688975872/lRAaaWua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1221,
+          "following_count": 290,
+          "like_count": 2420,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 1368
+        },
+        "url": "",
+        "username": "Yan1Su",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1831425747980009902",
+    "created_at": "2024-09-05T03:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-05T04:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831538504125546526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1520671692875452416",
+          "start": 0,
+          "username": "JefferyK_EntH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831538504125546526",
+    "in_reply_to_user_id": "1520671692875452416",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831492131091050685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JefferyK_EntH 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1831492131091050685].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1831492131091050685",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1831492131091050685"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1831425747980009902",
+        "created_at": "2024-09-05T03:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T04:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831538504125546526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1520671692875452416",
+              "start": 0,
+              "username": "JefferyK_EntH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831538504125546526",
+        "in_reply_to_user_id": "1520671692875452416",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831492131091050685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JefferyK_EntH 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1902,
+          "following_count": 1036,
+          "like_count": 85742,
+          "listed_count": 1,
+          "tweet_count": 5855
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T07:49:29.000Z",
+        "description": "Trekker. Space geek. Aviation Engineering students.\nHe/him, Straight male. Strongly support gender equality, espercially transgender.\nFuck paternalism.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/enterp…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/enterpriseh116.bsky.social",
+                "start": 0,
+                "url": "https://t.co/bIuLSk2ony"
+              }
+            ]
+          }
+        },
+        "id": "1520671692875452416",
+        "name": "Jeffery骞",
+        "pinned_tweet_id": "1644713830084395009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725438260355493888/kXoOLJWO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 2055,
+          "like_count": 20510,
+          "listed_count": 9,
+          "tweet_count": 6019
+        },
+        "url": "https://t.co/bIuLSk2ony",
+        "username": "JefferyK_EntH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1788796091598881141",
+    "created_at": "2024-05-10T13:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T14:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788926084224004152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1497868189400809472",
+          "start": 0,
+          "username": "koulislee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788926084224004152",
+    "in_reply_to_user_id": "1497868189400809472",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788925743126503578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koulislee 是这样…\n他们确实不会用国内的离谱治疗手段\n但是处事方面真的很死板…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1788796091598881141",
+        "created_at": "2024-05-10T13:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T14:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788926084224004152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1497868189400809472",
+              "start": 0,
+              "username": "koulislee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788926084224004152",
+        "in_reply_to_user_id": "1497868189400809472",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788925743126503578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koulislee 是这样…\n他们确实不会用国内的离谱治疗手段\n但是处事方面真的很死板…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1497868189400809472",
+        "conversation_id": "1788796091598881141",
+        "created_at": "2024-05-10T13:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T14:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788925743126503578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788925743126503578",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788796091598881141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 所以啊，你之前还在说“相信日本医生”，我早就提醒过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1625,
+          "following_count": 962,
+          "like_count": 78677,
+          "listed_count": 1,
+          "tweet_count": 4246
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T09:36:44.000Z",
+        "description": "Alive now. Ridiculous.Redirecting:\n\n@NamErrorr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "NamErrorr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hack.chat/?233",
+                "end": 23,
+                "expanded_url": "https://hack.chat/?233",
+                "start": 0,
+                "url": "https://t.co/PmYy3owNTW"
+              }
+            ]
+          }
+        },
+        "id": "1497868189400809472",
+        "location": "Nowhere",
+        "name": "李斯克",
+        "pinned_tweet_id": "1787099414722756683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786464270907256838/nPAvMVFw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 301,
+          "like_count": 15721,
+          "listed_count": 0,
+          "tweet_count": 6369
+        },
+        "url": "https://t.co/PmYy3owNTW",
+        "username": "koulislee",
+        "verified": false
+      }
+    ]
+  }
+}

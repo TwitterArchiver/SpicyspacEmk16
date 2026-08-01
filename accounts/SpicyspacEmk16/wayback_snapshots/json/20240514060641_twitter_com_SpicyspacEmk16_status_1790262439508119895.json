@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1790260979911229458",
+    "created_at": "2024-05-14T06:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T07:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790262439508119895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1386196451219316736",
+          "start": 0,
+          "username": "Ted121382"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790262439508119895",
+    "in_reply_to_user_id": "1386196451219316736",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790262281923874919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ted121382 是瑞嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1790260979911229458",
+        "created_at": "2024-05-14T06:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T07:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790262439508119895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1386196451219316736",
+              "start": 0,
+              "username": "Ted121382"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790262439508119895",
+        "in_reply_to_user_id": "1386196451219316736",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790262281923874919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ted121382 是瑞嘛"
+      },
+      {
+        "attachments": {},
+        "author_id": "1386196451219316736",
+        "conversation_id": "1790260979911229458",
+        "created_at": "2024-05-14T06:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T07:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790262281923874919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790262281923874919",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790262030316044620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 你不用谢我，我也是凭直觉的。你要谢真正有证据实锤的那个姐姐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772779765063458816/ohL0XLDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 922,
+          "like_count": 78851,
+          "listed_count": 1,
+          "tweet_count": 4344
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-25T05:53:01.000Z",
+        "description": "東京大学eeis/4月からM1/Even the smallest person could change the course of the future/安得广厦千万间",
+        "id": "1386196451219316736",
+        "location": "東京 文京区",
+        "name": "Ted12138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752665959092105216/LOKekyXX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 704,
+          "like_count": 7370,
+          "listed_count": 1,
+          "tweet_count": 4763
+        },
+        "username": "Ted121382",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2010120459820642749",
+    "created_at": "2026-01-24T01:58:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T02:58:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014880522204479524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1697176784096382976",
+          "start": 0,
+          "username": "An_1231_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014880522204479524",
+    "in_reply_to_user_id": "1697176784096382976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014866867656261968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@An_1231_ 之前就是了好像"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2010120459820642749",
+        "created_at": "2026-01-24T01:58:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T02:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014880522204479524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1697176784096382976",
+              "start": 0,
+              "username": "An_1231_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014880522204479524",
+        "in_reply_to_user_id": "1697176784096382976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014866867656261968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@An_1231_ 之前就是了好像"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697176784096382976",
+        "conversation_id": "2010120459820642749",
+        "created_at": "2026-01-24T01:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T02:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014866867656261968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014866867656261968",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010120459820642749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 这个是不是现在只能买一盒了qaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 1361,
+          "like_count": 91012,
+          "listed_count": 4,
+          "media_count": 726,
+          "tweet_count": 8890
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-31T09:17:42.000Z",
+        "description": "幻想但无法成为魔法少女｜很喜欢沉迷在自己的世界｜请大家都来喜欢我吧！我们一来起玩！这里是我们的网络空间噢",
+        "id": "1697176784096382976",
+        "name": "柊野みさぎ🐰",
+        "pinned_tweet_id": "1820244286803452074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947587415549612032/HSaiXw0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 206,
+          "like_count": 1842,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 654
+        },
+        "username": "An_1231_",
+        "verified": false
+      }
+    ]
+  }
+}

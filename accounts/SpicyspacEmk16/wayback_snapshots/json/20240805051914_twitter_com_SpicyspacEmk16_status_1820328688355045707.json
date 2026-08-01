@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1820256575526928601",
+    "created_at": "2024-08-05T05:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T06:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820328688355045707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1527769249283985409",
+          "start": 0,
+          "username": "Atheistsophist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820328688355045707",
+    "in_reply_to_user_id": "1527769249283985409",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820305362828030290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Atheistsophist 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1820256575526928601",
+        "created_at": "2024-08-05T05:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T06:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820328688355045707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1527769249283985409",
+              "start": 0,
+              "username": "Atheistsophist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820328688355045707",
+        "in_reply_to_user_id": "1527769249283985409",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820305362828030290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Atheistsophist 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527769249283985409",
+        "conversation_id": "1820256575526928601",
+        "created_at": "2024-08-05T03:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T04:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820305362828030290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820305362828030290",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820256575526928601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 🙀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1022,
+          "like_count": 83975,
+          "listed_count": 1,
+          "tweet_count": 5577
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-20T21:52:36.000Z",
+        "description": "👿",
+        "id": "1527769249283985409",
+        "location": "魔王城😈",
+        "name": "怀安",
+        "pinned_tweet_id": "1817235986189025648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818314152143904768/wMacf9Sf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 689,
+          "like_count": 73906,
+          "listed_count": 3,
+          "tweet_count": 3007
+        },
+        "username": "Atheistsophist",
+        "verified": false
+      }
+    ]
+  }
+}

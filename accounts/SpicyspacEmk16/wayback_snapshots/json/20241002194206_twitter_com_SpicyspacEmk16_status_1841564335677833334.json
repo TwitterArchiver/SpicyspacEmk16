@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1840054459575218182",
+    "created_at": "2024-10-02T19:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T20:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841564335677833334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1683483789983449089",
+          "start": 0,
+          "username": "RikaNeko9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841564335677833334",
+    "in_reply_to_user_id": "1683483789983449089",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840054459575218182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RikaNeko9 快找我玩（我努力尽早回去）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1840054459575218182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1840054459575218182",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1840054459575218182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1840054459575218182",
+        "created_at": "2024-10-02T19:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T20:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841564335677833334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1683483789983449089",
+              "start": 0,
+              "username": "RikaNeko9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841564335677833334",
+        "in_reply_to_user_id": "1683483789983449089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840054459575218182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RikaNeko9 快找我玩（我努力尽早回去）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1968,
+          "following_count": 1072,
+          "like_count": 86608,
+          "listed_count": 1,
+          "tweet_count": 6160
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-24T14:26:35.000Z",
+        "description": "天空没有留下翅膀的痕迹，但鸟儿已经飞过。\n 嚴禁外傳 NO FORWARD",
+        "id": "1683483789983449089",
+        "name": "道草",
+        "pinned_tweet_id": "1778060047836447013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683483975661105152/h4xVc5hw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 112,
+          "like_count": 1377,
+          "listed_count": 0,
+          "tweet_count": 548
+        },
+        "username": "RikaNeko9",
+        "verified": false
+      }
+    ]
+  }
+}

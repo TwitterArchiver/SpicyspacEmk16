@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069062388071244176",
+    "created_at": "2026-06-22T15:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T16:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069083903596675504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817857473233235968",
+          "start": 0,
+          "username": "akuno_1748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069083903596675504",
+    "in_reply_to_user_id": "1817857473233235968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069062388071244176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akuno_1748 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069062388071244176",
+        "created_at": "2026-06-22T15:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069083903596675504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817857473233235968",
+              "start": 0,
+              "username": "akuno_1748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069083903596675504",
+        "in_reply_to_user_id": "1817857473233235968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069062388071244176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akuno_1748 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817857473233235968",
+        "conversation_id": "2069062388071244176",
+        "created_at": "2026-06-22T14:18:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:18:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069062388071244176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069062388071244176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好痛苦。真的好痛苦。\n痛苦的已經說不出話了。\n我什麼也不是。我不存在於此。\n我真的好痛苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 1555,
+          "like_count": 97661,
+          "listed_count": 6,
+          "media_count": 781,
+          "tweet_count": 10301
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T09:39:56.000Z",
+        "description": "消えろ",
+        "id": "1817857473233235968",
+        "name": "サクノ",
+        "pinned_tweet_id": "1819674540580229189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040027770798088192/BU3wAlJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 50,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "akuno_1748",
+        "verified": false
+      }
+    ]
+  }
+}

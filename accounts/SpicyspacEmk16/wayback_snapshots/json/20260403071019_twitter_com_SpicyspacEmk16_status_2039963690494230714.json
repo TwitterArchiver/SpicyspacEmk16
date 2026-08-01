@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2039944499271766017",
+    "created_at": "2026-04-03T07:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T08:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039963690494230714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1181507546634321921",
+          "start": 0,
+          "username": "RemainsofmeW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039963690494230714",
+    "in_reply_to_user_id": "1181507546634321921",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039949130467098852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RemainsofmeW wwwwwww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2039944499271766017",
+        "created_at": "2026-04-03T07:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039963690494230714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1181507546634321921",
+              "start": 0,
+              "username": "RemainsofmeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039963690494230714",
+        "in_reply_to_user_id": "1181507546634321921",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039949130467098852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RemainsofmeW wwwwwww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1181507546634321921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1012447344627814400",
+              "name": "Case Closed"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2039944499271766017",
+        "created_at": "2026-04-03T06:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T07:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039949130467098852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "74186594376cb8e8"
+        },
+        "id": "2039949130467098852",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039944499271766017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 帝京大学っていつもコナンっぽい名前やなって思う"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3006,
+          "following_count": 1399,
+          "like_count": 92774,
+          "listed_count": 5,
+          "media_count": 752,
+          "tweet_count": 9161
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-08T09:52:24.000Z",
+        "description": "ギター中毒中　\n日本縦断成功！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@remainsofmewu…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@remainsofmewu2548?si=0ZTPIUh3Qlp3SFG4",
+                "start": 0,
+                "url": "https://t.co/PpKxldUlfI"
+              }
+            ]
+          }
+        },
+        "id": "1181507546634321921",
+        "location": "大阪府大阪市",
+        "name": "Remainsofme Wu",
+        "pinned_tweet_id": "1798590005679706482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1337602643619811337/cPUI3Lp-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 347,
+          "like_count": 6470,
+          "listed_count": 0,
+          "media_count": 1068,
+          "tweet_count": 6714
+        },
+        "url": "https://t.co/PpKxldUlfI",
+        "username": "RemainsofmeW",
+        "verified": false
+      }
+    ]
+  }
+}

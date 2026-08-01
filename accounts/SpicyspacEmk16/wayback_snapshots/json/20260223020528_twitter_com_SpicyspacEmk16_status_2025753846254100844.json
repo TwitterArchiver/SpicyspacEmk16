@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2025736440613863680",
+    "created_at": "2026-02-23T02:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T03:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025753846254100844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025753846254100844",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025736440613863680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming 砍妹太权威了\n\ngfred好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2025736430644015104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBzcjQUasAAzgQG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2025736440613863680",
+        "created_at": "2026-02-23T02:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025753846254100844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025753846254100844",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025736440613863680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming 砍妹太权威了\n\ngfred好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025736430644015104"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "2025736440613863680",
+        "created_at": "2026-02-23T00:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T01:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025736440613863680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pJpeBI3wQV",
+              "end": 23,
+              "expanded_url": "https://x.com/kyouka_charming/status/2025736440613863680/photo/1",
+              "media_key": "3_2025736430644015104",
+              "start": 0,
+              "url": "https://t.co/pJpeBI3wQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025736440613863680",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/pJpeBI3wQV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2973,
+          "following_count": 1391,
+          "like_count": 91919,
+          "listed_count": 5,
+          "media_count": 737,
+          "tweet_count": 9012
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "京香と申します。物知らず悪役令嬢です、🏳️‍⚧️トランスジェンダー女性です、漫画家志望、TRPG/ボードゲーマー。日本語/華语OK。元日本高校生(八王子)。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "紅月の元",
+        "name": "🪞・❄️🌙🌺",
+        "pinned_tweet_id": "1996117146150338572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025420919309746177/LgIgSEXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 1260,
+          "like_count": 11403,
+          "listed_count": 1,
+          "media_count": 1125,
+          "tweet_count": 8974
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

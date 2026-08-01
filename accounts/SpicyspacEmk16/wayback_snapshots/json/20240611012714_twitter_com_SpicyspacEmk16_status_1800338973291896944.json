@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1800338973291896944",
+    "created_at": "2024-06-11T01:27:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-11T02:27:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800338973291896944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1712099097728241664",
+          "start": 3,
+          "username": "RiAkiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800338973291896944",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800197274552914068",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RiAkiba: 我想破200fol…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1800338973291896944",
+        "created_at": "2024-06-11T01:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T02:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800338973291896944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1712099097728241664",
+              "start": 3,
+              "username": "RiAkiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800338973291896944",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800197274552914068",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RiAkiba: 我想破200fol…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1800197274552914068",
+        "created_at": "2024-06-10T16:04:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T17:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800197274552914068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800197274552914068",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想破200fol…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1783,
+          "following_count": 955,
+          "like_count": 80218,
+          "listed_count": 1,
+          "tweet_count": 4682
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "無🚪 不開放順男私訊 其他無限制 自傷｜OD ｜負面 私信查成分回fo",
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1757472407663915244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794188919497732096/e4Wl2ZuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 54,
+          "like_count": 833,
+          "listed_count": 0,
+          "tweet_count": 937
+        },
+        "username": "RiAkiba",
+        "verified": false
+      }
+    ]
+  }
+}

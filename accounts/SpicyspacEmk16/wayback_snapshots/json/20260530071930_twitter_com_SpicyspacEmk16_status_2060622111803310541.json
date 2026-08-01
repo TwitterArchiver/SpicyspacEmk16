@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2060497140695363801",
+    "created_at": "2026-05-30T07:19:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:19:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060622111803310541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1435456448885149697",
+          "start": 0,
+          "username": "rlerobuly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060622111803310541",
+    "in_reply_to_user_id": "1435456448885149697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060555992384016737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rlerobuly 其实最近想看点文艺的东西 但是又会很懒🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2060497140695363801",
+        "created_at": "2026-05-30T07:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060622111803310541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1435456448885149697",
+              "start": 0,
+              "username": "rlerobuly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060622111803310541",
+        "in_reply_to_user_id": "1435456448885149697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060555992384016737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rlerobuly 其实最近想看点文艺的东西 但是又会很懒🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1435456448885149697",
+        "conversation_id": "2060497140695363801",
+        "created_at": "2026-05-30T02:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060555992384016737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060555992384016737",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 416,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060497140695363801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 看爱乐之城，看穿靴子的猫2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2059592833624072261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3196,
+          "following_count": 1524,
+          "like_count": 97175,
+          "listed_count": 6,
+          "media_count": 760,
+          "tweet_count": 10132
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-08T04:14:31.000Z",
+        "description": "NSFW before I lose my looks 📝\n少しだけ危ない、でも優しい。\nenjoy my art… and me ❤️\nDM open/请多回复我的回复哦\n拍摄一些艺术作品，拍摄艺术作品，也记录颜崩前的自己(◦˙▽˙◦)\n双性恋bisexual💖💜💙",
+        "id": "1435456448885149697",
+        "location": "距離你63.7米",
+        "name": "蓝白印花",
+        "pinned_tweet_id": "2022648426689892573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972976043486269440/ZeTa_5sG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34308,
+          "following_count": 332,
+          "like_count": 1308,
+          "listed_count": 155,
+          "media_count": 291,
+          "tweet_count": 4651
+        },
+        "username": "rlerobuly",
+        "verified": true
+      }
+    ]
+  }
+}

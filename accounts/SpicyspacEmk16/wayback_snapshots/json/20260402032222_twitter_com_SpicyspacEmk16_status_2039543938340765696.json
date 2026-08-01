@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2039531662485434491",
+    "created_at": "2026-04-02T03:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039543938340765696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550188270495027200",
+          "start": 0,
+          "username": "Hushlog_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039543938340765696",
+    "in_reply_to_user_id": "1550188270495027200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039531662485434491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hushlog_ 生日快乐🎂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039531654369460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3fO9bbQAAf9s7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2039531662485434491",
+        "created_at": "2026-04-02T03:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039543938340765696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550188270495027200",
+              "start": 0,
+              "username": "Hushlog_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039543938340765696",
+        "in_reply_to_user_id": "1550188270495027200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039531662485434491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hushlog_ 生日快乐🎂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039531654369460224"
+          ]
+        },
+        "author_id": "1550188270495027200",
+        "conversation_id": "2039531662485434491",
+        "created_at": "2026-04-02T02:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039531662485434491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoXhMNiTyW",
+              "end": 46,
+              "expanded_url": "https://x.com/Hushlog_/status/2039531662485434491/photo/1",
+              "media_key": "3_2039531654369460224",
+              "start": 23,
+              "url": "https://t.co/hoXhMNiTyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039531662485434491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实今天是我生日 虽然待在精神病院里没法庆祝 https://t.co/hoXhMNiTyW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2969,
+          "following_count": 1396,
+          "like_count": 92686,
+          "listed_count": 5,
+          "media_count": 751,
+          "tweet_count": 9145
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-21T18:38:02.000Z",
+        "description": "| 双相 | 负能自残🈶 | cn阿树/黄瓜 | 互fo请私信 | 小号 @hushlog35 | 骂我的人都傻逼。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "hushlog35"
+              }
+            ]
+          }
+        },
+        "id": "1550188270495027200",
+        "location": "不幸人间强制收容所",
+        "name": "黄瓜🥒",
+        "pinned_tweet_id": "2004470717052866989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010233524029403136/ue3UJ87A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 136,
+          "like_count": 22256,
+          "listed_count": 5,
+          "media_count": 720,
+          "tweet_count": 6875
+        },
+        "username": "Hushlog_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1843154033542156687",
+    "created_at": "2024-10-08T03:03:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T04:03:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843487463316303907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667927810567184384",
+          "start": 0,
+          "username": "bkbgbmdc8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843487463316303907",
+    "in_reply_to_user_id": "1667927810567184384",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843241480888201325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bkbgbmdc8964 おいしいおいしい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1843154033542156687",
+        "created_at": "2024-10-08T03:03:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T04:03:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843487463316303907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667927810567184384",
+              "start": 0,
+              "username": "bkbgbmdc8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843487463316303907",
+        "in_reply_to_user_id": "1667927810567184384",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843241480888201325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bkbgbmdc8964 おいしいおいしい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1667927810567184384",
+        "conversation_id": "1843154033542156687",
+        "created_at": "2024-10-07T10:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T11:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843241480888201325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843241480888201325",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843154033542156687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 でも赤ちゃんがおいしい🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2297,
+          "following_count": 1096,
+          "like_count": 86700,
+          "listed_count": 2,
+          "tweet_count": 6229
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-11T16:12:44.000Z",
+        "description": "我对诗宝一心一意",
+        "id": "1667927810567184384",
+        "location": "你心里",
+        "name": "谁敢亲小曼波的嘴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842254206100746240/MiRhbifp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 192,
+          "like_count": 178,
+          "listed_count": 0,
+          "tweet_count": 76
+        },
+        "username": "bkbgbmdc8964",
+        "verified": false
+      }
+    ]
+  }
+}

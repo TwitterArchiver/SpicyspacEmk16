@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1820166305561096263",
+    "created_at": "2024-08-05T07:49:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T08:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820366455827021871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813085873598263298",
+          "start": 0,
+          "username": "yswxxl_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820366455827021871",
+    "in_reply_to_user_id": "1813085873598263298",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820166305561096263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yswxxl_2nd 啊真的好能共情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1820166305561096263",
+        "created_at": "2024-08-05T07:49:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T08:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820366455827021871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813085873598263298",
+              "start": 0,
+              "username": "yswxxl_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820366455827021871",
+        "in_reply_to_user_id": "1813085873598263298",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820166305561096263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yswxxl_2nd 啊真的好能共情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813085873598263298",
+        "conversation_id": "1820166305561096263",
+        "created_at": "2024-08-04T18:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T19:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820166305561096263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820166305561096263",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "缓解下半身异物感的方法：穿比较紧的内衣裤束缚，坚持蹲下小便，洗澡时尽量避免低头看见，禁止zw或性行为\n只要我看不见，问题就不存在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814932251697946625/knP0CzEG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1875,
+          "following_count": 1023,
+          "like_count": 84039,
+          "listed_count": 1,
+          "tweet_count": 5589
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T05:39:19.000Z",
+        "description": "困在错误的躯体里的小女孩｜无限期休学中｜163/55｜🍥含糖2024.8｜やっぱりいい女は、タバコと屋上と、そしてヒラヒラ服だわね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "threads.net/@yswxxl",
+                "end": 23,
+                "expanded_url": "https://www.threads.net/@yswxxl",
+                "start": 0,
+                "url": "https://t.co/qMYFqzK2ml"
+              }
+            ]
+          }
+        },
+        "id": "1813085873598263298",
+        "location": "广州华侨医院三号楼二楼东",
+        "name": "有事我先下了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820356703520514049/B8gmJUYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 1290,
+          "like_count": 29,
+          "listed_count": 0,
+          "tweet_count": 55
+        },
+        "url": "https://t.co/qMYFqzK2ml",
+        "username": "yswxxl_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

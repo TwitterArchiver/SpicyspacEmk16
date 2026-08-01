@@ -1,0 +1,147 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1801161304058511653",
+    "created_at": "2024-06-13T10:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T11:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801206246470730103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714570126065119232",
+          "start": 0,
+          "username": "KNOWHOWTOKILL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801206246470730103",
+    "in_reply_to_user_id": "1714570126065119232",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801205957365751870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KNOWHOWTOKILL 🥺🫶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1801205957365751870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1801205957365751870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1801205957365751870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1801161304058511653",
+        "created_at": "2024-06-13T10:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T11:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801206246470730103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714570126065119232",
+              "start": 0,
+              "username": "KNOWHOWTOKILL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801206246470730103",
+        "in_reply_to_user_id": "1714570126065119232",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801205957365751870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KNOWHOWTOKILL 🥺🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 956,
+          "like_count": 80074,
+          "listed_count": 1,
+          "tweet_count": 4706
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T09:13:47.000Z",
+        "description": "",
+        "id": "1714570126065119232",
+        "name": "ㅅ",
+        "pinned_tweet_id": "1791977468989161809",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 12978,
+          "listed_count": 0,
+          "tweet_count": 1840
+        },
+        "username": "KNOWHOWTOKILL",
+        "verified": false
+      }
+    ]
+  }
+}

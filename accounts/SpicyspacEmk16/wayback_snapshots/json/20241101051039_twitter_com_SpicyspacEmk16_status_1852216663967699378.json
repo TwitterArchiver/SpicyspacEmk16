@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1851777170756243940",
+    "created_at": "2024-11-01T05:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T06:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852216663967699378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1712099097728241664",
+          "start": 0,
+          "username": "RiAkiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852216663967699378",
+    "in_reply_to_user_id": "1712099097728241664",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851967732226699686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RiAkiba 宝宝你才是特别特别好看！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1851777170756243940",
+        "created_at": "2024-11-01T05:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T06:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852216663967699378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1712099097728241664",
+              "start": 0,
+              "username": "RiAkiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852216663967699378",
+        "in_reply_to_user_id": "1712099097728241664",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851967732226699686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RiAkiba 宝宝你才是特别特别好看！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712099097728241664",
+        "conversation_id": "1851777170756243940",
+        "created_at": "2024-10-31T12:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T13:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851967732226699686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851967732226699686",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851777170756243940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 畫的好好看！重點是人本身就特別好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1847992196789842211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 1104,
+          "like_count": 86511,
+          "listed_count": 2,
+          "tweet_count": 6398
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T13:34:01.000Z",
+        "description": "看黃男請繞道 成分：自傷｜OD ｜負面 私信查成分回fo 不接爸爸活",
+        "id": "1712099097728241664",
+        "location": "理想的天國",
+        "name": "アキ",
+        "pinned_tweet_id": "1811056882813170168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844335653024301056/CAvzUwHS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 99,
+          "like_count": 2386,
+          "listed_count": 1,
+          "tweet_count": 2174
+        },
+        "username": "RiAkiba",
+        "verified": false
+      }
+    ]
+  }
+}

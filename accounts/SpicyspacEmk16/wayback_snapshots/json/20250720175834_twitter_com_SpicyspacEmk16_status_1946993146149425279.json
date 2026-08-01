@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1946967347727872296",
+    "created_at": "2025-07-20T17:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T18:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946993146149425279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1922496146234077184",
+          "start": 0,
+          "username": "diaolingshan428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946993146149425279",
+    "in_reply_to_user_id": "1922496146234077184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946976826892623878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@diaolingshan428 是的是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1946967347727872296",
+        "created_at": "2025-07-20T17:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T18:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946993146149425279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1922496146234077184",
+              "start": 0,
+              "username": "diaolingshan428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946993146149425279",
+        "in_reply_to_user_id": "1922496146234077184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946976826892623878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@diaolingshan428 是的是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922496146234077184",
+        "conversation_id": "1946967347727872296",
+        "created_at": "2025-07-20T16:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T17:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946976826892623878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946976826892623878",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946967347727872296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 现割的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2746,
+          "following_count": 1279,
+          "like_count": 87798,
+          "listed_count": 2,
+          "media_count": 574,
+          "tweet_count": 7773
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-14T03:36:25.000Z",
+        "description": "mtf/家长反对党/不可爱又不迷人/没有糖糖吃/现居浙江嘉兴嘉善/酒蒙子/没有零花钱/刚从扭转机构出来/疑似抑郁症？/家长连抑郁症都不带我去看党/自残/爱大家",
+        "id": "1922496146234077184",
+        "location": "浙江嘉兴嘉善",
+        "name": "凋零杉🍥",
+        "pinned_tweet_id": "1944054076821712919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944452675438821376/qrqjmwST_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 45,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 241
+        },
+        "username": "diaolingshan428",
+        "verified": false
+      }
+    ]
+  }
+}

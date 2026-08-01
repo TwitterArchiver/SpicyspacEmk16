@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077280723590098944"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077280730636574906",
+    "created_at": "2026-07-15T06:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077280730636574906"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MfHMXpFE9Z",
+          "end": 101,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2077280730636574906/photo/1",
+          "media_key": "3_2077280723590098944",
+          "start": 78,
+          "url": "https://t.co/MfHMXpFE9Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077280730636574906",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷拍猫系女友吃饭 我还想说怪淑女的嘞 \n结果这人突然来了一句能不能写个调教啊 喔去优雅形象瞬间炸了 上一个被吐槽能让人感觉这么残念系美人的甚至是我自己喔去 https://t.co/MfHMXpFE9Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077280723590098944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP7z-xasAAlr3K.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077280723590098944"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077280730636574906",
+        "created_at": "2026-07-15T06:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077280730636574906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfHMXpFE9Z",
+              "end": 101,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2077280730636574906/photo/1",
+              "media_key": "3_2077280723590098944",
+              "start": 78,
+              "url": "https://t.co/MfHMXpFE9Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077280730636574906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷拍猫系女友吃饭 我还想说怪淑女的嘞 \n结果这人突然来了一句能不能写个调教啊 喔去优雅形象瞬间炸了 上一个被吐槽能让人感觉这么残念系美人的甚至是我自己喔去 https://t.co/MfHMXpFE9Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3378,
+          "following_count": 1570,
+          "like_count": 98042,
+          "listed_count": 6,
+          "media_count": 798,
+          "tweet_count": 10438
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

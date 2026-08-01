@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1915837945178951857",
+    "created_at": "2025-04-26T12:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T13:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916106053940613592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916106053940613592",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915837945178951857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 好耶🎊期待加油哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1915837938094772226",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpZsdENbEAIDzs8.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1915837945178951857",
+        "created_at": "2025-04-26T12:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T13:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916106053940613592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916106053940613592",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915837945178951857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 好耶🎊期待加油哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915837938094772226"
+          ]
+        },
+        "author_id": "758296624875446272",
+        "conversation_id": "1915837945178951857",
+        "created_at": "2025-04-25T18:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T19:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915837945178951857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFNV203xXh",
+              "end": 106,
+              "expanded_url": "https://x.com/ShimonaChan/status/1915837945178951857/photo/1",
+              "media_key": "3_1915837938094772226",
+              "start": 83,
+              "url": "https://t.co/JFNV203xXh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915837945178951857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1077,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "霜奈的视觉小说可能会在今年年末开始制作\n制作团队和发行商暂且按下不表。\n主要的世界观、设定和剧情我会从头开始设计，到时候希望能有一个不错的效果呢\n\n可以期待一下了！ https://t.co/JFNV203xXh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 1138,
+          "like_count": 84309,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 7191
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "点击添加个人介绍",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona",
+        "pinned_tweet_id": "1915837945178951857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908534281733103621/Z3HunduE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27130,
+          "following_count": 3456,
+          "like_count": 9341,
+          "listed_count": 27,
+          "media_count": 4038,
+          "tweet_count": 26806
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

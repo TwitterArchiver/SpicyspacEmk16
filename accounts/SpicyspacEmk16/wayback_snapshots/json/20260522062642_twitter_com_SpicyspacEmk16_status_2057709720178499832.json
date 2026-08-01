@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057705689628475459",
+    "created_at": "2026-05-22T06:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057709720178499832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1128010587089264640",
+          "start": 0,
+          "username": "uixxixu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057709720178499832",
+    "in_reply_to_user_id": "1128010587089264640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057705689628475459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uixxixu 天呐大人的脸…我已失去表达能力但是真的只能说是如此神圣的容颜…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1613,
+        "media_key": "3_2057705681780973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walbboAAvKBz.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1577,
+        "media_key": "3_2057705681814519808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5waljbgAAUBvK.jpg",
+        "width": 1145
+      },
+      {
+        "height": 885,
+        "media_key": "3_2057705681776754688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5walabQAA2Ak5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057705689628475459",
+        "created_at": "2026-05-22T06:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057709720178499832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1128010587089264640",
+              "start": 0,
+              "username": "uixxixu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057709720178499832",
+        "in_reply_to_user_id": "1128010587089264640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057705689628475459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uixxixu 天呐大人的脸…我已失去表达能力但是真的只能说是如此神圣的容颜…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057705681780973568",
+            "3_2057705681814519808",
+            "3_2057705681776754688"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2057705689628475459",
+        "created_at": "2026-05-22T06:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057705689628475459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681780973568",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681814519808",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            },
+            {
+              "display_url": "pic.x.com/GWa4mCjAD1",
+              "end": 55,
+              "expanded_url": "https://x.com/uixxixu/status/2057705689628475459/photo/1",
+              "media_key": "3_2057705681776754688",
+              "start": 32,
+              "url": "https://t.co/GWa4mCjAD1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057705689628475459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八重神子\n\n对了健全人不用关注我 \n我只是发发以前的cos照片 https://t.co/GWa4mCjAD1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3171,
+          "following_count": 1489,
+          "like_count": 96510,
+          "listed_count": 6,
+          "media_count": 754,
+          "tweet_count": 10018
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人/精神状态不正常cos只是爱好/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "location": "拓麻歌子星球",
+        "name": "镇静药物全是梦",
+        "pinned_tweet_id": "2055280630083289268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 426,
+          "like_count": 5449,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 3153
+        },
+        "username": "uixxixu",
+        "verified": false
+      }
+    ]
+  }
+}

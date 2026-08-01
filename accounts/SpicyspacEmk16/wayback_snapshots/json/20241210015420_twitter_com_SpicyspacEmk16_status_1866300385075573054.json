@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1866123785365266467",
+    "created_at": "2024-12-10T01:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T02:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866300385075573054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1471440753645793286",
+          "start": 0,
+          "username": "MuyumeKiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866300385075573054",
+    "in_reply_to_user_id": "1471440753645793286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866123785365266467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuyumeKiki 宝宝给我塞了一大堆礼物我幸福死了！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1866123785365266467].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1866123785365266467",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1866123785365266467"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1866123785365266467",
+        "created_at": "2024-12-10T01:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T02:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866300385075573054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1471440753645793286",
+              "start": 0,
+              "username": "MuyumeKiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866300385075573054",
+        "in_reply_to_user_id": "1471440753645793286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866123785365266467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuyumeKiki 宝宝给我塞了一大堆礼物我幸福死了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 彼女@MuyumeKiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "MuyumeKiki"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2352,
+          "following_count": 1112,
+          "like_count": 87531,
+          "listed_count": 2,
+          "media_count": 463,
+          "tweet_count": 6666
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-16T11:23:16.000Z",
+        "description": "你好我是无梦木纪！可以叫我kiki٩( 'ω' )و \n开学日低浮上/自伤/欢迎交友/玻璃心，手抖转帖评论点赞关注不代表个人立场，我求你们了能不能不要单取我玻璃心，会查成分互关🙌我女神我主任@SpicyspacEmk16",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 95,
+                "username": "SpicyspacEmk16"
+              }
+            ]
+          }
+        },
+        "id": "1471440753645793286",
+        "location": "鸽子星",
+        "name": "無夢木紀（入土）",
+        "pinned_tweet_id": "1821775383345172551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864390799158595584/N8JJ4S7K_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2587,
+          "following_count": 617,
+          "like_count": 17586,
+          "listed_count": 25,
+          "media_count": 641,
+          "tweet_count": 10544
+        },
+        "username": "MuyumeKiki",
+        "verified": false
+      }
+    ]
+  }
+}

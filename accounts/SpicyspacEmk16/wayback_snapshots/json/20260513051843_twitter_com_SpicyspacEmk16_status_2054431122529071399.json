@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054371473104757192",
+    "created_at": "2026-05-13T05:18:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T06:18:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054431122529071399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721509979348488192",
+          "start": 0,
+          "username": "HaoyangZ20152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054431122529071399",
+    "in_reply_to_user_id": "1721509979348488192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054421548031971734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HaoyangZ20152 哦no\n要不然拔了）我已经拔了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054371473104757192",
+        "created_at": "2026-05-13T05:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054431122529071399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721509979348488192",
+              "start": 0,
+              "username": "HaoyangZ20152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054431122529071399",
+        "in_reply_to_user_id": "1721509979348488192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054421548031971734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HaoyangZ20152 哦no\n要不然拔了）我已经拔了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721509979348488192",
+        "conversation_id": "2054371473104757192",
+        "created_at": "2026-05-13T04:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T05:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054421548031971734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054421548031971734",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054371473104757192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 我至少有4根...而且正好在刘海上根本藏不住..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1479,
+          "like_count": 96036,
+          "listed_count": 6,
+          "media_count": 792,
+          "tweet_count": 9866
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-06T12:50:25.000Z",
+        "description": "But free doesn't come free",
+        "id": "1721509979348488192",
+        "location": "日本",
+        "name": "STALKER-333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042234772630712320/QiJd4UkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 336,
+          "like_count": 46010,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 716
+        },
+        "username": "HaoyangZ20152",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2069418061413876103",
+    "created_at": "2026-06-25T10:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T11:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070095751968108581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1743304558930235392",
+          "start": 0,
+          "username": "wyul294895"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070095751968108581",
+    "in_reply_to_user_id": "1743304558930235392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069800535100895373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyul294895 对方是翻译对接的这样 谢谢关心 不过她们家好像有认识的朋友已经做完回来了还是鬼迷推我的所以感觉没问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-25T10:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T11:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070095751968108581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1743304558930235392",
+              "start": 0,
+              "username": "wyul294895"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070095751968108581",
+        "in_reply_to_user_id": "1743304558930235392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069800535100895373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyul294895 对方是翻译对接的这样 谢谢关心 不过她们家好像有认识的朋友已经做完回来了还是鬼迷推我的所以感觉没问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743304558930235392",
+        "conversation_id": "2069418061413876103",
+        "created_at": "2026-06-24T15:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069800535100895373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069800535100895373",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069418061413876103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 怎么是用微信预约的，宝宝一定要去正规机构哦，不管国内国外，安全最重要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3371,
+          "following_count": 1568,
+          "like_count": 97708,
+          "listed_count": 6,
+          "media_count": 786,
+          "tweet_count": 10361
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-05T16:13:02.000Z",
+        "description": "墙外做自己",
+        "id": "1743304558930235392",
+        "location": "中国",
+        "name": "月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066955128528416768/JYML9oQj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "wyul294895",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1838750240721244167",
+    "created_at": "2024-09-25T12:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-25T13:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838916438595436781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1540315386931204098",
+          "start": 0,
+          "username": "kyouka_charming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838916438595436781",
+    "in_reply_to_user_id": "1540315386931204098",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838795208416534998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyouka_charming しよね"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1838750240721244167",
+        "created_at": "2024-09-25T12:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T13:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838916438595436781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1540315386931204098",
+              "start": 0,
+              "username": "kyouka_charming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838916438595436781",
+        "in_reply_to_user_id": "1540315386931204098",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838795208416534998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyouka_charming しよね"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838795163604570112"
+          ]
+        },
+        "author_id": "1540315386931204098",
+        "conversation_id": "1838750240721244167",
+        "created_at": "2024-09-25T04:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-25T05:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838795208416534998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9elxwdn0vo",
+              "end": 45,
+              "expanded_url": "https://twitter.com/kyouka_charming/status/1838795208416534998/video/1",
+              "media_key": "7_1838795163604570112",
+              "start": 22,
+              "url": "https://t.co/9eLxwdn0VO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838795208416534998",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838750240721244167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 リスカしよ https://t.co/9eLxwdn0VO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829179256498466819/PDkDzLHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1965,
+          "following_count": 1063,
+          "like_count": 86272,
+          "listed_count": 1,
+          "tweet_count": 6074
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-24T12:46:39.000Z",
+        "description": "大龄女装男子，24/09/11开始HRT，180+25+不问世事的大小姐，北京帝都民，门槛50（请DM，同类不用）。日本語/華语OK。@EdSh_wiki 死ぬほど愛しています",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 67,
+                "username": "EdSh_wiki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kyuuka129?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/kyuuka129?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 0,
+                "url": "https://t.co/RiMq5GSEJ2"
+              }
+            ]
+          }
+        },
+        "id": "1540315386931204098",
+        "location": "繭の部屋",
+        "name": "西園寺✴︎京香🏳️‍⚧️",
+        "pinned_tweet_id": "1831322649659875553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836016248293113856/l4_lh_TP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 482,
+          "like_count": 4406,
+          "listed_count": 0,
+          "tweet_count": 2874
+        },
+        "url": "https://t.co/RiMq5GSEJ2",
+        "username": "kyouka_charming",
+        "verified": false
+      }
+    ]
+  }
+}

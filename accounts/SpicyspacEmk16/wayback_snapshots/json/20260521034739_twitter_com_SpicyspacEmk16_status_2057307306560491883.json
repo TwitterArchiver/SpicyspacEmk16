@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057307298658439168"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2057307306560491883",
+    "created_at": "2026-05-21T03:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T04:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057307306560491883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jbj4WN1Vuk",
+          "end": 164,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057307306560491883/photo/1",
+          "media_key": "3_2057307298658439168",
+          "start": 141,
+          "url": "https://t.co/jbj4WN1Vuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057307306560491883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "列表里混进了一个看黄男😭\n发了条朋友圈问有没有人加我IG 他上来来了一句“我日”“怎么加啊”\n我看到消息问了下是列表里哪位他来了句“我成路边一条了是吧我操”\n然后我就解释说我记得列表亲友感觉都说话不会这个语气感觉不太尊重人\n他回了句“你也没理我你不也不尊重人吗”然后直接给我删了😭\n我真求你了我上课哪有时间天天看手机啊 我鬼迷亲友的消息我都经常来不及回复😭感情对你这种三句不离“我x”的根本不熟的看黄男就要秒回是吧 真神人了"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "列表里混进了一个看黄男😭\n发了条朋友圈问有没有人加我IG 他上来来了一句“我日”“怎么加啊”\n我看到消息问了下是列表里哪位他来了句“我成路边一条了是吧我操”\n然后我就解释说我记得列表亲友感觉都说话不会这个语气感觉不太尊重人\n他回了句“你也没理我你不也不尊重人吗”然后直接给我删了😭 https://t.co/jbj4WN1Vuk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1918,
+        "media_key": "3_2057307298658439168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0GFopa0AABOP5.jpg",
+        "width": 2045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057307298658439168"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057307306560491883",
+        "created_at": "2026-05-21T03:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T04:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057307306560491883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbj4WN1Vuk",
+              "end": 164,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057307306560491883/photo/1",
+              "media_key": "3_2057307298658439168",
+              "start": 141,
+              "url": "https://t.co/jbj4WN1Vuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057307306560491883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "列表里混进了一个看黄男😭\n发了条朋友圈问有没有人加我IG 他上来来了一句“我日”“怎么加啊”\n我看到消息问了下是列表里哪位他来了句“我成路边一条了是吧我操”\n然后我就解释说我记得列表亲友感觉都说话不会这个语气感觉不太尊重人\n他回了句“你也没理我你不也不尊重人吗”然后直接给我删了😭\n我真求你了我上课哪有时间天天看手机啊 我鬼迷亲友的消息我都经常来不及回复😭感情对你这种三句不离“我x”的根本不熟的看黄男就要秒回是吧 真神人了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "列表里混进了一个看黄男😭\n发了条朋友圈问有没有人加我IG 他上来来了一句“我日”“怎么加啊”\n我看到消息问了下是列表里哪位他来了句“我成路边一条了是吧我操”\n然后我就解释说我记得列表亲友感觉都说话不会这个语气感觉不太尊重人\n他回了句“你也没理我你不也不尊重人吗”然后直接给我删了😭 https://t.co/jbj4WN1Vuk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 1479,
+          "like_count": 96499,
+          "listed_count": 6,
+          "media_count": 748,
+          "tweet_count": 9950
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

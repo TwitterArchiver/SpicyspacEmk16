@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2043577636266582333",
+    "created_at": "2026-04-13T06:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043582259819880452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043582259819880452",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043577636266582333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喔去车站搭电梯的时候发现站我前面的女生是同学然后她的包是dimmoire的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 296,
+        "media_key": "3_2043577630491082752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFw_BxBbAAAThZN.jpg",
+        "width": 370
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2043577630491086848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFw_BxBbEAAvJw9.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043577636266582333",
+        "created_at": "2026-04-13T06:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043582259819880452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043582259819880452",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043577636266582333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喔去车站搭电梯的时候发现站我前面的女生是同学然后她的包是dimmoire的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043577630491082752",
+            "3_2043577630491086848"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043577636266582333",
+        "created_at": "2026-04-13T06:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043577636266582333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jaw4VgyVx1",
+              "end": 77,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2043577636266582333/photo/1",
+              "media_key": "3_2043577630491082752",
+              "start": 54,
+              "url": "https://t.co/Jaw4VgyVx1"
+            },
+            {
+              "display_url": "pic.x.com/Jaw4VgyVx1",
+              "end": 77,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2043577636266582333/photo/1",
+              "media_key": "3_2043577630491086848",
+              "start": 54,
+              "url": "https://t.co/Jaw4VgyVx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043577636266582333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这条推文下面发一些学校里或者最近生活中遇到的一些有趣的事情或者是想分享的事情 (随便配一点符合成分的萌图) https://t.co/Jaw4VgyVx1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 1411,
+          "like_count": 93478,
+          "listed_count": 5,
+          "media_count": 769,
+          "tweet_count": 9308
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

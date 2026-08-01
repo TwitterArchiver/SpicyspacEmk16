@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1934870237654172060",
+    "created_at": "2025-06-17T07:06:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T08:06:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934870237654172060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1672120275205525504",
+          "start": 3,
+          "username": "Like_Rosemi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934870237654172060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931012657525715422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Like_Rosemi: 伤口定制/打赏条\n穿刺看部位 具体请小窗问价\n1-3cm大小 凉席1r/刀 真皮5r 脂肪15r\n4-6cm大小 凉席3r/刀 真皮7r 脂肪30r\n部位:手腕 手背 大腿 胸（胸尺寸为B）\n部位价格依次为2r/2r/20r/90r+ 拍视频加…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1934870237654172060].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1934870237654172060",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1934870237654172060"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1931012654300274688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsxVxzRaIAAJ_Wn.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931012654300274688"
+          ]
+        },
+        "author_id": "1672120275205525504",
+        "conversation_id": "1931012657525715422",
+        "created_at": "2025-06-06T15:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T16:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931012657525715422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xb1BOJictO",
+              "end": 165,
+              "expanded_url": "https://x.com/Like_Rosemi/status/1931012657525715422/photo/1",
+              "media_key": "3_1931012654300274688",
+              "start": 142,
+              "url": "https://t.co/Xb1BOJictO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931012657525715422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11910,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "伤口定制/打赏条\n穿刺看部位 具体请小窗问价\n1-3cm大小 凉席1r/刀 真皮5r 脂肪15r\n4-6cm大小 凉席3r/刀 真皮7r 脂肪30r\n部位:手腕 手背 大腿 胸（胸尺寸为B）\n部位价格依次为2r/2r/20r/90r+ 拍视频加价\n有其他要求可以说我定价 要先付一半 https://t.co/Xb1BOJictO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 1267,
+          "like_count": 86348,
+          "listed_count": 2,
+          "media_count": 545,
+          "tweet_count": 7535
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-23T05:52:09.000Z",
+        "description": "🚪52纯绿｜150｜接伤口定制（技术不精dbq）｜互fo不论成分｜od紫餐精神病｜可以叫我鱼鱼｜infp💤｜负能｜小号@LikeRosemi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "LikeRosemi"
+              }
+            ]
+          }
+        },
+        "id": "1672120275205525504",
+        "location": "Kilmarnock, Scotland",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "1931012657525715422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921580753227317248/PtlXMbOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 533,
+          "like_count": 3235,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 557
+        },
+        "username": "Like_Rosemi",
+        "verified": false
+      }
+    ]
+  }
+}

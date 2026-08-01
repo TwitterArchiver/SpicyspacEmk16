@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1989496132859564246",
+    "created_at": "2025-11-15T00:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T01:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989496132859564246"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 111,
+          "normalized_text": "渋谷109店",
+          "probability": 0.5438,
+          "start": 106,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "301370609",
+          "start": 3,
+          "username": "SecretHoney_HB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989496132859564246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 368
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989166408908042744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SecretHoney_HB: KUROMI×SHIBUYA109 Collaboration Item\n\n11/15(土)より！\nクロミになりきれちゃう🖤\n360度映えるクロミコラボのセットアップを\n渋谷109店にて販売❕🎀\n\nクロミコラボセットアップ\n\n詳細⇒htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1989161179139436553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5rrjauacAk7HqC.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1989496132859564246",
+        "created_at": "2025-11-15T00:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T01:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989496132859564246"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 111,
+              "normalized_text": "渋谷109店",
+              "probability": 0.5438,
+              "start": 106,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "301370609",
+              "start": 3,
+              "username": "SecretHoney_HB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989496132859564246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989166408908042744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SecretHoney_HB: KUROMI×SHIBUYA109 Collaboration Item\n\n11/15(土)より！\nクロミになりきれちゃう🖤\n360度映えるクロミコラボのセットアップを\n渋谷109店にて販売❕🎀\n\nクロミコラボセットアップ\n\n詳細⇒htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989161179139436553"
+          ]
+        },
+        "author_id": "301370609",
+        "conversation_id": "1989166408908042744",
+        "created_at": "2025-11-14T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989166408908042744"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "渋谷109店",
+              "probability": 0.5159,
+              "start": 86,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 167,
+              "start": 155,
+              "tag": "secrethoney"
+            },
+            {
+              "end": 173,
+              "start": 168,
+              "tag": "シーハニ"
+            },
+            {
+              "end": 184,
+              "start": 174,
+              "tag": "シークレットハニー"
+            },
+            {
+              "end": 189,
+              "start": 185,
+              "tag": "クロミ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BLOG。SHIBUYA109の公式サイト。渋谷をはじめ全国の109 情報やトレンド情報はもちろん、人気ショップ／ブランドの最新ファッションや新作、人気、おすすめアイテムをお届け",
+              "display_url": "x.gd/sGZXu",
+              "end": 139,
+              "expanded_url": "https://x.gd/sGZXu",
+              "images": [
+                {
+                  "height": 550,
+                  "url": "https://pbs.twimg.com/news_img/1988449852687347712/N1Xy0t9t?format=jpg&name=orig",
+                  "width": 782
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1988449852687347712/N1Xy0t9t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "BLOG｜SHIBUYA109｜渋谷 109",
+              "unwound_url": "https://www.shibuya109.jp/blog/?pi3=369024",
+              "url": "https://t.co/ECwZgLA3My"
+            },
+            {
+              "display_url": "pic.x.com/ky2GXFEoxh",
+              "end": 213,
+              "expanded_url": "https://x.com/SecretHoney_HB/status/1989166408908042744/photo/1",
+              "media_key": "3_1989161179139436553",
+              "start": 190,
+              "url": "https://t.co/ky2GXFEoxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989166408908042744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 253,
+          "impression_count": 82203,
+          "like_count": 2234,
+          "quote_count": 179,
+          "reply_count": 1,
+          "retweet_count": 368
+        },
+        "reply_settings": "everyone",
+        "text": "KUROMI×SHIBUYA109 Collaboration Item\n\n11/15(土)より！\nクロミになりきれちゃう🖤\n360度映えるクロミコラボのセットアップを\n渋谷109店にて販売❕🎀\n\nクロミコラボセットアップ\n\n詳細⇒https://t.co/ECwZgLA3My\n\n※カチューシャは参考商品\n\n#secrethoney\n#シーハニ\n#シークレットハニー\n#クロミ https://t.co/ky2GXFEoxh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1311,
+          "like_count": 88009,
+          "listed_count": 3,
+          "media_count": 659,
+          "tweet_count": 8338
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-19T10:50:10.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "est-s.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.est-s.co.jp/",
+                "start": 0,
+                "url": "https://t.co/s63sekq96A"
+              }
+            ]
+          }
+        },
+        "id": "301370609",
+        "name": "シークレットハニー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1318480137990467584/8ApZNcz9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62880,
+          "following_count": 159,
+          "like_count": 2433,
+          "listed_count": 1345,
+          "media_count": 8920,
+          "tweet_count": 10401
+        },
+        "url": "https://t.co/s63sekq96A",
+        "username": "SecretHoney_HB",
+        "verified": false
+      }
+    ]
+  }
+}

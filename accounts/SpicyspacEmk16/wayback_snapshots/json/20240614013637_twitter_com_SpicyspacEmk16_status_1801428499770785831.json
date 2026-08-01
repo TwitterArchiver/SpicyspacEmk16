@@ -1,0 +1,85 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1801428499770785831",
+    "created_at": "2024-06-14T01:36:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-14T02:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1801428499770785831"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1801428499770785831",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给几个特别好的宝宝开了小铃铛！！！\n真的是靠着ta们给的动力活着❤️‍🩹\n就差暗恋了好吧\n是谁我不说\n但是猜到了会说（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1801428499770785831",
+        "created_at": "2024-06-14T01:36:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-14T02:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1801428499770785831"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1801428499770785831",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给几个特别好的宝宝开了小铃铛！！！\n真的是靠着ta们给的动力活着❤️‍🩹\n就差暗恋了好吧\n是谁我不说\n但是猜到了会说（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス也可以叫瞳👁️/大阪留子🇯🇵/mtf/半个生活推/ 本垢けどマジ病み垢 躁うつあるけど@偶尔掉落血图🩸 欢迎找我玩 欢迎互fo 有努力变好",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796077039394717696/LZfpTvZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 954,
+          "like_count": 80113,
+          "listed_count": 1,
+          "tweet_count": 4712
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      }
+    ]
+  }
+}

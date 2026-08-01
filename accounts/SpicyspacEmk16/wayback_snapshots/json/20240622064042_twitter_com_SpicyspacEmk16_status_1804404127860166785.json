@@ -1,0 +1,198 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1804378302259535872",
+    "created_at": "2024-06-22T06:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T07:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804404127860166785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793962473256591360",
+          "start": 0,
+          "username": "yzYZaaQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804404127860166785",
+    "in_reply_to_user_id": "1793962473256591360",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804378302259535872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzYZaaQwQ p2椅子绝世容颜\n帅死了🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1804378302259535872",
+        "created_at": "2024-06-22T06:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T07:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804404127860166785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793962473256591360",
+              "start": 0,
+              "username": "yzYZaaQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804404127860166785",
+        "in_reply_to_user_id": "1793962473256591360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804378302259535872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzYZaaQwQ p2椅子绝世容颜\n帅死了🥺🥺"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1804378293321502720",
+            "3_1804378293334085632"
+          ]
+        },
+        "author_id": "1793962473256591360",
+        "conversation_id": "1804378302259535872",
+        "created_at": "2024-06-22T04:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T05:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804378302259535872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/iGMzUwhY4A",
+              "end": 80,
+              "expanded_url": "https://twitter.com/yzYZaaQwQ/status/1804378302259535872/photo/1",
+              "media_key": "3_1804378293321502720",
+              "start": 57,
+              "url": "https://t.co/iGMzUwhY4A"
+            },
+            {
+              "display_url": "pic.twitter.com/iGMzUwhY4A",
+              "end": 80,
+              "expanded_url": "https://twitter.com/yzYZaaQwQ/status/1804378302259535872/photo/1",
+              "media_key": "3_1804378293334085632",
+              "start": 57,
+              "url": "https://t.co/iGMzUwhY4A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804378302259535872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老婆这样说\n第一张这个表情好呆啊\n我：（重新拍\n第二张啊正常了～\n感觉瑞老师口味好奇怪为什么喜欢阴暗冷脸宅女（ https://t.co/iGMzUwhY4A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|mtf性同一性障害|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801678369878380546/jhHX--ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 964,
+          "like_count": 80898,
+          "listed_count": 1,
+          "tweet_count": 4840
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T11:09:39.000Z",
+        "description": "Death is just the beginning 此号刷推and碎碎念 互联网分身：@Yii1Zzz_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "Yii1Zzz_"
+              }
+            ]
+          }
+        },
+        "id": "1793962473256591360",
+        "name": "抗焦藥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799549887949987840/NcILrYmP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 229,
+          "like_count": 1603,
+          "listed_count": 0,
+          "tweet_count": 584
+        },
+        "username": "yzYZaaQwQ",
+        "verified": false
+      }
+    ]
+  }
+}

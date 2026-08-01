@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2074467729751568523",
+    "created_at": "2026-07-07T21:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074610882408333758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817857473233235968",
+          "start": 0,
+          "username": "akuno_1748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074610882408333758",
+    "in_reply_to_user_id": "1817857473233235968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074467729751568523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akuno_1748 小川一定要好好的…担心你"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9936,
+        "height": 960,
+        "media_key": "13_2074467643747348480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074467643747348480/img/XjrvQRjBhqwTd6qc.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074467643747348480/vid/avc1/320x426/hd-h7kepTRmSJZhA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074467643747348480/vid/avc1/480x640/y41pxSIefalUW4Ag.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074467643747348480/vid/avc1/720x960/RvZOSaNEMTpDEDFw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074467643747348480/pl/oC1m5jpDVqnIusZm.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2074467729751568523",
+        "created_at": "2026-07-07T21:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074610882408333758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817857473233235968",
+              "start": 0,
+              "username": "akuno_1748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074610882408333758",
+        "in_reply_to_user_id": "1817857473233235968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074467729751568523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akuno_1748 小川一定要好好的…担心你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074467643747348480"
+          ]
+        },
+        "author_id": "1817857473233235968",
+        "conversation_id": "2074467729751568523",
+        "created_at": "2026-07-07T12:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074467729751568523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iEi0HINNeN",
+              "end": 32,
+              "expanded_url": "https://x.com/akuno_1748/status/2074467729751568523/video/1",
+              "media_key": "13_2074467643747348480",
+              "start": 9,
+              "url": "https://t.co/iEi0HINNeN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074467729751568523",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不要再回去了。 https://t.co/iEi0HINNeN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3381,
+          "following_count": 1573,
+          "like_count": 97767,
+          "listed_count": 6,
+          "media_count": 795,
+          "tweet_count": 10412
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T09:39:56.000Z",
+        "description": "消えろ",
+        "id": "1817857473233235968",
+        "name": "サクノ",
+        "pinned_tweet_id": "1819674540580229189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040027770798088192/BU3wAlJq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 50,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "akuno_1748",
+        "verified": false
+      }
+    ]
+  }
+}

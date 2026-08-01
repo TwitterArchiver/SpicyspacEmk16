@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057312036305158144"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057312042219118972",
+    "created_at": "2026-05-21T04:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T05:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057312042219118972"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2uHcZnGi7",
+          "end": 155,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057312042219118972/photo/1",
+          "media_key": "3_2057312036305158144",
+          "start": 132,
+          "url": "https://t.co/W2uHcZnGi7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057312042219118972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现一个很抽象但是很地狱的事情\n之前刚刚开学那几天我有看到学校里有蕾蕾子同学 但是最近明明是同样时间段的课却完全看不到了\n想了下突然意识到很有可能是经过两个月的课程对方的一些双相抑郁精分之类的精神类疾病严重复发导致没力气来学校😭莫名好心疼\n希望对方可以早日恢复吧 https://t.co/W2uHcZnGi7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057312036305158144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0KZZwawAAgLhf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057312036305158144"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057312042219118972",
+        "created_at": "2026-05-21T04:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T05:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057312042219118972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2uHcZnGi7",
+              "end": 155,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057312042219118972/photo/1",
+              "media_key": "3_2057312036305158144",
+              "start": 132,
+              "url": "https://t.co/W2uHcZnGi7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057312042219118972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个很抽象但是很地狱的事情\n之前刚刚开学那几天我有看到学校里有蕾蕾子同学 但是最近明明是同样时间段的课却完全看不到了\n想了下突然意识到很有可能是经过两个月的课程对方的一些双相抑郁精分之类的精神类疾病严重复发导致没力气来学校😭莫名好心疼\n希望对方可以早日恢复吧 https://t.co/W2uHcZnGi7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3168,
+          "following_count": 1480,
+          "like_count": 96535,
+          "listed_count": 6,
+          "media_count": 749,
+          "tweet_count": 9960
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

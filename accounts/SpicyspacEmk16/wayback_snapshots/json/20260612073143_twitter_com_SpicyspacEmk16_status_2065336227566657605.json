@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2065312134217777312",
+    "created_at": "2026-06-12T07:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T08:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065336227566657605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2044068992491585536",
+          "start": 0,
+          "username": "Lingling527527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065336227566657605",
+    "in_reply_to_user_id": "2044068992491585536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065312134217777312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingling527527 真皮好爱！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065312123664863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl2bxlaEAAWqpg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2065312134217777312",
+        "created_at": "2026-06-12T07:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065336227566657605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2044068992491585536",
+              "start": 0,
+              "username": "Lingling527527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065336227566657605",
+        "in_reply_to_user_id": "2044068992491585536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065312134217777312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingling527527 真皮好爱！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065312123664863232"
+          ]
+        },
+        "author_id": "2044068992491585536",
+        "conversation_id": "2065312134217777312",
+        "created_at": "2026-06-12T05:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065312134217777312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jH1DKfkxOR",
+              "end": 28,
+              "expanded_url": "https://x.com/Lingling527527/status/2065312134217777312/photo/1",
+              "media_key": "3_2065312123664863232",
+              "start": 5,
+              "url": "https://t.co/jH1DKfkxOR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065312134217777312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重发？！ https://t.co/jH1DKfkxOR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 1550,
+          "like_count": 97374,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 10228
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T15:03:53.000Z",
+        "description": "11/od/自残/cos/双相/重抑/重焦\n什么都发 ip武汉可以来找我玩\n^-^ 一个很温柔的od妹^-^\n训小狗大师 已有主人\n看成分互fo",
+        "id": "2044068992491585536",
+        "location": "青少年灾难",
+        "name": "Lingling527",
+        "pinned_tweet_id": "2058242546682544548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065297819804790784/8vnHn0ra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 148,
+          "like_count": 1073,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 231
+        },
+        "username": "Lingling527527",
+        "verified": false
+      }
+    ]
+  }
+}

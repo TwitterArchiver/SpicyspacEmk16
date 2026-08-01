@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068550787152928768"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2064576558476808397",
+    "created_at": "2026-06-21T04:25:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068550792278388808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1733159160270012416",
+          "start": 0,
+          "username": "XQLPY"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sagkDcuXU6",
+          "end": 35,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2068550792278388808/photo/1",
+          "media_key": "3_2068550787152928768",
+          "start": 12,
+          "url": "https://t.co/sagkDcuXU6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068550792278388808",
+    "in_reply_to_user_id": "1733159160270012416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068536200089178354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XQLPY 经典位置 https://t.co/sagkDcuXU6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1724,
+        "media_key": "3_2068550787152928768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLT3-zQa4AAdeHe.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068550787152928768"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2064576558476808397",
+        "created_at": "2026-06-21T04:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068550792278388808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1733159160270012416",
+              "start": 0,
+              "username": "XQLPY"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sagkDcuXU6",
+              "end": 35,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2068550792278388808/photo/1",
+              "media_key": "3_2068550787152928768",
+              "start": 12,
+              "url": "https://t.co/sagkDcuXU6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068550792278388808",
+        "in_reply_to_user_id": "1733159160270012416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068536200089178354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XQLPY 经典位置 https://t.co/sagkDcuXU6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733159160270012416",
+        "conversation_id": "2064576558476808397",
+        "created_at": "2026-06-21T03:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T04:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068536200089178354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068536200089178354",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064576558476808397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 在大久保公园哪里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3244,
+          "following_count": 1553,
+          "like_count": 97616,
+          "listed_count": 6,
+          "media_count": 778,
+          "tweet_count": 10292
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T16:19:03.000Z",
+        "description": "",
+        "id": "1733159160270012416",
+        "name": "鹿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767885064338341888/1Ox15I52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 830,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "XQLPY",
+        "verified": false
+      }
+    ]
+  }
+}

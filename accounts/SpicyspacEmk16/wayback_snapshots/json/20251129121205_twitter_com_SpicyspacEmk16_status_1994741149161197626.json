@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1994597260089557312",
+    "created_at": "2025-11-29T12:12:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T13:12:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994741149161197626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944839793533444098",
+          "start": 0,
+          "username": "mangoqwq404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994741149161197626",
+    "in_reply_to_user_id": "1944839793533444098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994736867112317218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mangoqwq404 谢谢你呀宝宝 一定会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1994597260089557312",
+        "created_at": "2025-11-29T12:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T13:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994741149161197626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944839793533444098",
+              "start": 0,
+              "username": "mangoqwq404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994741149161197626",
+        "in_reply_to_user_id": "1944839793533444098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994736867112317218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mangoqwq404 谢谢你呀宝宝 一定会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944839793533444098",
+        "conversation_id": "1994597260089557312",
+        "created_at": "2025-11-29T11:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T12:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994736867112317218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994736867112317218",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994597260089557312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 不会的。。。肯定超痛。骨折的痛。。。幸福一定会等着我们😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1336,
+          "like_count": 89580,
+          "listed_count": 3,
+          "media_count": 681,
+          "tweet_count": 8506
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-14T19:22:05.000Z",
+        "description": "：我是一位友好的伪人。话语中会出现混乱及颠倒、错字。请多多包庇，还在学习人类的言语方式中。\n我和p哥已经认识快十年了，我来这里是碎碎念疏解感情的，不是来约的不是来约的不是来约的",
+        "id": "1944839793533444098",
+        "location": "野猫的寿命在三年左右",
+        "name": "Mango",
+        "pinned_tweet_id": "1990373989966106947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990373044137914369/vi3qIJ_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 38,
+          "like_count": 1415,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 755
+        },
+        "username": "mangoqwq404",
+        "verified": false
+      }
+    ]
+  }
+}

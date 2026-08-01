@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056298831822934016"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2056298838814785694",
+    "created_at": "2026-05-18T09:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T10:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056298838814785694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8GHa647ZGC",
+          "end": 52,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2056298838814785694/photo/1",
+          "media_key": "3_2056298831822934016",
+          "start": 29,
+          "url": "https://t.co/8GHa647ZGC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056298838814785694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个耳机盒真的完美的体现了我对右美忠贞不渝的爱！！！😈🫶 https://t.co/8GHa647ZGC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2056298831822934016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlw5I7bUAAYIKb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056298831822934016"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2056298838814785694",
+        "created_at": "2026-05-18T09:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T10:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056298838814785694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GHa647ZGC",
+              "end": 52,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2056298838814785694/photo/1",
+              "media_key": "3_2056298831822934016",
+              "start": 29,
+              "url": "https://t.co/8GHa647ZGC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056298838814785694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个耳机盒真的完美的体现了我对右美忠贞不渝的爱！！！😈🫶 https://t.co/8GHa647ZGC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3161,
+          "following_count": 1476,
+          "like_count": 96200,
+          "listed_count": 6,
+          "media_count": 774,
+          "tweet_count": 9904
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

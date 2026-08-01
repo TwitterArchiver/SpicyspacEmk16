@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1913516174706692436",
+    "created_at": "2025-04-20T00:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T01:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913747623175233788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1509541459313180678",
+          "start": 0,
+          "username": "Erq279600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913747623175233788",
+    "in_reply_to_user_id": "1509541459313180678",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913564754305859592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erq279600 抱抱宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-20T00:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T01:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913747623175233788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1509541459313180678",
+              "start": 0,
+              "username": "Erq279600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913747623175233788",
+        "in_reply_to_user_id": "1509541459313180678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913564754305859592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erq279600 抱抱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509541459313180678",
+        "conversation_id": "1913516174706692436",
+        "created_at": "2025-04-19T12:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T13:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913564754305859592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913564754305859592",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913516174706692436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2475,
+          "following_count": 1089,
+          "like_count": 84266,
+          "listed_count": 3,
+          "media_count": 508,
+          "tweet_count": 7110
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T14:41:52.000Z",
+        "description": "永远喜欢芙兰朵露.",
+        "id": "1509541459313180678",
+        "location": "距离1.3km",
+        "name": "二奇.",
+        "pinned_tweet_id": "1690778752090079232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876907153585545216/dYnI741Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 2792,
+          "like_count": 36659,
+          "listed_count": 4,
+          "media_count": 1154,
+          "tweet_count": 9344
+        },
+        "username": "Erq279600",
+        "verified": false
+      }
+    ]
+  }
+}

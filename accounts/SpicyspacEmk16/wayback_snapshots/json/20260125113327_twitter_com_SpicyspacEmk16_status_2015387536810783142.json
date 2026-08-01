@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015366130014076928",
+        "3_2015366130135674880"
+      ],
+      "media_source_tweet_id": [
+        "2015366153091125664",
+        "2015366153091125664"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2015387536810783142",
+    "created_at": "2026-01-25T11:33:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T12:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015387536810783142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1636367050812833794",
+          "start": 3,
+          "username": "ao_1128hige"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kZr7Y3mzfE",
+          "end": 90,
+          "expanded_url": "https://x.com/ao_1128hige/status/2015366153091125664/photo/1",
+          "media_key": "3_2015366130014076928",
+          "start": 67,
+          "url": "https://t.co/kZr7Y3mzfE"
+        },
+        {
+          "display_url": "pic.x.com/kZr7Y3mzfE",
+          "end": 90,
+          "expanded_url": "https://x.com/ao_1128hige/status/2015366153091125664/photo/1",
+          "media_key": "3_2015366130135674880",
+          "start": 67,
+          "url": "https://t.co/kZr7Y3mzfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015387536810783142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015366153091125664",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ao_1128hige: 我是蕾我重生了我想找回前世的互关大家助力一下好吗 能力有限🧱这条就抽一个宝宝送一盒150的橙普TT https://t.co/kZr7Y3mzfE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2015387536810783142].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2015387536810783142",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2015387536810783142"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2015366130014076928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gE0T_XwAAnuen.jpg",
+        "width": 1079
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2015366130135674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_gE0UcXMAAjrAb.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015366130014076928",
+            "3_2015366130135674880"
+          ]
+        },
+        "author_id": "1636367050812833794",
+        "conversation_id": "2015366153091125664",
+        "created_at": "2026-01-25T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015366153091125664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kZr7Y3mzfE",
+              "end": 73,
+              "expanded_url": "https://x.com/ao_1128hige/status/2015366153091125664/photo/1",
+              "media_key": "3_2015366130014076928",
+              "start": 50,
+              "url": "https://t.co/kZr7Y3mzfE"
+            },
+            {
+              "display_url": "pic.x.com/kZr7Y3mzfE",
+              "end": 73,
+              "expanded_url": "https://x.com/ao_1128hige/status/2015366153091125664/photo/1",
+              "media_key": "3_2015366130135674880",
+              "start": 50,
+              "url": "https://t.co/kZr7Y3mzfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015366153091125664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 287,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是蕾我重生了我想找回前世的互关大家助力一下好吗 能力有限🧱这条就抽一个宝宝送一盒150的橙普TT https://t.co/kZr7Y3mzfE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 1361,
+          "like_count": 91075,
+          "listed_count": 4,
+          "media_count": 728,
+          "tweet_count": 8904
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-16T14:01:38.000Z",
+        "description": "=蕾 160/50kg｜🚪88/188/288/520 过门私信口令或扫置顶赞赏码 过任意门槛咨询线下  爱我请给我打钱让我生活好一点🥺｜现接代购普瑞 详情走私信咨询｜女朋友@Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1636367050812833794",
+        "name": "レイ(找我代购普瑞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015362891545821184/tArdUVwY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 1,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "username": "ao_1128hige",
+        "verified": false
+      }
+    ]
+  }
+}

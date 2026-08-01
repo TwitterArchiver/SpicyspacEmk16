@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930465085547524100",
+        "3_1930465085547524096"
+      ],
+      "media_source_tweet_id": [
+        "1930465107534066160",
+        "1930465107534066160"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1930465158796849365",
+    "created_at": "2025-06-05T03:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T04:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930465158796849365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1645146209177460736",
+          "start": 3,
+          "username": "yanhua015220561"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ags1G1ktN",
+          "end": 49,
+          "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+          "media_key": "3_1930465085547524100",
+          "start": 26,
+          "url": "https://t.co/6ags1G1ktN"
+        },
+        {
+          "display_url": "pic.x.com/6ags1G1ktN",
+          "end": 49,
+          "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+          "media_key": "3_1930465085547524096",
+          "start": 26,
+          "url": "https://t.co/6ags1G1ktN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930465158796849365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930465107534066160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yanhua015220561: （破碎） https://t.co/6ags1G1ktN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1930465085547524100",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspjxGtasAQIFzP.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1930465085547524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GspjxGtasAADxzH.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930465085547524100",
+            "3_1930465085547524096"
+          ],
+          "media_source_tweet_id": [
+            "1930465107534066160",
+            "1930465107534066160"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930465158796849365",
+        "created_at": "2025-06-05T03:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930465158796849365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1645146209177460736",
+              "start": 3,
+              "username": "yanhua015220561"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ags1G1ktN",
+              "end": 49,
+              "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+              "media_key": "3_1930465085547524100",
+              "start": 26,
+              "url": "https://t.co/6ags1G1ktN"
+            },
+            {
+              "display_url": "pic.x.com/6ags1G1ktN",
+              "end": 49,
+              "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+              "media_key": "3_1930465085547524096",
+              "start": 26,
+              "url": "https://t.co/6ags1G1ktN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930465158796849365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930465107534066160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yanhua015220561: （破碎） https://t.co/6ags1G1ktN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930465085547524100",
+            "3_1930465085547524096"
+          ]
+        },
+        "author_id": "1645146209177460736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1930465107534066160",
+        "created_at": "2025-06-05T03:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T04:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930465107534066160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ags1G1ktN",
+              "end": 28,
+              "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+              "media_key": "3_1930465085547524100",
+              "start": 5,
+              "url": "https://t.co/6ags1G1ktN"
+            },
+            {
+              "display_url": "pic.x.com/6ags1G1ktN",
+              "end": 28,
+              "expanded_url": "https://x.com/yanhua015220561/status/1930465107534066160/photo/1",
+              "media_key": "3_1930465085547524096",
+              "start": 5,
+              "url": "https://t.co/6ags1G1ktN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930465107534066160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "（破碎） https://t.co/6ags1G1ktN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1255,
+          "like_count": 86145,
+          "listed_count": 3,
+          "media_count": 536,
+          "tweet_count": 7478
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-09T19:26:57.000Z",
+        "description": "我叫墨恒/0s/06在校/男同/🚪30/喜欢喝酒/当朋友圈发/偶尔od/直男别来/喜欢温柔的人/重抑/喜发疯/女生随便扩/男生入门互关宝宝不用/接爸爸活妈妈活/坐标郑州/烟是三盒起送不包邮/十盒包邮哦",
+        "id": "1645146209177460736",
+        "location": "Osaka-shi Chuo, Osaka",
+        "name": "墨恒（烟代）",
+        "pinned_tweet_id": "1760236924433052151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780314652322471937/mQDLv4EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 745,
+          "following_count": 232,
+          "like_count": 5195,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 779
+        },
+        "username": "yanhua015220561",
+        "verified": false
+      }
+    ]
+  }
+}

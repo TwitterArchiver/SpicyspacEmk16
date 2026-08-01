@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895877335825391616"
+      ],
+      "media_source_tweet_id": [
+        "1895877342649860571"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1896400769240486171",
+    "created_at": "2025-03-03T03:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T04:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896400769240486171"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "cos"
+        },
+        {
+          "end": 36,
+          "start": 28,
+          "tag": "cosplay"
+        },
+        {
+          "end": 40,
+          "start": 37,
+          "tag": "男娘"
+        },
+        {
+          "end": 44,
+          "start": 41,
+          "tag": "门槛"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "金主"
+        },
+        {
+          "end": 53,
+          "start": 49,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 60,
+          "start": 54,
+          "tag": "cos委托"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1771825079711883264",
+          "start": 3,
+          "username": "rainsluvkwi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RL41fqoCIu",
+          "end": 84,
+          "expanded_url": "https://x.com/rainsluvkwi/status/1895877342649860571/photo/1",
+          "media_key": "3_1895877335825391616",
+          "start": 61,
+          "url": "https://t.co/RL41fqoCIu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896400769240486171",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895877342649860571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rainsluvkwi: 置顶1.0\n#cos #cosplay #男娘 #门槛 #金主 #爸爸活 #cos委托 https://t.co/RL41fqoCIu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 806,
+        "media_key": "3_1895877335825391616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gk-CZGOWIAAsYYy.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895877335825391616"
+          ],
+          "media_source_tweet_id": [
+            "1895877342649860571"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1896400769240486171",
+        "created_at": "2025-03-03T03:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T04:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896400769240486171"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "cos"
+            },
+            {
+              "end": 36,
+              "start": 28,
+              "tag": "cosplay"
+            },
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "男娘"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "门槛"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "金主"
+            },
+            {
+              "end": 53,
+              "start": 49,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 60,
+              "start": 54,
+              "tag": "cos委托"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1771825079711883264",
+              "start": 3,
+              "username": "rainsluvkwi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL41fqoCIu",
+              "end": 84,
+              "expanded_url": "https://x.com/rainsluvkwi/status/1895877342649860571/photo/1",
+              "media_key": "3_1895877335825391616",
+              "start": 61,
+              "url": "https://t.co/RL41fqoCIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896400769240486171",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895877342649860571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rainsluvkwi: 置顶1.0\n#cos #cosplay #男娘 #门槛 #金主 #爸爸活 #cos委托 https://t.co/RL41fqoCIu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895877335825391616"
+          ]
+        },
+        "author_id": "1771825079711883264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1895877342649860571",
+        "created_at": "2025-03-01T16:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T17:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895877342649860571"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 6,
+              "tag": "cos"
+            },
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "cosplay"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "男娘"
+            },
+            {
+              "end": 27,
+              "start": 24,
+              "tag": "门槛"
+            },
+            {
+              "end": 31,
+              "start": 28,
+              "tag": "金主"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 43,
+              "start": 37,
+              "tag": "cos委托"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RL41fqoCIu",
+              "end": 67,
+              "expanded_url": "https://x.com/rainsluvkwi/status/1895877342649860571/photo/1",
+              "media_key": "3_1895877335825391616",
+              "start": 44,
+              "url": "https://t.co/RL41fqoCIu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895877342649860571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1031,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "置顶1.0\n#cos #cosplay #男娘 #门槛 #金主 #爸爸活 #cos委托 https://t.co/RL41fqoCIu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 1094,
+          "like_count": 84188,
+          "listed_count": 3,
+          "media_count": 493,
+          "tweet_count": 6926
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-24T09:03:20.000Z",
+        "description": "🚪50 其他业务请私信过门后问哦w",
+        "id": "1771825079711883264",
+        "name": "Kuru",
+        "pinned_tweet_id": "1895877342649860571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895900090025590784/KMJuF6iG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 18,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 10
+        },
+        "username": "rainsluvkwi",
+        "verified": false
+      }
+    ]
+  }
+}

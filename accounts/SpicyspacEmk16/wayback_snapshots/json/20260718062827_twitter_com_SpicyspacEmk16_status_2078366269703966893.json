@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2078123708108165313",
+    "created_at": "2026-07-18T06:28:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T07:28:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078366269703966893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1530546999891828737",
+          "start": 0,
+          "username": "xzlqsaki_UvU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078366269703966893",
+    "in_reply_to_user_id": "1530546999891828737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078123708108165313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzlqsaki_UvU 感觉用固色洗发水也会疯狂掉色哭死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2078123700373852160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb6fsAakAArVN6.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2078123708108165313",
+        "created_at": "2026-07-18T06:28:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T07:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078366269703966893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1530546999891828737",
+              "start": 0,
+              "username": "xzlqsaki_UvU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078366269703966893",
+        "in_reply_to_user_id": "1530546999891828737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078123708108165313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzlqsaki_UvU 感觉用固色洗发水也会疯狂掉色哭死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078123700373852160"
+          ]
+        },
+        "author_id": "1530546999891828737",
+        "conversation_id": "2078123708108165313",
+        "created_at": "2026-07-17T14:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078123708108165313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doNWAPDQlb",
+              "end": 39,
+              "expanded_url": "https://x.com/xzlqsaki_UvU/status/2078123708108165313/photo/1",
+              "media_key": "3_2078123700373852160",
+              "start": 16,
+              "url": "https://t.co/doNWAPDQlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078123708108165313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 192,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补药再掉色了口牙我心爱的小粉毛 https://t.co/doNWAPDQlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 1566,
+          "like_count": 98149,
+          "listed_count": 6,
+          "media_count": 802,
+          "tweet_count": 10463
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-28T13:50:26.000Z",
+        "description": "本账号的使用者是一只咪🐈‍⬛\n欢迎来到我的日常UvU\n放置一只超级无敌小狗王🐶镇守本咪的主页🐈‍⬛😈@qinzaicleo34",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "qinzaicleo34"
+              }
+            ]
+          }
+        },
+        "id": "1530546999891828737",
+        "location": "ぜひ私を愛してくださいね……",
+        "name": "小泽saki",
+        "pinned_tweet_id": "2078362105556967787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013133748142043136/VN0_zPMP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 122,
+          "like_count": 34046,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 5389
+        },
+        "url": "",
+        "username": "xzlqsaki_UvU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1794601009777635658",
+    "created_at": "2024-05-26T15:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T16:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794746185842078029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1475129174763479044",
+          "start": 0,
+          "username": "PH_Starry_Night"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794746185842078029",
+    "in_reply_to_user_id": "1475129174763479044",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794744885859496284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PH_Starry_Night 的确就是了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1794601009777635658",
+        "created_at": "2024-05-26T15:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794746185842078029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1475129174763479044",
+              "start": 0,
+              "username": "PH_Starry_Night"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794746185842078029",
+        "in_reply_to_user_id": "1475129174763479044",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794744885859496284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PH_Starry_Night 的确就是了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1475129174763479044",
+        "conversation_id": "1794601009777635658",
+        "created_at": "2024-05-26T14:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T15:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794744885859496284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794744885859496284",
+        "in_reply_to_user_id": "1475129174763479044",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794744816082760043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 感觉有些似曾相识呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是ss或者スス/大阪留子🇯🇵/mtf/是半个生活推/ 本垢けど病み垢 浅浅有个双相 偶尔掉落血图🩸 欢迎找我玩 也欢迎互fo 有努力变好🍭",
+        "id": "1530699087133421568",
+        "location": "爱你～💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1757395172336570839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790383025840324608/lSQTb1S9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 950,
+          "like_count": 79644,
+          "listed_count": 1,
+          "tweet_count": 4558
+        },
+        "username": "SpicyspacEmk16",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T15:39:50.000Z",
+        "description": "毫无希望的未来，疯狂的极致愉悦，无法抑制的暴食，仅存在于互联网的星星\n(称呼为夜璇(星星、夜)/不经常上推/推文全负能注意/精神疾病注意/或许会有自残/紫砂/极端独占欲/病态告白/犯病/发癫/威胁成分注意/不嗑药/目前状态良好，不扩列且熟人已自关，踩我推特会很尴尬…不过有些也不是不行啦w)\n👁️禁止窥视我的感情👁️",
+        "id": "1475129174763479044",
+        "name": "精神垃圾完全体",
+        "pinned_tweet_id": "1711465198425694553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651675377935486977/2pwqo0q2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 74,
+          "like_count": 189,
+          "listed_count": 0,
+          "tweet_count": 430
+        },
+        "username": "PH_Starry_Night",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1812816258720735404",
+    "created_at": "2024-07-15T16:09:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T17:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812882225660404188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "445317178",
+          "start": 0,
+          "username": "Okami_Rui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812882225660404188",
+    "in_reply_to_user_id": "445317178",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812882018436518093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Okami_Rui 好耶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1812816258720735404",
+        "created_at": "2024-07-15T16:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T17:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812882225660404188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "445317178",
+              "start": 0,
+              "username": "Okami_Rui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812882225660404188",
+        "in_reply_to_user_id": "445317178",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812882018436518093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Okami_Rui 好耶"
+      },
+      {
+        "attachments": {},
+        "author_id": "445317178",
+        "conversation_id": "1812816258720735404",
+        "created_at": "2024-07-15T16:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T17:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812882018436518093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812882018436518093",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812881868058173664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 私信喊了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 大阪留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 喜欢的人是@RiAkiba 目前在尝试异地",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 108,
+                "username": "RiAkiba"
+              }
+            ]
+          }
+        },
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1752201150827577674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807978718884945920/HeaPu94I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 1000,
+          "like_count": 82757,
+          "listed_count": 1,
+          "tweet_count": 5183
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-24T07:56:42.000Z",
+        "description": "中国語🈶️雑多垢/日常アニメゲーム自撮り/⚔️武装娘🔫/top理工商卒/INTJ-A 5w6 541/飛鳥たきな推し/社交不安/LesFem🌈娘T/守序善良/保守派不正常少女/网络野爹/负能树洞号⚠️/提供有偿战略管理咨询/🇨🇳🇺🇸🇯🇵/他SNS⬇️link⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/okamirui",
+                "end": 23,
+                "expanded_url": "https://lit.link/okamirui",
+                "start": 0,
+                "url": "https://t.co/imiQPkPEhW"
+              }
+            ]
+          }
+        },
+        "id": "445317178",
+        "location": "Andromeda",
+        "name": "Sephy🐦‍🔥渾沌神Khorne",
+        "pinned_tweet_id": "1803360639848686030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799121259302887425/upvFqxn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1561,
+          "following_count": 284,
+          "like_count": 4954,
+          "listed_count": 6,
+          "tweet_count": 4792
+        },
+        "url": "https://t.co/imiQPkPEhW",
+        "username": "Okami_Rui",
+        "verified": false
+      }
+    ]
+  }
+}

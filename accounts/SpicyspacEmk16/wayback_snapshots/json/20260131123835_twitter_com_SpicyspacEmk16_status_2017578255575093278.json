@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2010732278494957681",
+    "created_at": "2026-01-31T12:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T13:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017578255575093278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017578255575093278",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010732278494957681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 孩子复学了😡\n这一次 一定要夺回属于自己的一切"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 767,
+        "media_key": "3_2010732268428681216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-eOWEYbYAA2v09.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2010732278494957681",
+        "created_at": "2026-01-31T12:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T13:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017578255575093278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017578255575093278",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010732278494957681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 孩子复学了😡\n这一次 一定要夺回属于自己的一切"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010732268428681216"
+          ]
+        },
+        "author_id": "1395031782014205953",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010732278494957681",
+        "created_at": "2026-01-12T15:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010732278494957681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uOH6DaeBcz",
+              "end": 60,
+              "expanded_url": "https://x.com/komacyan_zZ/status/2010732278494957681/photo/1",
+              "media_key": "3_2010732268428681216",
+              "start": 37,
+              "url": "https://t.co/uOH6DaeBcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010732278494957681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 21800,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这张图里面，一个进了趟精神病院，一个从日本退学，一个死了（我才知道），悲 https://t.co/uOH6DaeBcz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 1364,
+          "like_count": 91243,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 8923
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / 絵垢 / フォロバをご希望の方はDMお願いします ❤️@MoeQike",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "MoeQike"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kona.icu",
+                "end": 23,
+                "expanded_url": "https://kona.icu",
+                "start": 0,
+                "url": "https://t.co/71HeCHYqFm"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "location": "キミのとなり",
+        "name": "小鞠",
+        "pinned_tweet_id": "2012125601587716318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999378139898875904/xoF2Xocr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 754,
+          "like_count": 13637,
+          "listed_count": 10,
+          "media_count": 1503,
+          "tweet_count": 6748
+        },
+        "url": "https://t.co/71HeCHYqFm",
+        "username": "komacyan_zZ",
+        "verified": false
+      }
+    ]
+  }
+}

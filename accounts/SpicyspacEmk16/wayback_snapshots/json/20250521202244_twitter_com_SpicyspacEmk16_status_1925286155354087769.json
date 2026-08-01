@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925087942869188611"
+      ],
+      "media_source_tweet_id": [
+        "1925087957092073517"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1925286155354087769",
+    "created_at": "2025-05-21T20:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T21:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925286155354087769"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 12,
+          "tag": "shtwt"
+        },
+        {
+          "end": 22,
+          "start": 19,
+          "tag": "sh"
+        },
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "自傷行為"
+        },
+        {
+          "end": 32,
+          "start": 29,
+          "tag": "自傷"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772241946050015232",
+          "start": 3,
+          "username": "Re1_y0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiwUAanbcB",
+          "end": 56,
+          "expanded_url": "https://x.com/Re1_y0/status/1925087957092073517/photo/1",
+          "media_key": "3_1925087942869188611",
+          "start": 33,
+          "url": "https://t.co/DiwUAanbcB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925286155354087769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925087957092073517",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Re1_y0: #shtwt #sh #自傷行為 #自傷 https://t.co/DiwUAanbcB"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1925286155354087769].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1925286155354087769",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1925286155354087769"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925087942869188611",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdJSNQbAAMCMQo.jpg",
+        "width": 1452
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925087942869188611"
+          ]
+        },
+        "author_id": "1772241946050015232",
+        "conversation_id": "1925087957092073517",
+        "created_at": "2025-05-21T07:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925087957092073517"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "sh"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "自傷行為"
+            },
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "自傷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiwUAanbcB",
+              "end": 44,
+              "expanded_url": "https://x.com/Re1_y0/status/1925087957092073517/photo/1",
+              "media_key": "3_1925087942869188611",
+              "start": 21,
+              "url": "https://t.co/DiwUAanbcB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925087957092073517",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 505,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #sh #自傷行為 #自傷 https://t.co/DiwUAanbcB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 1198,
+          "like_count": 85610,
+          "listed_count": 4,
+          "media_count": 520,
+          "tweet_count": 7339
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "蕾（レイ/つぼみ)|20 歳|MHA🍰右|中国語/ENG|日本語勉強中|OD/自傷依存|うつ病・不安障害|INFJ|无言フォローおけ|直fo选回｜🚪 52赞赏码走私信|第二个我@tsub0m1_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "tsub0m1_"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "我繼承了她的名字，可我不想繼承她在窗邊的位置",
+        "name": "レイ",
+        "pinned_tweet_id": "1925135611436179501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923527101287641089/S7wHNd2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 172,
+          "like_count": 723,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1640
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

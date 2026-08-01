@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "2079162692603183305",
+    "created_at": "2026-07-21T02:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079396646836944912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264026053137313792",
+          "start": 0,
+          "username": "B1312842909"
+        },
+        {
+          "end": 25,
+          "id": "1409516495571501066",
+          "start": 13,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079396646836944912",
+    "in_reply_to_user_id": "1264026053137313792",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079396107608789041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B1312842909 @DrankghostU ˚₊‧꒰ა𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ𛰚໒꒱‧₊꙳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "2079162692603183305",
+        "created_at": "2026-07-21T02:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079396646836944912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264026053137313792",
+              "start": 0,
+              "username": "B1312842909"
+            },
+            {
+              "end": 25,
+              "id": "1409516495571501066",
+              "start": 13,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079396646836944912",
+        "in_reply_to_user_id": "1264026053137313792",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079396107608789041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B1312842909 @DrankghostU ˚₊‧꒰ა𛰙᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ︪᭜𖫴𖫰𖫱𖫳𖫲𖫲𖫳𖫴𖫰𖫱꛰ᩝ𛰚໒꒱‧₊꙳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264026053137313792",
+        "conversation_id": "2079162692603183305",
+        "created_at": "2026-07-21T02:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079396107608789041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            },
+            {
+              "end": 28,
+              "id": "1409516495571501066",
+              "start": 16,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079396107608789041",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079204680966738292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 @DrankghostU 谢谢宝宝！请一起幸福吧！˶&gt;ᗜ&lt;˶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカするけど見たいなら裏垢性同一性障害mtf 日本留子 以后只能发点碎碎念跟生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2062395665158906161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075456817912815616/uUphuqey_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3375,
+          "following_count": 1567,
+          "like_count": 98300,
+          "listed_count": 6,
+          "media_count": 807,
+          "tweet_count": 10504
+        },
+        "url": "",
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-23T02:51:23.000Z",
+        "description": "💊",
+        "id": "1264026053137313792",
+        "name": "sunk",
+        "pinned_tweet_id": "2079162692603183305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079395747674632192/z7YH7bQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 39,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "B1312842909",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079395599175282688/C130gJKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 217,
+          "like_count": 228,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1018
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

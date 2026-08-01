@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930000155392258049"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1929964246974247063",
+    "created_at": "2025-06-03T20:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T21:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930000162208002426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1913687777767809024",
+          "start": 0,
+          "username": "Asszeqr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sAs7V9bLfW",
+          "end": 32,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1930000162208002426/photo/1",
+          "media_key": "3_1930000155392258049",
+          "start": 9,
+          "url": "https://t.co/sAs7V9bLfW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930000162208002426",
+    "in_reply_to_user_id": "1913687777767809024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929964246974247063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Asszeqr https://t.co/sAs7V9bLfW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1930000155392258049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gsi86m6asAEPb5P.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930000155392258049"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1929964246974247063",
+        "created_at": "2025-06-03T20:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T21:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930000162208002426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1913687777767809024",
+              "start": 0,
+              "username": "Asszeqr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sAs7V9bLfW",
+              "end": 32,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1930000162208002426/photo/1",
+              "media_key": "3_1930000155392258049",
+              "start": 9,
+              "url": "https://t.co/sAs7V9bLfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930000162208002426",
+        "in_reply_to_user_id": "1913687777767809024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929964246974247063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asszeqr https://t.co/sAs7V9bLfW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913687777767809024",
+        "conversation_id": "1929964246974247063",
+        "created_at": "2025-06-03T18:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T19:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929964246974247063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "あめ’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1BdGY…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1BdGYqopMngGX",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1929964248672940032/LN15CRJI?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1929964248672940032/LN15CRJI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: myself",
+              "unwound_url": "https://twitter.com/i/spaces/1BdGYqopMngGX/peek",
+              "url": "https://t.co/E50fzOdQNn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929964246974247063",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E50fzOdQNn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子休学中🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 1232,
+          "like_count": 86064,
+          "listed_count": 3,
+          "media_count": 533,
+          "tweet_count": 7458
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T20:15:09.000Z",
+        "description": "說痛就會有人心疼嗎。",
+        "id": "1913687777767809024",
+        "name": "あめ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919160331986968576/_sYbDFcO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 40,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "Asszeqr",
+        "verified": false
+      }
+    ]
+  }
+}

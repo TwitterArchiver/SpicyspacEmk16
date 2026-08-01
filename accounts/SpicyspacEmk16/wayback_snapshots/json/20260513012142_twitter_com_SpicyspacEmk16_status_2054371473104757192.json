@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054371468323213313"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2054371473104757192",
+    "created_at": "2026-05-13T01:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054371473104757192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ilLivkeD4P",
+          "end": 111,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2054371473104757192/photo/1",
+          "media_key": "3_2054371468323213313",
+          "start": 88,
+          "url": "https://t.co/ilLivkeD4P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054371473104757192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "白头发！？🤔\n一般来说过劳才会有的吧\n感觉自己好像完全没做什么事的感觉\n那就是说精神压力太大也会影响这个嘛\n但是想了想又不对\n感觉好像现在每天的日常安排对我来说已经是过劳了😭 https://t.co/ilLivkeD4P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1423,
+        "media_key": "3_2054371468323213313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKX90YaUAEekkV.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054371468323213313"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2054371473104757192",
+        "created_at": "2026-05-13T01:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054371473104757192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilLivkeD4P",
+              "end": 111,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2054371473104757192/photo/1",
+              "media_key": "3_2054371468323213313",
+              "start": 88,
+              "url": "https://t.co/ilLivkeD4P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054371473104757192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白头发！？🤔\n一般来说过劳才会有的吧\n感觉自己好像完全没做什么事的感觉\n那就是说精神压力太大也会影响这个嘛\n但是想了想又不对\n感觉好像现在每天的日常安排对我来说已经是过劳了😭 https://t.co/ilLivkeD4P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3165,
+          "following_count": 1479,
+          "like_count": 96005,
+          "listed_count": 6,
+          "media_count": 791,
+          "tweet_count": 9858
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

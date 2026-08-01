@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985296135712571392"
+      ],
+      "media_source_tweet_id": [
+        "1985296143644074399"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1985296977043800535",
+    "created_at": "2025-11-03T10:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T11:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985296977043800535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1530699087133421568",
+          "start": 3,
+          "username": "SpicyspacEmk16"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DS4atR6yNH",
+          "end": 74,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1985296143644074399/photo/1",
+          "media_key": "3_1985296135712571392",
+          "start": 51,
+          "url": "https://t.co/DS4atR6yNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985296977043800535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985296143644074399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SpicyspacEmk16: 这家伙要喝死藤水…\n坐标是湖北这样\n有没有熟悉的家人们捞一下 https://t.co/DS4atR6yNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985296135712571392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40wUR8agAAk1hS.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985296135712571392"
+          ],
+          "media_source_tweet_id": [
+            "1985296143644074399"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1985296977043800535",
+        "created_at": "2025-11-03T10:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985296977043800535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1530699087133421568",
+              "start": 3,
+              "username": "SpicyspacEmk16"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DS4atR6yNH",
+              "end": 74,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1985296143644074399/photo/1",
+              "media_key": "3_1985296135712571392",
+              "start": 51,
+              "url": "https://t.co/DS4atR6yNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985296977043800535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985296143644074399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SpicyspacEmk16: 这家伙要喝死藤水…\n坐标是湖北这样\n有没有熟悉的家人们捞一下 https://t.co/DS4atR6yNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985296135712571392"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1985296143644074399",
+        "created_at": "2025-11-03T10:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T11:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985296143644074399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DS4atR6yNH",
+              "end": 54,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1985296143644074399/photo/1",
+              "media_key": "3_1985296135712571392",
+              "start": 31,
+              "url": "https://t.co/DS4atR6yNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985296143644074399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这家伙要喝死藤水…\n坐标是湖北这样\n有没有熟悉的家人们捞一下 https://t.co/DS4atR6yNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2807,
+          "following_count": 1301,
+          "like_count": 87416,
+          "listed_count": 4,
+          "media_count": 646,
+          "tweet_count": 8206
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057794532327206913",
+        "3_2057794532318785536",
+        "3_2057794532574728192",
+        "3_2057794752586846208"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "2057794758781948380",
+    "created_at": "2026-05-22T12:04:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:04:01.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057794609607323662",
+      "2057794758781948380"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wSWmSWbDLB",
+          "end": 175,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+          "media_key": "3_2057794532327206913",
+          "start": 152,
+          "url": "https://t.co/wSWmSWbDLB"
+        },
+        {
+          "display_url": "pic.x.com/wSWmSWbDLB",
+          "end": 175,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+          "media_key": "3_2057794532318785536",
+          "start": 152,
+          "url": "https://t.co/wSWmSWbDLB"
+        },
+        {
+          "display_url": "pic.x.com/wSWmSWbDLB",
+          "end": 175,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+          "media_key": "3_2057794532574728192",
+          "start": 152,
+          "url": "https://t.co/wSWmSWbDLB"
+        },
+        {
+          "display_url": "pic.x.com/wSWmSWbDLB",
+          "end": 175,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+          "media_key": "3_2057794752586846208",
+          "start": 152,
+          "url": "https://t.co/wSWmSWbDLB"
+        },
+        {
+          "display_url": "x.com/spicyspacemk16…",
+          "end": 199,
+          "expanded_url": "https://twitter.com/spicyspacemk16/status/2048014398942540029",
+          "start": 176,
+          "url": "https://t.co/cjeNGmToFJ"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "7ee61f505fdfdf5c"
+    },
+    "id": "2057794758781948380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048014398942540029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "置顶4.4～\n\n欢迎！我是思！\n图上是我和我的oc角\n精神状态很抽象很复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿意找我玩我会很开心！\n\n最后: 下面是我接的一些不太专业的心理咨询和帮助 希望可以帮到大家 https://t.co/wSWmSWbDLB https://t.co/cjeNGmToFJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057794532327206913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7BOXgasAEov9S.jpg",
+        "width": 1022
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057794532318785536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7BOXeaMAA3Cty.jpg",
+        "width": 2048
+      },
+      {
+        "height": 944,
+        "media_key": "3_2057794532574728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7BOYbbkAAdY88.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057794752586846208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7BbMCaEAAbrat.jpg",
+        "width": 1536
+      },
+      {
+        "height": 688,
+        "media_key": "3_2048014394702090240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwCPbsa0AAQuNI.jpg",
+        "width": 1504
+      }
+    ],
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Shinjuku-ku, Tokyo",
+        "geo": {
+          "bbox": [
+            139.673228,
+            35.673404,
+            139.745133,
+            35.72991
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "7ee61f505fdfdf5c",
+        "name": "Shinjuku-ku",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057794532327206913",
+            "3_2057794532318785536",
+            "3_2057794532574728192",
+            "3_2057794532365008896"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057794609607323662",
+        "created_at": "2026-05-22T12:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:04:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057794609607323662",
+          "2057794758781948380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KnnuCJKRBl",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794609607323662/photo/1",
+              "media_key": "3_2057794532327206913",
+              "start": 152,
+              "url": "https://t.co/KnnuCJKRBl"
+            },
+            {
+              "display_url": "pic.x.com/KnnuCJKRBl",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794609607323662/photo/1",
+              "media_key": "3_2057794532318785536",
+              "start": 152,
+              "url": "https://t.co/KnnuCJKRBl"
+            },
+            {
+              "display_url": "pic.x.com/KnnuCJKRBl",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794609607323662/photo/1",
+              "media_key": "3_2057794532574728192",
+              "start": 152,
+              "url": "https://t.co/KnnuCJKRBl"
+            },
+            {
+              "display_url": "pic.x.com/KnnuCJKRBl",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794609607323662/photo/1",
+              "media_key": "3_2057794532365008896",
+              "start": 152,
+              "url": "https://t.co/KnnuCJKRBl"
+            },
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2048014398942540029",
+              "start": 176,
+              "url": "https://t.co/cjeNGmToFJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7ee61f505fdfdf5c"
+        },
+        "id": "2057794609607323662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "置顶4.4～\n\n欢迎！我是思！\n图上是我和我的oc角\n精神状态很抽象很复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿意找我玩我会很开心！\n\n最后: 下面是我接的一些不太专业的心理咨询和帮助 希望可以帮到大家 https://t.co/KnnuCJKRBl https://t.co/cjeNGmToFJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057794532327206913",
+            "3_2057794532318785536",
+            "3_2057794532574728192",
+            "3_2057794752586846208"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2057794758781948380",
+        "created_at": "2026-05-22T12:04:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:04:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057794609607323662",
+          "2057794758781948380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSWmSWbDLB",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+              "media_key": "3_2057794532327206913",
+              "start": 152,
+              "url": "https://t.co/wSWmSWbDLB"
+            },
+            {
+              "display_url": "pic.x.com/wSWmSWbDLB",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+              "media_key": "3_2057794532318785536",
+              "start": 152,
+              "url": "https://t.co/wSWmSWbDLB"
+            },
+            {
+              "display_url": "pic.x.com/wSWmSWbDLB",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+              "media_key": "3_2057794532574728192",
+              "start": 152,
+              "url": "https://t.co/wSWmSWbDLB"
+            },
+            {
+              "display_url": "pic.x.com/wSWmSWbDLB",
+              "end": 175,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2057794758781948380/photo/1",
+              "media_key": "3_2057794752586846208",
+              "start": 152,
+              "url": "https://t.co/wSWmSWbDLB"
+            },
+            {
+              "display_url": "x.com/spicyspacemk16…",
+              "end": 199,
+              "expanded_url": "https://twitter.com/spicyspacemk16/status/2048014398942540029",
+              "start": 176,
+              "url": "https://t.co/cjeNGmToFJ"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7ee61f505fdfdf5c"
+        },
+        "id": "2057794758781948380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048014398942540029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "置顶4.4～\n\n欢迎！我是思！\n图上是我和我的oc角\n精神状态很抽象很复杂 不太安定但是有努力治疗❤️‍🩹\n⚠️阅览注意\n我有一些不太好的问题习惯🩸💊嘛…看见背景图大概就能猜到呢(笑）\n爱甜食🍦和你们💙～\n如果愿意找我玩我会很开心！\n\n最后: 下面是我接的一些不太专业的心理咨询和帮助 希望可以帮到大家 https://t.co/wSWmSWbDLB https://t.co/cjeNGmToFJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048014394702090240"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2048014398942540029",
+        "created_at": "2026-04-25T12:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048014398942540029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cs34i6xzpC",
+              "end": 120,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2048014398942540029/photo/1",
+              "media_key": "3_2048014394702090240",
+              "start": 97,
+              "url": "https://t.co/Cs34i6xzpC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048014398942540029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6628,
+          "like_count": 81,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在日本的家人们可以免费找我心理咨询\n我在东京 日暮里那边\n电话09041194639\nQQ 996067412\n邮箱spicyspace@gmail.com\n这是联系方式\n也可以直接私信DM我 https://t.co/Cs34i6xzpC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "💙我是思思！总之我回来了！❤️‍🩹とにかく躁鬱...🩸リスカしてもアップロードしない…性同一性障害mtf 日本留子 以后只能发生活推啦 無言フォロすみません！💙",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2048014398942540029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 1488,
+          "like_count": 96561,
+          "listed_count": 6,
+          "media_count": 756,
+          "tweet_count": 10026
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

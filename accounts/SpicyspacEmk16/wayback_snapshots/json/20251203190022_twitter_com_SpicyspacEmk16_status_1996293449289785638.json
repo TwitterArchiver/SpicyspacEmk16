@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996293442037747712"
+      ]
+    },
+    "author_id": "1530699087133421568",
+    "conversation_id": "1996293449289785638",
+    "created_at": "2025-12-03T19:00:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996293449289785638"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JLs0qW1RmH",
+          "end": 50,
+          "expanded_url": "https://x.com/SpicyspacEmk16/status/1996293449289785638/photo/1",
+          "media_key": "3_1996293442037747712",
+          "start": 27,
+          "url": "https://t.co/JLs0qW1RmH"
+        },
+        {
+          "display_url": "x.com/elina_miyamori…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/elina_miyamori/status/1996080229681693026",
+          "start": 51,
+          "url": "https://t.co/Mr3kAL4W6k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996293449289785638",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996080229681693026",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "wwwwwww笑死了回复不过来了\n我也要玩\n快来快来 https://t.co/JLs0qW1RmH https://t.co/Mr3kAL4W6k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_1996293442037747712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7RCTwgaEAA3p5V.jpg",
+        "width": 1170
+      },
+      {
+        "height": 957,
+        "media_key": "3_1996080224585613314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OAY3mbgAIvdvc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996293442037747712"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "1996293449289785638",
+        "created_at": "2025-12-03T19:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996293449289785638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JLs0qW1RmH",
+              "end": 50,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/1996293449289785638/photo/1",
+              "media_key": "3_1996293442037747712",
+              "start": 27,
+              "url": "https://t.co/JLs0qW1RmH"
+            },
+            {
+              "display_url": "x.com/elina_miyamori…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/elina_miyamori/status/1996080229681693026",
+              "start": 51,
+              "url": "https://t.co/Mr3kAL4W6k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996293449289785638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996080229681693026",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "wwwwwww笑死了回复不过来了\n我也要玩\n快来快来 https://t.co/JLs0qW1RmH https://t.co/Mr3kAL4W6k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996080224585613314"
+          ]
+        },
+        "author_id": "1324342709662834688",
+        "conversation_id": "1996080229681693026",
+        "created_at": "2025-12-03T04:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996080229681693026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xt57P7IIJ6",
+              "end": 28,
+              "expanded_url": "https://x.com/Elina_Miyamori/status/1996080229681693026/photo/1",
+              "media_key": "3_1996080224585613314",
+              "start": 5,
+              "url": "https://t.co/xt57P7IIJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996080229681693026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 29471,
+          "like_count": 343,
+          "quote_count": 5,
+          "reply_count": 144,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "來玩一下 https://t.co/xt57P7IIJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2967,
+          "following_count": 1341,
+          "like_count": 89864,
+          "listed_count": 4,
+          "media_count": 688,
+          "tweet_count": 8542
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T13:28:15.000Z",
+        "description": "繪里奈是宮森家的吸血鬼千金，接受了家族試煉當起了Vtuber！日文學習中 各種tag #繪言繪語 #今天繪繪了嗎 #elinart R18fanart #血之女王 繪師媽媽：@tea1022_ 建模爸爸：@Akiza_Bai AI算圖禁止。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "繪言繪語"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "今天繪繪了嗎"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "elinart"
+              },
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "血之女王"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "tea1022_"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "Akiza_Bai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/elina_miyamori",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/elina_miyamori",
+                "start": 0,
+                "url": "https://t.co/w4CbwhD04h"
+              }
+            ]
+          }
+        },
+        "id": "1324342709662834688",
+        "location": "工作室的角落處",
+        "name": "宮森えりな 🦇吸血鬼Vtuber 🧛‍♀️",
+        "pinned_tweet_id": "1883747902105022828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979506616622878720/CpU1KULo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6339,
+          "following_count": 3966,
+          "like_count": 56032,
+          "listed_count": 28,
+          "media_count": 2989,
+          "tweet_count": 55381
+        },
+        "url": "https://t.co/w4CbwhD04h",
+        "username": "Elina_Miyamori",
+        "verified": false
+      }
+    ]
+  }
+}

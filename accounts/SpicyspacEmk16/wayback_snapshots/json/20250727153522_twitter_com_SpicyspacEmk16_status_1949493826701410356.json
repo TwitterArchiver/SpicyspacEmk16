@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1949337290213363989",
+    "created_at": "2025-07-27T15:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T16:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949493826701410356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573906833781456896",
+          "start": 0,
+          "username": "AIKOMTX"
+        },
+        {
+          "end": 17,
+          "id": "53704819",
+          "start": 9,
+          "username": "EveY448"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949493826701410356",
+    "in_reply_to_user_id": "1573906833781456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949426178592268751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIKOMTX @EveY448 好耶变成高贵的沪爷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1949337290213363989",
+        "created_at": "2025-07-27T15:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T16:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949493826701410356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573906833781456896",
+              "start": 0,
+              "username": "AIKOMTX"
+            },
+            {
+              "end": 17,
+              "id": "53704819",
+              "start": 9,
+              "username": "EveY448"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949493826701410356",
+        "in_reply_to_user_id": "1573906833781456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949426178592268751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIKOMTX @EveY448 好耶变成高贵的沪爷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573906833781456896",
+        "conversation_id": "1949337290213363989",
+        "created_at": "2025-07-27T11:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T12:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949426178592268751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "53704819",
+              "start": 0,
+              "username": "EveY448"
+            },
+            {
+              "end": 24,
+              "id": "1530699087133421568",
+              "start": 9,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949426178592268751",
+        "in_reply_to_user_id": "53704819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949425546443792504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EveY448 @SpicyspacEmk16 😂好耶，我是上海宁了🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866305571143680000/uRQFSil-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 1290,
+          "like_count": 87463,
+          "listed_count": 2,
+          "media_count": 577,
+          "tweet_count": 7848
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-25T05:27:44.000Z",
+        "description": "喵星人MTX｜东京在住｜自由主义｜已嘎蛋 胸很大｜ASD\\HSP❤️‍🩹",
+        "id": "1573906833781456896",
+        "location": "日本 東京",
+        "name": "野良猫🍥",
+        "pinned_tweet_id": "1944083889431228459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933019554055442432/-iRfERzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 513,
+          "like_count": 14514,
+          "listed_count": 1,
+          "media_count": 1010,
+          "tweet_count": 4510
+        },
+        "username": "AIKOMTX",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-04T16:33:18.000Z",
+        "description": "021｜大龄人夫｜断片20年重新苏醒｜目前深柜｜HRT｜碎碎念大师 只说废话但都很真心｜身高174疯狂减肥ing目标115｜面具新玩",
+        "id": "53704819",
+        "name": "立下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949458155261542400/p8AQOWCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 883,
+          "like_count": 3066,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1523
+        },
+        "username": "EveY448",
+        "verified": false
+      }
+    ]
+  }
+}

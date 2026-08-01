@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1530699087133421568",
+    "conversation_id": "1999082459506548932",
+    "created_at": "2025-12-11T17:39:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T18:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999172268770099531"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734798359423332352",
+          "start": 0,
+          "username": "GuangjinWa93238"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999172268770099531",
+    "in_reply_to_user_id": "1734798359423332352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999082459506548932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuangjinWa93238 喔喔！脱单了嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530699087133421568",
+        "conversation_id": "1999082459506548932",
+        "created_at": "2025-12-11T17:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T18:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999172268770099531"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734798359423332352",
+              "start": 0,
+              "username": "GuangjinWa93238"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999172268770099531",
+        "in_reply_to_user_id": "1734798359423332352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999082459506548932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuangjinWa93238 喔喔！脱单了嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734798359423332352",
+        "conversation_id": "1999082459506548932",
+        "created_at": "2025-12-11T11:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T12:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999082459506548932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999082459506548932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天都要去花女朋友好累，满满的压力，感觉要疯，经常被她搞得抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子已被退学🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "1862229847671808192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952356445858713601/RXxxtiKN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2962,
+          "following_count": 1345,
+          "like_count": 89535,
+          "listed_count": 4,
+          "media_count": 698,
+          "tweet_count": 8649
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-13T04:52:38.000Z",
+        "description": "离忧|我玩王者荣耀，王者荣耀国际服，碧蓝档案，重返未来1999，nikke国际服，鸣潮。可以找我一起玩游戏，因为我是游戏狂😆",
+        "id": "1734798359423332352",
+        "name": "离忧死掉啦",
+        "pinned_tweet_id": "1909278424394588256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930808443914649600/CWNigl7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 1954,
+          "like_count": 2348,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1118
+        },
+        "username": "GuangjinWa93238",
+        "verified": false
+      }
+    ]
+  }
+}
